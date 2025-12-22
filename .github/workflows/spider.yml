@@ -1,42 +1,12 @@
-name: CyberNews Spider Bot
-
-on:
-  schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch: # Manual Button
-
-jobs:
-  scrape_and_commit:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-
-      # Yahan path change kiya hai (requirements.txt)
-      - name: Install Dependencies
+- name: Install Dependencies
         run: |
           pip install requests beautifulsoup4
-          # Agar requirements.txt banayi hai to ye line use karein:
-          # pip install -r newsscraper/requirements.txt
 
-      # Yahan path change kiya hai (spider.py)
+      # === YE DEBUGGING STEP ADD KAREIN ===
+      - name: Debug File List
+        run: ls -R
+      # ====================================
+
       - name: Run Spider Script
         run: |
           python newsscraper/spider.py
-
-      # Yahan path change kiya hai (data.json)
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "SpiderBot"
-          git config --global user.email "bot@syntaxandsoz.com"
-          git add newsscraper/data.json
-          git commit -m "🕷️ Auto-Update: Fresh Intelligence Data" || exit 0
-          git push
