@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="YAHAN_APNE_LOGO_KA_DIRECT_LINK_DALNA" alt="Syntax & Soz Logo" width="200"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipt1JFrVEHBUe-qMkPyxPvYL9FwE-AVw_d1zzyoHQQ7pmse-gJTvXx0MEfrJkQvy71rcczEB68vxgRgD6kiOhPa2GAai_K58lXw12ipjccjp4CUkHtZpYSfdyt2Sd8Wi9OCKFAH_A9R7go1XqS50mCN4vXNxLxmrHkXK9ff1vR_ByQt7zgeqZQuMb9RoOD/s16000/Gemini_Generated_Image_ec6czmec6czmec6c-1.png" alt="Syntax & Soz Logo" width="200"/>
 
   # Hi, I'm <span style="color: #58a6ff;">Syntax & Soz</span> 
   
