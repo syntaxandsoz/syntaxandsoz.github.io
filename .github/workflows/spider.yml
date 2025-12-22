@@ -26,7 +26,7 @@ jobs:
 
       - name: Run Spider Script
         run: |
-          python scraper/spider.py
+          python newsscraper/spider.py
 
       - name: Commit and Push Changes
         run: |
