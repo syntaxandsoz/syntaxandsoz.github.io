@@ -9,6 +9,20 @@ body {
     margin: 0;
 }
 
+/* === FIX 1: Wider & Better Scrollbars === */
+::-webkit-scrollbar { width: 14px; height: 14px; } /* Thora chora kiya */
+::-webkit-scrollbar-track { background: #0f0f0f; border-left: 1px solid #333; }
+::-webkit-scrollbar-thumb { 
+    background: #333; 
+    border: 2px solid #0f0f0f; /* Padding effect */
+    border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover { background: #58a6ff; }
+
+/* === FIX 2: Remove White Outline on Click === */
+*:focus { outline: none !important; }
+button:focus { border-color: #58a6ff; }
+
 .container {
     width: 90%;
     max-width: 600px;
@@ -23,7 +37,6 @@ h1 { color: #58a6ff; text-align: center; margin-bottom: 5px; }
 p { text-align: center; color: #888; font-size: 0.9rem; margin-bottom: 25px; }
 .green { color: #00ff41; }
 
-/* Tabs */
 .tabs { display: flex; margin-bottom: 20px; border-bottom: 1px solid #333; }
 .tab-btn {
     flex: 1;
@@ -34,15 +47,14 @@ p { text-align: center; color: #888; font-size: 0.9rem; margin-bottom: 25px; }
     cursor: pointer;
     font-family: 'Fira Code';
     font-weight: bold;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 .tab-btn.active { color: #58a6ff; border-bottom: 2px solid #58a6ff; background: rgba(88,166,255,0.05); }
 
-/* Panels */
+/* === FIX 3: Removed Animation for Instant Switching === */
 .panel { display: none; }
-.panel.active { display: block; animation: fadeIn 0.5s; }
+.panel.active { display: block; } 
 
-/* Inputs */
 .upload-box {
     border: 2px dashed #333;
     padding: 40px;
@@ -51,6 +63,7 @@ p { text-align: center; color: #888; font-size: 0.9rem; margin-bottom: 25px; }
     margin-bottom: 20px;
     cursor: pointer;
     position: relative;
+    transition: 0.3s;
 }
 .upload-box:hover { border-color: #58a6ff; }
 input[type="file"] {
@@ -89,15 +102,34 @@ input[type="text"] {
     cursor: pointer;
     font-family: 'Fira Code';
     margin-bottom: 20px;
+    transition: 0.3s;
 }
 .action-btn:hover { background: #79b8ff; }
 
-.controls button {
-    background: #222; color: #fff; border: 1px solid #444; padding: 5px 15px; cursor: pointer;
+/* Progress Bar Styling */
+#progress-container { margin-bottom: 20px; }
+.progress-bar-track {
+    width: 100%; height: 15px; background: #111;
+    border: 1px solid #333; border-radius: 2px; overflow: hidden;
+    margin-bottom: 5px;
 }
+.progress-bar-fill {
+    height: 100%; width: 0%; background: #58a6ff;
+    transition: width 0.2s linear; /* Smooth movement */
+    box-shadow: 0 0 10px #58a6ff;
+}
+#progress-text { color: #58a6ff; font-size: 0.8rem; margin-bottom: 0; }
+
+/* Themed Copy Button */
+.controls { display: flex; gap: 15px; align-items: center; }
+.btn-copy-themed {
+    background: #238636; color: white; border: 1px solid #2ea043;
+    padding: 10px 20px; font-family: 'Fira Code'; font-weight: bold;
+    cursor: pointer; transition: 0.3s; flex-grow: 1;
+}
+.btn-copy-themed:hover { background: #2ea043; box-shadow: 0 0 10px #2ea043; }
+#statusMsg { color: #888; font-size: 0.8rem; white-space: nowrap; }
 
 footer { text-align: center; margin-top: 20px; font-size: 0.8rem; }
 a { color: #666; text-decoration: none; }
 a:hover { color: #58a6ff; }
-
-@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }

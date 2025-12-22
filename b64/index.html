@@ -11,7 +11,7 @@
 
     <div class="container">
         <header>
-            <h1 class="glitch" data-text="Stealth Converter">Stealth Converter</h1>
+            <h1 class="glitch">Stealth Converter</h1>
             <p>Securely convert Files to Base64 & Back. <br> <span class="green">[Client-Side Only]</span></p>
         </header>
 
@@ -22,25 +22,32 @@
 
         <div id="encode-panel" class="panel active">
             <div class="upload-box">
-    <input type="file" id="fileInput">
-    <p id="uploadText">Drag file here or Click to Upload</p>
-</div>
+                <input type="file" id="fileInput">
+                <p id="uploadText">Drag file here or Click to Upload</p>
+                <p style="font-size: 0.7rem; color: #666; margin-top: 10px; margin-bottom: 0;">(Recommended: Under 10MB)</p>
+            </div>
             <button onclick="encodeFile()" class="action-btn">Encrypt to Base64</button>
             
+            <div id="progress-container" style="display: none;">
+                <div class="progress-bar-track">
+                    <div id="progress-bar-fill" class="progress-bar-fill"></div>
+                </div>
+                <p id="progress-text">Initializing... 0%</p>
+            </div>
+
             <div class="output-area" id="encodeOutput" style="display:none;">
                 <textarea id="base64Output" readonly placeholder="Result will appear here..."></textarea>
                 <div class="controls">
-                    <button onclick="copyText()">Copy Code</button>
+                    <button onclick="copyText()" class="btn-copy-themed">>> Copy Encrypted Code</button>
                     <span id="statusMsg"></span>
                 </div>
             </div>
         </div>
 
         <div id="decode-panel" class="panel">
-            <textarea id="base64Input" placeholder="Paste your Base64 string here..."></textarea>
+            <textarea id="base64Input" placeholder="Paste your Base64 string here (Must start with 'data:')..."></textarea>
             <div class="inputs-row">
                 <input type="text" id="fileName" placeholder="filename (e.g., image.png)">
-                <input type="text" id="mimeType" placeholder="MIME type (optional)">
             </div>
             <button onclick="decodeFile()" class="action-btn">Decrypt & Download</button>
         </div>
