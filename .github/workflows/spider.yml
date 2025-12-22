@@ -1,0 +1,38 @@
+name: CyberNews Spider Bot
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Har 6 ghantay baad
+  workflow_dispatch: # Button dabane par bhi chalega
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Bot ko likhne ki ijazat
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Spider Script
+        run: |
+          python scraper/spider.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "SpiderBot"
+          git config --global user.email "bot@syntaxandsoz.com"
+          git add scraper/data.json
+          # Agar koi change nahi hua to error mat do
+          git commit -m "🕷️ Auto-Update: Fresh Intelligence Data" || exit 0
+          git push
