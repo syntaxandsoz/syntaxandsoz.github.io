@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StegoVault | Image Steganography</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <div class="container">
+        
+        <nav class="sidebar">
+            <a href="../" class="brand">← Back to Terminal</a>
+            <div class="info-box">
+                <h3><i class="fas fa-user-secret"></i> STEGANOGRAPHY</h3>
+                <p>Hide secret text messages inside the pixels of an image using LSB (Least Significant Bit) manipulation.</p>
+                <p><strong>Client-Side Only:</strong> Your secrets never leave this browser.</p>
+            </div>
+            <div class="status-box">
+                <p>MODE</p>
+                <div id="modeIndicator" class="indicator encrypt"></div> 
+                <span id="modeText">ENCRYPTION ACTIVE</span>
+            </div>
+        </nav>
+
+        <main class="tool-area">
+            <header>
+                <h1>Stego<span class="accent">Vault</span></h1>
+                <p>Hide data in plain sight.</p>
+            </header>
+
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('encrypt')">Hide Data (Encode)</button>
+                <button class="tab-btn" onclick="switchTab('decrypt')">Reveal Data (Decode)</button>
+            </div>
+
+            <div id="encryptSection" class="panel active">
+                <div class="upload-box" id="encDropZone">
+                    <input type="file" id="encInput" accept="image/*" hidden>
+                    <p>1. Upload Cover Image</p>
+                </div>
+                
+                <textarea id="secretMsg" placeholder="Enter your secret message here..."></textarea>
+                
+                <input type="password" id="encPass" placeholder="Optional Password (Not used in v1.0)" disabled style="cursor: not-allowed; opacity: 0.5;">
+
+                <button class="btn-action" onclick="encodeImage()">
+                    <i class="fas fa-lock"></i> Encrypt & Download
+                </button>
+            </div>
+
+            <div id="decryptSection" class="panel">
+                <div class="upload-box" id="decDropZone">
+                    <input type="file" id="decInput" accept="image/*" hidden>
+                    <p>1. Upload Encrypted Image</p>
+                </div>
+
+                <div class="output-box">
+                    <h4>DECODED MESSAGE:</h4>
+                    <p id="decodedText" class="placeholder">Waiting for image...</p>
+                </div>
+
+                <button class="btn-action" onclick="decodeImage()">
+                    <i class="fas fa-unlock"></i> Reveal Message
+                </button>
+            </div>
+            
+            <canvas id="stegoCanvas" style="display:none;"></canvas>
+
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
