@@ -3,14 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Air-Gap Encoder | Syntax & Soz</title>
+    <title>Docs: Air-Gap Encoder | Syntax & Soz</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
 
+    <button class="menu-btn" onclick="toggleSidebar()">
+        ☰
+    </button>
+
     <div class="doc-layout">
-        <nav class="sidebar">
+        <nav class="sidebar" id="sidebar">
             <div class="brand">
                 <a href="../">← Syntax & Soz</a>
             </div>
@@ -24,7 +28,7 @@
             </ul>
         </nav>
 
-        <main class="content">
+        <main class="content" id="content">
             
             <header>
                 <span class="badge">v1.0.2-stable</span>
@@ -41,7 +45,7 @@
                     In high-security environments, systems are often "air-gapped" (physically isolated from the internet and USB ports). Moving data out of these systems is challenging.
                 </p>
                 <p>
-                    The <strong>Air-Gap Encoder</strong> solves this by utilizing the system's display. It takes a payload (JSON, Text, or Files), chunks it into small packets, and renders them as a high-speed video of QR codes. This video can be recorded by a smartphone or external camera to reconstruct the data later.
+                    The <strong>Air-Gap Encoder</strong> solves this by utilizing the system's display. It takes a payload (JSON, Text, or Files), chunks it into small packets, and renders them as a high-speed video of QR codes.
                 </p>
             </section>
 
@@ -145,5 +149,10 @@ OUTPUT_FILE = <span class="str">"evidence.avi"</span>
         </main>
     </div>
 
+    <script>
+        function toggleSidebar() {
+            document.body.classList.toggle('menu-closed');
+        }
+    </script>
 </body>
 </html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Mode Whatsapp Ext | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <div class="container">
+        <nav>
+            <a href="../" class="brand">← Back to Terminal</a>
+            <div class="nav-links">
+                <a href="#demo" class="active">Live Demo</a>
+                <a href="#" class="btn-nav">Download v2.0</a>
+            </div>
+        </nav>
+
+        <header>
+            <span class="badge">v2.1 Stable</span>
+            <h1>Ghost Mode <span class="green">Suite</span></h1>
+            <p>Advanced Privacy for WhatsApp Web. Blur chats, hide identity, and vanish media.</p>
+        </header>
+
+        <section id="demo" class="demo-box">
+            
+            <div class="demo-controls">
+                <h3><i class="fas fa-shield-alt"></i> Privacy Controls</h3>
+                
+                <div class="control-group">
+                    <span class="label-head">MESSAGE PRIVACY</span>
+                    <label class="switch-container">
+                        <span>Blur Content</span>
+                        <input type="checkbox" onclick="togglePrivacy('content')">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+
+                <div class="control-group">
+                    <span class="label-head">SIDEBAR PRIVACY</span>
+                    <label class="switch-container">
+                        <span>Blur Groups Only</span>
+                        <input type="checkbox" onclick="togglePrivacy('groups')">
+                        <span class="slider"></span>
+                    </label>
+                    <label class="switch-container">
+                        <span>Blur Contacts Only</span>
+                        <input type="checkbox" onclick="togglePrivacy('contacts')">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+
+                <div class="control-group">
+                    <span class="label-head">IDENTITY HIDE</span>
+                    <label class="switch-container">
+                        <span>Blur Names</span>
+                        <input type="checkbox" onclick="togglePrivacy('names')">
+                        <span class="slider"></span>
+                    </label>
+                    <label class="switch-container">
+                        <span>Hide Photos</span>
+                        <input type="checkbox" onclick="togglePrivacy('photos')">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="mock-app" id="mockApp">
+                
+                <div class="mock-sidebar">
+                    <div class="sidebar-header">
+                        <div class="my-dp"></div>
+                        <div class="icons">•••</div>
+                    </div>
+                    
+                    <div class="chat-list">
+                        <div class="chat-item contact-item">
+                            <div class="dp"></div>
+                            <div class="info">
+                                <div class="name">John Doe (Client)</div>
+                                <div class="preview">Payment sent for the project.</div>
+                            </div>
+                        </div>
+
+                        <div class="chat-item group-item">
+                            <div class="dp group-dp"><i class="fas fa-users" style="color:#fff; font-size:12px;"></i></div>
+                            <div class="info">
+                                <div class="name">Dev Team Alpha</div>
+                                <div class="preview">Server logs updated.</div>
+                            </div>
+                        </div>
+
+                        <div class="chat-item contact-item active">
+                            <div class="dp"></div>
+                            <div class="info">
+                                <div class="name">Syntax & Soz</div>
+                                <div class="preview">Files attached below.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mock-chat-window">
+                    <div class="chat-header">
+                        <div class="dp"></div>
+                        <div class="header-info">
+                            <span class="name">Syntax & Soz</span>
+                            <span class="status">Online</span>
+                        </div>
+                    </div>
+
+                    <div class="chat-body">
+                        <div class="msg received">
+                            <p>Where is the final delivery?</p>
+                            <span class="time">10:42 AM</span>
+                        </div>
+                        
+                        <div class="msg sent img-msg">
+                            <img src="codescr.png" alt="Code Screenshot">
+                            <span class="time">10:43 AM</span>
+                        </div>
+
+                        <div class="msg sent">
+                            <p>Let me know if you need changes.</p>
+                            <span class="time">10:44 AM</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

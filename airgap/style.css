@@ -5,20 +5,41 @@ body {
     background-color: #0d1117;
     color: #c9d1d9;
     font-family: 'Inter', sans-serif;
+    overflow-x: hidden; /* Prevent horizontal scroll during animation */
 }
 
 /* Layout */
 .doc-layout { display: flex; min-height: 100vh; }
 
-/* Sidebar */
+/* === NEW: Hamburger Button === */
+.menu-btn {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1000;
+    background: #161b22;
+    color: #58a6ff;
+    border: 1px solid #30363d;
+    padding: 8px 12px;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.menu-btn:hover { background: #1f6feb; color: white; border-color: #1f6feb; }
+
+/* === SIDEBAR (Animated) === */
 .sidebar {
     width: 250px;
     background: #050505;
     border-right: 1px solid #30363d;
     padding: 20px;
+    padding-top: 80px; /* Space for button */
     position: fixed;
     height: 100%;
     top: 0; left: 0;
+    transition: transform 0.3s ease; /* Smooth Slide */
+    z-index: 900;
 }
 
 .brand a {
@@ -45,16 +66,29 @@ body {
 .sidebar a:hover, .sidebar a.active { color: #fff; transform: translateX(5px); }
 .sidebar a.highlight { color: #00ff41; font-weight: bold; margin-top: 20px; }
 
-/* Main Content */
+/* === CONTENT (Animated) === */
 .content {
-    margin-left: 250px;
+    margin-left: 250px; /* Default Open */
     padding: 40px 60px;
     max-width: 900px;
     width: 100%;
+    transition: margin-left 0.3s ease; /* Smooth Slide */
 }
 
-/* Typography */
-h1 { font-size: 2.5rem; color: #fff; margin-bottom: 10px; }
+/* === LOGIC: Hide/Show === */
+
+/* Jab menu-closed class body par hogi */
+body.menu-closed .sidebar {
+    transform: translateX(-250px); /* Hide Sidebar */
+}
+body.menu-closed .content {
+    margin-left: 0; /* Content Full Width */
+    max-width: 100%;
+    padding: 40px 100px; /* Thora padding barha diya center karne ke liye */
+}
+
+/* Typography & Other Styles (Same as before) */
+h1 { font-size: 2.5rem; color: #fff; margin-bottom: 10px; margin-top: 20px; }
 h2 { font-size: 1.5rem; color: #fff; margin-top: 40px; margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 10px; }
 h3 { color: #58a6ff; }
 p { line-height: 1.7; color: #c9d1d9; margin-bottom: 15px; }
@@ -62,85 +96,42 @@ p { line-height: 1.7; color: #c9d1d9; margin-bottom: 15px; }
 .lead { font-size: 1.1rem; color: #8b949e; }
 hr { border: 0; border-top: 1px solid #30363d; margin: 30px 0; }
 
-.badge {
-    background: #1f6feb;
-    color: #fff;
-    font-size: 0.7rem;
-    padding: 3px 8px;
-    border-radius: 10px;
-    margin-right: 10px;
-    font-family: 'Fira Code';
-}
+.badge { background: #1f6feb; color: #fff; font-size: 0.7rem; padding: 3px 8px; border-radius: 10px; margin-right: 10px; font-family: 'Fira Code'; }
 .badge.green { background: #238636; }
 
 /* Workflow Box */
-.workflow-box {
-    background: #161b22;
-    padding: 20px;
-    border-left: 3px solid #58a6ff;
-    font-family: 'Fira Code';
-    font-size: 0.9rem;
-    color: #fff;
-    text-align: center;
-}
+.workflow-box { background: #161b22; padding: 20px; border-left: 3px solid #58a6ff; font-family: 'Fira Code'; font-size: 0.9rem; color: #fff; text-align: center; }
 .arrow { color: #58a6ff; margin: 5px 0; }
 
-/* Code Blocks (Shell) */
-.code-block {
-    background: #050505;
-    padding: 15px;
-    border-radius: 6px;
-    font-family: 'Fira Code', monospace;
-    font-size: 0.9rem;
-    border: 1px solid #30363d;
-}
+/* Code Blocks */
+.code-block { background: #050505; padding: 15px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9rem; border: 1px solid #30363d; }
 .cmd { color: #00ff41; }
 .output { color: #8b949e; display: block; }
 
-/* Code Window (Python) */
-.code-window {
-    background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 6px;
-    overflow: hidden;
-    margin: 20px 0;
-}
+/* Code Window */
+.code-window { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; margin: 20px 0; }
 .window-bar { background: #161b22; padding: 10px; border-bottom: 1px solid #30363d; }
 .dot { height: 10px; width: 10px; border-radius: 50%; display: inline-block; margin-right: 5px; }
-.red { background: #ff5f56; }
-.yellow { background: #ffbd2e; }
-.green { background: #27c93f; }
+.red { background: #ff5f56; } .yellow { background: #ffbd2e; } .green { background: #27c93f; }
 .filename { color: #8b949e; font-family: 'Fira Code'; font-size: 0.8rem; margin-left: 10px; }
 
 pre { padding: 20px; overflow-x: auto; margin: 0; }
 code { font-family: 'Fira Code', monospace; font-size: 0.9rem; color: #e0e0e0; }
 
-/* Syntax Highlighting Colors */
-.kwd { color: #ff7b72; } /* Keywords (import, def) */
-.func { color: #d2a8ff; } /* Functions */
-.str { color: #a5d6ff; } /* Strings */
-.num { color: #79c0ff; } /* Numbers */
-.comment { color: #8b949e; font-style: italic; }
+.kwd { color: #ff7b72; } .func { color: #d2a8ff; } .str { color: #a5d6ff; } .num { color: #79c0ff; } .comment { color: #8b949e; font-style: italic; }
 
 /* Download Button */
 .center-box { text-align: center; margin-top: 50px; background: #161b22; padding: 40px; border-radius: 8px; }
-.btn-primary {
-    display: inline-block;
-    background: #238636;
-    color: white;
-    padding: 12px 25px;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: bold;
-    margin-top: 15px;
-    transition: 0.3s;
-}
+.btn-primary { display: inline-block; background: #238636; color: white; padding: 12px 25px; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 15px; transition: 0.3s; }
 .btn-primary:hover { background: #2ea043; transform: scale(1.05); }
 
 footer { margin-top: 50px; color: #484f58; font-size: 0.8rem; text-align: center; }
 
-/* Mobile */
+/* Mobile Logic (Default Hidden) */
 @media (max-width: 768px) {
-    .sidebar { display: none; }
-    .content { margin-left: 0; padding: 20px; }
+    .content { margin-left: 0; padding: 20px; padding-top: 70px; }
+    .sidebar { transform: translateX(-250px); } /* Hide by default on mobile */
+    
+    /* Show when toggled on mobile */
+    body.menu-closed .sidebar { transform: translateX(0); }
 }
