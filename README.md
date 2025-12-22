@@ -1,17 +1,17 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/votre-logo-url-yahan-dalna-hai.png" alt="Syntax & Soz Logo" width="200"/>
+  <img src="YAHAN_APNE_LOGO_KA_DIRECT_LINK_DALNA" alt="Syntax & Soz Logo" width="200"/>
 
   # Hi, I'm <span style="color: #58a6ff;">Syntax & Soz</span> 
   
-  ### `Writer of Code & Qafiya`
+  ### `Writer of Code & Logic`
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+Automation;Web+Scraping+Expert;Privacy+%26+Security;Urdu+Poetry+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+Automation;Web+Scraping+Expert;Privacy+%26+Security;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <i>"Code mein Mantiq, Dil mein Soz."</i>
+    <i>"Logic in mind, chaos in heart."</i>
   </p>
 
 </div>
@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 17-year-old developer from Rawalpindi, focused on **Automation**, **Privacy**, and **Web Development**. I turn boring manual tasks into efficient Python scripts.
+I am a privacy-focused developer specializing in **Automation**, **Web Scraping**, and **Cybersecurity Tools**. I operate anonymously to build efficient and secure digital solutions.
 
 - 🔭 I’m currently working on **Automated Scrapers & Privacy Tools**
 - 🐍 My main weapon: **Python**
