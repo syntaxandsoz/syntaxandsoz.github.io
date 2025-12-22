@@ -22,18 +22,21 @@
 
     <header class="hero">
         <div class="container">
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipt1JFrVEHBUe-qMkPyxPvYL9FwE-AVw_d1zzyoHQQ7pmse-gJTvXx0MEfrJkQvy71rcczEB68vxgRgD6kiOhPa2GAai_K58lXw12ipjccjp4CUkHtZpYSfdyt2Sd8Wi9OCKFAH_A9R7go1XqS50mCN4vXNxLxmrHkXK9ff1vR_ByQt7zgeqZQuMb9RoOD/s16000/Gemini_Generated_Image_ec6czmec6czmec6c-1.png" alt="Logo" class="profile-img" style="width: 120px; height: 120px;">
-            <h1>Syntax <span class="accent">&</span> Soz</h1>
-            <p class="tagline">Writer of Code & Logic.</p>
-            <div class="terminal-box">
-                <p>> print("Welcome to my digital void.")</p>
-                <p>> System status: <span class="green">Online</span></p>
-                <p class="typing">> Initializing portfolio...</p>
+            <div class="hero-content hidden">
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipt1JFrVEHBUe-qMkPyxPvYL9FwE-AVw_d1zzyoHQQ7pmse-gJTvXx0MEfrJkQvy71rcczEB68vxgRgD6kiOhPa2GAai_K58lXw12ipjccjp4CUkHtZpYSfdyt2Sd8Wi9OCKFAH_A9R7go1XqS50mCN4vXNxLxmrHkXK9ff1vR_ByQt7zgeqZQuMb9RoOD/s16000/Gemini_Generated_Image_ec6czmec6czmec6c-1.png" alt="Logo" class="profile-img">
+                <h1>Syntax <span class="accent">&</span> Soz</h1>
+                <p class="tagline">Writer of Code & Logic.</p>
+                
+                <div class="terminal-box">
+                    <p>> print("Welcome to my digital void.")</p>
+                    <p>> System status: <span class="green">Online</span></p>
+                    <p class="typing">> Initializing portfolio...<span class="cursor">_</span></p>
+                </div>
             </div>
         </div>
     </header>
 
-    <section id="about" class="section">
+    <section id="about" class="section hidden">
         <div class="container">
             <h2 class="section-title">01. About Me</h2>
             <div class="content-text">
@@ -59,10 +62,10 @@
 
     <section id="projects" class="section">
         <div class="container">
-            <h2 class="section-title">02. Selected Works</h2>
+            <h2 class="section-title hidden">02. Selected Works</h2>
             <div class="project-grid">
                 
-                <div class="project-card">
+                <div class="project-card hidden" style="transition-delay: 100ms;">
                     <h3>Base64 Stealth Tool</h3>
                     <p>A secure web tool that converts any file into Base64 raw text and rebuilds it. Client-side Only.</p>
                     <div class="tech-stack">
@@ -71,7 +74,7 @@
                     <a href="b64/" class="btn-small">Launch Tool -></a>
                 </div>
 
-                <div class="project-card">
+                <div class="project-card hidden" style="transition-delay: 200ms;">
                     <h3>QR Video Encoder</h3>
                     <p>A Python script that converts JSON data into a video of QR codes for air-gapped data transfer.</p>
                     <div class="tech-stack">
@@ -80,7 +83,7 @@
                     <a href="airgap/" class="btn-small">View Documentation -></a>
                 </div>
 
-                <div class="project-card">
+                <div class="project-card hidden" style="transition-delay: 300ms;">
                     <h3>WhatsApp Privacy Ext.</h3>
                     <p>A browser extension focused on privacy features. Blur messages and hide status instantly.</p>
                     <div class="tech-stack">
@@ -89,7 +92,7 @@
                     <a href="privacy/" class="btn-small">Try Live Demo -></a>
                 </div>
 
-                <div class="project-card">
+                <div class="project-card hidden" style="transition-delay: 100ms;">
                     <h3>CyberNews Spider</h3>
                     <p>An automated web scraper that fetches latest cybersecurity threats and visualizes them in a dashboard.</p>
                     <div class="tech-stack">
@@ -98,7 +101,7 @@
                     <a href="newsscraper/" class="btn-small">Live Feed -></a>
                 </div>
 
-                <div class="project-card">
+                <div class="project-card hidden" style="transition-delay: 200ms;">
                     <h3>StealthImg Exif Wiper</h3>
                     <p>A web utility that strips hidden metadata (GPS, Device Info) from images before sharing.</p>
                     <div class="tech-stack">
@@ -106,19 +109,20 @@
                     </div>
                     <a href="metadatacleaner/" class="btn-small">Sanitize Image -></a>
                 </div>
-<div class="project-card">
-    <h3>StegoVault Image Encryptor</h3>
-    <p>A digital spy tool that hides secret text messages inside image pixels using steganography.</p>
-    <div class="tech-stack">
-        <span>JavaScript</span><span>Binary</span><span>Cybersec</span>
-    </div>
-    <a href="stegovault/" class="btn-small">Hide Secrets -></a>
-</div>
+
+                <div class="project-card hidden" style="transition-delay: 300ms;">
+                    <h3>StegoVault Image Encryptor</h3>
+                    <p>A digital spy tool that hides secret text messages inside image pixels using steganography.</p>
+                    <div class="tech-stack">
+                        <span>JavaScript</span><span>Binary</span><span>Cybersec</span>
+                    </div>
+                    <a href="stegovault/" class="btn-small">Hide Secrets -></a>
+                </div>
             </div>
         </div>
     </section>
 
-    <section id="contact" class="section">
+    <section id="contact" class="section hidden">
         <div class="container center">
             <h2 class="section-title">03. Contact</h2>
             <p>Have a boring task you want to automate? Or a website you need data from?</p>
@@ -129,6 +133,26 @@
     <footer>
         <p>Designed by Syntax & Soz | &copy; 2025</p>
     </footer>
+
+    <script>
+        const observerOptions = {
+            root: null,
+            rootMargin: '0px',
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('show');
+                    observer.unobserve(entry.target); // Only animate once
+                }
+            });
+        }, observerOptions);
+
+        const hiddenElements = document.querySelectorAll('.hidden');
+        hiddenElements.forEach((el) => observer.observe(el));
+    </script>
 
 </body>
 </html>
