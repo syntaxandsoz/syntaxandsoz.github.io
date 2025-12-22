@@ -18,8 +18,12 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a privacy-focused developer specializing in **Automation**, **Web Scraping**, and **Cybersecurity Tools**. I operate anonymously to build efficient and secure digital solutions.
+### About Me
+I am a privacy advocate and a Python developer operating from the shadows. In a world where data is the new oil, I specialize in mining it (Scraping) and protecting it (Security).
+
+I focus on writing clean, efficient, and anonymous code. My expertise lies in dissecting websites to extract meaningful data and building tools that respect user privacy. I am not here to just finish a project; I am here to build robust solutions that stand the test of time.
+
+I believe in open-source, encryption, and the freedom of the internet.
 
 - 🔭 I’m currently working on **Automated Scrapers & Privacy Tools**
 - 🐍 My main weapon: **Python**
