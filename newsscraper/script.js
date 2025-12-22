@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const grid = document.getElementById("newsGrid");
     
     // Fetch Data (Cache busting added to get fresh data)
-    fetch('data.json?t=' + new Date().getTime())
-        .then(response => response.json())
+fetch('data.json?t=' + new Date().getTime()) 
+    .then(response => response.json())
         .then(data => {
             grid.innerHTML = ""; // Clear loading text
             

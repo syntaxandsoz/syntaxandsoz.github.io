@@ -1,37 +1,58 @@
 [
     {
-        "title": "Critical Zero-Day Vulnerability Found in Android Kernel",
+        "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
         "source": "The Hacker News",
-        "time": "Just now",
-        "category": "Zero-Day",
-        "link": "https://thehackernews.com/"
+        "time": "2025-12-22",
+        "category": "\ue802Dec 22, 2025Mobile Security / Malware",
+        "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html"
     },
     {
-        "title": "FBI Seizes Dark Web Marketplace 'BreachForums'",
-        "source": "Bleeping Computer",
-        "time": "2 hours ago",
-        "category": "Cybercrime",
-        "link": "#"
+        "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 21, 2025Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html"
     },
     {
-        "title": "New Ransomware Strain Targets Healthcare Systems",
-        "source": "CyberSecurity Dive",
-        "time": "5 hours ago",
-        "category": "Malware",
-        "link": "#"
+        "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 20, 2025Cybercrime / ATM Security",
+        "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html"
     },
     {
-        "title": "Google Chrome Update Patches 4 High-Severity Bugs",
-        "source": "Security Week",
-        "time": "Today",
-        "category": "Patch",
-        "link": "#"
+        "title": "10 Must-Have Features Your BAS Should Deliver",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "Picus SecurityBreach and Attack Simulation",
+        "link": "https://thehackernews.uk/cyber-eval-2025"
     },
     {
-        "title": "AI Models Can Be Tricked into Leaking Private Data",
-        "source": "Wired Security",
-        "time": "Yesterday",
-        "category": "AI Safety",
-        "link": "#"
+        "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 19, 2025Cybersecurity / Cloud Security",
+        "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html"
+    },
+    {
+        "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 19, 2025Endpoint Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html"
+    },
+    {
+        "title": "Pentesting With Proof. Zero-Day, Zero-Pay and the #1 AI Hacker Behind It",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "XBOWPenetration Testing",
+        "link": "https://thehackernews.uk/zero-day-testing"
+    },
+    {
+        "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 19, 2025Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html"
     }
 ]

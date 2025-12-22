@@ -4,7 +4,7 @@ import json
 import os
 from datetime import datetime
 
-# URL to scrape (The Hacker News)
+# URL to scrape
 URL = "https://thehackernews.com/"
 
 def scrape_data():
@@ -16,46 +16,37 @@ def scrape_data():
     
     try:
         response = requests.get(URL, headers=headers)
-        response.raise_for_status() # Check for errors
+        response.raise_for_status()
         
         soup = BeautifulSoup(response.text, "html.parser")
         articles_list = []
         
-        # Select news items (Specific to The Hacker News structure)
-        news_items = soup.select(".body-post")[:8] # Get top 8 stories
+        news_items = soup.select(".body-post")[:8]
 
         for item in news_items:
             try:
-                # Title
                 title = item.select_one(".home-title").get_text(strip=True)
-                
-                # Link
                 link = item.select_one("a.story-link")['href']
-                
-                # Tag/Category
                 tag = item.select_one(".item-label").get_text(strip=True)
-                
-                # Time (Fake relative time logic for demo, or fetch real date)
-                # THN doesn't show exact time easily on home, so we assume "Latest"
                 
                 articles_list.append({
                     "title": title,
                     "source": "The Hacker News",
-                    "time": datetime.now().strftime("%Y-%m-%d"), # Aaj ki date
+                    "time": datetime.now().strftime("%Y-%m-%d"),
                     "category": tag,
                     "link": link
                 })
                 print(f"[+] Scraped: {title[:30]}...")
             except Exception as e:
-                print(f"[-] Skipped an item: {e}")
+                print(f"[-] Skipped item: {e}")
 
-        # JSON file save karna
-        # Note: Github Actions root se chalta hai, isliye path ka khayal rakhein
-        file_path = 'newsscraper/data.json'
-        
-        # Check if running locally or in Action (Path adjustment)
-        if not os.path.exists('scraper'):
-            file_path = 'data.json' # Local run inside folder
+        # === FIX IS HERE (PATH LOGIC) ===
+        # Agar hum root se chala rahe hain (GitHub Actions), to folder mein jao
+        if os.path.exists('newsscraper'):
+            file_path = 'newsscraper/data.json'
+        else:
+            # Agar hum folder ke andar hain, to direct save karo
+            file_path = 'data.json'
 
         with open(file_path, 'w') as f:
             json.dump(articles_list, f, indent=4)
@@ -66,5 +57,4 @@ def scrape_data():
         print(f">> [ERROR] Bot Failed: {e}")
 
 if __name__ == "__main__":
-
     scrape_data()
