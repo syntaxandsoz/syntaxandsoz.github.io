@@ -39,7 +39,7 @@ I am a privacy-focused developer specializing in **Automation**, **Web Scraping*
 ---
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:syntaxandsoz@proton.me">
     <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge" />
   </a>
 </div>
