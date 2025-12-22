@@ -1,10 +1,31 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 22, 2025Hacking News / Cybersecurity",
+        "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html"
+    },
+    {
+        "title": "How to Browse the Web More Sustainably With a Green Browser",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 22, 2025Privacy / Web Browser",
+        "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html"
+    },
+    {
         "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
         "source": "The Hacker News",
         "time": "2025-12-22",
         "category": "\ue802Dec 22, 2025Mobile Security / Malware",
         "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html"
+    },
+    {
+        "title": "10 Must-Have Features Your BAS Should Deliver",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "Picus SecurityBreach and Attack Simulation",
+        "link": "https://thehackernews.uk/cyber-eval-2025"
     },
     {
         "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html"
     },
     {
-        "title": "10 Must-Have Features Your BAS Should Deliver",
-        "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "Picus SecurityBreach and Attack Simulation",
-        "link": "https://thehackernews.uk/cyber-eval-2025"
-    },
-    {
-        "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
-        "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 19, 2025Cybersecurity / Cloud Security",
-        "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html"
-    },
-    {
-        "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
-        "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 19, 2025Endpoint Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html"
-    },
-    {
         "title": "Pentesting With Proof. Zero-Day, Zero-Pay and the #1 AI Hacker Behind It",
         "source": "The Hacker News",
         "time": "2025-12-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zero-day-testing"
     },
     {
-        "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+        "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
         "source": "The Hacker News",
         "time": "2025-12-22",
-        "category": "\ue802Dec 19, 2025Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html"
+        "category": "\ue802Dec 19, 2025Cybersecurity / Cloud Security",
+        "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html"
     }
 ]
