@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Critical Zero-Day Vulnerability Found in Android Kernel",
+        "source": "The Hacker News",
+        "time": "Just now",
+        "category": "Zero-Day",
+        "link": "https://thehackernews.com/"
+    },
+    {
+        "title": "FBI Seizes Dark Web Marketplace 'BreachForums'",
+        "source": "Bleeping Computer",
+        "time": "2 hours ago",
+        "category": "Cybercrime",
+        "link": "#"
+    },
+    {
+        "title": "New Ransomware Strain Targets Healthcare Systems",
+        "source": "CyberSecurity Dive",
+        "time": "5 hours ago",
+        "category": "Malware",
+        "link": "#"
+    },
+    {
+        "title": "Google Chrome Update Patches 4 High-Severity Bugs",
+        "source": "Security Week",
+        "time": "Today",
+        "category": "Patch",
+        "link": "#"
+    },
+    {
+        "title": "AI Models Can Be Tricked into Leaking Private Data",
+        "source": "Wired Security",
+        "time": "Yesterday",
+        "category": "AI Safety",
+        "link": "#"
+    }
+]

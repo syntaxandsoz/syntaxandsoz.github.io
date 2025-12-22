@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberNews Spider | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="dashboard-container">
+        
+        <aside class="sidebar">
+            <a href="../" class="back-link">← Main Terminal</a>
+            
+            <div class="status-panel">
+                <h3>SPIDER STATUS</h3>
+                <div class="status-indicator">
+                    <span class="dot pulse"></span>
+                    <span class="text">OPERATIONAL</span>
+                </div>
+            </div>
+
+            <div class="terminal-logs">
+                <p>> Initializing Spider v2.0...</p>
+                <p>> Target: The Hacker News</p>
+                <p>> Bypass Protocol: Active</p>
+                <p>> Fetching latest packets...</p>
+                <p class="blink">_</p>
+            </div>
+
+            <div class="actions">
+                <p class="label">SOURCE CODE</p>
+                <a href="spider.py" download="spider.py" class="btn-download">
+                    Download .py Script ⬇
+                </a>
+            </div>
+        </aside>
+
+        <main class="feed">
+            <header>
+                <h1>CyberNews <span class="accent">Spider</span></h1>
+                <p>Automated Threat Intelligence Feed.</p>
+            </header>
+
+            <div class="news-grid" id="newsGrid">
+                <p style="color:#666;">Loading data stream...</p>
+            </div>
+        </main>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
