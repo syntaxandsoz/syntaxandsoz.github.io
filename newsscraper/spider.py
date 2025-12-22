@@ -51,7 +51,7 @@ def scrape_data():
 
         # JSON file save karna
         # Note: Github Actions root se chalta hai, isliye path ka khayal rakhein
-        file_path = 'scraper/data.json'
+        file_path = 'newsscraper/data.json'
         
         # Check if running locally or in Action (Path adjustment)
         if not os.path.exists('scraper'):
@@ -66,4 +66,5 @@ def scrape_data():
         print(f">> [ERROR] Bot Failed: {e}")
 
 if __name__ == "__main__":
+
     scrape_data()
