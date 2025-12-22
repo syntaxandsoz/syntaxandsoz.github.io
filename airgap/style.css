@@ -77,14 +77,14 @@ body {
 
 /* === LOGIC: Hide/Show === */
 
-/* Jab menu-closed class body par hogi */
+/* When menu-closed class is on body */
 body.menu-closed .sidebar {
     transform: translateX(-250px); /* Hide Sidebar */
 }
 body.menu-closed .content {
     margin-left: 0; /* Content Full Width */
     max-width: 100%;
-    padding: 40px 100px; /* Thora padding barha diya center karne ke liye */
+    padding: 40px 100px; /* Increased padding to center the content */
 }
 
 /* Typography & Other Styles (Same as before) */

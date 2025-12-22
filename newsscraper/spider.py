@@ -40,12 +40,12 @@ def scrape_data():
             except Exception as e:
                 print(f"[-] Skipped item: {e}")
 
-        # === FIX IS HERE (PATH LOGIC) ===
-        # Agar hum root se chala rahe hain (GitHub Actions), to folder mein jao
+    
+        # If running from root (GitHub Actions), go into the folder
         if os.path.exists('newsscraper'):
             file_path = 'newsscraper/data.json'
         else:
-            # Agar hum folder ke andar hain, to direct save karo
+            # If inside the folder, save directly
             file_path = 'data.json'
 
         with open(file_path, 'w') as f:

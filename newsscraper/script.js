@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const grid = document.getElementById("newsGrid");
     
     // Fetch Data (Cache busting added to get fresh data)
-fetch('data.json?t=' + new Date().getTime()) 
-    .then(response => response.json())
+    fetch('data.json?t=' + new Date().getTime()) 
+        .then(response => response.json())
         .then(data => {
             grid.innerHTML = ""; // Clear loading text
             
@@ -25,7 +25,7 @@ fetch('data.json?t=' + new Date().getTime())
                     </div>
                 `;
                 
-                // Staggered Animation (Ek ke baad ek aayenge)
+                // Staggered Animation (Elements appear one by one)
                 card.style.opacity = "0";
                 card.style.animation = `fadeIn 0.5s forwards ${index * 0.1}s`;
                 
