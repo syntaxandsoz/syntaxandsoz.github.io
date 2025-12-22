@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stealth Converter | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1 class="glitch" data-text="Stealth Converter">Stealth Converter</h1>
+            <p>Securely convert Files to Base64 & Back. <br> <span class="green">[Client-Side Only]</span></p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('encode')">File to Text (Encode)</button>
+            <button class="tab-btn" onclick="switchTab('decode')">Text to File (Decode)</button>
+        </div>
+
+        <div id="encode-panel" class="panel active">
+            <div class="upload-box">
+    <input type="file" id="fileInput">
+    <p id="uploadText">Drag file here or Click to Upload</p>
+</div>
+            <button onclick="encodeFile()" class="action-btn">Encrypt to Base64</button>
+            
+            <div class="output-area" id="encodeOutput" style="display:none;">
+                <textarea id="base64Output" readonly placeholder="Result will appear here..."></textarea>
+                <div class="controls">
+                    <button onclick="copyText()">Copy Code</button>
+                    <span id="statusMsg"></span>
+                </div>
+            </div>
+        </div>
+
+        <div id="decode-panel" class="panel">
+            <textarea id="base64Input" placeholder="Paste your Base64 string here..."></textarea>
+            <div class="inputs-row">
+                <input type="text" id="fileName" placeholder="filename (e.g., image.png)">
+                <input type="text" id="mimeType" placeholder="MIME type (optional)">
+            </div>
+            <button onclick="decodeFile()" class="action-btn">Decrypt & Download</button>
+        </div>
+
+        <footer>
+            <a href="../index.html">← Back to Terminal</a>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

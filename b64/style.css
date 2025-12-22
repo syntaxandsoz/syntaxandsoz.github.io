@@ -1,0 +1,103 @@
+body {
+    background-color: #050505;
+    color: #e0e0e0;
+    font-family: 'Fira Code', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    background: #0f0f0f;
+    padding: 30px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(88, 166, 255, 0.1);
+}
+
+h1 { color: #58a6ff; text-align: center; margin-bottom: 5px; }
+p { text-align: center; color: #888; font-size: 0.9rem; margin-bottom: 25px; }
+.green { color: #00ff41; }
+
+/* Tabs */
+.tabs { display: flex; margin-bottom: 20px; border-bottom: 1px solid #333; }
+.tab-btn {
+    flex: 1;
+    background: none;
+    border: none;
+    color: #666;
+    padding: 15px;
+    cursor: pointer;
+    font-family: 'Fira Code';
+    font-weight: bold;
+    transition: 0.3s;
+}
+.tab-btn.active { color: #58a6ff; border-bottom: 2px solid #58a6ff; background: rgba(88,166,255,0.05); }
+
+/* Panels */
+.panel { display: none; }
+.panel.active { display: block; animation: fadeIn 0.5s; }
+
+/* Inputs */
+.upload-box {
+    border: 2px dashed #333;
+    padding: 40px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    position: relative;
+}
+.upload-box:hover { border-color: #58a6ff; }
+input[type="file"] {
+    position: absolute; width: 100%; height: 100%; top: 0; left: 0; opacity: 0; cursor: pointer;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    background: #000;
+    border: 1px solid #333;
+    color: #00ff41;
+    padding: 10px;
+    font-family: 'Fira Code';
+    resize: vertical;
+    margin-bottom: 15px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    background: #000;
+    border: 1px solid #333;
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: 'Fira Code';
+}
+
+.action-btn {
+    width: 100%;
+    padding: 15px;
+    background: #58a6ff;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-family: 'Fira Code';
+    margin-bottom: 20px;
+}
+.action-btn:hover { background: #79b8ff; }
+
+.controls button {
+    background: #222; color: #fff; border: 1px solid #444; padding: 5px 15px; cursor: pointer;
+}
+
+footer { text-align: center; margin-top: 20px; font-size: 0.8rem; }
+a { color: #666; text-decoration: none; }
+a:hover { color: #58a6ff; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
