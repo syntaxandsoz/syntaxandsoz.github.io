@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 22, 2025Malware / Open Source",
+        "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html"
+    },
+    {
         "title": "\u26a1 Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
         "source": "The Hacker News",
         "time": "2025-12-22",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html"
     },
     {
-        "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-        "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 22, 2025Mobile Security / Malware",
-        "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html"
-    },
-    {
         "title": "10 Must-Have Features Your BAS Should Deliver",
         "source": "The Hacker News",
         "time": "2025-12-22",
         "category": "Picus SecurityBreach and Attack Simulation",
         "link": "https://thehackernews.uk/cyber-eval-2025"
+    },
+    {
+        "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+        "source": "The Hacker News",
+        "time": "2025-12-22",
+        "category": "\ue802Dec 22, 2025Mobile Security / Malware",
+        "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html"
     },
     {
         "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html"
     },
     {
-        "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
-        "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 20, 2025Cybercrime / ATM Security",
-        "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html"
-    },
-    {
         "title": "Pentesting With Proof. Zero-Day, Zero-Pay and the #1 AI Hacker Behind It",
         "source": "The Hacker News",
         "time": "2025-12-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zero-day-testing"
     },
     {
-        "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+        "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
         "source": "The Hacker News",
         "time": "2025-12-22",
-        "category": "\ue802Dec 19, 2025Cybersecurity / Cloud Security",
-        "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html"
+        "category": "\ue802Dec 20, 2025Cybercrime / ATM Security",
+        "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html"
     }
 ]
