@@ -1,5 +1,12 @@
 [
     {
+        "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
+        "source": "The Hacker News",
+        "time": "2025-12-23",
+        "category": "\ue802Dec 23, 2025Cybersecurity / Surveillance",
+        "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html"
+    },
+    {
         "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
         "source": "The Hacker News",
         "time": "2025-12-23",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html"
     },
     {
-        "title": "How to Browse the Web More Sustainably With a Green Browser",
-        "source": "The Hacker News",
-        "time": "2025-12-23",
-        "category": "\ue802Dec 22, 2025Privacy / Web Browser",
-        "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html"
-    },
-    {
         "title": "The Breach You Didn't Expect: Your AppSec Stack",
         "source": "The Hacker News",
         "time": "2025-12-23",
         "category": "JFrogAppSec / DevSecOps",
         "link": "https://thehackernews.uk/cyber-breach-insights"
+    },
+    {
+        "title": "How to Browse the Web More Sustainably With a Green Browser",
+        "source": "The Hacker News",
+        "time": "2025-12-23",
+        "category": "\ue802Dec 22, 2025Privacy / Web Browser",
+        "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html"
     },
     {
         "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html"
     },
     {
-        "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
-        "source": "The Hacker News",
-        "time": "2025-12-23",
-        "category": "\ue802Dec 21, 2025Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2025-12-23",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
+        "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
         "source": "The Hacker News",
         "time": "2025-12-23",
-        "category": "\ue802Dec 20, 2025Cybercrime / ATM Security",
-        "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html"
+        "category": "\ue802Dec 21, 2025Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html"
     }
 ]
