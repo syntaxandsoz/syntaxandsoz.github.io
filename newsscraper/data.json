@@ -1,5 +1,12 @@
 [
     {
+        "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
+        "source": "The Hacker News",
+        "time": "2025-12-23",
+        "category": "\ue802Dec 23, 2025Browser Security / Enterprise Security",
+        "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html"
+    },
+    {
         "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
         "source": "The Hacker News",
         "time": "2025-12-23",
@@ -10,15 +17,8 @@
         "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
         "source": "The Hacker News",
         "time": "2025-12-23",
-        "category": "\ue802Dec 23, 2025United States",
+        "category": "\ue802Dec 23, 2025Password Security / Enterprise Software",
         "link": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html"
-    },
-    {
-        "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
-        "source": "The Hacker News",
-        "time": "2025-12-23",
-        "category": "\ue802Dec 23, 2025Financial Crime / Law Enforcement",
-        "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html"
     },
     {
         "title": "The Breach You Didn't Expect: Your AppSec Stack",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cyber-breach-insights"
     },
     {
+        "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
+        "source": "The Hacker News",
+        "time": "2025-12-23",
+        "category": "\ue802Dec 23, 2025Financial Crime / Law Enforcement",
+        "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html"
+    },
+    {
         "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
         "source": "The Hacker News",
         "time": "2025-12-23",
         "category": "\ue802Dec 23, 2025Vulnerability / Workflow Automation",
         "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html"
-    },
-    {
-        "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
-        "source": "The Hacker News",
-        "time": "2025-12-23",
-        "category": "\ue802Dec 23, 2025Cybersecurity / Surveillance",
-        "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html"
     },
     {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
+        "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
         "source": "The Hacker News",
         "time": "2025-12-23",
-        "category": "\ue802Dec 22, 2025Malware / Open Source",
-        "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html"
+        "category": "\ue802Dec 23, 2025Cybersecurity / Surveillance",
+        "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html"
     }
 ]
