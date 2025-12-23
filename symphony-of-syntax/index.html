@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Symphony of Syntax</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Cinzel:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <div class="brand">
+            <span class="bracket">{</span>
+            <div class="heartbeat"></div>
+            <span class="bracket">}</span>
+            <h1>Symphony of <span class="soz">Syntax</span></h1>
+        </div>
+
+        <div class="canvas-wrapper">
+            <canvas id="visualizer"></canvas>
+        </div>
+
+        <div class="input-section">
+            <textarea id="codeInput" placeholder="// Paste Code Here...&#10;// Audio will be generated based on syntax."></textarea>
+        </div>
+
+        <div class="controls">
+            <button id="playBtn" onclick="playMusic()">▶ Generate</button>
+            <button id="stopBtn" onclick="stopMusic()">⏹ Stop</button>
+        </div>
+
+        <div class="actions-area" id="downloadArea">
+            <a id="downloadAudioBtn" class="download-link hidden">🎵 Download Audio (.wav)</a>
+            <a id="downloadVideoBtn" class="download-link hidden">📱 Download Video (9:16)</a>
+            
+            <button id="saveSourceBtn" class="secondary-btn hidden" onclick="downloadSource()">💾 Save Source File (Key)</button>
+            
+            <input type="file" id="fileUpload" accept=".txt,.js,.html,.css,.json" onchange="handleFileUpload(this)" hidden>
+            <button class="secondary-btn" onclick="document.getElementById('fileUpload').click()">📂 Upload Source to Restore</button>
+        </div>
+
+        <div class="status" id="statusText">System Ready.</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
