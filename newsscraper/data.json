@@ -1,58 +1,58 @@
 [
     {
-        "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+        "title": "Italy Fines Apple \u20ac98.6 Million Over ATT Rules Limiting App Store Competition",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 22, 2025Mobile Security / Malware",
-        "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html"
+        "time": "2025-12-24",
+        "category": "\ue802Dec 24, 2025Privacy / Antitrust",
+        "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html"
     },
     {
-        "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
+        "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 21, 2025Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html"
+        "time": "2025-12-24",
+        "category": "\ue802Dec 23, 2025Browser Security / Enterprise Security",
+        "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html"
     },
     {
-        "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
+        "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 20, 2025Cybercrime / ATM Security",
-        "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html"
+        "time": "2025-12-24",
+        "category": "\ue802Dec 23, 2025Cybercrime / Data Breach",
+        "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html"
     },
     {
-        "title": "10 Must-Have Features Your BAS Should Deliver",
+        "title": "The Breach You Didn't Expect: Your AppSec Stack",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "Picus SecurityBreach and Attack Simulation",
-        "link": "https://thehackernews.uk/cyber-eval-2025"
+        "time": "2025-12-24",
+        "category": "JFrogAppSec / DevSecOps",
+        "link": "https://thehackernews.uk/cyber-breach-insights"
     },
     {
-        "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+        "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 19, 2025Cybersecurity / Cloud Security",
-        "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html"
+        "time": "2025-12-24",
+        "category": "\ue802Dec 23, 2025Password Security / Enterprise Software",
+        "link": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html"
     },
     {
-        "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+        "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 19, 2025Endpoint Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html"
+        "time": "2025-12-24",
+        "category": "\ue802Dec 23, 2025Financial Crime / Law Enforcement",
+        "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html"
     },
     {
-        "title": "Pentesting With Proof. Zero-Day, Zero-Pay and the #1 AI Hacker Behind It",
+        "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "XBOWPenetration Testing",
-        "link": "https://thehackernews.uk/zero-day-testing"
+        "time": "2025-12-24",
+        "category": "THN WebinarZero Trust / Cloud Security",
+        "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+        "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
         "source": "The Hacker News",
-        "time": "2025-12-22",
-        "category": "\ue802Dec 19, 2025Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html"
+        "time": "2025-12-24",
+        "category": "\ue802Dec 23, 2025Vulnerability / Workflow Automation",
+        "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html"
     }
 ]
