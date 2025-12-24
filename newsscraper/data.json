@@ -1,5 +1,12 @@
 [
     {
+        "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
+        "source": "The Hacker News",
+        "time": "2025-12-24",
+        "category": "\ue802Dec 24, 2025Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html"
+    },
+    {
         "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
         "source": "The Hacker News",
         "time": "2025-12-24",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html"
     },
     {
-        "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
-        "source": "The Hacker News",
-        "time": "2025-12-24",
-        "category": "\ue802Dec 24, 2025Artificial Intelligence / Cryptocurrency",
-        "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html"
-    },
-    {
         "title": "The Breach You Didn't Expect: Your AppSec Stack",
         "source": "The Hacker News",
         "time": "2025-12-24",
         "category": "JFrogAppSec / DevSecOps",
         "link": "https://thehackernews.uk/cyber-breach-insights"
+    },
+    {
+        "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
+        "source": "The Hacker News",
+        "time": "2025-12-24",
+        "category": "\ue802Dec 24, 2025Artificial Intelligence / Cryptocurrency",
+        "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html"
     },
     {
         "title": "Italy Fines Apple \u20ac98.6 Million Over ATT Rules Limiting App Store Competition",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html"
     },
     {
-        "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-        "source": "The Hacker News",
-        "time": "2025-12-24",
-        "category": "\ue802Dec 23, 2025Browser Security / Enterprise Security",
-        "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2025-12-24",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
+        "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
         "source": "The Hacker News",
         "time": "2025-12-24",
-        "category": "\ue802Dec 23, 2025Cybercrime / Data Breach",
-        "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html"
+        "category": "\ue802Dec 23, 2025Browser Security / Enterprise Security",
+        "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html"
     }
 ]
