@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Panopticon | Device Fingerprinting</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="scan-overlay"></div>
+    
+    <div class="container">
+        <header>
+            <h1>THE PANOPTICON</h1>
+            <p>SUBJECT: <span id="visitor-id" class="blink">SCANNING...</span></p>
+        </header>
+
+        <div class="grid">
+            
+            <div class="panel">
+                <h3>// HARDWARE_INTEGRITY</h3>
+                <div class="data-row">
+                    <span>CPU CORES:</span>
+                    <span id="cpu" class="val">Analyzing...</span>
+                </div>
+                <div class="data-row">
+                    <span>RAM (Est):</span>
+                    <span id="ram" class="val">Analyzing...</span>
+                </div>
+                <div class="data-row">
+                    <span>PLATFORM:</span>
+                    <span id="platform" class="val">Analyzing...</span>
+                </div>
+                <div class="data-row">
+                    <span>GPU RENDERER:</span>
+                    <span id="gpu" class="val">Analyzing...</span>
+                </div>
+            </div>
+
+            <div class="center-stage">
+                <div class="radar">
+                    <div class="sweep"></div>
+                </div>
+                <div class="status-msg">DIGITAL FOOTPRINT DETECTED</div>
+            </div>
+
+            <div class="panel">
+                <h3>// CONNECTION_NODE</h3>
+                <div class="data-row">
+                    <span>PUBLIC IP:</span>
+                    <span id="ip" class="val highlight">Fetching...</span>
+                </div>
+                <div class="data-row">
+                    <span>LATENCY:</span>
+                    <span id="latency" class="val">Calculating...</span>
+                </div>
+                <div class="data-row">
+                    <span>CONNECTION:</span>
+                    <span id="connection" class="val">--</span>
+                </div>
+                <hr style="border-color: #333; margin: 10px 0;">
+                <div class="data-row">
+                    <span>BATTERY:</span>
+                    <span id="battery" class="val">--</span>
+                </div>
+                <div class="data-row">
+                    <span>POWER STATUS:</span>
+                    <span id="charging" class="val">--</span>
+                </div>
+            </div>
+
+            <div class="panel mobile-panel">
+                <h3>// SENSORS_&_LEAKS</h3>
+                <div class="data-row">
+                    <span>LOCAL IP (RTC):</span>
+                    <span id="local-ip" class="val" style="color: #ff0055;">Scanning...</span>
+                </div>
+                <div class="data-row">
+                    <span>DEVICE TILT (X):</span>
+                    <span id="tilt-a" class="val">0°</span>
+                </div>
+                <div class="data-row">
+                    <span>DEVICE TILT (Y):</span>
+                    <span id="tilt-b" class="val">0°</span>
+                </div>
+                <div class="data-row">
+                    <span>SCREEN RES:</span>
+                    <span id="screen-res" class="val">--</span>
+                </div>
+                <div class="data-row">
+                    <span>DO NOT TRACK:</span>
+                    <span id="dnt" class="val">--</span>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="terminal-log">
+            <h3>>> RAW_USER_AGENT_STRING</h3>
+            <p id="userAgent" style="color: #666;">Retrieving...</p>
+        </div>
+        
+        <div class="fingerprint-box">
+            <span>UNIQUE CANVAS HASH: </span>
+            <span id="hash" style="color: #ff0055;">CALCULATING...</span>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,164 @@
+:root {
+    --bg: #050505;
+    --text: #00ff41; /* Hacker Green */
+    --alert: #ff0055; /* Error Red */
+    --cyan: #00f3ff;
+    --panel: rgba(0, 20, 0, 0.3);
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Share Tech Mono', monospace;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh; /* Changed from height to min-height for scrolling */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    /* Allow scrolling on small screens */
+    overflow-y: auto; 
+}
+
+/* --- CRT SCANLINE EFFECT --- */
+.scan-overlay {
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 2px, 3px 100%;
+    pointer-events: none;
+    z-index: 999;
+}
+
+.container {
+    width: 95%;
+    max-width: 1200px; /* Increased width for 3 panels */
+    border: 1px solid #333;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.1);
+    background: var(--panel);
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    text-shadow: 0 0 10px var(--text);
+    letter-spacing: 3px;
+}
+
+header {
+    border-bottom: 2px solid var(--text);
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+/* --- GRID LAYOUT --- */
+.grid {
+    display: grid;
+    /* 3 Columns Layout */
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 15px;
+}
+
+@media (max-width: 900px) {
+    .grid { 
+        /* On Tablet/Mobile: 1 Column */
+        grid-template-columns: 1fr; 
+    }
+    .center-stage { 
+        order: -1; 
+        margin-bottom: 20px; 
+    }
+}
+
+.panel {
+    border: 1px solid #1a1a1a;
+    padding: 15px;
+    background: rgba(0,0,0,0.5);
+}
+
+h3 {
+    color: var(--cyan);
+    margin-top: 0;
+    border-bottom: 1px dashed #333;
+    padding-bottom: 5px;
+    font-size: 1rem;
+}
+
+.data-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+    font-size: 0.85rem;
+}
+
+.val { color: #fff; font-weight: bold; }
+.highlight { color: var(--cyan); text-shadow: 0 0 5px var(--cyan); }
+
+/* --- RADAR ANIMATION --- */
+.center-stage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    perspective: 800px; /* For 3D Tilt Effect */
+}
+
+.radar {
+    width: 150px;
+    height: 150px;
+    border: 2px solid var(--text);
+    border-radius: 50%;
+    position: relative;
+    background: radial-gradient(circle, transparent 20%, rgba(0,255,65,0.1) 60%);
+    box-shadow: 0 0 15px var(--text);
+    transition: transform 0.1s; /* Smooth tilt */
+}
+
+.sweep {
+    width: 50%;
+    height: 2px;
+    background: var(--text);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: left;
+    animation: sweep 2s infinite linear;
+    box-shadow: 0 0 10px var(--text);
+}
+
+@keyframes sweep {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.status-msg { margin-top: 15px; font-size: 0.8rem; letter-spacing: 2px; animation: blink 1s infinite; }
+
+.blink { animation: blink 1s infinite; }
+@keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+
+/* --- FOOTER --- */
+.terminal-log {
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    padding-top: 10px;
+    font-size: 0.8rem;
+    word-break: break-all;
+}
+
+.fingerprint-box {
+    margin-top: 10px;
+    background: #111;
+    padding: 10px;
+    border-left: 3px solid var(--alert);
+    font-family: monospace;
+    word-break: break-all;
+}
