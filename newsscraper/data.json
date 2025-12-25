@@ -1,5 +1,33 @@
 [
     {
+        "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
+        "source": "The Hacker News",
+        "time": "2025-12-25",
+        "category": "\ue802Dec 25, 2025Data Breach / Financial Crime",
+        "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html"
+    },
+    {
+        "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+        "source": "The Hacker News",
+        "time": "2025-12-25",
+        "category": "\ue802Dec 25, 2025Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html"
+    },
+    {
+        "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+        "source": "The Hacker News",
+        "time": "2025-12-25",
+        "category": "\ue802Dec 25, 2025Vulnerability / Endpoint Security",
+        "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html"
+    },
+    {
+        "title": "The Breach You Didn't Expect: Your AppSec Stack",
+        "source": "The Hacker News",
+        "time": "2025-12-25",
+        "category": "JFrogAppSec / DevSecOps",
+        "link": "https://thehackernews.uk/cyber-breach-insights"
+    },
+    {
         "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
         "source": "The Hacker News",
         "time": "2025-12-25",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html"
     },
     {
-        "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
-        "source": "The Hacker News",
-        "time": "2025-12-25",
-        "category": "\ue802Dec 24, 2025Password Management / Access Control",
-        "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html"
-    },
-    {
-        "title": "The Breach You Didn't Expect: Your AppSec Stack",
-        "source": "The Hacker News",
-        "time": "2025-12-25",
-        "category": "JFrogAppSec / DevSecOps",
-        "link": "https://thehackernews.uk/cyber-breach-insights"
-    },
-    {
-        "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
-        "source": "The Hacker News",
-        "time": "2025-12-25",
-        "category": "\ue802Dec 24, 2025Artificial Intelligence / Cryptocurrency",
-        "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html"
-    },
-    {
-        "title": "Italy Fines Apple \u20ac98.6 Million Over ATT Rules Limiting App Store Competition",
-        "source": "The Hacker News",
-        "time": "2025-12-25",
-        "category": "\ue802Dec 24, 2025Privacy / Antitrust",
-        "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2025-12-25",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
+        "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
         "source": "The Hacker News",
         "time": "2025-12-25",
-        "category": "\ue802Dec 23, 2025Browser Security / Enterprise Security",
-        "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html"
+        "category": "\ue802Dec 24, 2025Password Management / Access Control",
+        "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html"
     }
 ]
