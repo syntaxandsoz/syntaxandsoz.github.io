@@ -1,5 +1,12 @@
 [
     {
+        "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+        "source": "The Hacker News",
+        "time": "2025-12-27",
+        "category": "\ue802Dec 27, 2025Database Security / Vulnerability",
+        "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html"
+    },
+    {
         "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
         "source": "The Hacker News",
         "time": "2025-12-27",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html"
     },
     {
-        "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-        "source": "The Hacker News",
-        "time": "2025-12-27",
-        "category": "\ue802Dec 26, 2025AI Security / DevSecOps",
-        "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html"
-    },
-    {
         "title": "The Breach You Didn't Expect: Your AppSec Stack",
         "source": "The Hacker News",
         "time": "2025-12-27",
         "category": "JFrogAppSec / DevSecOps",
         "link": "https://thehackernews.uk/cyber-breach-insights"
+    },
+    {
+        "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
+        "source": "The Hacker News",
+        "time": "2025-12-27",
+        "category": "\ue802Dec 26, 2025AI Security / DevSecOps",
+        "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html"
     },
     {
         "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html"
     },
     {
-        "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
-        "source": "The Hacker News",
-        "time": "2025-12-27",
-        "category": "\ue802Dec 25, 2025Data Breach / Financial Crime",
-        "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2025-12-27",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+        "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
         "source": "The Hacker News",
         "time": "2025-12-27",
-        "category": "\ue802Dec 25, 2025Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html"
+        "category": "\ue802Dec 25, 2025Data Breach / Financial Crime",
+        "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html"
     }
 ]
