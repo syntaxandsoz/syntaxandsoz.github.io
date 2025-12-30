@@ -1,5 +1,12 @@
 [
     {
+        "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
+        "source": "The Hacker News",
+        "time": "2025-12-30",
+        "category": "\ue802Dec 30, 2026Vulnerability / Email Security",
+        "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html"
+    },
+    {
         "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
         "source": "The Hacker News",
         "time": "2025-12-30",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html"
     },
     {
-        "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
-        "source": "The Hacker News",
-        "time": "2025-12-30",
-        "category": "\ue802Dec 30, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html"
-    },
-    {
         "title": "The Breach You Didn't Expect: Your AppSec Stack",
         "source": "The Hacker News",
         "time": "2025-12-30",
         "category": "JFrogAppSec / DevSecOps",
         "link": "https://thehackernews.uk/hidden-vendor-threat"
+    },
+    {
+        "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
+        "source": "The Hacker News",
+        "time": "2025-12-30",
+        "category": "\ue802Dec 30, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html"
     },
     {
         "title": "\u26a1 Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html"
     },
     {
-        "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
-        "source": "The Hacker News",
-        "time": "2025-12-30",
-        "category": "\ue802Dec 29, 2026Database Security / Vulnerability",
-        "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2025-12-30",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+        "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
         "source": "The Hacker News",
         "time": "2025-12-30",
-        "category": "\ue802Dec 29, 2026Threat Intelligence / Cloud Security",
-        "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html"
+        "category": "\ue802Dec 29, 2026Database Security / Vulnerability",
+        "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html"
     }
 ]
