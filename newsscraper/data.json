@@ -1,10 +1,31 @@
 [
     {
+        "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
+        "source": "The Hacker News",
+        "time": "2025-12-31",
+        "category": "\ue802Dec 31, 2026API Security / Vulnerability",
+        "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html"
+    },
+    {
+        "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
+        "source": "The Hacker News",
+        "time": "2025-12-31",
+        "category": "\ue802Dec 31, 2026Cybersecurity / Malware",
+        "link": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html"
+    },
+    {
         "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
         "source": "The Hacker News",
         "time": "2025-12-31",
         "category": "\ue802Dec 31, 2026Spyware / Mobile Security",
         "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html"
+    },
+    {
+        "title": "The Breach You Didn't Expect: Your AppSec Stack",
+        "source": "The Hacker News",
+        "time": "2025-12-31",
+        "category": "JFrogAppSec / DevSecOps",
+        "link": "https://thehackernews.uk/hidden-vendor-threat"
     },
     {
         "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html"
     },
     {
-        "title": "The Breach You Didn't Expect: Your AppSec Stack",
-        "source": "The Hacker News",
-        "time": "2025-12-31",
-        "category": "JFrogAppSec / DevSecOps",
-        "link": "https://thehackernews.uk/hidden-vendor-threat"
-    },
-    {
-        "title": "How to Integrate AI into Modern SOC Workflows",
-        "source": "The Hacker News",
-        "time": "2025-12-31",
-        "category": "\ue802Dec 30, 2026Threat Hunting / Artificial Intelligence",
-        "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html"
-    },
-    {
-        "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
-        "source": "The Hacker News",
-        "time": "2025-12-31",
-        "category": "\ue802Dec 30, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2025-12-31",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "\u26a1 Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+        "title": "How to Integrate AI into Modern SOC Workflows",
         "source": "The Hacker News",
         "time": "2025-12-31",
-        "category": "\ue802Dec 29, 2026Hacking News / Cybersecurity",
-        "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html"
+        "category": "\ue802Dec 30, 2026Threat Hunting / Artificial Intelligence",
+        "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html"
     }
 ]
