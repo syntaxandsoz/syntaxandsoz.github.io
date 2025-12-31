@@ -1,10 +1,31 @@
 [
     {
+        "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
+        "source": "The Hacker News",
+        "time": "2025-12-31",
+        "category": "\ue802Dec 31, 2026Software Security / Data Breach",
+        "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html"
+    },
+    {
+        "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+        "source": "The Hacker News",
+        "time": "2025-12-31",
+        "category": "\ue802Dec 31, 2026Malware / Ad Fraud",
+        "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html"
+    },
+    {
         "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
         "source": "The Hacker News",
         "time": "2025-12-31",
         "category": "\ue802Dec 31, 2026API Security / Vulnerability",
         "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html"
+    },
+    {
+        "title": "The Breach You Didn't Expect: Your AppSec Stack",
+        "source": "The Hacker News",
+        "time": "2025-12-31",
+        "category": "JFrogAppSec / DevSecOps",
+        "link": "https://thehackernews.uk/hidden-vendor-threat"
     },
     {
         "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html"
     },
     {
-        "title": "The Breach You Didn't Expect: Your AppSec Stack",
-        "source": "The Hacker News",
-        "time": "2025-12-31",
-        "category": "JFrogAppSec / DevSecOps",
-        "link": "https://thehackernews.uk/hidden-vendor-threat"
-    },
-    {
-        "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
-        "source": "The Hacker News",
-        "time": "2025-12-31",
-        "category": "\ue802Dec 30, 2026Vulnerability / Email Security",
-        "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html"
-    },
-    {
-        "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-        "source": "The Hacker News",
-        "time": "2025-12-31",
-        "category": "\ue802Dec 30, 2026Phishing / Malware",
-        "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2025-12-31",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "How to Integrate AI into Modern SOC Workflows",
+        "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
         "source": "The Hacker News",
         "time": "2025-12-31",
-        "category": "\ue802Dec 30, 2026Threat Hunting / Artificial Intelligence",
-        "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html"
+        "category": "\ue802Dec 30, 2026Vulnerability / Email Security",
+        "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html"
     }
 ]
