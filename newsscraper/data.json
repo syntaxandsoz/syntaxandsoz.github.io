@@ -1,10 +1,31 @@
 [
     {
+        "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
+        "source": "The Hacker News",
+        "time": "2026-01-01",
+        "category": "\ue802Jan 01, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html"
+    },
+    {
         "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
         "source": "The Hacker News",
         "time": "2026-01-01",
         "category": "\ue802Jan 01, 2026Network Security / Vulnerability",
         "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html"
+    },
+    {
+        "title": "How To Browse Faster and Get More Done Using Adapt Browser",
+        "source": "The Hacker News",
+        "time": "2026-01-01",
+        "category": "\ue802Jan 01, 2026Web Browser / Technology",
+        "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html"
+    },
+    {
+        "title": "The Breach You Didn't Expect: Your AppSec Stack",
+        "source": "The Hacker News",
+        "time": "2026-01-01",
+        "category": "JFrogAppSec / DevSecOps",
+        "link": "https://thehackernews.uk/hidden-vendor-threat"
     },
     {
         "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html"
     },
     {
-        "title": "The Breach You Didn't Expect: Your AppSec Stack",
-        "source": "The Hacker News",
-        "time": "2026-01-01",
-        "category": "JFrogAppSec / DevSecOps",
-        "link": "https://thehackernews.uk/hidden-vendor-threat"
-    },
-    {
-        "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
-        "source": "The Hacker News",
-        "time": "2026-01-01",
-        "category": "\ue802Dec 31, 2026API Security / Vulnerability",
-        "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html"
-    },
-    {
-        "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
-        "source": "The Hacker News",
-        "time": "2026-01-01",
-        "category": "\ue802Dec 31, 2026Cybersecurity / Malware",
-        "link": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2026-01-01",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
+        "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
         "source": "The Hacker News",
         "time": "2026-01-01",
-        "category": "\ue802Dec 31, 2026Spyware / Mobile Security",
-        "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html"
+        "category": "\ue802Dec 31, 2026API Security / Vulnerability",
+        "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html"
     }
 ]
