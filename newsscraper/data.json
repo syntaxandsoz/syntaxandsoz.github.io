@@ -1,10 +1,31 @@
 [
     {
+        "title": "The ROI Problem in Attack Surface Management",
+        "source": "The Hacker News",
+        "time": "2026-01-02",
+        "category": "\ue802Jan 02, 2026Cloud Security / Security Operations",
+        "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html"
+    },
+    {
+        "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
+        "source": "The Hacker News",
+        "time": "2026-01-02",
+        "category": "\ue802Jan 02, 2026Cloud Security / Email Security",
+        "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html"
+    },
+    {
         "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
         "source": "The Hacker News",
         "time": "2026-01-02",
         "category": "\ue802Jan 01, 2026Cybersecurity / Hacking News",
         "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html"
+    },
+    {
+        "title": "The Breach You Didn't Expect: Your AppSec Stack",
+        "source": "The Hacker News",
+        "time": "2026-01-02",
+        "category": "JFrogAppSec / DevSecOps",
+        "link": "https://thehackernews.uk/hidden-vendor-threat"
     },
     {
         "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html"
     },
     {
-        "title": "The Breach You Didn't Expect: Your AppSec Stack",
-        "source": "The Hacker News",
-        "time": "2026-01-02",
-        "category": "JFrogAppSec / DevSecOps",
-        "link": "https://thehackernews.uk/hidden-vendor-threat"
-    },
-    {
-        "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
-        "source": "The Hacker News",
-        "time": "2026-01-02",
-        "category": "\ue802Dec 31, 2026Software Security / Data Breach",
-        "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html"
-    },
-    {
-        "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
-        "source": "The Hacker News",
-        "time": "2026-01-02",
-        "category": "\ue802Dec 31, 2026Malware / Ad Fraud",
-        "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html"
-    },
-    {
         "title": "How AI and Zero Trust Work Together to Catch Attacks With No Files or Indicators",
         "source": "The Hacker News",
         "time": "2026-01-02",
@@ -49,10 +49,10 @@
         "link": "https://thehacker.news/proactive-cloud-security?source=newsfeed"
     },
     {
-        "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
+        "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-01-02",
-        "category": "\ue802Dec 31, 2026API Security / Vulnerability",
-        "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html"
+        "category": "\ue802Dec 31, 2026Software Security / Data Breach",
+        "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html"
     }
 ]
