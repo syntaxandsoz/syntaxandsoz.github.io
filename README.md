@@ -44,7 +44,7 @@ I believe in open-source, encryption, and the freedom of the internet.
 ---
 
 <div align="center">
-  <a href="mailto:syntaxandsoz@proton.me">
+  <a href="mailto:syntaxandsoz@outlook.com">
     <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge" />
   </a>
 </div>
