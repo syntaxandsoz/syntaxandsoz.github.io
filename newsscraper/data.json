@@ -1,10 +1,31 @@
 [
     {
+        "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+        "source": "The Hacker News",
+        "time": "2026-01-05",
+        "category": "\ue802Jan 05, 2026Cyber Espionage / Windows Security",
+        "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html"
+    },
+    {
+        "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+        "source": "The Hacker News",
+        "time": "2026-01-05",
+        "category": "\ue802Jan 05, 2026IoT Security / Mobile Security",
+        "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html"
+    },
+    {
         "title": "\u26a1 Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
         "source": "The Hacker News",
         "time": "2026-01-05",
         "category": "\ue802Jan 05, 2026Hacking News / Cybersecurity",
         "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-05",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinel-risk-report"
     },
     {
         "title": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html"
     },
     {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-05",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinel-risk-report"
-    },
-    {
-        "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
-        "source": "The Hacker News",
-        "time": "2026-01-05",
-        "category": "\ue802Jan 05, 2026Threat Intelligence / Windows Security",
-        "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html"
-    },
-    {
-        "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
-        "source": "The Hacker News",
-        "time": "2026-01-05",
-        "category": "\ue802Jan 02, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-05",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "The ROI Problem in Attack Surface Management",
+        "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
         "source": "The Hacker News",
         "time": "2026-01-05",
-        "category": "\ue802Jan 02, 2026Cloud Security / Security Operations",
-        "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html"
+        "category": "\ue802Jan 05, 2026Threat Intelligence / Windows Security",
+        "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html"
     }
 ]
