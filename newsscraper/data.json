@@ -1,5 +1,33 @@
 [
     {
+        "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+        "source": "The Hacker News",
+        "time": "2026-01-06",
+        "category": "\ue802Jan 06, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html"
+    },
+    {
+        "title": "What is Identity Dark Matter?",
+        "source": "The Hacker News",
+        "time": "2026-01-06",
+        "category": "\ue802Jan 06, 2026SaaS Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html"
+    },
+    {
+        "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+        "source": "The Hacker News",
+        "time": "2026-01-06",
+        "category": "\ue802Jan 06, 2026Threat Intelligence / Cloud Security",
+        "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-06",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinel-risk-report"
+    },
+    {
         "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
         "source": "The Hacker News",
         "time": "2026-01-06",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html"
     },
     {
-        "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
-        "source": "The Hacker News",
-        "time": "2026-01-06",
-        "category": "\ue802Jan 05, 2026Cyber Espionage / Windows Security",
-        "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html"
-    },
-    {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-06",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinel-risk-report"
-    },
-    {
-        "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
-        "source": "The Hacker News",
-        "time": "2026-01-06",
-        "category": "\ue802Jan 05, 2026IoT Security / Mobile Security",
-        "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html"
-    },
-    {
-        "title": "\u26a1 Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
-        "source": "The Hacker News",
-        "time": "2026-01-06",
-        "category": "\ue802Jan 05, 2026Hacking News / Cybersecurity",
-        "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-06",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations",
+        "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
         "source": "The Hacker News",
         "time": "2026-01-06",
-        "category": "\ue802Jan 05, 2026Data Protection / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html"
+        "category": "\ue802Jan 05, 2026Cyber Espionage / Windows Security",
+        "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html"
     }
 ]
