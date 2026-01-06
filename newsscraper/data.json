@@ -1,10 +1,31 @@
 [
     {
+        "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+        "source": "The Hacker News",
+        "time": "2026-01-06",
+        "category": "\ue802Jan 06, 2026Artificial Intelligence / Browser Security",
+        "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html"
+    },
+    {
+        "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+        "source": "The Hacker News",
+        "time": "2026-01-06",
+        "category": "\ue802Jan 06, 2026IoT Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html"
+    },
+    {
         "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
         "source": "The Hacker News",
         "time": "2026-01-06",
         "category": "\ue802Jan 06, 2026Malware / Endpoint Security",
         "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-06",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinel-risk-report"
     },
     {
         "title": "What is Identity Dark Matter?",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html"
     },
     {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-06",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinel-risk-report"
-    },
-    {
-        "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
-        "source": "The Hacker News",
-        "time": "2026-01-06",
-        "category": "\ue802Jan 06, 2026Vulnerability / DevOps",
-        "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html"
-    },
-    {
-        "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
-        "source": "The Hacker News",
-        "time": "2026-01-06",
-        "category": "\ue802Jan 06, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-06",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+        "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
         "source": "The Hacker News",
         "time": "2026-01-06",
-        "category": "\ue802Jan 05, 2026Cyber Espionage / Windows Security",
-        "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html"
+        "category": "\ue802Jan 06, 2026Vulnerability / DevOps",
+        "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html"
     }
 ]
