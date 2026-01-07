@@ -1,24 +1,24 @@
 [
     {
-        "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+        "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
         "source": "The Hacker News",
         "time": "2026-01-07",
-        "category": "\ue802Jan 07, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html"
+        "category": "\ue802Jan 07, 2026Vulnerability / Automation",
+        "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html"
     },
     {
-        "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+        "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
         "source": "The Hacker News",
         "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026Artificial Intelligence / Browser Security",
-        "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html"
+        "category": "\ue802Jan 07, 2026Threat Detection / Endpoint Security",
+        "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html"
     },
     {
-        "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+        "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
         "source": "The Hacker News",
         "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026IoT Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html"
+        "category": "\ue802Jan 07, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html"
     },
     {
         "title": "2025 Cloud Security Risk Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sentinel-risk-report"
     },
     {
-        "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+        "title": "The Future of Cybersecurity Includes Non-Human Employees",
         "source": "The Hacker News",
         "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html"
+        "category": "\ue802Jan 07, 2026Enterprise Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html"
     },
     {
-        "title": "What is Identity Dark Matter?",
+        "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
         "source": "The Hacker News",
         "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026SaaS Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html"
+        "category": "\ue802Jan 07, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html"
     },
     {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+        "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
         "source": "The Hacker News",
         "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026Threat Intelligence / Cloud Security",
-        "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html"
+        "category": "\ue802Jan 07, 2026Email Security / Financial Fraud",
+        "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html"
     }
 ]
