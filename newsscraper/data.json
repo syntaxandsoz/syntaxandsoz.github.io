@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+        "source": "The Hacker News",
+        "time": "2026-01-07",
+        "category": "\ue802Jan 07, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html"
+    },
+    {
         "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
         "source": "The Hacker News",
         "time": "2026-01-07",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html"
     },
     {
-        "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
-        "source": "The Hacker News",
-        "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html"
-    },
-    {
         "title": "2025 Cloud Security Risk Report",
         "source": "The Hacker News",
         "time": "2026-01-07",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sentinel-risk-report"
+    },
+    {
+        "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+        "source": "The Hacker News",
+        "time": "2026-01-07",
+        "category": "\ue802Jan 06, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html"
     },
     {
         "title": "What is Identity Dark Matter?",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html"
     },
     {
-        "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
-        "source": "The Hacker News",
-        "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026Threat Intelligence / Cloud Security",
-        "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+        "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
         "source": "The Hacker News",
         "time": "2026-01-07",
-        "category": "\ue802Jan 06, 2026Vulnerability / DevOps",
-        "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html"
+        "category": "\ue802Jan 06, 2026Threat Intelligence / Cloud Security",
+        "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html"
     }
 ]
