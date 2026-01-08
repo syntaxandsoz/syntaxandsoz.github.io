@@ -1,10 +1,31 @@
 [
     {
+        "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+        "source": "The Hacker News",
+        "time": "2026-01-08",
+        "category": "\ue802Jan 08, 2026Privacy / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html"
+    },
+    {
+        "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
+        "source": "The Hacker News",
+        "time": "2026-01-08",
+        "category": "\ue802Jan 08, 2026Vulnerability / KEV Catalog",
+        "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html"
+    },
+    {
         "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
         "source": "The Hacker News",
         "time": "2026-01-08",
         "category": "\ue802Jan 07, 2026Threat Detection / Endpoint Security",
         "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-08",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinel-risk-report"
     },
     {
         "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html"
     },
     {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-08",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinel-risk-report"
-    },
-    {
-        "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
-        "source": "The Hacker News",
-        "time": "2026-01-08",
-        "category": "\ue802Jan 07, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html"
-    },
-    {
-        "title": "The Future of Cybersecurity Includes Non-Human Employees",
-        "source": "The Hacker News",
-        "time": "2026-01-08",
-        "category": "\ue802Jan 07, 2026Enterprise Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-08",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
+        "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
         "source": "The Hacker News",
         "time": "2026-01-08",
-        "category": "\ue802Jan 07, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html"
+        "category": "\ue802Jan 07, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html"
     }
 ]
