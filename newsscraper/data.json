@@ -1,24 +1,24 @@
 [
     {
-        "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+        "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
         "source": "The Hacker News",
         "time": "2026-01-08",
-        "category": "\ue802Jan 08, 2026Privacy / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html"
+        "category": "\ue802Jan 08, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html"
     },
     {
-        "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
+        "title": "The State of Trusted Open Source",
         "source": "The Hacker News",
         "time": "2026-01-08",
-        "category": "\ue802Jan 08, 2026Vulnerability / KEV Catalog",
-        "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html"
+        "category": "\ue802Jan 08, 2026DevSecOps / Compliance",
+        "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html"
     },
     {
-        "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+        "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
         "source": "The Hacker News",
         "time": "2026-01-08",
-        "category": "\ue802Jan 07, 2026Threat Detection / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html"
+        "category": "\ue802Jan 08, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html"
     },
     {
         "title": "2025 Cloud Security Risk Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sentinel-risk-report"
     },
     {
-        "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
+        "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
         "source": "The Hacker News",
         "time": "2026-01-08",
-        "category": "\ue802Jan 07, 2026Cybercrime / Software Security",
-        "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html"
+        "category": "\ue802Jan 08, 2026Malware / Cloud Security",
+        "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html"
     },
     {
-        "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
+        "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
         "source": "The Hacker News",
         "time": "2026-01-08",
-        "category": "\ue802Jan 07, 2026Vulnerability / Automation",
-        "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html"
+        "category": "\ue802Jan 08, 2026Vulnerability / Container Security",
+        "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html"
     },
     {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
+        "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
         "source": "The Hacker News",
         "time": "2026-01-08",
-        "category": "\ue802Jan 07, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html"
+        "category": "\ue802Jan 08, 2026Privacy / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html"
     }
 ]
