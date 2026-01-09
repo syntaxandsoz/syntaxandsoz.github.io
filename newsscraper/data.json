@@ -1,10 +1,31 @@
 [
     {
+        "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "\ue802Jan 09, 2026Virtualization / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html"
+    },
+    {
+        "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "\ue802Jan 09, 2026Email Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html"
+    },
+    {
         "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
         "source": "The Hacker News",
         "time": "2026-01-09",
         "category": "\ue802Jan 09, 2026Artificial Intelligence / Enterprise Security",
         "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinel-risk-report"
     },
     {
         "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html"
     },
     {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinel-risk-report"
-    },
-    {
-        "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "\ue802Jan 09, 2026Mobile Security / Email Security",
-        "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html"
-    },
-    {
-        "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Malware / Financial Crime",
-        "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-09",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
+        "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
         "source": "The Hacker News",
         "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html"
+        "category": "\ue802Jan 09, 2026Mobile Security / Email Security",
+        "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html"
     }
 ]
