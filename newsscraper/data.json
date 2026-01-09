@@ -1,5 +1,33 @@
 [
     {
+        "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "\ue802Jan 09, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html"
+    },
+    {
+        "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "\ue802Jan 09, 2026Vulnerability / Endpoint Security",
+        "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html"
+    },
+    {
+        "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "\ue802Jan 09, 2026Government / Vulnerability Management",
+        "link": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinel-risk-report"
+    },
+    {
         "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
         "source": "The Hacker News",
         "time": "2026-01-09",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html"
     },
     {
-        "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html"
-    },
-    {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinel-risk-report"
-    },
-    {
-        "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html"
-    },
-    {
-        "title": "The State of Trusted Open Source",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026DevSecOps / Compliance",
-        "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-09",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
+        "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
         "source": "The Hacker News",
         "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html"
+        "category": "\ue802Jan 08, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html"
     }
 ]
