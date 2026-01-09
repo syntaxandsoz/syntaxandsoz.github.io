@@ -1,5 +1,12 @@
 [
     {
+        "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "\ue802Jan 09, 2026Mobile Security / Email Security",
+        "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html"
+    },
+    {
         "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
         "source": "The Hacker News",
         "time": "2026-01-09",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html"
     },
     {
-        "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html"
-    },
-    {
         "title": "2025 Cloud Security Risk Report",
         "source": "The Hacker News",
         "time": "2026-01-09",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sentinel-risk-report"
+    },
+    {
+        "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+        "source": "The Hacker News",
+        "time": "2026-01-09",
+        "category": "\ue802Jan 08, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html"
     },
     {
         "title": "The State of Trusted Open Source",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html"
     },
     {
-        "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
-        "source": "The Hacker News",
-        "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html"
-    },
-    {
         "title": "Traditional Firewalls Are Obsolete in the AI Era",
         "source": "The Hacker News",
         "time": "2026-01-09",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-protect"
     },
     {
-        "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
+        "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
         "source": "The Hacker News",
         "time": "2026-01-09",
-        "category": "\ue802Jan 08, 2026Malware / Cloud Security",
-        "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html"
+        "category": "\ue802Jan 08, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html"
     }
 ]
