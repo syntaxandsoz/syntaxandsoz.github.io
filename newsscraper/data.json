@@ -1,5 +1,12 @@
 [
     {
+        "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+        "source": "The Hacker News",
+        "time": "2026-01-12",
+        "category": "\ue802Jan 12, 2026Vulnerability / Workflow Automation",
+        "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html"
+    },
+    {
         "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
         "source": "The Hacker News",
         "time": "2026-01-12",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html"
     },
     {
-        "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
-        "source": "The Hacker News",
-        "time": "2026-01-12",
-        "category": "\ue802Jan 12, 2026Artificial Intelligence / Healthcare",
-        "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html"
-    },
-    {
         "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
         "source": "The Hacker News",
         "time": "2026-01-12",
         "category": "FiligranIncident Response / Exposure Validation",
         "link": "https://thehackernews.uk/finserv-insights"
+    },
+    {
+        "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
+        "source": "The Hacker News",
+        "time": "2026-01-12",
+        "category": "\ue802Jan 12, 2026Artificial Intelligence / Healthcare",
+        "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html"
     },
     {
         "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html"
     },
     {
-        "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
-        "source": "The Hacker News",
-        "time": "2026-01-12",
-        "category": "\ue802Jan 10, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html"
-    },
-    {
         "title": "Humans Are the Ultimate Firewall at SANS Surge 2026",
         "source": "The Hacker News",
         "time": "2026-01-12",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/infosec-training"
     },
     {
-        "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime",
+        "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
         "source": "The Hacker News",
         "time": "2026-01-12",
-        "category": "\ue802Jan 10, 2026Cybercrime / Financial Crime",
-        "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html"
+        "category": "\ue802Jan 10, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html"
     }
 ]
