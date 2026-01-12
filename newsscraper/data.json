@@ -1,24 +1,24 @@
 [
     {
-        "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
+        "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
         "source": "The Hacker News",
         "time": "2026-01-12",
-        "category": "\ue802Jan 10, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html"
+        "category": "\ue802Jan 12, 2026Hacking News / Cybersecurity",
+        "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html"
     },
     {
-        "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime",
+        "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
         "source": "The Hacker News",
         "time": "2026-01-12",
-        "category": "\ue802Jan 10, 2026Cybercrime / Financial Crime",
-        "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html"
+        "category": "\ue802Jan 12, 2026Cryptocurrency / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html"
     },
     {
-        "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+        "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
         "source": "The Hacker News",
         "time": "2026-01-12",
-        "category": "\ue802Jan 09, 2026Virtualization / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html"
+        "category": "\ue802Jan 12, 2026Artificial Intelligence / Healthcare",
+        "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html"
     },
     {
         "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/finserv-insights"
     },
     {
-        "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
+        "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
         "source": "The Hacker News",
         "time": "2026-01-12",
-        "category": "\ue802Jan 09, 2026Email Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html"
+        "category": "\ue802Jan 12, 2026Crimeware / Malware",
+        "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html"
     },
     {
-        "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+        "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
         "source": "The Hacker News",
         "time": "2026-01-12",
-        "category": "\ue802Jan 09, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html"
+        "category": "\ue802Jan 10, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html"
     },
     {
         "title": "Humans Are the Ultimate Firewall at SANS Surge 2026",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/infosec-training"
     },
     {
-        "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
+        "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime",
         "source": "The Hacker News",
         "time": "2026-01-12",
-        "category": "\ue802Jan 09, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html"
+        "category": "\ue802Jan 10, 2026Cybercrime / Financial Crime",
+        "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html"
     }
 ]
