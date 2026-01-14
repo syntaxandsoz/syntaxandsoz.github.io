@@ -1,24 +1,24 @@
 [
     {
-        "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
+        "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
         "source": "The Hacker News",
         "time": "2026-01-14",
-        "category": "\ue802Jan 14, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html"
+        "category": "\ue802Jan 14, 2026Vulnerability / Patch Management",
+        "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html"
     },
     {
-        "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
+        "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
         "source": "The Hacker News",
         "time": "2026-01-14",
-        "category": "\ue802Jan 13, 2026Web Security / Data Theft",
-        "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html"
+        "category": "\ue802Jan 14, 2026Privacy / Web Security",
+        "link": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html"
     },
     {
-        "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+        "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited",
         "source": "The Hacker News",
         "time": "2026-01-14",
-        "category": "\ue802Jan 13, 2026Web Security / Online Fraud",
-        "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html"
+        "category": "\ue802Jan 14, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html"
     },
     {
         "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/finserv-insights"
     },
     {
-        "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+        "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
         "source": "The Hacker News",
         "time": "2026-01-14",
-        "category": "\ue802Jan 13, 2026Artificial Intelligence / Automation Security",
-        "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html"
+        "category": "\ue802Jan 14, 2026Application Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html"
     },
     {
-        "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
+        "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
         "source": "The Hacker News",
         "time": "2026-01-14",
-        "category": "\ue802Jan 13, 2026Threat Intelligence / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html"
+        "category": "\ue802Jan 14, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html"
     },
     {
         "title": "Humans Are the Ultimate Firewall at SANS Surge 2026",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/infosec-training"
     },
     {
-        "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
+        "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
         "source": "The Hacker News",
         "time": "2026-01-14",
-        "category": "\ue802Jan 13, 2026Threat Intelligence / Identity Security",
-        "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html"
+        "category": "\ue802Jan 13, 2026Web Security / Data Theft",
+        "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html"
     }
 ]
