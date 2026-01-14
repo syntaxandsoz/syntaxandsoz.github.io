@@ -1,10 +1,31 @@
 [
     {
+        "title": "AI Agents Are Becoming Privilege Escalation Paths",
+        "source": "The Hacker News",
+        "time": "2026-01-14",
+        "category": "\ue802Jan 14, 2026Artificial Intelligence / SaaS Security",
+        "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html"
+    },
+    {
+        "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+        "source": "The Hacker News",
+        "time": "2026-01-14",
+        "category": "\ue802Jan 14, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html"
+    },
+    {
         "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
         "source": "The Hacker News",
         "time": "2026-01-14",
         "category": "\ue802Jan 14, 2026Vulnerability / Patch Management",
         "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html"
+    },
+    {
+        "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
+        "source": "The Hacker News",
+        "time": "2026-01-14",
+        "category": "FiligranIncident Response / Exposure Validation",
+        "link": "https://thehackernews.uk/finserv-insights"
     },
     {
         "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html"
     },
     {
-        "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
-        "source": "The Hacker News",
-        "time": "2026-01-14",
-        "category": "FiligranIncident Response / Exposure Validation",
-        "link": "https://thehackernews.uk/finserv-insights"
-    },
-    {
-        "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
-        "source": "The Hacker News",
-        "time": "2026-01-14",
-        "category": "\ue802Jan 14, 2026Application Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html"
-    },
-    {
-        "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
-        "source": "The Hacker News",
-        "time": "2026-01-14",
-        "category": "\ue802Jan 14, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html"
-    },
-    {
         "title": "Humans Are the Ultimate Firewall at SANS Surge 2026",
         "source": "The Hacker News",
         "time": "2026-01-14",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/infosec-training"
     },
     {
-        "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
+        "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
         "source": "The Hacker News",
         "time": "2026-01-14",
-        "category": "\ue802Jan 13, 2026Web Security / Data Theft",
-        "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html"
+        "category": "\ue802Jan 14, 2026Application Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html"
     }
 ]
