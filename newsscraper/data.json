@@ -1,24 +1,24 @@
 [
     {
-        "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
+        "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
         "source": "The Hacker News",
         "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Botnet / Network Security",
-        "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html"
+        "category": "\ue802Jan 15, 2026Data Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html"
     },
     {
-        "title": "AI Agents Are Becoming Privilege Escalation Paths",
+        "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
         "source": "The Hacker News",
         "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Artificial Intelligence / SaaS Security",
-        "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html"
+        "category": "\ue802Jan 15, 2026Threat Detection / Malware Analysis",
+        "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html"
     },
     {
-        "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+        "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
         "source": "The Hacker News",
         "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html"
+        "category": "\ue802Jan 15, 2026Cybercrime / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html"
     },
     {
         "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
@@ -28,31 +28,31 @@
         "link": "https://thehackernews.uk/finserv-insights"
     },
     {
-        "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
+        "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
         "source": "The Hacker News",
         "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Vulnerability / Patch Management",
-        "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html"
+        "category": "\ue802Jan 15, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html"
     },
     {
-        "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
+        "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
         "source": "The Hacker News",
         "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Privacy / Web Security",
-        "link": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html"
+        "category": "\ue802Jan 14, 2026Botnet / Network Security",
+        "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html"
     },
     {
-        "title": "Humans Are the Ultimate Firewall at SANS Surge 2026",
+        "title": "The Cyber Event of the Year Returns: SANS 2026",
         "source": "The Hacker News",
         "time": "2026-01-15",
         "category": "SANS InstituteCybersecurity Training / Certification",
-        "link": "https://thehackernews.uk/infosec-training"
+        "link": "https://thehackernews.uk/security-event-2026"
     },
     {
-        "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited",
+        "title": "AI Agents Are Becoming Authorization Bypass Paths",
         "source": "The Hacker News",
         "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html"
+        "category": "\ue802Jan 14, 2026Artificial Intelligence / SaaS Security",
+        "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html"
     }
 ]
