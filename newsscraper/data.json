@@ -1,5 +1,33 @@
 [
     {
+        "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+        "source": "The Hacker News",
+        "time": "2026-01-15",
+        "category": "\ue802Jan 15, 2026Web Security /Vulnerability",
+        "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html"
+    },
+    {
+        "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+        "source": "The Hacker News",
+        "time": "2026-01-15",
+        "category": "\ue802Jan 15, 2026Prompt Injection / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html"
+    },
+    {
+        "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+        "source": "The Hacker News",
+        "time": "2026-01-15",
+        "category": "\ue802Jan 15, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html"
+    },
+    {
+        "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
+        "source": "The Hacker News",
+        "time": "2026-01-15",
+        "category": "FiligranIncident Response / Exposure Validation",
+        "link": "https://thehackernews.uk/finserv-insights"
+    },
+    {
         "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
         "source": "The Hacker News",
         "time": "2026-01-15",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html"
     },
     {
-        "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-        "source": "The Hacker News",
-        "time": "2026-01-15",
-        "category": "\ue802Jan 15, 2026Cybercrime / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html"
-    },
-    {
-        "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
-        "source": "The Hacker News",
-        "time": "2026-01-15",
-        "category": "FiligranIncident Response / Exposure Validation",
-        "link": "https://thehackernews.uk/finserv-insights"
-    },
-    {
-        "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-        "source": "The Hacker News",
-        "time": "2026-01-15",
-        "category": "\ue802Jan 15, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html"
-    },
-    {
-        "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
-        "source": "The Hacker News",
-        "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Botnet / Network Security",
-        "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html"
-    },
-    {
         "title": "The Cyber Event of the Year Returns: SANS 2026",
         "source": "The Hacker News",
         "time": "2026-01-15",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-event-2026"
     },
     {
-        "title": "AI Agents Are Becoming Authorization Bypass Paths",
+        "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
         "source": "The Hacker News",
         "time": "2026-01-15",
-        "category": "\ue802Jan 14, 2026Artificial Intelligence / SaaS Security",
-        "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html"
+        "category": "\ue802Jan 15, 2026Cybercrime / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html"
     }
 ]
