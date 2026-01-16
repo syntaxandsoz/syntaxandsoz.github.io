@@ -1,5 +1,33 @@
 [
     {
+        "title": "Your Digital Footprint Can Lead Right to Your Front Door",
+        "source": "The Hacker News",
+        "time": "2026-01-16",
+        "category": "\ue802Jan 16, 2026Privacy / Data Protection",
+        "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html"
+    },
+    {
+        "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
+        "source": "The Hacker News",
+        "time": "2026-01-16",
+        "category": "\ue802Jan 16, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html"
+    },
+    {
+        "title": "China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure",
+        "source": "The Hacker News",
+        "time": "2026-01-16",
+        "category": "\ue802Jan 16, 2026Zero-Day / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html"
+    },
+    {
+        "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
+        "source": "The Hacker News",
+        "time": "2026-01-16",
+        "category": "FiligranIncident Response / Exposure Validation",
+        "link": "https://thehackernews.uk/finserv-insights"
+    },
+    {
         "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
         "source": "The Hacker News",
         "time": "2026-01-16",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html"
     },
     {
-        "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
-        "source": "The Hacker News",
-        "time": "2026-01-16",
-        "category": "\ue802Jan 15, 2026Web Security /Vulnerability",
-        "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html"
-    },
-    {
-        "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
-        "source": "The Hacker News",
-        "time": "2026-01-16",
-        "category": "FiligranIncident Response / Exposure Validation",
-        "link": "https://thehackernews.uk/finserv-insights"
-    },
-    {
-        "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
-        "source": "The Hacker News",
-        "time": "2026-01-16",
-        "category": "\ue802Jan 15, 2026Prompt Injection / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html"
-    },
-    {
-        "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
-        "source": "The Hacker News",
-        "time": "2026-01-16",
-        "category": "\ue802Jan 15, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html"
-    },
-    {
         "title": "The Cyber Event of the Year Returns: SANS 2026",
         "source": "The Hacker News",
         "time": "2026-01-16",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-event-2026"
     },
     {
-        "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
+        "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
         "source": "The Hacker News",
         "time": "2026-01-16",
-        "category": "\ue802Jan 15, 2026Data Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html"
+        "category": "\ue802Jan 15, 2026Web Security /Vulnerability",
+        "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html"
     }
 ]
