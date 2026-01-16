@@ -1,24 +1,24 @@
 [
     {
+        "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
+        "source": "The Hacker News",
+        "time": "2026-01-16",
+        "category": "\ue802Jan 16, 2026Malvertising / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html"
+    },
+    {
+        "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+        "source": "The Hacker News",
+        "time": "2026-01-16",
+        "category": "\ue802Jan 16, 2026Browser Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html"
+    },
+    {
         "title": "Your Digital Footprint Can Lead Right to Your Front Door",
         "source": "The Hacker News",
         "time": "2026-01-16",
         "category": "\ue802Jan 16, 2026Privacy / Data Protection",
         "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html"
-    },
-    {
-        "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
-        "source": "The Hacker News",
-        "time": "2026-01-16",
-        "category": "\ue802Jan 16, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html"
-    },
-    {
-        "title": "China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure",
-        "source": "The Hacker News",
-        "time": "2026-01-16",
-        "category": "\ue802Jan 16, 2026Zero-Day / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html"
     },
     {
         "title": "Operationalize Incident Response: Scale Tabletop Exercises with AEV",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/finserv-insights"
     },
     {
-        "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
+        "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
         "source": "The Hacker News",
         "time": "2026-01-16",
-        "category": "\ue802Jan 16, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html"
+        "category": "\ue802Jan 16, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html"
     },
     {
-        "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
+        "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
         "source": "The Hacker News",
         "time": "2026-01-16",
-        "category": "\ue802Jan 15, 2026Cloud Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html"
+        "category": "\ue802Jan 16, 2026Zero-Day / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html"
     },
     {
         "title": "The Cyber Event of the Year Returns: SANS 2026",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-event-2026"
     },
     {
-        "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+        "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
         "source": "The Hacker News",
         "time": "2026-01-16",
-        "category": "\ue802Jan 15, 2026Web Security /Vulnerability",
-        "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html"
+        "category": "\ue802Jan 16, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html"
     }
 ]
