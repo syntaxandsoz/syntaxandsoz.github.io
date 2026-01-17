@@ -1,5 +1,12 @@
 [
     {
+        "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
+        "source": "The Hacker News",
+        "time": "2026-01-17",
+        "category": "\ue802Jan 17, 2026Law Enforcement / Cybercrime",
+        "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html"
+    },
+    {
         "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
         "source": "The Hacker News",
         "time": "2026-01-17",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html"
     },
     {
-        "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
-        "source": "The Hacker News",
-        "time": "2026-01-17",
-        "category": "\ue802Jan 16, 2026Browser Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html"
-    },
-    {
         "title": "Compliance-Ready Tabletop Exercises to Elevate Incident Response",
         "source": "The Hacker News",
         "time": "2026-01-17",
         "category": "FiligranIncident Response / Exposure Validation",
         "link": "https://thehackernews.uk/filigran-insights"
+    },
+    {
+        "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+        "source": "The Hacker News",
+        "time": "2026-01-17",
+        "category": "\ue802Jan 16, 2026Browser Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html"
     },
     {
         "title": "Your Digital Footprint Can Lead Right to Your Front Door",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html"
     },
     {
-        "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
-        "source": "The Hacker News",
-        "time": "2026-01-17",
-        "category": "\ue802Jan 16, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html"
-    },
-    {
         "title": "The Cyber Event of the Year Returns: SANS 2026",
         "source": "The Hacker News",
         "time": "2026-01-17",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-event-2026"
     },
     {
-        "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
+        "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
         "source": "The Hacker News",
         "time": "2026-01-17",
-        "category": "\ue802Jan 16, 2026Zero-Day / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html"
+        "category": "\ue802Jan 16, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html"
     }
 ]
