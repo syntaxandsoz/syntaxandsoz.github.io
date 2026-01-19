@@ -1,5 +1,12 @@
 [
     {
+        "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+        "source": "The Hacker News",
+        "time": "2026-01-19",
+        "category": "\ue802Jan 19, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html"
+    },
+    {
         "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
         "source": "The Hacker News",
         "time": "2026-01-19",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html"
     },
     {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-19",
+        "category": "SentinelOneCloud Security / Artificial Intelligence",
+        "link": "https://thehackernews.uk/cloud-threat-insights"
+    },
+    {
         "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
         "source": "The Hacker News",
         "time": "2026-01-19",
         "category": "\ue802Jan 16, 2026Malvertising / Threat Intelligence",
         "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html"
-    },
-    {
-        "title": "Compliance-Ready Tabletop Exercises to Elevate Incident Response",
-        "source": "The Hacker News",
-        "time": "2026-01-19",
-        "category": "FiligranIncident Response / Exposure Validation",
-        "link": "https://thehackernews.uk/filigran-insights"
     },
     {
         "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
@@ -35,24 +42,17 @@
         "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html"
     },
     {
+        "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
+        "source": "The Hacker News",
+        "time": "2026-01-19",
+        "category": "RecoAI Security / (SaaS Security",
+        "link": "https://thehackernews.uk/security-ai-insights"
+    },
+    {
         "title": "Your Digital Footprint Can Lead Right to Your Front Door",
         "source": "The Hacker News",
         "time": "2026-01-19",
         "category": "\ue802Jan 16, 2026Privacy / Data Protection",
         "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html"
-    },
-    {
-        "title": "The Cyber Event of the Year Returns: SANS 2026",
-        "source": "The Hacker News",
-        "time": "2026-01-19",
-        "category": "SANS InstituteCybersecurity Training / Certification",
-        "link": "https://thehackernews.uk/security-event-2026"
-    },
-    {
-        "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
-        "source": "The Hacker News",
-        "time": "2026-01-19",
-        "category": "\ue802Jan 16, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html"
     }
 ]
