@@ -1,24 +1,24 @@
 [
     {
-        "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+        "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
         "source": "The Hacker News",
         "time": "2026-01-19",
-        "category": "\ue802Jan 19, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html"
+        "category": "\ue802Jan 19, 2026Hacking News / Cybersecurity",
+        "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html"
     },
     {
-        "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
+        "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
         "source": "The Hacker News",
         "time": "2026-01-19",
-        "category": "\ue802Jan 17, 2026Law Enforcement / Cybercrime",
-        "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html"
+        "category": "\ue802Jan 19, 2026DevOps / SaaS Downtime",
+        "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html"
     },
     {
-        "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
+        "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
         "source": "The Hacker News",
         "time": "2026-01-19",
-        "category": "\ue802Jan 17, 2026Artificial Intelligence / Data Privacy",
-        "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html"
+        "category": "\ue802Jan 19, 2026Hardware Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html"
     },
     {
         "title": "2025 Cloud Security Risk Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-threat-insights"
     },
     {
-        "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
+        "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
         "source": "The Hacker News",
         "time": "2026-01-19",
-        "category": "\ue802Jan 16, 2026Malvertising / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html"
+        "category": "\ue802Jan 19, 2026Malware / Windows Security",
+        "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html"
     },
     {
-        "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+        "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
         "source": "The Hacker News",
         "time": "2026-01-19",
-        "category": "\ue802Jan 16, 2026Browser Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html"
+        "category": "\ue802Jan 19, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html"
     },
     {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "Your Digital Footprint Can Lead Right to Your Front Door",
+        "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
         "source": "The Hacker News",
         "time": "2026-01-19",
-        "category": "\ue802Jan 16, 2026Privacy / Data Protection",
-        "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html"
+        "category": "\ue802Jan 17, 2026Law Enforcement / Cybercrime",
+        "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html"
     }
 ]
