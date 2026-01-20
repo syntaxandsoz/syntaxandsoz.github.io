@@ -1,24 +1,24 @@
 [
     {
-        "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+        "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
         "source": "The Hacker News",
         "time": "2026-01-20",
-        "category": "\ue802Jan 19, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html"
+        "category": "\ue802Jan 20, 2026Vulnerability / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+        "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
         "source": "The Hacker News",
         "time": "2026-01-20",
-        "category": "\ue802Jan 19, 2026Hacking News / Cybersecurity",
-        "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html"
+        "category": "\ue802Jan 20, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html"
     },
     {
-        "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+        "title": "The Hidden Risk of Orphan Accounts",
         "source": "The Hacker News",
         "time": "2026-01-20",
-        "category": "\ue802Jan 19, 2026DevOps / SaaS Downtime",
-        "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html"
+        "category": "\ue802Jan 20, 2026Enterprise Security / AI Security",
+        "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html"
     },
     {
         "title": "2025 Cloud Security Risk Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-threat-insights"
     },
     {
-        "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+        "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
         "source": "The Hacker News",
         "time": "2026-01-20",
-        "category": "\ue802Jan 19, 2026Hardware Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html"
+        "category": "\ue802Jan 20, 2026Cloud Security / Developer Security",
+        "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html"
     },
     {
-        "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+        "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
         "source": "The Hacker News",
         "time": "2026-01-20",
-        "category": "\ue802Jan 19, 2026Malware / Windows Security",
-        "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html"
+        "category": "\ue802Jan 20, 2026Web Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html"
     },
     {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+        "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
         "source": "The Hacker News",
         "time": "2026-01-20",
-        "category": "\ue802Jan 19, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html"
+        "category": "\ue802Jan 20, 2026API Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html"
     }
 ]
