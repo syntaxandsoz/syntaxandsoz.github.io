@@ -1,5 +1,12 @@
 [
     {
+        "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
+        "source": "The Hacker News",
+        "time": "2026-01-20",
+        "category": "\ue802Jan 20, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html"
+    },
+    {
         "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
         "source": "The Hacker News",
         "time": "2026-01-20",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html"
     },
     {
-        "title": "The Hidden Risk of Orphan Accounts",
-        "source": "The Hacker News",
-        "time": "2026-01-20",
-        "category": "\ue802Jan 20, 2026Enterprise Security / AI Security",
-        "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html"
-    },
-    {
         "title": "2025 Cloud Security Risk Report",
         "source": "The Hacker News",
         "time": "2026-01-20",
         "category": "SentinelOneCloud Security / Artificial Intelligence",
         "link": "https://thehackernews.uk/cloud-threat-insights"
+    },
+    {
+        "title": "The Hidden Risk of Orphan Accounts",
+        "source": "The Hacker News",
+        "time": "2026-01-20",
+        "category": "\ue802Jan 20, 2026Enterprise Security / AI Security",
+        "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html"
     },
     {
         "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html"
     },
     {
-        "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-        "source": "The Hacker News",
-        "time": "2026-01-20",
-        "category": "\ue802Jan 20, 2026Web Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html"
-    },
-    {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
         "source": "The Hacker News",
         "time": "2026-01-20",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+        "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
         "source": "The Hacker News",
         "time": "2026-01-20",
-        "category": "\ue802Jan 20, 2026API Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html"
+        "category": "\ue802Jan 20, 2026Web Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html"
     }
 ]
