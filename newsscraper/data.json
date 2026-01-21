@@ -1,24 +1,24 @@
 [
     {
-        "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
+        "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
         "source": "The Hacker News",
         "time": "2026-01-21",
-        "category": "\ue802Jan 21, 2026Open Source / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html"
+        "category": "\ue802Jan 21, 2026Artificial Intelligence / Automation",
+        "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html"
     },
     {
-        "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
+        "title": "Exposure Assessment Platforms Signal a Shift in Focus",
         "source": "The Hacker News",
         "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html"
+        "category": "\ue802Jan 21, 2026Vulnerability Management / Threat Modeling",
+        "link": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html"
     },
     {
-        "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+        "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs",
         "source": "The Hacker News",
         "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html"
+        "category": "\ue802Jan 21, 2026Vulnerability / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html"
     },
     {
         "title": "2025 Cloud Security Risk Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-threat-insights"
     },
     {
-        "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+        "title": "VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code",
         "source": "The Hacker News",
         "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html"
+        "category": "\ue802Jan 21, 2026Artificial Intelligence / Cybercrime",
+        "link": "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html"
     },
     {
-        "title": "The Hidden Risk of Orphan Accounts",
+        "title": "LastPass Warns of Fake Maintenance Messages Targeting Users' Master Passwords",
         "source": "The Hacker News",
         "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Enterprise Security / AI Security",
-        "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html"
+        "category": "\ue802Jan 21, 2026Email Security / Malware",
+        "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html"
     },
     {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+        "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
         "source": "The Hacker News",
         "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Cloud Security / Developer Security",
-        "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html"
+        "category": "\ue802Jan 21, 2026Open Source / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html"
     }
 ]
