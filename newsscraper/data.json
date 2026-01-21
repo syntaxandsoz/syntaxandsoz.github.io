@@ -1,5 +1,12 @@
 [
     {
+        "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-01-21",
+        "category": "\ue802Jan 21, 2026Open Source / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html"
+    },
+    {
         "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
         "source": "The Hacker News",
         "time": "2026-01-21",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html"
     },
     {
-        "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
-        "source": "The Hacker News",
-        "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html"
-    },
-    {
         "title": "2025 Cloud Security Risk Report",
         "source": "The Hacker News",
         "time": "2026-01-21",
         "category": "SentinelOneCloud Security / Artificial Intelligence",
         "link": "https://thehackernews.uk/cloud-threat-insights"
+    },
+    {
+        "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+        "source": "The Hacker News",
+        "time": "2026-01-21",
+        "category": "\ue802Jan 20, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html"
     },
     {
         "title": "The Hidden Risk of Orphan Accounts",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html"
     },
     {
-        "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
-        "source": "The Hacker News",
-        "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Cloud Security / Developer Security",
-        "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html"
-    },
-    {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
         "source": "The Hacker News",
         "time": "2026-01-21",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+        "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
         "source": "The Hacker News",
         "time": "2026-01-21",
-        "category": "\ue802Jan 20, 2026Web Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html"
+        "category": "\ue802Jan 20, 2026Cloud Security / Developer Security",
+        "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html"
     }
 ]
