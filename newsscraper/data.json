@@ -1,10 +1,31 @@
 [
     {
+        "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
+        "source": "The Hacker News",
+        "time": "2026-01-22",
+        "category": "\ue802Jan 22, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html"
+    },
+    {
+        "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+        "source": "The Hacker News",
+        "time": "2026-01-22",
+        "category": "\ue802Jan 22, 2026Vulnerability / Zero-Day",
+        "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html"
+    },
+    {
         "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
         "source": "The Hacker News",
         "time": "2026-01-22",
         "category": "\ue802Jan 21, 2026Cyber Espionage / Malware",
         "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-22",
+        "category": "SentinelOneCloud Security / Artificial Intelligence",
+        "link": "https://thehackernews.uk/cloud-threat-insights"
     },
     {
         "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html"
     },
     {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-22",
-        "category": "SentinelOneCloud Security / Artificial Intelligence",
-        "link": "https://thehackernews.uk/cloud-threat-insights"
-    },
-    {
-        "title": "Exposure Assessment Platforms Signal a Shift in Focus",
-        "source": "The Hacker News",
-        "time": "2026-01-22",
-        "category": "\ue802Jan 21, 2026Vulnerability Management / Threat Modeling",
-        "link": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html"
-    },
-    {
-        "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs",
-        "source": "The Hacker News",
-        "time": "2026-01-22",
-        "category": "\ue802Jan 21, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html"
-    },
-    {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
         "source": "The Hacker News",
         "time": "2026-01-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code",
+        "title": "Exposure Assessment Platforms Signal a Shift in Focus",
         "source": "The Hacker News",
         "time": "2026-01-22",
-        "category": "\ue802Jan 21, 2026Artificial Intelligence / Cybercrime",
-        "link": "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html"
+        "category": "\ue802Jan 21, 2026Vulnerability Management / Threat Modeling",
+        "link": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html"
     }
 ]
