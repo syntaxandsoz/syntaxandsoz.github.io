@@ -1,5 +1,33 @@
 [
     {
+        "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
+        "source": "The Hacker News",
+        "time": "2026-01-22",
+        "category": "\ue802Jan 22, 2026",
+        "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html"
+    },
+    {
+        "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+        "source": "The Hacker News",
+        "time": "2026-01-22",
+        "category": "\ue802Jan 22, 2026Vulnerability / Linux",
+        "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html"
+    },
+    {
+        "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+        "source": "The Hacker News",
+        "time": "2026-01-22",
+        "category": "\ue802Jan 22, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html"
+    },
+    {
+        "title": "2025 Cloud Security Risk Report",
+        "source": "The Hacker News",
+        "time": "2026-01-22",
+        "category": "SentinelOneCloud Security / Artificial Intelligence",
+        "link": "https://thehackernews.uk/cloud-threat-insights"
+    },
+    {
         "title": "Filling the Most Common Gaps in Google Workspace Security",
         "source": "The Hacker News",
         "time": "2026-01-22",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html"
     },
     {
-        "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-        "source": "The Hacker News",
-        "time": "2026-01-22",
-        "category": "\ue802Jan 22, 2026Vulnerability / Email Security",
-        "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html"
-    },
-    {
-        "title": "2025 Cloud Security Risk Report",
-        "source": "The Hacker News",
-        "time": "2026-01-22",
-        "category": "SentinelOneCloud Security / Artificial Intelligence",
-        "link": "https://thehackernews.uk/cloud-threat-insights"
-    },
-    {
-        "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-        "source": "The Hacker News",
-        "time": "2026-01-22",
-        "category": "\ue802Jan 22, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html"
-    },
-    {
-        "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
-        "source": "The Hacker News",
-        "time": "2026-01-22",
-        "category": "\ue802Jan 22, 2026Vulnerability / Zero-Day",
-        "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html"
-    },
-    {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
         "source": "The Hacker News",
         "time": "2026-01-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
+        "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
         "source": "The Hacker News",
         "time": "2026-01-22",
-        "category": "\ue802Jan 21, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html"
+        "category": "\ue802Jan 22, 2026Vulnerability / Email Security",
+        "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html"
     }
 ]
