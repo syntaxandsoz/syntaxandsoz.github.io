@@ -1,5 +1,12 @@
 [
     {
+        "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
+        "source": "The Hacker News",
+        "time": "2026-01-23",
+        "category": "\ue802Jan 23, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html"
+    },
+    {
         "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
         "source": "The Hacker News",
         "time": "2026-01-23",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html"
     },
     {
-        "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
-        "source": "The Hacker News",
-        "time": "2026-01-23",
-        "category": "\ue802Jan 23, 2026Email Security / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html"
-    },
-    {
         "title": "2025 Cloud Security Risk Report",
         "source": "The Hacker News",
         "time": "2026-01-23",
         "category": "SentinelOneCloud Security / Artificial Intelligence",
         "link": "https://thehackernews.uk/cloud-threat-insights"
+    },
+    {
+        "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
+        "source": "The Hacker News",
+        "time": "2026-01-23",
+        "category": "\ue802Jan 23, 2026Email Security / Endpoint Security",
+        "link": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html"
     },
     {
         "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html"
     },
     {
-        "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
-        "source": "The Hacker News",
-        "time": "2026-01-23",
-        "category": "\ue802Jan 22, 2026",
-        "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html"
-    },
-    {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
         "source": "The Hacker News",
         "time": "2026-01-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+        "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
         "source": "The Hacker News",
         "time": "2026-01-23",
-        "category": "\ue802Jan 22, 2026Vulnerability / Linux",
-        "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html"
+        "category": "\ue802Jan 22, 2026",
+        "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html"
     }
 ]
