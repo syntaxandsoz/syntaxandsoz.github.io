@@ -1,24 +1,24 @@
 [
     {
-        "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
+        "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
         "source": "The Hacker News",
         "time": "2026-01-24",
-        "category": "\ue802Jan 23, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html"
+        "category": "\ue802Jan 24, 2026Ransomware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html"
     },
     {
-        "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
+        "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
         "source": "The Hacker News",
         "time": "2026-01-24",
-        "category": "\ue802Jan 23, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html"
+        "category": "\ue802Jan 24, 2026Malware / Critical Infrastructure",
+        "link": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html"
     },
     {
-        "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
+        "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
         "source": "The Hacker News",
         "time": "2026-01-24",
-        "category": "\ue802Jan 23, 2026Regulatory Compliance / National Security",
-        "link": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html"
+        "category": "\ue802Jan 24, 2026Enterprise Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html"
     },
     {
         "title": "2025 Cloud Security Risk Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-threat-insights"
     },
     {
-        "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
+        "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
         "source": "The Hacker News",
         "time": "2026-01-24",
-        "category": "\ue802Jan 23, 2026Email Security / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html"
+        "category": "\ue802Jan 24, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html"
     },
     {
-        "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
+        "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
         "source": "The Hacker News",
         "time": "2026-01-24",
-        "category": "\ue802Jan 23, 2026Identity Security / Cloud Securit",
-        "link": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html"
+        "category": "\ue802Jan 23, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html"
     },
     {
         "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/security-ai-insights"
     },
     {
-        "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
+        "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
         "source": "The Hacker News",
         "time": "2026-01-24",
-        "category": "\ue802Jan 22, 2026",
-        "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html"
+        "category": "\ue802Jan 23, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html"
     }
 ]
