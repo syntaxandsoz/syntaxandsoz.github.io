@@ -1,10 +1,31 @@
 [
     {
+        "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+        "source": "The Hacker News",
+        "time": "2026-01-26",
+        "category": "\ue802Jan 26, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html"
+    },
+    {
+        "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+        "source": "The Hacker News",
+        "time": "2026-01-26",
+        "category": "\ue802Jan 26, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html"
+    },
+    {
         "title": "\u26a1 Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
         "source": "The Hacker News",
         "time": "2026-01-26",
         "category": "\ue802Jan 26, 2026Hacking News / Cybersecurity",
         "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html"
+    },
+    {
+        "title": "Secured Images 101",
+        "source": "The Hacker News",
+        "time": "2026-01-26",
+        "category": "WizDevOps / AppSec",
+        "link": "https://thehackernews.uk/images-101-poster"
     },
     {
         "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html"
     },
     {
-        "title": "Secured Images 101",
-        "source": "The Hacker News",
-        "time": "2026-01-26",
-        "category": "WizDevOps / AppSec",
-        "link": "https://thehackernews.uk/images-101-poster"
-    },
-    {
-        "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
-        "source": "The Hacker News",
-        "time": "2026-01-26",
-        "category": "\ue802Jan 24, 2026Ransomware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html"
-    },
-    {
-        "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
-        "source": "The Hacker News",
-        "time": "2026-01-26",
-        "category": "\ue802Jan 24, 2026Malware / Critical Infrastructure",
-        "link": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html"
-    },
-    {
         "title": "7 Key Metrics for Choosing the Right AI SOC Partner And Cutting Through Hype",
         "source": "The Hacker News",
         "time": "2026-01-26",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/ai-soc-guide"
     },
     {
-        "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
+        "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
         "source": "The Hacker News",
         "time": "2026-01-26",
-        "category": "\ue802Jan 24, 2026Enterprise Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html"
+        "category": "\ue802Jan 24, 2026Ransomware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html"
     }
 ]
