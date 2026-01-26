@@ -21,11 +21,11 @@
         "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html"
     },
     {
-        "title": "2025 Cloud Security Risk Report",
+        "title": "Secured Images 101",
         "source": "The Hacker News",
         "time": "2026-01-26",
-        "category": "SentinelOneCloud Security / Artificial Intelligence",
-        "link": "https://thehackernews.uk/cloud-threat-insights"
+        "category": "WizDevOps / AppSec",
+        "link": "https://thehackernews.uk/images-101-poster"
     },
     {
         "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
@@ -42,11 +42,11 @@
         "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html"
     },
     {
-        "title": "Most AI Risk Isn't in Models, It's in Your SaaS Stack",
+        "title": "7 Key Metrics for Choosing the Right AI SOC Partner And Cutting Through Hype",
         "source": "The Hacker News",
         "time": "2026-01-26",
-        "category": "RecoAI Security / (SaaS Security",
-        "link": "https://thehackernews.uk/security-ai-insights"
+        "category": "Prophet SecurityArtificial Intelligence / SOC",
+        "link": "https://thehackernews.uk/ai-soc-guide"
     },
     {
         "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
