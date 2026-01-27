@@ -1,5 +1,33 @@
 [
     {
+        "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+        "source": "The Hacker News",
+        "time": "2026-01-27",
+        "category": "\ue802Jan 27, 2026Mobile Security / Spyware",
+        "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html"
+    },
+    {
+        "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+        "source": "The Hacker News",
+        "time": "2026-01-27",
+        "category": "\ue802Jan 27, 2026Threat Intelligence / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html"
+    },
+    {
+        "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+        "source": "The Hacker News",
+        "time": "2026-01-27",
+        "category": "\ue802Jan 27, 2026Malware / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html"
+    },
+    {
+        "title": "Secured Images 101",
+        "source": "The Hacker News",
+        "time": "2026-01-27",
+        "category": "WizDevOps / AppSec",
+        "link": "https://thehackernews.uk/images-101-poster"
+    },
+    {
         "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
         "source": "The Hacker News",
         "time": "2026-01-27",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html"
     },
     {
-        "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-        "source": "The Hacker News",
-        "time": "2026-01-27",
-        "category": "\ue802Jan 27, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html"
-    },
-    {
-        "title": "Secured Images 101",
-        "source": "The Hacker News",
-        "time": "2026-01-27",
-        "category": "WizDevOps / AppSec",
-        "link": "https://thehackernews.uk/images-101-poster"
-    },
-    {
-        "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-        "source": "The Hacker News",
-        "time": "2026-01-27",
-        "category": "\ue802Jan 27, 2026Web Security / Malware",
-        "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html"
-    },
-    {
-        "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
-        "source": "The Hacker News",
-        "time": "2026-01-27",
-        "category": "\ue802Jan 26, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html"
-    },
-    {
         "title": "7 Key Metrics for Choosing the Right AI SOC Partner And Cutting Through Hype",
         "source": "The Hacker News",
         "time": "2026-01-27",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/ai-soc-guide"
     },
     {
-        "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+        "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
         "source": "The Hacker News",
         "time": "2026-01-27",
-        "category": "\ue802Jan 26, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html"
+        "category": "\ue802Jan 27, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html"
     }
 ]
