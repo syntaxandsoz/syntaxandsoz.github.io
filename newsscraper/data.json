@@ -1,24 +1,24 @@
 [
     {
-        "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+        "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
         "source": "The Hacker News",
         "time": "2026-01-27",
-        "category": "\ue802Jan 26, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html"
+        "category": "\ue802Jan 27, 2026Attack Surface Management / Cyber Risk",
+        "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html"
     },
     {
-        "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+        "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
         "source": "The Hacker News",
         "time": "2026-01-27",
-        "category": "\ue802Jan 26, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html"
+        "category": "\ue802Jan 27, 2026Zero-Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
+        "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
         "source": "The Hacker News",
         "time": "2026-01-27",
-        "category": "\ue802Jan 26, 2026Hacking News / Cybersecurity",
-        "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html"
+        "category": "\ue802Jan 27, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html"
     },
     {
         "title": "Secured Images 101",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/images-101-poster"
     },
     {
-        "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
+        "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
         "source": "The Hacker News",
         "time": "2026-01-27",
-        "category": "\ue802Jan 26, 2026Endpoint Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html"
+        "category": "\ue802Jan 27, 2026Web Security / Malware",
+        "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html"
     },
     {
-        "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
+        "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
         "source": "The Hacker News",
         "time": "2026-01-27",
-        "category": "\ue802Jan 26, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html"
+        "category": "\ue802Jan 26, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html"
     },
     {
         "title": "7 Key Metrics for Choosing the Right AI SOC Partner And Cutting Through Hype",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/ai-soc-guide"
     },
     {
-        "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
+        "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
         "source": "The Hacker News",
         "time": "2026-01-27",
-        "category": "\ue802Jan 24, 2026Ransomware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html"
+        "category": "\ue802Jan 26, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html"
     }
 ]
