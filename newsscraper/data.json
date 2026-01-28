@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
+        "source": "The Hacker News",
+        "time": "2026-01-28",
+        "category": "\ue802Jan 28, 2026Network Security / Zero-Day",
+        "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html"
+    },
+    {
         "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
         "source": "The Hacker News",
         "time": "2026-01-28",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html"
     },
     {
-        "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
-        "source": "The Hacker News",
-        "time": "2026-01-28",
-        "category": "\ue802Jan 27, 2026Malware / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html"
-    },
-    {
         "title": "Secured Images 101",
         "source": "The Hacker News",
         "time": "2026-01-28",
         "category": "WizDevOps / AppSec",
         "link": "https://thehackernews.uk/images-101-poster"
+    },
+    {
+        "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+        "source": "The Hacker News",
+        "time": "2026-01-28",
+        "category": "\ue802Jan 27, 2026Malware / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html"
     },
     {
         "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
@@ -35,24 +42,17 @@
         "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html"
     },
     {
+        "title": "When Zoom Phishes You: Unmasking a Novel TOAD Attack Hidden in Legitimate Infrastructure",
+        "source": "The Hacker News",
+        "time": "2026-01-28",
+        "category": "Prophet SecurityArtificial Intelligence / SOC",
+        "link": "https://thehackernews.uk/toad-threat-guide"
+    },
+    {
         "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
         "source": "The Hacker News",
         "time": "2026-01-28",
         "category": "\ue802Jan 27, 2026Zero-Day / Vulnerability",
         "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html"
-    },
-    {
-        "title": "7 Key Metrics for Choosing the Right AI SOC Partner And Cutting Through Hype",
-        "source": "The Hacker News",
-        "time": "2026-01-28",
-        "category": "Prophet SecurityArtificial Intelligence / SOC",
-        "link": "https://thehackernews.uk/ai-soc-guide"
-    },
-    {
-        "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-        "source": "The Hacker News",
-        "time": "2026-01-28",
-        "category": "\ue802Jan 27, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html"
     }
 ]
