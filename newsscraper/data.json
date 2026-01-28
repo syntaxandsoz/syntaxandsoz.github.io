@@ -1,24 +1,24 @@
 [
     {
-        "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
+        "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
         "source": "The Hacker News",
         "time": "2026-01-28",
-        "category": "\ue802Jan 28, 2026Network Security / Zero-Day",
-        "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html"
+        "category": "\ue802Jan 28, 2026Vulnerability / Workflow Automation",
+        "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html"
     },
     {
-        "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+        "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
         "source": "The Hacker News",
         "time": "2026-01-28",
-        "category": "\ue802Jan 27, 2026Mobile Security / Spyware",
-        "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html"
+        "category": "\ue802Jan 28, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html"
     },
     {
-        "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+        "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
         "source": "The Hacker News",
         "time": "2026-01-28",
-        "category": "\ue802Jan 27, 2026Threat Intelligence / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html"
+        "category": "\ue802Jan 28, 2026Cyber Espionage / Endpoint Security",
+        "link": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html"
     },
     {
         "title": "Secured Images 101",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/images-101-poster"
     },
     {
-        "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+        "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
         "source": "The Hacker News",
         "time": "2026-01-28",
-        "category": "\ue802Jan 27, 2026Malware / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html"
+        "category": "\ue802Jan 28, 2026Password Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html"
     },
     {
-        "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+        "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
         "source": "The Hacker News",
         "time": "2026-01-28",
-        "category": "\ue802Jan 27, 2026Attack Surface Management / Cyber Risk",
-        "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html"
+        "category": "\ue802Jan 28, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html"
     },
     {
         "title": "When Zoom Phishes You: Unmasking a Novel TOAD Attack Hidden in Legitimate Infrastructure",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/toad-threat-guide"
     },
     {
-        "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
+        "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
         "source": "The Hacker News",
         "time": "2026-01-28",
-        "category": "\ue802Jan 27, 2026Zero-Day / Vulnerability",
-        "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html"
+        "category": "\ue802Jan 28, 2026Supply Chain Security / Malware",
+        "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html"
     }
 ]
