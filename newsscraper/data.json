@@ -1,10 +1,31 @@
 [
     {
+        "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+        "source": "The Hacker News",
+        "time": "2026-01-29",
+        "category": "\ue802Jan 29, 2026Artificial Intelligence / LLM Security",
+        "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html"
+    },
+    {
+        "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+        "source": "The Hacker News",
+        "time": "2026-01-29",
+        "category": "\ue802Jan 29, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html"
+    },
+    {
         "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
         "source": "The Hacker News",
         "time": "2026-01-29",
         "category": "\ue802Jan 29, 2026ICS Security / Operational Technology",
         "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html"
+    },
+    {
+        "title": "Secured Images 101",
+        "source": "The Hacker News",
+        "time": "2026-01-29",
+        "category": "WizDevOps / AppSec",
+        "link": "https://thehackernews.uk/images-101-poster"
     },
     {
         "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html"
     },
     {
-        "title": "Secured Images 101",
-        "source": "The Hacker News",
-        "time": "2026-01-29",
-        "category": "WizDevOps / AppSec",
-        "link": "https://thehackernews.uk/images-101-poster"
-    },
-    {
-        "title": "Google Disrupts IPIDEA \u2014 One of the World's Largest Residential Proxy Networks",
-        "source": "The Hacker News",
-        "time": "2026-01-29",
-        "category": "\ue802Jan 29, 2026Threat Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html"
-    },
-    {
-        "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
-        "source": "The Hacker News",
-        "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Malware / AI Security",
-        "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html"
-    },
-    {
         "title": "When Zoom Phishes You: Unmasking a Novel TOAD Attack Hidden in Legitimate Infrastructure",
         "source": "The Hacker News",
         "time": "2026-01-29",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/toad-threat-guide"
     },
     {
-        "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+        "title": "Google Disrupts IPIDEA \u2014 One of the World's Largest Residential Proxy Networks",
         "source": "The Hacker News",
         "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Critical Infrastructure / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html"
+        "category": "\ue802Jan 29, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html"
     }
 ]
