@@ -1,24 +1,24 @@
 [
     {
-        "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
+        "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
         "source": "The Hacker News",
         "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Malware / AI Security",
-        "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html"
+        "category": "\ue802Jan 29, 2026ICS Security / Operational Technology",
+        "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html"
     },
     {
-        "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+        "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
         "source": "The Hacker News",
         "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Critical Infrastructure / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html"
+        "category": "\ue802Jan 29, 2026Threat Intelligence / Incident Response",
+        "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html"
     },
     {
-        "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
+        "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
         "source": "The Hacker News",
         "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Vulnerability / Workflow Automation",
-        "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html"
+        "category": "\ue802Jan 29, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html"
     },
     {
         "title": "Secured Images 101",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/images-101-poster"
     },
     {
-        "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
+        "title": "Google Disrupts IPIDEA \u2014 One of the World's Largest Residential Proxy Networks",
         "source": "The Hacker News",
         "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html"
+        "category": "\ue802Jan 29, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html"
     },
     {
-        "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
+        "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
         "source": "The Hacker News",
         "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Vulnerability / Open Source",
-        "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html"
+        "category": "\ue802Jan 28, 2026Malware / AI Security",
+        "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html"
     },
     {
         "title": "When Zoom Phishes You: Unmasking a Novel TOAD Attack Hidden in Legitimate Infrastructure",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/toad-threat-guide"
     },
     {
-        "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
+        "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
         "source": "The Hacker News",
         "time": "2026-01-29",
-        "category": "\ue802Jan 28, 2026Cyber Espionage / Endpoint Security",
-        "link": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html"
+        "category": "\ue802Jan 28, 2026Critical Infrastructure / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html"
     }
 ]
