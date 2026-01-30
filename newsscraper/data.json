@@ -1,5 +1,12 @@
 [
     {
+        "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
+        "source": "The Hacker News",
+        "time": "2026-01-30",
+        "category": "\ue802Jan 30, 2026Malware / AI Security",
+        "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html"
+    },
+    {
         "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
         "source": "The Hacker News",
         "time": "2026-01-30",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html"
     },
     {
-        "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
-        "source": "The Hacker News",
-        "time": "2026-01-30",
-        "category": "\ue802Jan 30, 2026Artificial Intelligence / Economic Espionage",
-        "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html"
-    },
-    {
         "title": "Secured Images 101",
         "source": "The Hacker News",
         "time": "2026-01-30",
         "category": "WizDevOps / AppSec",
         "link": "https://thehackernews.uk/images-101-poster"
+    },
+    {
+        "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+        "source": "The Hacker News",
+        "time": "2026-01-30",
+        "category": "\ue802Jan 30, 2026Artificial Intelligence / Economic Espionage",
+        "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html"
     },
     {
         "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html"
     },
     {
-        "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-        "source": "The Hacker News",
-        "time": "2026-01-30",
-        "category": "\ue802Jan 30, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html"
-    },
-    {
         "title": "When Zoom Phishes You: Unmasking a Novel TOAD Attack Hidden in Legitimate Infrastructure",
         "source": "The Hacker News",
         "time": "2026-01-30",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/toad-threat-guide"
     },
     {
-        "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+        "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
         "source": "The Hacker News",
         "time": "2026-01-30",
-        "category": "\ue802Jan 29, 2026Artificial Intelligence / LLM Security",
-        "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html"
+        "category": "\ue802Jan 30, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html"
     }
 ]
