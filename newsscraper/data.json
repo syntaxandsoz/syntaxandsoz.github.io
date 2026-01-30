@@ -1,24 +1,24 @@
 [
     {
-        "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
+        "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
         "source": "The Hacker News",
         "time": "2026-01-30",
-        "category": "\ue802Jan 30, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html"
+        "category": "\ue802Jan 30, 2026Server Security / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html"
     },
     {
-        "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+        "title": "Badges, Bytes and Blackmail",
         "source": "The Hacker News",
         "time": "2026-01-30",
-        "category": "\ue802Jan 29, 2026Artificial Intelligence / LLM Security",
-        "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html"
+        "category": "\ue802Jan 30, 2026Cybercrime / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html"
     },
     {
-        "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+        "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
         "source": "The Hacker News",
         "time": "2026-01-30",
-        "category": "\ue802Jan 29, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html"
+        "category": "\ue802Jan 30, 2026Artificial Intelligence / Economic Espionage",
+        "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html"
     },
     {
         "title": "Secured Images 101",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/images-101-poster"
     },
     {
-        "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
+        "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
         "source": "The Hacker News",
         "time": "2026-01-30",
-        "category": "\ue802Jan 29, 2026ICS Security / Operational Technology",
-        "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html"
+        "category": "\ue802Jan 30, 2026Vulnerability / Email Security",
+        "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html"
     },
     {
-        "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
+        "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
         "source": "The Hacker News",
         "time": "2026-01-30",
-        "category": "\ue802Jan 29, 2026Threat Intelligence / Incident Response",
-        "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html"
+        "category": "\ue802Jan 30, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html"
     },
     {
         "title": "When Zoom Phishes You: Unmasking a Novel TOAD Attack Hidden in Legitimate Infrastructure",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/toad-threat-guide"
     },
     {
-        "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
+        "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
         "source": "The Hacker News",
         "time": "2026-01-30",
-        "category": "\ue802Jan 29, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html"
+        "category": "\ue802Jan 29, 2026Artificial Intelligence / LLM Security",
+        "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html"
     }
 ]
