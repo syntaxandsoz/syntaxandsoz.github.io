@@ -1,10 +1,31 @@
 [
     {
+        "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
+        "source": "The Hacker News",
+        "time": "2026-02-02",
+        "category": "\ue802Feb 02, 2026Endpoint Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html"
+    },
+    {
+        "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+        "source": "The Hacker News",
+        "time": "2026-02-02",
+        "category": "\ue802Feb 02, 2026Developer Tools / Malware",
+        "link": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html"
+    },
+    {
         "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
         "source": "The Hacker News",
         "time": "2026-02-02",
         "category": "\ue802Jan 31, 2026Cyber Espionage / Artificial Intelligence",
         "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html"
+    },
+    {
+        "title": "GitLab Security Best Practices",
+        "source": "The Hacker News",
+        "time": "2026-02-02",
+        "category": "WizDevSecOps / Compliance",
+        "link": "https://thehackernews.uk/gitlab-security-tips"
     },
     {
         "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
@@ -21,11 +42,11 @@
         "link": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html"
     },
     {
-        "title": "Secured Images 101",
+        "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-02",
-        "category": "WizDevOps / AppSec",
-        "link": "https://thehackernews.uk/images-101-poster"
+        "category": "SANSICS Security / Security Training",
+        "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
         "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
@@ -33,26 +54,5 @@
         "time": "2026-02-02",
         "category": "\ue802Jan 30, 2026Malware / AI Security",
         "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html"
-    },
-    {
-        "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
-        "source": "The Hacker News",
-        "time": "2026-02-02",
-        "category": "\ue802Jan 30, 2026Server Security / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html"
-    },
-    {
-        "title": "When Zoom Phishes You: Unmasking a Novel TOAD Attack Hidden in Legitimate Infrastructure",
-        "source": "The Hacker News",
-        "time": "2026-02-02",
-        "category": "Prophet SecurityArtificial Intelligence / SOC",
-        "link": "https://thehackernews.uk/toad-threat-guide"
-    },
-    {
-        "title": "Badges, Bytes and Blackmail",
-        "source": "The Hacker News",
-        "time": "2026-02-02",
-        "category": "\ue802Jan 30, 2026Cybercrime / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html"
     }
 ]
