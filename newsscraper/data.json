@@ -1,5 +1,33 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
+        "source": "The Hacker News",
+        "time": "2026-02-02",
+        "category": "\ue802Feb 02, 2026Hacking News / Cybersecurity",
+        "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html"
+    },
+    {
+        "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
+        "source": "The Hacker News",
+        "time": "2026-02-02",
+        "category": "\ue802Feb 02, 2026Threat Detection / Endpoint Security",
+        "link": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html"
+    },
+    {
+        "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
+        "source": "The Hacker News",
+        "time": "2026-02-02",
+        "category": "\ue802Feb 02, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html"
+    },
+    {
+        "title": "GitLab Security Best Practices",
+        "source": "The Hacker News",
+        "time": "2026-02-02",
+        "category": "WizDevSecOps / Compliance",
+        "link": "https://thehackernews.uk/gitlab-security-tips"
+    },
+    {
         "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
         "source": "The Hacker News",
         "time": "2026-02-02",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html"
     },
     {
-        "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
-        "source": "The Hacker News",
-        "time": "2026-02-02",
-        "category": "\ue802Jan 31, 2026Cyber Espionage / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html"
-    },
-    {
-        "title": "GitLab Security Best Practices",
-        "source": "The Hacker News",
-        "time": "2026-02-02",
-        "category": "WizDevSecOps / Compliance",
-        "link": "https://thehackernews.uk/gitlab-security-tips"
-    },
-    {
-        "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
-        "source": "The Hacker News",
-        "time": "2026-02-02",
-        "category": "\ue802Jan 31, 2026Social Engineering / SaaS Security",
-        "link": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html"
-    },
-    {
-        "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
-        "source": "The Hacker News",
-        "time": "2026-02-02",
-        "category": "\ue802Jan 31, 2026Network Security / SCADA",
-        "link": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-02",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
+        "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
         "source": "The Hacker News",
         "time": "2026-02-02",
-        "category": "\ue802Jan 30, 2026Malware / AI Security",
-        "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html"
+        "category": "\ue802Jan 31, 2026Cyber Espionage / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html"
     }
 ]
