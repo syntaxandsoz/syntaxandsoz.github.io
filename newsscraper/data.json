@@ -1,5 +1,33 @@
 [
     {
+        "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
+        "source": "The Hacker News",
+        "time": "2026-02-03",
+        "category": "\ue802Feb 03, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html"
+    },
+    {
+        "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+        "source": "The Hacker News",
+        "time": "2026-02-03",
+        "category": "\ue802Feb 03, 2026Threat Detection / Enterprise Security",
+        "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html"
+    },
+    {
+        "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
+        "source": "The Hacker News",
+        "time": "2026-02-03",
+        "category": "\ue802Feb 03, 2026Open Source / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html"
+    },
+    {
+        "title": "GitLab Security Best Practices",
+        "source": "The Hacker News",
+        "time": "2026-02-03",
+        "category": "WizDevSecOps / Compliance",
+        "link": "https://thehackernews.uk/gitlab-security-tips"
+    },
+    {
         "title": "When Cloud Outages Ripple Across the Internet",
         "source": "The Hacker News",
         "time": "2026-02-03",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html"
     },
     {
-        "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-        "source": "The Hacker News",
-        "time": "2026-02-03",
-        "category": "\ue802Feb 03, 2026Artificial Intelligence / Privacy",
-        "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html"
-    },
-    {
-        "title": "GitLab Security Best Practices",
-        "source": "The Hacker News",
-        "time": "2026-02-03",
-        "category": "WizDevSecOps / Compliance",
-        "link": "https://thehackernews.uk/gitlab-security-tips"
-    },
-    {
-        "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-        "source": "The Hacker News",
-        "time": "2026-02-03",
-        "category": "\ue802Feb 03, 2026Malware / Open Source",
-        "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html"
-    },
-    {
-        "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
-        "source": "The Hacker News",
-        "time": "2026-02-03",
-        "category": "\ue802Feb 02, 2026Malware / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-03",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+        "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
         "source": "The Hacker News",
         "time": "2026-02-03",
-        "category": "\ue802Feb 02, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html"
+        "category": "\ue802Feb 03, 2026Artificial Intelligence / Privacy",
+        "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html"
     }
 ]
