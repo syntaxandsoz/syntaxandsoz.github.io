@@ -1,10 +1,31 @@
 [
     {
+        "title": "When Cloud Outages Ripple Across the Internet",
+        "source": "The Hacker News",
+        "time": "2026-02-03",
+        "category": "\ue802Feb 03, 2026Cloud Computing / Zero Trust",
+        "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html"
+    },
+    {
+        "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+        "source": "The Hacker News",
+        "time": "2026-02-03",
+        "category": "\ue802Feb 03, 2026Vulnerability / Malware",
+        "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html"
+    },
+    {
         "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
         "source": "The Hacker News",
         "time": "2026-02-03",
         "category": "\ue802Feb 03, 2026Artificial Intelligence / Privacy",
         "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html"
+    },
+    {
+        "title": "GitLab Security Best Practices",
+        "source": "The Hacker News",
+        "time": "2026-02-03",
+        "category": "WizDevSecOps / Compliance",
+        "link": "https://thehackernews.uk/gitlab-security-tips"
     },
     {
         "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html"
     },
     {
-        "title": "GitLab Security Best Practices",
-        "source": "The Hacker News",
-        "time": "2026-02-03",
-        "category": "WizDevSecOps / Compliance",
-        "link": "https://thehackernews.uk/gitlab-security-tips"
-    },
-    {
-        "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-        "source": "The Hacker News",
-        "time": "2026-02-03",
-        "category": "\ue802Feb 02, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html"
-    },
-    {
-        "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-        "source": "The Hacker News",
-        "time": "2026-02-03",
-        "category": "\ue802Feb 02, 2026Kerberos / Enterprise Security",
-        "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-03",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
+        "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
         "source": "The Hacker News",
         "time": "2026-02-03",
-        "category": "\ue802Feb 02, 2026Hacking News / Cybersecurity",
-        "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html"
+        "category": "\ue802Feb 02, 2026Vulnerability / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html"
     }
 ]
