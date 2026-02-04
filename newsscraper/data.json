@@ -1,5 +1,33 @@
 [
     {
+        "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "\ue802Feb 04, 2026Artificial Intelligence / Software Security",
+        "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html"
+    },
+    {
+        "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "\ue802Feb 04, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html"
+    },
+    {
+        "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "\ue802Feb 04, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html"
+    },
+    {
+        "title": "GitLab Security Best Practices",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "WizDevSecOps / Compliance",
+        "link": "https://thehackernews.uk/gitlab-security-tips"
+    },
+    {
         "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
         "source": "The Hacker News",
         "time": "2026-02-04",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html"
     },
     {
-        "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "\ue802Feb 04, 2026Malvertising / Infostealer",
-        "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html"
-    },
-    {
-        "title": "GitLab Security Best Practices",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "WizDevSecOps / Compliance",
-        "link": "https://thehackernews.uk/gitlab-security-tips"
-    },
-    {
-        "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "\ue802Feb 04, 2026Supply Chain Security / Secure Coding",
-        "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html"
-    },
-    {
-        "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "\ue802Feb 04, 2026Software Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-04",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
+        "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
         "source": "The Hacker News",
         "time": "2026-02-04",
-        "category": "\ue802Feb 03, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html"
+        "category": "\ue802Feb 04, 2026Malvertising / Infostealer",
+        "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html"
     }
 ]
