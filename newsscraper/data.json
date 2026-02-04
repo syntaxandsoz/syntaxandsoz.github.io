@@ -1,5 +1,33 @@
 [
     {
+        "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "\ue802Feb 04, 2026Identity Security / Security Operations",
+        "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html"
+    },
+    {
+        "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "\ue802Feb 04, 2026Threat Hunting / Digital Forensics",
+        "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html"
+    },
+    {
+        "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "\ue802Feb 04, 2026Malvertising / Infostealer",
+        "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html"
+    },
+    {
+        "title": "GitLab Security Best Practices",
+        "source": "The Hacker News",
+        "time": "2026-02-04",
+        "category": "WizDevSecOps / Compliance",
+        "link": "https://thehackernews.uk/gitlab-security-tips"
+    },
+    {
         "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
         "source": "The Hacker News",
         "time": "2026-02-04",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html"
     },
     {
-        "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "\ue802Feb 03, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html"
-    },
-    {
-        "title": "GitLab Security Best Practices",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "WizDevSecOps / Compliance",
-        "link": "https://thehackernews.uk/gitlab-security-tips"
-    },
-    {
-        "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "\ue802Feb 03, 2026Threat Detection / Enterprise Security",
-        "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html"
-    },
-    {
-        "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-        "source": "The Hacker News",
-        "time": "2026-02-04",
-        "category": "\ue802Feb 03, 2026Open Source / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-04",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "When Cloud Outages Ripple Across the Internet",
+        "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
         "source": "The Hacker News",
         "time": "2026-02-04",
-        "category": "\ue802Feb 03, 2026Cloud Computing / Zero Trust",
-        "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html"
+        "category": "\ue802Feb 03, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html"
     }
 ]
