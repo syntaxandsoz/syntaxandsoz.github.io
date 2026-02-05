@@ -1,5 +1,12 @@
 [
     {
+        "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
+        "source": "The Hacker News",
+        "time": "2026-02-05",
+        "category": "\ue802Feb 05, 2026Botnet / Network Security",
+        "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html"
+    },
+    {
         "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
         "source": "The Hacker News",
         "time": "2026-02-05",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html"
     },
     {
-        "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
-        "source": "The Hacker News",
-        "time": "2026-02-05",
-        "category": "\ue802Feb 05, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html"
-    },
-    {
         "title": "GitLab Security Best Practices",
         "source": "The Hacker News",
         "time": "2026-02-05",
         "category": "WizDevSecOps / Compliance",
         "link": "https://thehackernews.uk/gitlab-security-tips"
+    },
+    {
+        "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
+        "source": "The Hacker News",
+        "time": "2026-02-05",
+        "category": "\ue802Feb 05, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html"
     },
     {
         "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html"
     },
     {
-        "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
-        "source": "The Hacker News",
-        "time": "2026-02-05",
-        "category": "\ue802Feb 05, 2026Web Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-05",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+        "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
         "source": "The Hacker News",
         "time": "2026-02-05",
-        "category": "\ue802Feb 04, 2026Artificial Intelligence / Software Security",
-        "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html"
+        "category": "\ue802Feb 05, 2026Web Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html"
     }
 ]
