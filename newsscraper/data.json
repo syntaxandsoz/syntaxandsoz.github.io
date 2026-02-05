@@ -1,10 +1,31 @@
 [
     {
+        "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+        "source": "The Hacker News",
+        "time": "2026-02-05",
+        "category": "\ue802Feb 05, 2026Workflow Automation / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html"
+    },
+    {
+        "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+        "source": "The Hacker News",
+        "time": "2026-02-05",
+        "category": "\ue802Feb 05, 2026Web Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html"
+    },
+    {
         "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
         "source": "The Hacker News",
         "time": "2026-02-05",
         "category": "\ue802Feb 04, 2026Artificial Intelligence / Software Security",
         "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html"
+    },
+    {
+        "title": "GitLab Security Best Practices",
+        "source": "The Hacker News",
+        "time": "2026-02-05",
+        "category": "WizDevSecOps / Compliance",
+        "link": "https://thehackernews.uk/gitlab-security-tips"
     },
     {
         "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html"
     },
     {
-        "title": "GitLab Security Best Practices",
-        "source": "The Hacker News",
-        "time": "2026-02-05",
-        "category": "WizDevSecOps / Compliance",
-        "link": "https://thehackernews.uk/gitlab-security-tips"
-    },
-    {
-        "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-        "source": "The Hacker News",
-        "time": "2026-02-05",
-        "category": "\ue802Feb 04, 2026Identity Security / Security Operations",
-        "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html"
-    },
-    {
-        "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
-        "source": "The Hacker News",
-        "time": "2026-02-05",
-        "category": "\ue802Feb 04, 2026Threat Hunting / Digital Forensics",
-        "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-05",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+        "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
         "source": "The Hacker News",
         "time": "2026-02-05",
-        "category": "\ue802Feb 04, 2026Malvertising / Infostealer",
-        "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html"
+        "category": "\ue802Feb 04, 2026Identity Security / Security Operations",
+        "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html"
     }
 ]
