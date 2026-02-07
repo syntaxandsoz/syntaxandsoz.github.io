@@ -1,5 +1,12 @@
 [
     {
+        "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
+        "source": "The Hacker News",
+        "time": "2026-02-07",
+        "category": "\ue802Feb 07, 2026Threat Intelligence / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html"
+    },
+    {
         "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
         "source": "The Hacker News",
         "time": "2026-02-07",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html"
     },
     {
-        "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
-        "source": "The Hacker News",
-        "time": "2026-02-07",
-        "category": "\ue802Feb 06, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html"
-    },
-    {
         "title": "GitLab Security Best Practices",
         "source": "The Hacker News",
         "time": "2026-02-07",
         "category": "WizDevSecOps / Compliance",
         "link": "https://thehackernews.uk/gitlab-security-tips"
+    },
+    {
+        "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+        "source": "The Hacker News",
+        "time": "2026-02-07",
+        "category": "\ue802Feb 06, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html"
     },
     {
         "title": "How Samsung Knox Helps Stop Your Network Security Breach",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html"
     },
     {
-        "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
-        "source": "The Hacker News",
-        "time": "2026-02-07",
-        "category": "\ue802Feb 06, 2026Malware / Developer Security",
-        "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html"
-    },
-    {
         "title": "SANS ICS Command Briefing: Preparing for What Comes Next in Industrial Security",
         "source": "The Hacker News",
         "time": "2026-02-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/industrial-cyber-prep"
     },
     {
-        "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+        "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
         "source": "The Hacker News",
         "time": "2026-02-07",
-        "category": "\ue802Feb 06, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html"
+        "category": "\ue802Feb 06, 2026Malware / Developer Security",
+        "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html"
     }
 ]
