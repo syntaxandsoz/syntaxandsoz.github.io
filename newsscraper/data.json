@@ -1,24 +1,24 @@
 [
     {
-        "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
+        "title": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
         "source": "The Hacker News",
         "time": "2026-02-09",
-        "category": "\ue802Feb 08, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html"
+        "category": "\ue802Feb 09, 2026Hacking News / Cybersecurity",
+        "link": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html"
     },
     {
-        "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
+        "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
         "source": "The Hacker News",
         "time": "2026-02-09",
-        "category": "\ue802Feb 07, 2026Threat Intelligence / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html"
+        "category": "\ue802Feb 09, 2026Threat Detection / Security Operations",
+        "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html"
     },
     {
-        "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+        "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
         "source": "The Hacker News",
         "time": "2026-02-09",
-        "category": "\ue802Feb 06, 2026Malware / IoT Security",
-        "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html"
+        "category": "\ue802Feb 09, 2026Threat Intelligence / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html"
     },
     {
         "title": "GitLab Security Best Practices",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/gitlab-security-tips"
     },
     {
-        "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+        "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
         "source": "The Hacker News",
         "time": "2026-02-09",
-        "category": "\ue802Feb 06, 2026Federal Security / Infrastructure Security",
-        "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html"
+        "category": "\ue802Feb 09, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html"
     },
     {
-        "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+        "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
         "source": "The Hacker News",
         "time": "2026-02-09",
-        "category": "\ue802Feb 06, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html"
+        "category": "\ue802Feb 09, 2026Enterprise Security / Network Security",
+        "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html"
     },
     {
         "title": "Can AI Be Secure? Find Out at SANS 2026",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-2026-event"
     },
     {
-        "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+        "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
         "source": "The Hacker News",
         "time": "2026-02-09",
-        "category": "\ue802Feb 06, 2026Mobile Security / Threat Detection",
-        "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html"
+        "category": "\ue802Feb 08, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html"
     }
 ]
