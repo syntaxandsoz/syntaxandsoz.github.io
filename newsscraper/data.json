@@ -1,10 +1,31 @@
 [
     {
+        "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
+        "source": "The Hacker News",
+        "time": "2026-02-09",
+        "category": "\ue802Feb 09, 2026Cyber Espionage / Virtualization",
+        "link": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html"
+    },
+    {
+        "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
+        "source": "The Hacker News",
+        "time": "2026-02-09",
+        "category": "\ue802Feb 09, 2026Vulnerability / Endpoint Security",
+        "link": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html"
+    },
+    {
         "title": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
         "source": "The Hacker News",
         "time": "2026-02-09",
         "category": "\ue802Feb 09, 2026Hacking News / Cybersecurity",
         "link": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html"
+    },
+    {
+        "title": "AI Security Board Report Template",
+        "source": "The Hacker News",
+        "time": "2026-02-09",
+        "category": "WizAI Security / Compliance",
+        "link": "https://thehackernews.uk/board-template-wiz"
     },
     {
         "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html"
     },
     {
-        "title": "GitLab Security Best Practices",
-        "source": "The Hacker News",
-        "time": "2026-02-09",
-        "category": "WizDevSecOps / Compliance",
-        "link": "https://thehackernews.uk/gitlab-security-tips"
-    },
-    {
-        "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
-        "source": "The Hacker News",
-        "time": "2026-02-09",
-        "category": "\ue802Feb 09, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html"
-    },
-    {
-        "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
-        "source": "The Hacker News",
-        "time": "2026-02-09",
-        "category": "\ue802Feb 09, 2026Enterprise Security / Network Security",
-        "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html"
-    },
-    {
         "title": "Can AI Be Secure? Find Out at SANS 2026",
         "source": "The Hacker News",
         "time": "2026-02-09",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-2026-event"
     },
     {
-        "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
+        "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
         "source": "The Hacker News",
         "time": "2026-02-09",
-        "category": "\ue802Feb 08, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html"
+        "category": "\ue802Feb 09, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html"
     }
 ]
