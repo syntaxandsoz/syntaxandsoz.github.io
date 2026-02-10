@@ -1,24 +1,24 @@
 [
     {
-        "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
+        "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
         "source": "The Hacker News",
         "time": "2026-02-10",
-        "category": "\ue802Feb 10, 2026Application Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html"
+        "category": "\ue802Feb 10, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html"
     },
     {
-        "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
+        "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
         "source": "The Hacker News",
         "time": "2026-02-10",
-        "category": "\ue802Feb 10, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html"
+        "category": "\ue802Feb 10, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html"
     },
     {
-        "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
+        "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
         "source": "The Hacker News",
         "time": "2026-02-10",
-        "category": "\ue802Feb 10, 2026Data Breach / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html"
+        "category": "\ue802Feb 10, 2026Threat Intelligence / Identity Security",
+        "link": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html"
     },
     {
         "title": "AI Security Board Report Template",
@@ -35,11 +35,11 @@
         "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html"
     },
     {
-        "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
+        "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
         "source": "The Hacker News",
         "time": "2026-02-10",
-        "category": "\ue802Feb 09, 2026Cyber Espionage / Virtualization",
-        "link": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html"
+        "category": "\ue802Feb 10, 2026Application Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html"
     },
     {
         "title": "Can AI Be Secure? Find Out at SANS 2026",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-2026-event"
     },
     {
-        "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
+        "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
         "source": "The Hacker News",
         "time": "2026-02-10",
-        "category": "\ue802Feb 09, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html"
+        "category": "\ue802Feb 10, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html"
     }
 ]
