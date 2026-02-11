@@ -1,5 +1,33 @@
 [
     {
+        "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
+        "source": "The Hacker News",
+        "time": "2026-02-11",
+        "category": "\ue802Feb 11, 2026Identity Security / Threat Exposure",
+        "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html"
+    },
+    {
+        "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
+        "source": "The Hacker News",
+        "time": "2026-02-11",
+        "category": "\ue802Feb 11, 2026Windows Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html"
+    },
+    {
+        "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
+        "source": "The Hacker News",
+        "time": "2026-02-11",
+        "category": "\ue802Feb 11, 2026Linux / Botnet",
+        "link": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html"
+    },
+    {
+        "title": "AI Security Board Report Template",
+        "source": "The Hacker News",
+        "time": "2026-02-11",
+        "category": "WizAI Security / Compliance",
+        "link": "https://thehackernews.uk/board-template-wiz"
+    },
+    {
         "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
         "source": "The Hacker News",
         "time": "2026-02-11",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html"
     },
     {
-        "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
-        "source": "The Hacker News",
-        "time": "2026-02-11",
-        "category": "\ue802Feb 10, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html"
-    },
-    {
-        "title": "AI Security Board Report Template",
-        "source": "The Hacker News",
-        "time": "2026-02-11",
-        "category": "WizAI Security / Compliance",
-        "link": "https://thehackernews.uk/board-template-wiz"
-    },
-    {
-        "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
-        "source": "The Hacker News",
-        "time": "2026-02-11",
-        "category": "\ue802Feb 10, 2026Threat Intelligence / Identity Security",
-        "link": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html"
-    },
-    {
-        "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
-        "source": "The Hacker News",
-        "time": "2026-02-11",
-        "category": "\ue802Feb 10, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html"
-    },
-    {
         "title": "Can AI Be Secure? Find Out at SANS 2026",
         "source": "The Hacker News",
         "time": "2026-02-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-2026-event"
     },
     {
-        "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
+        "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
         "source": "The Hacker News",
         "time": "2026-02-11",
-        "category": "\ue802Feb 10, 2026Application Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html"
+        "category": "\ue802Feb 10, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html"
     }
 ]
