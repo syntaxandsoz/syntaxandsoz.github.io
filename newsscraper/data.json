@@ -1,10 +1,31 @@
 [
     {
+        "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
+        "source": "The Hacker News",
+        "time": "2026-02-11",
+        "category": "\ue802Feb 11, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html"
+    },
+    {
+        "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
+        "source": "The Hacker News",
+        "time": "2026-02-11",
+        "category": "\ue802Feb 11, 2026Patch Tuesday / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html"
+    },
+    {
         "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
         "source": "The Hacker News",
         "time": "2026-02-11",
         "category": "\ue802Feb 11, 2026Identity Security / Threat Exposure",
         "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html"
+    },
+    {
+        "title": "AI Security Board Report Template",
+        "source": "The Hacker News",
+        "time": "2026-02-11",
+        "category": "WizAI Security / Compliance",
+        "link": "https://thehackernews.uk/board-template-wiz"
     },
     {
         "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html"
     },
     {
-        "title": "AI Security Board Report Template",
-        "source": "The Hacker News",
-        "time": "2026-02-11",
-        "category": "WizAI Security / Compliance",
-        "link": "https://thehackernews.uk/board-template-wiz"
-    },
-    {
-        "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
-        "source": "The Hacker News",
-        "time": "2026-02-11",
-        "category": "\ue802Feb 11, 2026Social Engineering / Malware",
-        "link": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html"
-    },
-    {
-        "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
-        "source": "The Hacker News",
-        "time": "2026-02-11",
-        "category": "\ue802Feb 10, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html"
-    },
-    {
         "title": "Can AI Be Secure? Find Out at SANS 2026",
         "source": "The Hacker News",
         "time": "2026-02-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-2026-event"
     },
     {
-        "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
+        "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
         "source": "The Hacker News",
         "time": "2026-02-11",
-        "category": "\ue802Feb 10, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html"
+        "category": "\ue802Feb 11, 2026Social Engineering / Malware",
+        "link": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html"
     }
 ]
