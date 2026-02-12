@@ -1,5 +1,33 @@
 [
     {
+        "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
+        "source": "The Hacker News",
+        "time": "2026-02-12",
+        "category": "\ue802Feb 12, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html"
+    },
+    {
+        "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
+        "source": "The Hacker News",
+        "time": "2026-02-12",
+        "category": "\ue802Feb 12, 2026Enterprise Security / Breach Prevention",
+        "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html"
+    },
+    {
+        "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
+        "source": "The Hacker News",
+        "time": "2026-02-12",
+        "category": "\ue802Feb 12, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html"
+    },
+    {
+        "title": "AI Security Board Report Template",
+        "source": "The Hacker News",
+        "time": "2026-02-12",
+        "category": "WizAI Security / Compliance",
+        "link": "https://thehackernews.uk/board-template-wiz"
+    },
+    {
         "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
         "source": "The Hacker News",
         "time": "2026-02-12",
@@ -14,45 +42,17 @@
         "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html"
     },
     {
+        "title": "AI Security Isn\u2019t Optional\u2014Join the Conversation at SANS Security West",
+        "source": "The Hacker News",
+        "time": "2026-02-12",
+        "category": "SANSCybersecurity Training",
+        "link": "https://thehackernews.uk/sans-secwest-26"
+    },
+    {
         "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
         "source": "The Hacker News",
         "time": "2026-02-12",
         "category": "\ue802Feb 11, 2026Cyber Espionage / Threat Intelligence",
         "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html"
-    },
-    {
-        "title": "AI Security Board Report Template",
-        "source": "The Hacker News",
-        "time": "2026-02-12",
-        "category": "WizAI Security / Compliance",
-        "link": "https://thehackernews.uk/board-template-wiz"
-    },
-    {
-        "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
-        "source": "The Hacker News",
-        "time": "2026-02-12",
-        "category": "\ue802Feb 11, 2026Patch Tuesday / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html"
-    },
-    {
-        "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
-        "source": "The Hacker News",
-        "time": "2026-02-12",
-        "category": "\ue802Feb 11, 2026Identity Security / Threat Exposure",
-        "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html"
-    },
-    {
-        "title": "Can AI Be Secure? Find Out at SANS 2026",
-        "source": "The Hacker News",
-        "time": "2026-02-12",
-        "category": "SANSCybersecurity Training",
-        "link": "https://thehackernews.uk/sans-2026-event"
-    },
-    {
-        "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
-        "source": "The Hacker News",
-        "time": "2026-02-12",
-        "category": "\ue802Feb 11, 2026Windows Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html"
     }
 ]
