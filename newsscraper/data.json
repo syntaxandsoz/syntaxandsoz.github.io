@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
+        "source": "The Hacker News",
+        "time": "2026-02-12",
+        "category": "\ue802Feb 12, 2026Zero-Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html"
+    },
+    {
         "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
         "source": "The Hacker News",
         "time": "2026-02-12",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html"
     },
     {
-        "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
-        "source": "The Hacker News",
-        "time": "2026-02-12",
-        "category": "\ue802Feb 11, 2026Patch Tuesday / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html"
-    },
-    {
         "title": "AI Security Board Report Template",
         "source": "The Hacker News",
         "time": "2026-02-12",
         "category": "WizAI Security / Compliance",
         "link": "https://thehackernews.uk/board-template-wiz"
+    },
+    {
+        "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
+        "source": "The Hacker News",
+        "time": "2026-02-12",
+        "category": "\ue802Feb 11, 2026Patch Tuesday / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html"
     },
     {
         "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html"
     },
     {
-        "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
-        "source": "The Hacker News",
-        "time": "2026-02-12",
-        "category": "\ue802Feb 11, 2026Windows Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html"
-    },
-    {
         "title": "Can AI Be Secure? Find Out at SANS 2026",
         "source": "The Hacker News",
         "time": "2026-02-12",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-2026-event"
     },
     {
-        "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
+        "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
         "source": "The Hacker News",
         "time": "2026-02-12",
-        "category": "\ue802Feb 11, 2026Linux / Botnet",
-        "link": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html"
+        "category": "\ue802Feb 11, 2026Windows Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html"
     }
 ]
