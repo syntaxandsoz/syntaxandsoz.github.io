@@ -1,5 +1,33 @@
 [
     {
+        "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
+        "source": "The Hacker News",
+        "time": "2026-02-13",
+        "category": "\ue802Feb 13, 2026Browser Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html"
+    },
+    {
+        "title": "npm\u2019s Update to Harden Their Supply Chain, and Points to Consider",
+        "source": "The Hacker News",
+        "time": "2026-02-13",
+        "category": "\ue802Feb 13, 2026Supply Chain Security / DevSecOps",
+        "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html"
+    },
+    {
+        "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
+        "source": "The Hacker News",
+        "time": "2026-02-13",
+        "category": "\ue802Feb 13, 2026Threat Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html"
+    },
+    {
+        "title": "AI Security Board Report Template",
+        "source": "The Hacker News",
+        "time": "2026-02-13",
+        "category": "WizAI Security / Compliance",
+        "link": "https://thehackernews.uk/board-template-wiz"
+    },
+    {
         "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
         "source": "The Hacker News",
         "time": "2026-02-13",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html"
     },
     {
-        "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
-        "source": "The Hacker News",
-        "time": "2026-02-13",
-        "category": "\ue802Feb 12, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html"
-    },
-    {
-        "title": "AI Security Board Report Template",
-        "source": "The Hacker News",
-        "time": "2026-02-13",
-        "category": "WizAI Security / Compliance",
-        "link": "https://thehackernews.uk/board-template-wiz"
-    },
-    {
-        "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-        "source": "The Hacker News",
-        "time": "2026-02-13",
-        "category": "\ue802Feb 12, 2026Enterprise Security / Breach Prevention",
-        "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html"
-    },
-    {
-        "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-        "source": "The Hacker News",
-        "time": "2026-02-13",
-        "category": "\ue802Feb 12, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html"
-    },
-    {
         "title": "AI Security Isn\u2019t Optional\u2014Join the Conversation at SANS Security West",
         "source": "The Hacker News",
         "time": "2026-02-13",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-secwest-26"
     },
     {
-        "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
+        "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
         "source": "The Hacker News",
         "time": "2026-02-13",
-        "category": "\ue802Feb 12, 2026Zero-Day / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html"
+        "category": "\ue802Feb 12, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html"
     }
 ]
