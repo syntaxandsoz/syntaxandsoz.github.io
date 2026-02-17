@@ -1,24 +1,24 @@
 [
     {
-        "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
+        "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
         "source": "The Hacker News",
         "time": "2026-02-17",
-        "category": "\ue802Feb 17, 2026Encryption / Mobile Security",
-        "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html"
+        "category": "\ue802Feb 17, 2026Infostealer / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html"
     },
     {
-        "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
+        "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
         "source": "The Hacker News",
         "time": "2026-02-17",
-        "category": "\ue802Feb 16, 2026Artificial Intelligence / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html"
+        "category": "\ue802Feb 17, 2026Cloud Security / Digital Forensics",
+        "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html"
     },
     {
-        "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
+        "title": "My Day Getting My Hands Dirty with an NDR System",
         "source": "The Hacker News",
         "time": "2026-02-17",
-        "category": "\ue802Feb 16, 2026Vulnerability / Encryption",
-        "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html"
+        "category": "\ue802Feb 17, 2026Network Security / Threat Detection",
+        "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html"
     },
     {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-security-risks"
     },
     {
-        "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
+        "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
         "source": "The Hacker News",
         "time": "2026-02-17",
-        "category": "\ue802Feb 16, 2026",
-        "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html"
+        "category": "\ue802Feb 17, 2026Enterprise Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html"
     },
     {
-        "title": "Safe and Inclusive E\u2011Society: How Lithuania Is Bracing for AI\u2011Driven Cyber Fraud",
+        "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
         "source": "The Hacker News",
         "time": "2026-02-17",
-        "category": "\ue802Feb 16, 2026Data Protection / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html"
+        "category": "\ue802Feb 17, 2026Encryption / Mobile Security",
+        "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html"
     },
     {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
+        "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
         "source": "The Hacker News",
         "time": "2026-02-17",
-        "category": "\ue802Feb 16, 2026Spyware / Mobile Security",
-        "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html"
+        "category": "\ue802Feb 16, 2026Artificial Intelligence / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html"
     }
 ]
