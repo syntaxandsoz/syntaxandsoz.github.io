@@ -1,10 +1,31 @@
 [
     {
+        "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+        "source": "The Hacker News",
+        "time": "2026-02-17",
+        "category": "\ue802Feb 17, 2026Malware / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html"
+    },
+    {
+        "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+        "source": "The Hacker News",
+        "time": "2026-02-17",
+        "category": "\ue802Feb 17, 2026Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html"
+    },
+    {
         "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
         "source": "The Hacker News",
         "time": "2026-02-17",
         "category": "\ue802Feb 17, 2026Infostealer / Artificial Intelligence",
         "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-02-17",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-security-risks"
     },
     {
         "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-02-17",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-security-risks"
-    },
-    {
-        "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
-        "source": "The Hacker News",
-        "time": "2026-02-17",
-        "category": "\ue802Feb 17, 2026Enterprise Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html"
-    },
-    {
-        "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
-        "source": "The Hacker News",
-        "time": "2026-02-17",
-        "category": "\ue802Feb 17, 2026Encryption / Mobile Security",
-        "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html"
-    },
-    {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
         "source": "The Hacker News",
         "time": "2026-02-17",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
+        "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
         "source": "The Hacker News",
         "time": "2026-02-17",
-        "category": "\ue802Feb 16, 2026Artificial Intelligence / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html"
+        "category": "\ue802Feb 17, 2026Enterprise Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html"
     }
 ]
