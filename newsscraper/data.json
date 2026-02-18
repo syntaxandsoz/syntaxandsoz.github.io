@@ -1,5 +1,12 @@
 [
     {
+        "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
+        "source": "The Hacker News",
+        "time": "2026-02-18",
+        "category": "\ue802Feb 18, 2026Threat Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html"
+    },
+    {
         "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
         "source": "The Hacker News",
         "time": "2026-02-18",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html"
     },
     {
-        "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
-        "source": "The Hacker News",
-        "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Malware / Mobile Security",
-        "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html"
-    },
-    {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
         "source": "The Hacker News",
         "time": "2026-02-18",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/cloud-security-risks"
+    },
+    {
+        "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+        "source": "The Hacker News",
+        "time": "2026-02-18",
+        "category": "\ue802Feb 17, 2026Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html"
     },
     {
         "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html"
     },
     {
-        "title": "My Day Getting My Hands Dirty with an NDR System",
-        "source": "The Hacker News",
-        "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Network Security / Threat Detection",
-        "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html"
-    },
-    {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
         "source": "The Hacker News",
         "time": "2026-02-18",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
+        "title": "My Day Getting My Hands Dirty with an NDR System",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Enterprise Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html"
+        "category": "\ue802Feb 17, 2026Network Security / Threat Detection",
+        "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html"
     }
 ]
