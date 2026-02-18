@@ -1,5 +1,33 @@
 [
     {
+        "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody",
+        "source": "The Hacker News",
+        "time": "2026-02-18",
+        "category": "\ue802Feb 18, 2026Mobile Security / Spyware",
+        "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html"
+    },
+    {
+        "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-02-18",
+        "category": "\ue802Feb 18, 2026Network Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html"
+    },
+    {
+        "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
+        "source": "The Hacker News",
+        "time": "2026-02-18",
+        "category": "\ue802Feb 18, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-02-18",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-security-risks"
+    },
+    {
         "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
         "source": "The Hacker News",
         "time": "2026-02-18",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html"
     },
     {
-        "title": "3 Ways to Start Your Intelligent Workflow Program",
-        "source": "The Hacker News",
-        "time": "2026-02-18",
-        "category": "\ue802Feb 18, 2026Workflow Automation / Enterprise Security",
-        "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html"
-    },
-    {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-02-18",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-security-risks"
-    },
-    {
-        "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-        "source": "The Hacker News",
-        "time": "2026-02-18",
-        "category": "\ue802Feb 18, 2026Vulnerability / Application Security",
-        "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html"
-    },
-    {
-        "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
-        "source": "The Hacker News",
-        "time": "2026-02-18",
-        "category": "\ue802Feb 18, 2026Threat Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html"
-    },
-    {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
         "source": "The Hacker News",
         "time": "2026-02-18",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+        "title": "3 Ways to Start Your Intelligent Workflow Program",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Cloud Security / Digital Forensics",
-        "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html"
+        "category": "\ue802Feb 18, 2026Workflow Automation / Enterprise Security",
+        "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html"
     }
 ]
