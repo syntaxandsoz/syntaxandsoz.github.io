@@ -1,24 +1,24 @@
 [
     {
-        "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
+        "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 18, 2026Threat Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html"
+        "category": "\ue802Feb 18, 2026Zero Trust / Data Security",
+        "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html"
     },
     {
-        "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+        "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Cloud Security / Digital Forensics",
-        "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html"
+        "category": "\ue802Feb 18, 2026Zero-Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html"
     },
     {
-        "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+        "title": "3 Ways to Start Your Intelligent Workflow Program",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Malware / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html"
+        "category": "\ue802Feb 18, 2026Workflow Automation / Enterprise Security",
+        "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html"
     },
     {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-security-risks"
     },
     {
-        "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+        "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Malware / Mobile Security",
-        "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html"
+        "category": "\ue802Feb 18, 2026Vulnerability / Application Security",
+        "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html"
     },
     {
-        "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+        "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Infostealer / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html"
+        "category": "\ue802Feb 18, 2026Threat Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html"
     },
     {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "My Day Getting My Hands Dirty with an NDR System",
+        "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
         "source": "The Hacker News",
         "time": "2026-02-18",
-        "category": "\ue802Feb 17, 2026Network Security / Threat Detection",
-        "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html"
+        "category": "\ue802Feb 17, 2026Cloud Security / Digital Forensics",
+        "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html"
     }
 ]
