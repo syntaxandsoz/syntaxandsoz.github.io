@@ -1,5 +1,33 @@
 [
     {
+        "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
+        "source": "The Hacker News",
+        "time": "2026-02-19",
+        "category": "\ue802Feb 19, 2026Artificial Intelligence / DevSecOps",
+        "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html"
+    },
+    {
+        "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
+        "source": "The Hacker News",
+        "time": "2026-02-19",
+        "category": "\ue802Feb 19, 2026Banking Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html"
+    },
+    {
+        "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
+        "source": "The Hacker News",
+        "time": "2026-02-19",
+        "category": "\ue802Feb 19, 2026Cyber Espionage / Data Security",
+        "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-02-19",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-security-risks"
+    },
+    {
         "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody",
         "source": "The Hacker News",
         "time": "2026-02-19",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html"
     },
     {
-        "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
-        "source": "The Hacker News",
-        "time": "2026-02-19",
-        "category": "\ue802Feb 18, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html"
-    },
-    {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-02-19",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-security-risks"
-    },
-    {
-        "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
-        "source": "The Hacker News",
-        "time": "2026-02-19",
-        "category": "\ue802Feb 18, 2026Zero Trust / Data Security",
-        "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html"
-    },
-    {
-        "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
-        "source": "The Hacker News",
-        "time": "2026-02-19",
-        "category": "\ue802Feb 18, 2026Zero-Day / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html"
-    },
-    {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
         "source": "The Hacker News",
         "time": "2026-02-19",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "3 Ways to Start Your Intelligent Workflow Program",
+        "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
         "source": "The Hacker News",
         "time": "2026-02-19",
-        "category": "\ue802Feb 18, 2026Workflow Automation / Enterprise Security",
-        "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html"
+        "category": "\ue802Feb 18, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html"
     }
 ]
