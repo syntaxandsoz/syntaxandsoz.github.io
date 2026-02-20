@@ -1,24 +1,24 @@
 [
     {
-        "title": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
+        "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT",
         "source": "The Hacker News",
         "time": "2026-02-20",
-        "category": "\ue802Feb 20, 2026Insider Threat / Corporate Espionage",
-        "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html"
+        "category": "\ue802Feb 20, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html"
     },
     {
-        "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
+        "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
         "source": "The Hacker News",
         "time": "2026-02-20",
-        "category": "\ue802Feb 19, 2026Malware / Mobile Security",
-        "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html"
+        "category": "\ue802Feb 20, 2026Cyber Insurance / Password Security",
+        "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html"
     },
     {
-        "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
+        "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
         "source": "The Hacker News",
         "time": "2026-02-20",
-        "category": "\ue802Feb 19, 2026Financial Crime / Cybercrime",
-        "link": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html"
+        "category": "\ue802Feb 20, 2026Cybercrime / Law Enforcement",
+        "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html"
     },
     {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-security-risks"
     },
     {
-        "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
+        "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
         "source": "The Hacker News",
         "time": "2026-02-20",
-        "category": "\ue802Feb 19, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html"
+        "category": "\ue802Feb 20, 2026Financial Crime / Banking Security",
+        "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html"
     },
     {
-        "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
+        "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
         "source": "The Hacker News",
         "time": "2026-02-20",
-        "category": "\ue802Feb 19, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html"
+        "category": "\ue802Feb 20, 2026Insider Threat / Corporate Espionage",
+        "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html"
     },
     {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
+        "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
         "source": "The Hacker News",
         "time": "2026-02-20",
-        "category": "\ue802Feb 19, 2026Artificial Intelligence / DevSecOps",
-        "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html"
+        "category": "\ue802Feb 19, 2026Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html"
     }
 ]
