@@ -1,10 +1,31 @@
 [
     {
-        "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT",
+        "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+        "source": "The Hacker News",
+        "time": "2026-02-20",
+        "category": "\ue802Feb 20, 2026Vulnerability / Cyber Attack",
+        "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html"
+    },
+    {
+        "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+        "source": "The Hacker News",
+        "time": "2026-02-20",
+        "category": "\ue802Feb 20, 2026Software Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html"
+    },
+    {
+        "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
         "source": "The Hacker News",
         "time": "2026-02-20",
         "category": "\ue802Feb 20, 2026Malware / Threat Intelligence",
         "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-02-20",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-security-risks"
     },
     {
         "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-02-20",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-security-risks"
-    },
-    {
-        "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-        "source": "The Hacker News",
-        "time": "2026-02-20",
-        "category": "\ue802Feb 20, 2026Financial Crime / Banking Security",
-        "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html"
-    },
-    {
-        "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
-        "source": "The Hacker News",
-        "time": "2026-02-20",
-        "category": "\ue802Feb 20, 2026Insider Threat / Corporate Espionage",
-        "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html"
-    },
-    {
         "title": "Red Report 2026: Analysis of 1.1M Malicious Files and 15.5M Actions",
         "source": "The Hacker News",
         "time": "2026-02-20",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/red-security"
     },
     {
-        "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
+        "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
         "source": "The Hacker News",
         "time": "2026-02-20",
-        "category": "\ue802Feb 19, 2026Malware / Mobile Security",
-        "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html"
+        "category": "\ue802Feb 20, 2026Financial Crime / Banking Security",
+        "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html"
     }
 ]
