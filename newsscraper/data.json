@@ -1,24 +1,24 @@
 [
     {
-        "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+        "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
         "source": "The Hacker News",
         "time": "2026-02-23",
-        "category": "\ue802Feb 21, 2026Threat Intelligence / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html"
+        "category": "\ue802Feb 23, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html"
     },
     {
-        "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
+        "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
         "source": "The Hacker News",
         "time": "2026-02-23",
-        "category": "\ue802Feb 21, 2026Artificial Intelligence / DevSecOps",
-        "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html"
+        "category": "\ue802Feb 23, 2026Artificial Intelligence / Zero Trust",
+        "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html"
     },
     {
-        "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
+        "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
         "source": "The Hacker News",
         "time": "2026-02-23",
-        "category": "\ue802Feb 21, 2026Vulnerability / Patch Management",
-        "link": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html"
+        "category": "\ue802Feb 23, 2026AI Security / DevOps",
+        "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html"
     },
     {
         "title": "Eliminate Shadow AI Blind Spots",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/complete-visibility"
     },
     {
-        "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+        "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
         "source": "The Hacker News",
         "time": "2026-02-23",
-        "category": "\ue802Feb 21, 2026Artificial Intelligence / Training",
-        "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html"
+        "category": "\ue802Feb 23, 2026Threat Intelligence / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html"
     },
     {
-        "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+        "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
         "source": "The Hacker News",
         "time": "2026-02-23",
-        "category": "\ue802Feb 20, 2026Vulnerability / Cyber Attack",
-        "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html"
+        "category": "\ue802Feb 21, 2026Threat Intelligence / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html"
     },
     {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/detect-agent-threats"
     },
     {
-        "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+        "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
         "source": "The Hacker News",
         "time": "2026-02-23",
-        "category": "\ue802Feb 20, 2026Software Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html"
+        "category": "\ue802Feb 21, 2026Artificial Intelligence / DevSecOps",
+        "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html"
     }
 ]
