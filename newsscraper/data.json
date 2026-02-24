@@ -1,10 +1,31 @@
 [
     {
+        "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+        "source": "The Hacker News",
+        "time": "2026-02-24",
+        "category": "\ue802Feb 24, 2026Artificial Intelligence / Cloud Security",
+        "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html"
+    },
+    {
+        "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+        "source": "The Hacker News",
+        "time": "2026-02-24",
+        "category": "\ue802Feb 24, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html"
+    },
+    {
         "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
         "source": "The Hacker News",
         "time": "2026-02-24",
         "category": "\ue802Feb 24, 2026Identity Security / Enterprise Security",
         "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html"
+    },
+    {
+        "title": "Eliminate Shadow AI Blind Spots",
+        "source": "The Hacker News",
+        "time": "2026-02-24",
+        "category": "Nudge SecuritySaaS Security / Shadow AI",
+        "link": "https://thehackernews.uk/complete-visibility"
     },
     {
         "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html"
     },
     {
-        "title": "Eliminate Shadow AI Blind Spots",
-        "source": "The Hacker News",
-        "time": "2026-02-24",
-        "category": "Nudge SecuritySaaS Security / Shadow AI",
-        "link": "https://thehackernews.uk/complete-visibility"
-    },
-    {
-        "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
-        "source": "The Hacker News",
-        "time": "2026-02-24",
-        "category": "\ue802Feb 24, 2026Artificial Intelligence / Anthropic",
-        "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html"
-    },
-    {
-        "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
-        "source": "The Hacker News",
-        "time": "2026-02-24",
-        "category": "\ue802Feb 23, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-02-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/detect-agent-threats"
     },
     {
-        "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+        "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
         "source": "The Hacker News",
         "time": "2026-02-24",
-        "category": "\ue802Feb 23, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html"
+        "category": "\ue802Feb 24, 2026Artificial Intelligence / Anthropic",
+        "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html"
     }
 ]
