@@ -1,5 +1,33 @@
 [
     {
+        "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "\ue802Feb 26, 2026Malware / Blockchain",
+        "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html"
+    },
+    {
+        "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "\ue802Feb 26, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html"
+    },
+    {
+        "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "\ue802Feb 26, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html"
+    },
+    {
+        "title": "Shadow AI Is Everywhere. Here\u2019s How You Can Find and Secure It",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "Nudge SecuritySaaS Security / Shadow AI",
+        "link": "https://thehackernews.uk/complete-ai-visibility"
+    },
+    {
         "title": "Expert Recommends: Prepare for PQC Right Now",
         "source": "The Hacker News",
         "time": "2026-02-26",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html"
     },
     {
-        "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "\ue802Feb 26, 2026Malware / Software Security",
-        "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html"
-    },
-    {
-        "title": "Shadow AI Is Everywhere. Here\u2019s How You Can Find and Secure It",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "Nudge SecuritySaaS Security / Shadow AI",
-        "link": "https://thehackernews.uk/complete-ai-visibility"
-    },
-    {
-        "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "\ue802Feb 26, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html"
-    },
-    {
-        "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "\ue802Feb 25, 2026Cyber Espionage / Network Security",
-        "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-02-26",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/detect-agent-threats"
     },
     {
-        "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+        "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
         "source": "The Hacker News",
         "time": "2026-02-26",
-        "category": "\ue802Feb 25, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html"
+        "category": "\ue802Feb 26, 2026Malware / Software Security",
+        "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html"
     }
 ]
