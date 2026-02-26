@@ -1,5 +1,33 @@
 [
     {
+        "title": "Expert Recommends: Prepare for PQC Right Now",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "\ue802Feb 26, 2026Encryption / Data Protection",
+        "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html"
+    },
+    {
+        "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "\ue802Feb 26, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html"
+    },
+    {
+        "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "\ue802Feb 26, 2026Malware / Software Security",
+        "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html"
+    },
+    {
+        "title": "Shadow AI Is Everywhere. Here\u2019s How You Can Find and Secure It",
+        "source": "The Hacker News",
+        "time": "2026-02-26",
+        "category": "Nudge SecuritySaaS Security / Shadow AI",
+        "link": "https://thehackernews.uk/complete-ai-visibility"
+    },
+    {
         "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
         "source": "The Hacker News",
         "time": "2026-02-26",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html"
     },
     {
-        "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "\ue802Feb 25, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html"
-    },
-    {
-        "title": "Shadow AI Is Everywhere. Here\u2019s How You Can Find and Secure It",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "Nudge SecuritySaaS Security / Shadow AI",
-        "link": "https://thehackernews.uk/complete-ai-visibility"
-    },
-    {
-        "title": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "\ue802Feb 25, 2026Social Engineering / Cloud Security",
-        "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html"
-    },
-    {
-        "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
-        "source": "The Hacker News",
-        "time": "2026-02-26",
-        "category": "\ue802Feb 25, 2026Malware Analysis / Threat Detection",
-        "link": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-02-26",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/detect-agent-threats"
     },
     {
-        "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+        "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
         "source": "The Hacker News",
         "time": "2026-02-26",
-        "category": "\ue802Feb 25, 2026Cybersecurity / Malware",
-        "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html"
+        "category": "\ue802Feb 25, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html"
     }
 ]
