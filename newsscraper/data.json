@@ -1,5 +1,33 @@
 [
     {
+        "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+        "source": "The Hacker News",
+        "time": "2026-02-27",
+        "category": "\ue802Feb 27, 2026Malware / Surveillance",
+        "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html"
+    },
+    {
+        "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+        "source": "The Hacker News",
+        "time": "2026-02-27",
+        "category": "\ue802Feb 27, 2026Endpoint Security / Windows Security",
+        "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html"
+    },
+    {
+        "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+        "source": "The Hacker News",
+        "time": "2026-02-27",
+        "category": "\ue802Feb 27, 2026Online Scam / Digital Advertising",
+        "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html"
+    },
+    {
+        "title": "How to Discover Shadow AI [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-02-27",
+        "category": "Nudge SecuritySaaS Security / Shadow AI",
+        "link": "https://thehackernews.uk/nudge-security-ai"
+    },
+    {
         "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
         "source": "The Hacker News",
         "time": "2026-02-27",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html"
     },
     {
-        "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
-        "source": "The Hacker News",
-        "time": "2026-02-27",
-        "category": "\ue802Feb 26, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html"
-    },
-    {
-        "title": "Shadow AI Is Everywhere. Here\u2019s How You Can Find and Secure It",
-        "source": "The Hacker News",
-        "time": "2026-02-27",
-        "category": "Nudge SecuritySaaS Security / Shadow AI",
-        "link": "https://thehackernews.uk/complete-ai-visibility"
-    },
-    {
-        "title": "Expert Recommends: Prepare for PQC Right Now",
-        "source": "The Hacker News",
-        "time": "2026-02-27",
-        "category": "\ue802Feb 26, 2026Encryption / Data Protection",
-        "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html"
-    },
-    {
-        "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-        "source": "The Hacker News",
-        "time": "2026-02-27",
-        "category": "\ue802Feb 26, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-02-27",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/detect-agent-threats"
     },
     {
-        "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+        "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
         "source": "The Hacker News",
         "time": "2026-02-27",
-        "category": "\ue802Feb 26, 2026Malware / Software Security",
-        "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html"
+        "category": "\ue802Feb 26, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html"
     }
 ]
