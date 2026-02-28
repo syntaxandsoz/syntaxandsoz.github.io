@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+        "source": "The Hacker News",
+        "time": "2026-02-28",
+        "category": "\ue802Feb 28, 2026National Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html"
+    },
+    {
         "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
         "source": "The Hacker News",
         "time": "2026-02-28",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html"
     },
     {
-        "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
-        "source": "The Hacker News",
-        "time": "2026-02-28",
-        "category": "\ue802Feb 27, 2026Malware / Linux Security",
-        "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html"
-    },
-    {
         "title": "How to Discover Shadow AI [Free Guide]",
         "source": "The Hacker News",
         "time": "2026-02-28",
         "category": "Nudge SecuritySaaS Security / Shadow AI",
         "link": "https://thehackernews.uk/nudge-security-ai"
+    },
+    {
+        "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+        "source": "The Hacker News",
+        "time": "2026-02-28",
+        "category": "\ue802Feb 27, 2026Malware / Linux Security",
+        "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html"
     },
     {
         "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html"
     },
     {
-        "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
-        "source": "The Hacker News",
-        "time": "2026-02-28",
-        "category": "\ue802Feb 27, 2026Endpoint Security / Windows Security",
-        "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-02-28",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/detect-agent-threats"
     },
     {
-        "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+        "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
         "source": "The Hacker News",
         "time": "2026-02-28",
-        "category": "\ue802Feb 27, 2026Online Scam / Digital Advertising",
-        "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html"
+        "category": "\ue802Feb 27, 2026Endpoint Security / Windows Security",
+        "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html"
     }
 ]
