@@ -1,5 +1,12 @@
 [
     {
+        "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
+        "source": "The Hacker News",
+        "time": "2026-02-28",
+        "category": "\ue802Feb 28, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html"
+    },
+    {
         "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
         "source": "The Hacker News",
         "time": "2026-02-28",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html"
     },
     {
-        "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-        "source": "The Hacker News",
-        "time": "2026-02-28",
-        "category": "\ue802Feb 27, 2026Financial Crime / Social Engineering",
-        "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html"
-    },
-    {
         "title": "How to Discover Shadow AI [Free Guide]",
         "source": "The Hacker News",
         "time": "2026-02-28",
         "category": "Nudge SecuritySaaS Security / Shadow AI",
         "link": "https://thehackernews.uk/nudge-security-ai"
+    },
+    {
+        "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
+        "source": "The Hacker News",
+        "time": "2026-02-28",
+        "category": "\ue802Feb 27, 2026Financial Crime / Social Engineering",
+        "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html"
     },
     {
         "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html"
     },
     {
-        "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
-        "source": "The Hacker News",
-        "time": "2026-02-28",
-        "category": "\ue802Feb 27, 2026Malware / Linux Security",
-        "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-02-28",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/detect-agent-threats"
     },
     {
-        "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+        "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
         "source": "The Hacker News",
         "time": "2026-02-28",
-        "category": "\ue802Feb 27, 2026Malware / Surveillance",
-        "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html"
+        "category": "\ue802Feb 27, 2026Malware / Linux Security",
+        "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html"
     }
 ]
