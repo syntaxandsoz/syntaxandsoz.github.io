@@ -1,5 +1,33 @@
 [
     {
+        "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
+        "source": "The Hacker News",
+        "time": "2026-03-02",
+        "category": "\ue802Mar 02, 2026Application Security / DevOps",
+        "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html"
+    },
+    {
+        "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+        "source": "The Hacker News",
+        "time": "2026-03-02",
+        "category": "\ue802Mar 02, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html"
+    },
+    {
+        "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
+        "source": "The Hacker News",
+        "time": "2026-03-02",
+        "category": "\ue802Mar 02, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-02",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-security-report-2025"
+    },
+    {
         "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
         "source": "The Hacker News",
         "time": "2026-03-02",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html"
     },
     {
-        "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-        "source": "The Hacker News",
-        "time": "2026-03-02",
-        "category": "\ue802Feb 28, 2026National Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html"
-    },
-    {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-02",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-security-report-2025"
-    },
-    {
-        "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-        "source": "The Hacker News",
-        "time": "2026-03-02",
-        "category": "\ue802Feb 27, 2026Financial Crime / Social Engineering",
-        "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html"
-    },
-    {
-        "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
-        "source": "The Hacker News",
-        "time": "2026-03-02",
-        "category": "\ue802Feb 27, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html"
-    },
-    {
         "title": "Accelerate your AI Initiatives",
         "source": "The Hacker News",
         "time": "2026-03-02",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-ai-innovation-feed"
     },
     {
-        "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+        "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
         "source": "The Hacker News",
         "time": "2026-03-02",
-        "category": "\ue802Feb 27, 2026Malware / Linux Security",
-        "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html"
+        "category": "\ue802Feb 28, 2026National Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html"
     }
 ]
