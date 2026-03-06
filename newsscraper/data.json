@@ -1,10 +1,17 @@
 [
     {
-        "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+        "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
         "source": "The Hacker News",
         "time": "2026-03-06",
-        "category": "\ue802Mar 05, 2026Encryption / Data Protection",
-        "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html"
+        "category": "\ue802Mar 06, 2026Endpoint Security / Browser Security",
+        "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html"
+    },
+    {
+        "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+        "source": "The Hacker News",
+        "time": "2026-03-06",
+        "category": "\ue802Mar 06, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html"
     },
     {
         "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
@@ -14,13 +21,6 @@
         "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html"
     },
     {
-        "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
-        "source": "The Hacker News",
-        "time": "2026-03-06",
-        "category": "\ue802Mar 05, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html"
-    },
-    {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
         "source": "The Hacker News",
         "time": "2026-03-06",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-security-report-2025"
     },
     {
-        "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+        "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
         "source": "The Hacker News",
         "time": "2026-03-06",
-        "category": "\ue802Mar 05, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html"
+        "category": "\ue802Mar 05, 2026Encryption / Data Protection",
+        "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html"
     },
     {
-        "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
+        "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More",
         "source": "The Hacker News",
         "time": "2026-03-06",
-        "category": "\ue802Mar 05, 2026Windows Security / Active Directory",
-        "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html"
+        "category": "\ue802Mar 05, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html"
     },
     {
         "title": "Accelerate your AI Initiatives",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-ai-innovation-feed"
     },
     {
-        "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+        "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
         "source": "The Hacker News",
         "time": "2026-03-06",
-        "category": "\ue802Mar 05, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html"
+        "category": "\ue802Mar 05, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html"
     }
 ]
