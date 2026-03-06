@@ -1,10 +1,31 @@
 [
     {
+        "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+        "source": "The Hacker News",
+        "time": "2026-03-06",
+        "category": "\ue802Mar 06, 2026Threat Intelligence / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html"
+    },
+    {
+        "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+        "source": "The Hacker News",
+        "time": "2026-03-06",
+        "category": "\ue802Mar 06, 2026Threat Intelligence / Windows Security",
+        "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html"
+    },
+    {
         "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
         "source": "The Hacker News",
         "time": "2026-03-06",
         "category": "\ue802Mar 06, 2026Artificial Intelligence / Enterprise Security",
         "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-06",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-security-report-2025"
     },
     {
         "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-06",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-security-report-2025"
-    },
-    {
-        "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
-        "source": "The Hacker News",
-        "time": "2026-03-06",
-        "category": "\ue802Mar 06, 2026Endpoint Security / Browser Security",
-        "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html"
-    },
-    {
-        "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
-        "source": "The Hacker News",
-        "time": "2026-03-06",
-        "category": "\ue802Mar 06, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html"
-    },
-    {
         "title": "Accelerate your AI Initiatives",
         "source": "The Hacker News",
         "time": "2026-03-06",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-ai-innovation-feed"
     },
     {
-        "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
+        "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
         "source": "The Hacker News",
         "time": "2026-03-06",
-        "category": "\ue802Mar 05, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html"
+        "category": "\ue802Mar 06, 2026Endpoint Security / Browser Security",
+        "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html"
     }
 ]
