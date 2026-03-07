@@ -1,5 +1,12 @@
 [
     {
+        "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+        "source": "The Hacker News",
+        "time": "2026-03-07",
+        "category": "\ue802Mar 07, 2026Browser Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html"
+    },
+    {
         "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
         "source": "The Hacker News",
         "time": "2026-03-07",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html"
     },
     {
-        "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
-        "source": "The Hacker News",
-        "time": "2026-03-07",
-        "category": "\ue802Mar 06, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html"
-    },
-    {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
         "source": "The Hacker News",
         "time": "2026-03-07",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/cloud-security-report-2025"
+    },
+    {
+        "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
+        "source": "The Hacker News",
+        "time": "2026-03-07",
+        "category": "\ue802Mar 06, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html"
     },
     {
         "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
     },
     {
-        "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
-        "source": "The Hacker News",
-        "time": "2026-03-07",
-        "category": "\ue802Mar 06, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html"
-    },
-    {
         "title": "Accelerate your AI Initiatives",
         "source": "The Hacker News",
         "time": "2026-03-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-ai-innovation-feed"
     },
     {
-        "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+        "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
         "source": "The Hacker News",
         "time": "2026-03-07",
-        "category": "\ue802Mar 06, 2026Endpoint Security / Browser Security",
-        "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html"
+        "category": "\ue802Mar 06, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html"
     }
 ]
