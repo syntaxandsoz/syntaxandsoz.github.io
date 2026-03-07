@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
+        "source": "The Hacker News",
+        "time": "2026-03-07",
+        "category": "\ue802Mar 07, 2026DevSecOps / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html"
+    },
+    {
         "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
         "source": "The Hacker News",
         "time": "2026-03-07",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html"
     },
     {
-        "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
-        "source": "The Hacker News",
-        "time": "2026-03-07",
-        "category": "\ue802Mar 06, 2026Threat Intelligence / Windows Security",
-        "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html"
-    },
-    {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
         "source": "The Hacker News",
         "time": "2026-03-07",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/cloud-security-report-2025"
+    },
+    {
+        "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+        "source": "The Hacker News",
+        "time": "2026-03-07",
+        "category": "\ue802Mar 06, 2026Threat Intelligence / Windows Security",
+        "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html"
     },
     {
         "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html"
     },
     {
-        "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
-        "source": "The Hacker News",
-        "time": "2026-03-07",
-        "category": "\ue802Mar 06, 2026Cyber Warfare / Cloud Security",
-        "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
-    },
-    {
         "title": "Accelerate your AI Initiatives",
         "source": "The Hacker News",
         "time": "2026-03-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/zscaler-ai-innovation-feed"
     },
     {
-        "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+        "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
         "source": "The Hacker News",
         "time": "2026-03-07",
-        "category": "\ue802Mar 06, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html"
+        "category": "\ue802Mar 06, 2026Cyber Warfare / Cloud Security",
+        "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
     }
 ]
