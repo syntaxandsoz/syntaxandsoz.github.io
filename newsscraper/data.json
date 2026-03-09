@@ -1,5 +1,33 @@
 [
     {
+        "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "\ue802Mar 09, 2026Malware / Developer Security",
+        "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html"
+    },
+    {
+        "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "\ue802Mar 09, 2026DevOps / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html"
+    },
+    {
+        "title": "\u26a1 Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "\ue802Mar 09, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html"
+    },
+    {
+        "title": "Practical Tools for Modern CISOs + Security Leaders",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "WizCISO / Product Security",
+        "link": "https://thehackernews.uk/wiz-ciso-bundle"
+    },
+    {
         "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
         "source": "The Hacker News",
         "time": "2026-03-09",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html"
     },
     {
-        "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "\ue802Mar 09, 2026Threat Intelligence / Web Security",
-        "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html"
-    },
-    {
-        "title": "Practical Tools for Modern CISOs + Security Leaders",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "WizCISO / Product Security",
-        "link": "https://thehackernews.uk/wiz-ciso-bundle"
-    },
-    {
-        "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "\ue802Mar 07, 2026DevSecOps / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html"
-    },
-    {
-        "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "\ue802Mar 07, 2026Browser Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-03-09",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/openclaw-ai-risks"
     },
     {
-        "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+        "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
         "source": "The Hacker News",
         "time": "2026-03-09",
-        "category": "\ue802Mar 06, 2026Threat Intelligence / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html"
+        "category": "\ue802Mar 09, 2026Threat Intelligence / Web Security",
+        "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html"
     }
 ]
