@@ -1,5 +1,33 @@
 [
     {
+        "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "\ue802Mar 09, 2026Endpoint Security / Security Operations",
+        "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html"
+    },
+    {
+        "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "\ue802Mar 09, 2026Browser Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html"
+    },
+    {
+        "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "\ue802Mar 09, 2026Threat Intelligence / Web Security",
+        "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html"
+    },
+    {
+        "title": "Practical Tools for Modern CISOs + Security Leaders",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "WizCISO / Product Security",
+        "link": "https://thehackernews.uk/wiz-ciso-bundle"
+    },
+    {
         "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
         "source": "The Hacker News",
         "time": "2026-03-09",
@@ -14,45 +42,17 @@
         "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html"
     },
     {
+        "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
+        "source": "The Hacker News",
+        "time": "2026-03-09",
+        "category": "RecoSaaS Security / AI Security",
+        "link": "https://thehackernews.uk/openclaw-ai-risks"
+    },
+    {
         "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
         "source": "The Hacker News",
         "time": "2026-03-09",
         "category": "\ue802Mar 06, 2026Threat Intelligence / Cyber Espionage",
         "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html"
-    },
-    {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-security-report-2025"
-    },
-    {
-        "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "\ue802Mar 06, 2026Threat Intelligence / Windows Security",
-        "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html"
-    },
-    {
-        "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "\ue802Mar 06, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html"
-    },
-    {
-        "title": "Accelerate your AI Initiatives",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "ZsclaerZero Trust / AI Security",
-        "link": "https://thehackernews.uk/zscaler-ai-innovation-feed"
-    },
-    {
-        "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
-        "source": "The Hacker News",
-        "time": "2026-03-09",
-        "category": "\ue802Mar 06, 2026Cyber Warfare / Cloud Security",
-        "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html"
     }
 ]
