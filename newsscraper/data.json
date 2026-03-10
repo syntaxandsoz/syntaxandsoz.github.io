@@ -7,18 +7,18 @@
         "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html"
     },
     {
-        "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+        "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
         "source": "The Hacker News",
         "time": "2026-03-10",
-        "category": "\ue802Mar 10, 2026Vulnerability Management / Shadow IT",
-        "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html"
+        "category": "\ue802Mar 10, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html"
     },
     {
-        "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+        "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
         "source": "The Hacker News",
         "time": "2026-03-10",
-        "category": "\ue802Mar 10, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html"
+        "category": "\ue802Mar 10, 2026Malware / Network Security",
+        "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html"
     },
     {
         "title": "Practical Tools for Modern CISOs + Security Leaders",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-ciso-bundle"
     },
     {
-        "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
+        "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
         "source": "The Hacker News",
         "time": "2026-03-10",
-        "category": "\ue802Mar 10, 2026Cloud Security / API Security",
-        "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html"
+        "category": "\ue802Mar 10, 2026Database Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html"
     },
     {
-        "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
+        "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
         "source": "The Hacker News",
         "time": "2026-03-10",
-        "category": "\ue802Mar 10, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html"
+        "category": "\ue802Mar 10, 2026Vulnerability Management / Shadow IT",
+        "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html"
     },
     {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/openclaw-ai-risks"
     },
     {
-        "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
+        "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
         "source": "The Hacker News",
         "time": "2026-03-10",
-        "category": "\ue802Mar 09, 2026Malware / Developer Security",
-        "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html"
+        "category": "\ue802Mar 10, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html"
     }
 ]
