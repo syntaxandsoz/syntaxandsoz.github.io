@@ -1,24 +1,24 @@
 [
     {
-        "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
+        "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
         "source": "The Hacker News",
         "time": "2026-03-11",
-        "category": "\ue802Mar 11, 2026Artificial Intelligence / Developer Security",
-        "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html"
+        "category": "\ue802Mar 11, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html"
     },
     {
-        "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
+        "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
         "source": "The Hacker News",
         "time": "2026-03-11",
-        "category": "\ue802Mar 10, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html"
+        "category": "\ue802Mar 11, 2026Enterprise Security / Regulatory Compliance",
+        "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html"
     },
     {
-        "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+        "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
         "source": "The Hacker News",
         "time": "2026-03-11",
-        "category": "\ue802Mar 10, 2026Artificial Intelligence / Threat Detection",
-        "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html"
+        "category": "\ue802Mar 11, 2026Patch Tuesday / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html"
     },
     {
         "title": "Practical Tools for Modern CISOs + Security Leaders",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-ciso-bundle"
     },
     {
-        "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
+        "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
         "source": "The Hacker News",
         "time": "2026-03-11",
-        "category": "\ue802Mar 10, 2026Malware / Network Security",
-        "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html"
+        "category": "\ue802Mar 11, 2026DevSecOps / AI Security",
+        "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html"
     },
     {
-        "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
+        "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
         "source": "The Hacker News",
         "time": "2026-03-11",
-        "category": "\ue802Mar 10, 2026Database Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html"
+        "category": "\ue802Mar 11, 2026Artificial Intelligence / Developer Security",
+        "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html"
     },
     {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/openclaw-ai-risks"
     },
     {
-        "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+        "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
         "source": "The Hacker News",
         "time": "2026-03-11",
-        "category": "\ue802Mar 10, 2026Vulnerability Management / Shadow IT",
-        "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html"
+        "category": "\ue802Mar 10, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html"
     }
 ]
