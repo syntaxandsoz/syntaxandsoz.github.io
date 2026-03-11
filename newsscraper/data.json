@@ -1,5 +1,33 @@
 [
     {
+        "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
+        "source": "The Hacker News",
+        "time": "2026-03-11",
+        "category": "\ue802Mar 11, 2026Artificial Intelligence / Browser Security",
+        "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html"
+    },
+    {
+        "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
+        "source": "The Hacker News",
+        "time": "2026-03-11",
+        "category": "\ue802Mar 11, 2026Vulnerability / Application Security",
+        "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html"
+    },
+    {
+        "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
+        "source": "The Hacker News",
+        "time": "2026-03-11",
+        "category": "\ue802Mar 11, 2026Cybercrime / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html"
+    },
+    {
+        "title": "Practical Tools for Modern CISOs + Security Leaders",
+        "source": "The Hacker News",
+        "time": "2026-03-11",
+        "category": "WizCISO / Product Security",
+        "link": "https://thehackernews.uk/wiz-ciso-bundle"
+    },
+    {
         "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
         "source": "The Hacker News",
         "time": "2026-03-11",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html"
     },
     {
-        "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
-        "source": "The Hacker News",
-        "time": "2026-03-11",
-        "category": "\ue802Mar 11, 2026Patch Tuesday / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html"
-    },
-    {
-        "title": "Practical Tools for Modern CISOs + Security Leaders",
-        "source": "The Hacker News",
-        "time": "2026-03-11",
-        "category": "WizCISO / Product Security",
-        "link": "https://thehackernews.uk/wiz-ciso-bundle"
-    },
-    {
-        "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
-        "source": "The Hacker News",
-        "time": "2026-03-11",
-        "category": "\ue802Mar 11, 2026DevSecOps / AI Security",
-        "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html"
-    },
-    {
-        "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
-        "source": "The Hacker News",
-        "time": "2026-03-11",
-        "category": "\ue802Mar 11, 2026Artificial Intelligence / Developer Security",
-        "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-03-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/openclaw-ai-risks"
     },
     {
-        "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
+        "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
         "source": "The Hacker News",
         "time": "2026-03-11",
-        "category": "\ue802Mar 10, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html"
+        "category": "\ue802Mar 11, 2026Patch Tuesday / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html"
     }
 ]
