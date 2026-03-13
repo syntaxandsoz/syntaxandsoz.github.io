@@ -1,10 +1,31 @@
 [
     {
+        "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+        "source": "The Hacker News",
+        "time": "2026-03-13",
+        "category": "\ue802Mar 13, 2026Browser Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html"
+    },
+    {
+        "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+        "source": "The Hacker News",
+        "time": "2026-03-13",
+        "category": "\ue802Mar 13, 2026Linux / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html"
+    },
+    {
         "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
         "source": "The Hacker News",
         "time": "2026-03-13",
         "category": "\ue802Mar 13, 2026Botnet / Threat Intelligence",
         "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html"
+    },
+    {
+        "title": "Practical Tools for Modern CISOs + Security Leaders",
+        "source": "The Hacker News",
+        "time": "2026-03-13",
+        "category": "WizCISO / Product Security",
+        "link": "https://thehackernews.uk/wiz-ciso-bundle"
     },
     {
         "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html"
     },
     {
-        "title": "Practical Tools for Modern CISOs + Security Leaders",
-        "source": "The Hacker News",
-        "time": "2026-03-13",
-        "category": "WizCISO / Product Security",
-        "link": "https://thehackernews.uk/wiz-ciso-bundle"
-    },
-    {
-        "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
-        "source": "The Hacker News",
-        "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Artificial Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html"
-    },
-    {
-        "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
-        "source": "The Hacker News",
-        "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Malware Analysis / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-03-13",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/openclaw-ai-risks"
     },
     {
-        "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
+        "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html"
+        "category": "\ue802Mar 12, 2026Artificial Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html"
     }
 ]
