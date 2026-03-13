@@ -1,24 +1,24 @@
 [
     {
-        "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+        "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 13, 2026Browser Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html"
+        "category": "\ue802Mar 13, 2026Cyber Espionage / Military Security",
+        "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
     },
     {
-        "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+        "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 13, 2026Linux / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html"
+        "category": "\ue802Mar 13, 2026Encryption / Data Protection",
+        "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html"
     },
     {
-        "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
+        "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 13, 2026Botnet / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html"
+        "category": "\ue802Mar 13, 2026Ransomware / Cybercrime",
+        "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
     },
     {
         "title": "Practical Tools for Modern CISOs + Security Leaders",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-ciso-bundle"
     },
     {
-        "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+        "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 13, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html"
+        "category": "\ue802Mar 13, 2026VPN Security / Malware",
+        "link": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html"
     },
     {
-        "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
+        "title": "Investigating a New Click-Fix Variant",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Malware / Cybercrime",
-        "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html"
+        "category": "\ue802Mar 13, 2026Malware / Threat Hunting",
+        "link": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html"
     },
     {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/openclaw-ai-risks"
     },
     {
-        "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
+        "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Artificial Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html"
+        "category": "\ue802Mar 13, 2026Browser Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html"
     }
 ]
