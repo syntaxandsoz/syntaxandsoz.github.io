@@ -1,10 +1,31 @@
 [
     {
+        "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
+        "source": "The Hacker News",
+        "time": "2026-03-13",
+        "category": "\ue802Mar 13, 2026Botnet / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html"
+    },
+    {
+        "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-03-13",
+        "category": "\ue802Mar 13, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html"
+    },
+    {
         "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
         "source": "The Hacker News",
         "time": "2026-03-13",
         "category": "\ue802Mar 12, 2026Malware / Cybercrime",
         "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html"
+    },
+    {
+        "title": "Practical Tools for Modern CISOs + Security Leaders",
+        "source": "The Hacker News",
+        "time": "2026-03-13",
+        "category": "WizCISO / Product Security",
+        "link": "https://thehackernews.uk/wiz-ciso-bundle"
     },
     {
         "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html"
     },
     {
-        "title": "Practical Tools for Modern CISOs + Security Leaders",
-        "source": "The Hacker News",
-        "time": "2026-03-13",
-        "category": "WizCISO / Product Security",
-        "link": "https://thehackernews.uk/wiz-ciso-bundle"
-    },
-    {
-        "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
-        "source": "The Hacker News",
-        "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html"
-    },
-    {
-        "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-        "source": "The Hacker News",
-        "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html"
-    },
-    {
         "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
         "source": "The Hacker News",
         "time": "2026-03-13",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/openclaw-ai-risks"
     },
     {
-        "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
+        "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
         "source": "The Hacker News",
         "time": "2026-03-13",
-        "category": "\ue802Mar 12, 2026Vulnerability / Malware",
-        "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html"
+        "category": "\ue802Mar 12, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html"
     }
 ]
