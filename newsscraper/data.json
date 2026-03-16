@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "\ue802Mar 16, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html"
+    },
+    {
         "title": "Why Security Validation Is Becoming Agentic",
         "source": "The Hacker News",
         "time": "2026-03-16",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"
     },
     {
-        "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "\ue802Mar 16, 2026Cyber Espionage / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"
-    },
-    {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
         "source": "The Hacker News",
         "time": "2026-03-16",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sec-cloud-insights"
+    },
+    {
+        "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "\ue802Mar 16, 2026Cyber Espionage / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"
     },
     {
         "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"
     },
     {
-        "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "\ue802Mar 14, 2026Artificial Intelligence / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html"
-    },
-    {
         "title": "Agile Incident Response: How Leading Teams Execute Fast",
         "source": "The Hacker News",
         "time": "2026-03-16",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/agile-ir-insights"
     },
     {
-        "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+        "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
         "source": "The Hacker News",
         "time": "2026-03-16",
-        "category": "\ue802Mar 14, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
+        "category": "\ue802Mar 14, 2026Artificial Intelligence / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html"
     }
 ]
