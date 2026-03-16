@@ -1,5 +1,33 @@
 [
     {
+        "title": "Why Security Validation Is Becoming Agentic",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "\ue802Mar 16, 2026Threat Detection / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"
+    },
+    {
+        "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "\ue802Mar 16, 2026Malvertising / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"
+    },
+    {
+        "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "\ue802Mar 16, 2026Cyber Espionage / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
+    },
+    {
         "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
         "source": "The Hacker News",
         "time": "2026-03-16",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html"
     },
     {
-        "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "\ue802Mar 14, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
-    },
-    {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "\ue802Mar 13, 2026Cyber Espionage / Military Security",
-        "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
-    },
-    {
-        "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "\ue802Mar 13, 2026Encryption / Data Protection",
-        "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html"
-    },
-    {
         "title": "Agile Incident Response: How Leading Teams Execute Fast",
         "source": "The Hacker News",
         "time": "2026-03-16",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/agile-ir-insights"
     },
     {
-        "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
+        "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
         "source": "The Hacker News",
         "time": "2026-03-16",
-        "category": "\ue802Mar 13, 2026Ransomware / Cybercrime",
-        "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
+        "category": "\ue802Mar 14, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
     }
 ]
