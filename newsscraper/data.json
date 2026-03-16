@@ -1,5 +1,12 @@
 [
     {
+        "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "\ue802Mar 16, 2026Mobile Security / Data Protection",
+        "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"
+    },
+    {
         "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
         "source": "The Hacker News",
         "time": "2026-03-16",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
     },
     {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
+    },
+    {
         "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
         "source": "The Hacker News",
         "time": "2026-03-16",
         "category": "\ue802Mar 13, 2026Cyber Espionage / Military Security",
         "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
-    },
-    {
-        "title": "Practical Tools for Modern CISOs + Security Leaders",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "WizCISO / Product Security",
-        "link": "https://thehackernews.uk/wiz-ciso-bundle"
     },
     {
         "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
@@ -35,24 +42,17 @@
         "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html"
     },
     {
+        "title": "Agile Incident Response: How Leading Teams Execute Fast",
+        "source": "The Hacker News",
+        "time": "2026-03-16",
+        "category": "SANS InstituteIncident Response / Cybersecurity",
+        "link": "https://thehackernews.uk/agile-ir-insights"
+    },
+    {
         "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
         "source": "The Hacker News",
         "time": "2026-03-16",
         "category": "\ue802Mar 13, 2026Ransomware / Cybercrime",
         "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
-    },
-    {
-        "title": "OpenClaw: RCE, Leaked Tokens, and 21K Exposed Instances in 2 Weeks",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "RecoSaaS Security / AI Security",
-        "link": "https://thehackernews.uk/openclaw-ai-risks"
-    },
-    {
-        "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
-        "source": "The Hacker News",
-        "time": "2026-03-16",
-        "category": "\ue802Mar 13, 2026VPN Security / Malware",
-        "link": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html"
     }
 ]
