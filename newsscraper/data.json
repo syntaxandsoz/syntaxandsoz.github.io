@@ -1,10 +1,31 @@
 [
     {
+        "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
+        "source": "The Hacker News",
+        "time": "2026-03-17",
+        "category": "\ue802Mar 17, 2026Artificial Intelligence / Security Leadership",
+        "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html"
+    },
+    {
+        "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+        "source": "The Hacker News",
+        "time": "2026-03-17",
+        "category": "\ue802Mar 17, 2026Threat Intelligence / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"
+    },
+    {
         "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
         "source": "The Hacker News",
         "time": "2026-03-17",
         "category": "\ue802Mar 17, 2026Vulnerability / Network Security",
         "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-17",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
     },
     {
         "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-17",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "Why Security Validation Is Becoming Agentic",
-        "source": "The Hacker News",
-        "time": "2026-03-17",
-        "category": "\ue802Mar 16, 2026Threat Detection / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"
-    },
-    {
-        "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-        "source": "The Hacker News",
-        "time": "2026-03-17",
-        "category": "\ue802Mar 16, 2026Malvertising / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html"
-    },
-    {
         "title": "Agile Incident Response: How Leading Teams Execute Fast",
         "source": "The Hacker News",
         "time": "2026-03-17",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/agile-ir-insights"
     },
     {
-        "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+        "title": "Why Security Validation Is Becoming Agentic",
         "source": "The Hacker News",
         "time": "2026-03-17",
-        "category": "\ue802Mar 16, 2026Cyber Espionage / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html"
+        "category": "\ue802Mar 16, 2026Threat Detection / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html"
     }
 ]
