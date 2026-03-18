@@ -1,24 +1,24 @@
 [
     {
-        "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-        "source": "The Hacker News",
-        "time": "2026-03-18",
-        "category": "\ue802Mar 18, 2026Vulnerability / Zero-Day",
-        "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html"
-    },
-    {
-        "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+        "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
         "source": "The Hacker News",
         "time": "2026-03-18",
         "category": "\ue802Mar 18, 2026Vulnerability / Data Protection",
         "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html"
     },
     {
-        "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+        "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
         "source": "The Hacker News",
         "time": "2026-03-18",
-        "category": "\ue802Mar 17, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html"
+        "category": "\ue802Mar 18, 2026Supply Chain Attack / Web Security",
+        "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html"
+    },
+    {
+        "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+        "source": "The Hacker News",
+        "time": "2026-03-18",
+        "category": "\ue802Mar 18, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html"
     },
     {
         "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sec-cloud-insights"
     },
     {
-        "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+        "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
         "source": "The Hacker News",
         "time": "2026-03-18",
-        "category": "\ue802Mar 17, 2026Ransomware / Windows Security",
-        "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html"
+        "category": "\ue802Mar 18, 2026Cloud Security / Identity Security",
+        "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html"
     },
     {
-        "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
+        "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
         "source": "The Hacker News",
         "time": "2026-03-18",
-        "category": "\ue802Mar 17, 2026Artificial Intelligence / Security Leadership",
-        "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html"
+        "category": "\ue802Mar 18, 2026Linux / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html"
     },
     {
         "title": "Agile Incident Response: How Leading Teams Execute Fast",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/agile-ir-insights"
     },
     {
-        "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+        "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
         "source": "The Hacker News",
         "time": "2026-03-18",
-        "category": "\ue802Mar 17, 2026Threat Intelligence / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"
+        "category": "\ue802Mar 18, 2026Vulnerability / Zero-Day",
+        "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html"
     }
 ]
