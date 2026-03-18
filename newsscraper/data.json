@@ -1,10 +1,31 @@
 [
     {
+        "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+        "source": "The Hacker News",
+        "time": "2026-03-18",
+        "category": "\ue802Mar 18, 2026Vulnerability / Zero-Day",
+        "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html"
+    },
+    {
+        "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+        "source": "The Hacker News",
+        "time": "2026-03-18",
+        "category": "\ue802Mar 18, 2026Vulnerability / Data Protection",
+        "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html"
+    },
+    {
         "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
         "source": "The Hacker News",
         "time": "2026-03-18",
         "category": "\ue802Mar 17, 2026Artificial Intelligence / Vulnerability",
         "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-18",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
     },
     {
         "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-18",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
-        "source": "The Hacker News",
-        "time": "2026-03-18",
-        "category": "\ue802Mar 17, 2026Threat Intelligence / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"
-    },
-    {
-        "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-        "source": "The Hacker News",
-        "time": "2026-03-18",
-        "category": "\ue802Mar 17, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"
-    },
-    {
         "title": "Agile Incident Response: How Leading Teams Execute Fast",
         "source": "The Hacker News",
         "time": "2026-03-18",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/agile-ir-insights"
     },
     {
-        "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+        "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
         "source": "The Hacker News",
         "time": "2026-03-18",
-        "category": "\ue802Mar 16, 2026Malware / Cryptocurrency",
-        "link": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html"
+        "category": "\ue802Mar 17, 2026Threat Intelligence / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html"
     }
 ]
