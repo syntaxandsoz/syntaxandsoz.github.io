@@ -1,10 +1,31 @@
 [
     {
+        "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+        "source": "The Hacker News",
+        "time": "2026-03-19",
+        "category": "\ue802Mar 19, 2026Threat Detection / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"
+    },
+    {
+        "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
+        "source": "The Hacker News",
+        "time": "2026-03-19",
+        "category": "\ue802Mar 19, 2026Cybersecurity / Hacking News",
+        "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html"
+    },
+    {
         "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
         "source": "The Hacker News",
         "time": "2026-03-19",
         "category": "\ue802Mar 19, 2026Malware / Mobile Security",
         "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-19",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
     },
     {
         "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
@@ -21,11 +42,11 @@
         "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "title": "Early Bird Pricing Ends March 24 \u2013 Don\u2019t Miss Out",
         "source": "The Hacker News",
         "time": "2026-03-19",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
+        "category": "SANS InstituteCybersecurity / Training",
+        "link": "https://thehackernews.uk/sans-security-central"
     },
     {
         "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
@@ -33,26 +54,5 @@
         "time": "2026-03-19",
         "category": "\ue802Mar 19, 2026Network Security / Vulnerability",
         "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html"
-    },
-    {
-        "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-        "source": "The Hacker News",
-        "time": "2026-03-19",
-        "category": "\ue802Mar 18, 2026Artificial Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"
-    },
-    {
-        "title": "Agile Incident Response: How Leading Teams Execute Fast",
-        "source": "The Hacker News",
-        "time": "2026-03-19",
-        "category": "SANS InstituteIncident Response / Cybersecurity",
-        "link": "https://thehackernews.uk/agile-ir-insights"
-    },
-    {
-        "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-        "source": "The Hacker News",
-        "time": "2026-03-19",
-        "category": "\ue802Mar 18, 2026Network Security / Ransomware",
-        "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html"
     }
 ]
