@@ -1,5 +1,33 @@
 [
     {
+        "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+        "source": "The Hacker News",
+        "time": "2026-03-19",
+        "category": "\ue802Mar 19, 2026Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"
+    },
+    {
+        "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
+        "source": "The Hacker News",
+        "time": "2026-03-19",
+        "category": "\ue802Mar 19, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html"
+    },
+    {
+        "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+        "source": "The Hacker News",
+        "time": "2026-03-19",
+        "category": "\ue802Mar 19, 2026Vulnerability /  Cyber Espionage",
+        "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-19",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
+    },
+    {
         "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
         "source": "The Hacker News",
         "time": "2026-03-19",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"
     },
     {
-        "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-        "source": "The Hacker News",
-        "time": "2026-03-19",
-        "category": "\ue802Mar 18, 2026Network Security / Ransomware",
-        "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html"
-    },
-    {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-19",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
-        "source": "The Hacker News",
-        "time": "2026-03-19",
-        "category": "\ue802Mar 18, 2026Vulnerability / Data Protection",
-        "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html"
-    },
-    {
-        "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
-        "source": "The Hacker News",
-        "time": "2026-03-19",
-        "category": "\ue802Mar 18, 2026Supply Chain Attack / Web Security",
-        "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html"
-    },
-    {
         "title": "Agile Incident Response: How Leading Teams Execute Fast",
         "source": "The Hacker News",
         "time": "2026-03-19",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/agile-ir-insights"
     },
     {
-        "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+        "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
         "source": "The Hacker News",
         "time": "2026-03-19",
-        "category": "\ue802Mar 18, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html"
+        "category": "\ue802Mar 18, 2026Network Security / Ransomware",
+        "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html"
     }
 ]
