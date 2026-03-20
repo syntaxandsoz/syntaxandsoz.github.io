@@ -1,10 +1,31 @@
 [
     {
+        "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+        "source": "The Hacker News",
+        "time": "2026-03-20",
+        "category": "\ue802Mar 20, 2026DevSecOps / Cloud Security",
+        "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html"
+    },
+    {
+        "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
+        "source": "The Hacker News",
+        "time": "2026-03-20",
+        "category": "\ue802Mar 20, 2026Vulnerability / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html"
+    },
+    {
         "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams",
         "source": "The Hacker News",
         "time": "2026-03-20",
         "category": "\ue802Mar 20, 2026Data Privacy / Mobile Security",
         "link": "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-20",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
     },
     {
         "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-20",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
-        "source": "The Hacker News",
-        "time": "2026-03-20",
-        "category": "\ue802Mar 20, 2026Botnet / Network Security",
-        "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
-    },
-    {
-        "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
-        "source": "The Hacker News",
-        "time": "2026-03-20",
-        "category": "\ue802Mar 20, 2026Mobile Security / Malware",
-        "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html"
-    },
-    {
         "title": "Early Bird Pricing Ends March 24 \u2013 Don\u2019t Miss Out",
         "source": "The Hacker News",
         "time": "2026-03-20",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-security-central"
     },
     {
-        "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+        "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
         "source": "The Hacker News",
         "time": "2026-03-20",
-        "category": "\ue802Mar 19, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html"
+        "category": "\ue802Mar 20, 2026Botnet / Network Security",
+        "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
     }
 ]
