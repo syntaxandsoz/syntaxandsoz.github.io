@@ -1,5 +1,19 @@
 [
     {
+        "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+        "source": "The Hacker News",
+        "time": "2026-03-20",
+        "category": "\ue802Mar 20, 2026Botnet / Network Security",
+        "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
+    },
+    {
+        "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+        "source": "The Hacker News",
+        "time": "2026-03-20",
+        "category": "\ue802Mar 20, 2026Mobile Security / Malware",
+        "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html"
+    },
+    {
         "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
         "source": "The Hacker News",
         "time": "2026-03-20",
@@ -7,7 +21,14 @@
         "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html"
     },
     {
-        "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-20",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
+    },
+    {
+        "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
         "source": "The Hacker News",
         "time": "2026-03-20",
         "category": "\ue802Mar 19, 2026Threat Detection / Endpoint Security",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-20",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
-        "source": "The Hacker News",
-        "time": "2026-03-20",
-        "category": "\ue802Mar 19, 2026Malware / Mobile Security",
-        "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"
-    },
-    {
-        "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
-        "source": "The Hacker News",
-        "time": "2026-03-20",
-        "category": "\ue802Mar 19, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html"
-    },
-    {
         "title": "Early Bird Pricing Ends March 24 \u2013 Don\u2019t Miss Out",
         "source": "The Hacker News",
         "time": "2026-03-20",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-security-central"
     },
     {
-        "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+        "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
         "source": "The Hacker News",
         "time": "2026-03-20",
-        "category": "\ue802Mar 19, 2026Vulnerability /  Cyber Espionage",
-        "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html"
+        "category": "\ue802Mar 19, 2026Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html"
     }
 ]
