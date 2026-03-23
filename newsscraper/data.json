@@ -1,10 +1,31 @@
 [
     {
+        "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+        "source": "The Hacker News",
+        "time": "2026-03-23",
+        "category": "\ue802Mar 23, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html"
+    },
+    {
+        "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+        "source": "The Hacker News",
+        "time": "2026-03-23",
+        "category": "\ue802Mar 23, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html"
+    },
+    {
         "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
         "source": "The Hacker News",
         "time": "2026-03-23",
         "category": "\ue802Mar 23, 2026Cloud Security / SaaS Security",
         "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-23",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
     },
     {
         "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-23",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-        "source": "The Hacker News",
-        "time": "2026-03-23",
-        "category": "\ue802Mar 23, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html"
-    },
-    {
-        "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
-        "source": "The Hacker News",
-        "time": "2026-03-23",
-        "category": "\ue802Mar 21, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-03-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-cyber-research"
     },
     {
-        "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
+        "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
         "source": "The Hacker News",
         "time": "2026-03-23",
-        "category": "\ue802Mar 21, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html"
+        "category": "\ue802Mar 23, 2026Vulnerability / Endpoint Security",
+        "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html"
     }
 ]
