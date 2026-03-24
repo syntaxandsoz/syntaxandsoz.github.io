@@ -1,10 +1,31 @@
 [
     {
+        "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+        "source": "The Hacker News",
+        "time": "2026-03-24",
+        "category": "\ue802Mar 24, 2026Cybercrime / Network Security",
+        "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html"
+    },
+    {
+        "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+        "source": "The Hacker News",
+        "time": "2026-03-24",
+        "category": "\ue802Mar 24, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html"
+    },
+    {
         "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
         "source": "The Hacker News",
         "time": "2026-03-24",
         "category": "\ue802Mar 23, 2026Malware / Threat Intelligence",
         "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html"
+    },
+    {
+        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
+        "source": "The Hacker News",
+        "time": "2026-03-24",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sec-cloud-insights"
     },
     {
         "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html"
     },
     {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-24",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-        "source": "The Hacker News",
-        "time": "2026-03-24",
-        "category": "\ue802Mar 23, 2026Email Security / Cloud Security",
-        "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"
-    },
-    {
-        "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-        "source": "The Hacker News",
-        "time": "2026-03-24",
-        "category": "\ue802Mar 23, 2026Cloud Security / DevOps",
-        "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-03-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-cyber-research"
     },
     {
-        "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+        "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
         "source": "The Hacker News",
         "time": "2026-03-24",
-        "category": "\ue802Mar 23, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html"
+        "category": "\ue802Mar 23, 2026Email Security / Cloud Security",
+        "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"
     }
 ]
