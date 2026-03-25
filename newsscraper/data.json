@@ -1,45 +1,45 @@
 [
     {
+        "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "\ue802Mar 25, 2026SaaS Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html"
+    },
+    {
+        "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "\ue802Mar 25, 2026Cybercrime / Ransomware",
+        "link": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html"
+    },
+    {
+        "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "\ue802Mar 25, 2026Identity Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinelone-threat-report"
+    },
+    {
+        "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "\ue802Mar 25, 2026Network Security / Data Protection",
+        "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"
+    },
+    {
         "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 via Trivy CI/CD Compromise",
         "source": "The Hacker News",
         "time": "2026-03-25",
         "category": "\ue802Mar 24, 2026Cloud Security / Malware",
         "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"
-    },
-    {
-        "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "\ue802Mar 24, 2026Endpoint Security / Social Engineering",
-        "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"
-    },
-    {
-        "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "\ue802Mar 24, 2026Threat Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html"
-    },
-    {
-        "title": "5 Cloud Security Risks You Can\u2019t Afford to Ignore",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sec-cloud-insights"
-    },
-    {
-        "title": "Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "\ue802Mar 24, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html"
-    },
-    {
-        "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "\ue802Mar 24, 2026Security Operations / Network Security",
-        "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html"
     },
     {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-cyber-research"
     },
     {
-        "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+        "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
         "source": "The Hacker News",
         "time": "2026-03-25",
-        "category": "\ue802Mar 24, 2026Cryptocurrency / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"
+        "category": "\ue802Mar 24, 2026Endpoint Security / Social Engineering",
+        "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"
     }
 ]
