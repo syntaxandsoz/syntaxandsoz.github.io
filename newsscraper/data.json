@@ -1,10 +1,31 @@
 [
     {
+        "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "\ue802Mar 25, 2026Cybercrime / Dark Web",
+        "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"
+    },
+    {
+        "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "\ue802Mar 25, 2026Browser Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"
+    },
+    {
         "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
         "source": "The Hacker News",
         "time": "2026-03-25",
         "category": "\ue802Mar 25, 2026SaaS Security / Artificial Intelligence",
         "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-03-25",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinelone-threat-report"
     },
     {
         "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"
     },
     {
-        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinelone-threat-report"
-    },
-    {
-        "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "\ue802Mar 25, 2026Network Security / Data Protection",
-        "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"
-    },
-    {
-        "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 via Trivy CI/CD Compromise",
-        "source": "The Hacker News",
-        "time": "2026-03-25",
-        "category": "\ue802Mar 24, 2026Cloud Security / Malware",
-        "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-03-25",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-cyber-research"
     },
     {
-        "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
+        "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
         "source": "The Hacker News",
         "time": "2026-03-25",
-        "category": "\ue802Mar 24, 2026Endpoint Security / Social Engineering",
-        "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html"
+        "category": "\ue802Mar 25, 2026Network Security / Data Protection",
+        "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"
     }
 ]
