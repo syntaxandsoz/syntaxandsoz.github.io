@@ -1,5 +1,12 @@
 [
     {
+        "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
+        "source": "The Hacker News",
+        "time": "2026-03-26",
+        "category": "\ue802Mar 26, 2026Malware / Web Security",
+        "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"
+    },
+    {
         "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
         "source": "The Hacker News",
         "time": "2026-03-26",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"
     },
     {
-        "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
-        "source": "The Hacker News",
-        "time": "2026-03-26",
-        "category": "\ue802Mar 25, 2026SaaS Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-03-26",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sentinelone-threat-report"
+    },
+    {
+        "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
+        "source": "The Hacker News",
+        "time": "2026-03-26",
+        "category": "\ue802Mar 25, 2026SaaS Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html"
     },
     {
         "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html"
     },
     {
-        "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
-        "source": "The Hacker News",
-        "time": "2026-03-26",
-        "category": "\ue802Mar 25, 2026Identity Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-03-26",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-cyber-research"
     },
     {
-        "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+        "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
         "source": "The Hacker News",
         "time": "2026-03-26",
-        "category": "\ue802Mar 25, 2026Network Security / Data Protection",
-        "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"
+        "category": "\ue802Mar 25, 2026Identity Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html"
     }
 ]
