@@ -1,24 +1,24 @@
 [
     {
-        "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+        "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
         "source": "The Hacker News",
         "time": "2026-03-27",
-        "category": "\ue802Mar 26, 2026Cyber Espionage / Network Security",
-        "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html"
+        "category": "\ue802Mar 27, 2026Ransomware / Malware",
+        "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html"
     },
     {
-        "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+        "title": "We Are At War",
         "source": "The Hacker News",
         "time": "2026-03-27",
-        "category": "\ue802Mar 26, 2026Security Testing / Security Automation",
-        "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html"
+        "category": "\ue802Mar 27, 2026Hacktivism / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/03/we-are-at-war.html"
     },
     {
-        "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+        "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
         "source": "The Hacker News",
         "time": "2026-03-27",
-        "category": "\ue802Mar 26, 2026Browser Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html"
+        "category": "\ue802Mar 27, 2026Threat Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sentinelone-threat-report"
     },
     {
-        "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+        "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
         "source": "The Hacker News",
         "time": "2026-03-27",
-        "category": "\ue802Mar 26, 2026Artificial Intelligence / Threat Detection",
-        "link": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html"
+        "category": "\ue802Mar 27, 2026Vulnerability / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html"
     },
     {
-        "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
+        "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
         "source": "The Hacker News",
         "time": "2026-03-27",
-        "category": "\ue802Mar 26, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html"
+        "category": "\ue802Mar 26, 2026Cyber Espionage / Network Security",
+        "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html"
     },
     {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/sans-cyber-research"
     },
     {
-        "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
+        "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
         "source": "The Hacker News",
         "time": "2026-03-27",
-        "category": "\ue802Mar 26, 2026Malware / Mobile Security",
-        "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html"
+        "category": "\ue802Mar 26, 2026Security Testing / Security Automation",
+        "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html"
     }
 ]
