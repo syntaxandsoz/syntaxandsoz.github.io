@@ -1,24 +1,24 @@
 [
     {
-        "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
+        "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
         "source": "The Hacker News",
         "time": "2026-03-30",
-        "category": "\ue802Mar 30, 2026Endpoint Security / Digital Forensics",
-        "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html"
+        "category": "\ue802Mar 30, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"
     },
     {
-        "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+        "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
         "source": "The Hacker News",
         "time": "2026-03-30",
-        "category": "\ue802Mar 30, 2026DevOps / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html"
+        "category": "\ue802Mar 30, 2026Threat Intelligence / Browser Security",
+        "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
     },
     {
-        "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+        "title": "\u26a1 Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
         "source": "The Hacker News",
         "time": "2026-03-30",
-        "category": "\ue802Mar 30, 2026Malware / Network Security",
-        "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"
+        "category": "\ue802Mar 30, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sentinelone-threat-report"
     },
     {
-        "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
+        "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
         "source": "The Hacker News",
         "time": "2026-03-30",
-        "category": "\ue802Mar 30, 2026Threat Intelligence / Network Intrusion",
-        "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html"
+        "category": "\ue802Mar 30, 2026Endpoint Security / Digital Forensics",
+        "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html"
     },
     {
-        "title": "Iran-Linked Hackers Breach FBI Director\u2019s Personal Email, Hit Stryker With Wiper Attack",
+        "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
         "source": "The Hacker News",
         "time": "2026-03-30",
-        "category": "\ue802Mar 28, 2026Hacktivism / Critical Infrastructure",
-        "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html"
+        "category": "\ue802Mar 30, 2026Malware / Network Security",
+        "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+        "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
         "source": "The Hacker News",
         "time": "2026-03-30",
-        "category": "\ue802Mar 28, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html"
+        "category": "\ue802Mar 30, 2026DevOps / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html"
     }
 ]
