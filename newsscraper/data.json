@@ -1,5 +1,33 @@
 [
     {
+        "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+        "source": "The Hacker News",
+        "time": "2026-03-31",
+        "category": "\ue802Mar 31, 2026Cloud Security / AI Security",
+        "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
+    },
+    {
+        "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+        "source": "The Hacker News",
+        "time": "2026-03-31",
+        "category": "\ue802Mar 31, 2026",
+        "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html"
+    },
+    {
+        "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+        "source": "The Hacker News",
+        "time": "2026-03-31",
+        "category": "\ue802Mar 31, 2026Malware / Encryption",
+        "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-03-31",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinelone-threat-report"
+    },
+    {
         "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
         "source": "The Hacker News",
         "time": "2026-03-31",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"
     },
     {
-        "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-        "source": "The Hacker News",
-        "time": "2026-03-31",
-        "category": "\ue802Mar 30, 2026Threat Intelligence / Browser Security",
-        "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
-    },
-    {
-        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-03-31",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinelone-threat-report"
-    },
-    {
-        "title": "\u26a1 Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
-        "source": "The Hacker News",
-        "time": "2026-03-31",
-        "category": "\ue802Mar 30, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html"
-    },
-    {
-        "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-        "source": "The Hacker News",
-        "time": "2026-03-31",
-        "category": "\ue802Mar 30, 2026Endpoint Security / Digital Forensics",
-        "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
         "source": "The Hacker News",
         "time": "2026-03-31",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+        "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
         "source": "The Hacker News",
         "time": "2026-03-31",
-        "category": "\ue802Mar 30, 2026Malware / Network Security",
-        "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"
+        "category": "\ue802Mar 30, 2026Threat Intelligence / Browser Security",
+        "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
     }
 ]
