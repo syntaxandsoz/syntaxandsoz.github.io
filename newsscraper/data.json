@@ -1,10 +1,31 @@
 [
     {
+        "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+        "source": "The Hacker News",
+        "time": "2026-03-31",
+        "category": "\ue802Mar 31, 2026Mobile Security / Compliance",
+        "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html"
+    },
+    {
+        "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+        "source": "The Hacker News",
+        "time": "2026-03-31",
+        "category": "\ue802Mar 31, 2026Zero-Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
+    },
+    {
         "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
         "source": "The Hacker News",
         "time": "2026-03-31",
         "category": "\ue802Mar 31, 2026Cloud Security / AI Security",
         "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-03-31",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinelone-threat-report"
     },
     {
         "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
     },
     {
-        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-03-31",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinelone-threat-report"
-    },
-    {
-        "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-        "source": "The Hacker News",
-        "time": "2026-03-31",
-        "category": "\ue802Mar 31, 2026Open Source / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html"
-    },
-    {
-        "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
-        "source": "The Hacker News",
-        "time": "2026-03-31",
-        "category": "\ue802Mar 30, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
         "source": "The Hacker News",
         "time": "2026-03-31",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
+        "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
         "source": "The Hacker News",
         "time": "2026-03-31",
-        "category": "\ue802Mar 30, 2026Threat Intelligence / Browser Security",
-        "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
+        "category": "\ue802Mar 31, 2026Open Source / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html"
     }
 ]
