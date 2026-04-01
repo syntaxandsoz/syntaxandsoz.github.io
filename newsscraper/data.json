@@ -1,17 +1,10 @@
 [
     {
-        "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+        "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
         "source": "The Hacker News",
         "time": "2026-04-01",
-        "category": "\ue802Apr 01, 2026Endpoint Security / Data Protection",
-        "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html"
-    },
-    {
-        "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
-        "source": "The Hacker News",
-        "time": "2026-04-01",
-        "category": "\ue802Apr 01, 2026Malware / Windows Security",
-        "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html"
+        "category": "\ue802Apr 01, 2026Email Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html"
     },
     {
         "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
@@ -21,11 +14,25 @@
         "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html"
     },
     {
+        "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+        "source": "The Hacker News",
+        "time": "2026-04-01",
+        "category": "\ue802Apr 01, 2026Endpoint Security / Data Protection",
+        "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html"
+    },
+    {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-01",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sentinelone-threat-report"
+    },
+    {
+        "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+        "source": "The Hacker News",
+        "time": "2026-04-01",
+        "category": "\ue802Apr 01, 2026Malware / Windows Security",
+        "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html"
     },
     {
         "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"
     },
     {
-        "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
-        "source": "The Hacker News",
-        "time": "2026-04-01",
-        "category": "\ue802Apr 01, 2026Threat Detection / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
         "source": "The Hacker News",
         "time": "2026-04-01",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+        "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
         "source": "The Hacker News",
         "time": "2026-04-01",
-        "category": "\ue802Apr 01, 2026Threat Intelligence / Software Security",
-        "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html"
+        "category": "\ue802Apr 01, 2026Threat Detection / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html"
     }
 ]
