@@ -1,5 +1,12 @@
 [
     {
+        "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+        "source": "The Hacker News",
+        "time": "2026-04-01",
+        "category": "\ue802Apr 01, 2026Data Breach / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html"
+    },
+    {
         "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
         "source": "The Hacker News",
         "time": "2026-04-01",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
     },
     {
-        "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
-        "source": "The Hacker News",
-        "time": "2026-04-01",
-        "category": "\ue802Mar 31, 2026Cloud Security / AI Security",
-        "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-01",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sentinelone-threat-report"
+    },
+    {
+        "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+        "source": "The Hacker News",
+        "time": "2026-04-01",
+        "category": "\ue802Mar 31, 2026Cloud Security / AI Security",
+        "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
     },
     {
         "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html"
     },
     {
-        "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-        "source": "The Hacker News",
-        "time": "2026-04-01",
-        "category": "\ue802Mar 31, 2026Malware / Encryption",
-        "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
         "source": "The Hacker News",
         "time": "2026-04-01",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+        "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
         "source": "The Hacker News",
         "time": "2026-04-01",
-        "category": "\ue802Mar 31, 2026Open Source / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html"
+        "category": "\ue802Mar 31, 2026Malware / Encryption",
+        "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
     }
 ]
