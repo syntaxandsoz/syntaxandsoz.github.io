@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
+        "source": "The Hacker News",
+        "time": "2026-04-02",
+        "category": "\ue802Apr 02, 2026Mobile Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html"
+    },
+    {
         "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
         "source": "The Hacker News",
         "time": "2026-04-02",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html"
     },
     {
-        "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
-        "source": "The Hacker News",
-        "time": "2026-04-02",
-        "category": "\ue802Apr 01, 2026Endpoint Security / Data Protection",
-        "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-02",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sentinelone-threat-report"
+    },
+    {
+        "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+        "source": "The Hacker News",
+        "time": "2026-04-02",
+        "category": "\ue802Apr 01, 2026Endpoint Security / Data Protection",
+        "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html"
     },
     {
         "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html"
     },
     {
-        "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
-        "source": "The Hacker News",
-        "time": "2026-04-02",
-        "category": "\ue802Apr 01, 2026Vulnerability / Browser Security",
-        "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
         "source": "The Hacker News",
         "time": "2026-04-02",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
+        "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
         "source": "The Hacker News",
         "time": "2026-04-02",
-        "category": "\ue802Apr 01, 2026Threat Detection / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html"
+        "category": "\ue802Apr 01, 2026Vulnerability / Browser Security",
+        "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"
     }
 ]
