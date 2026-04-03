@@ -1,24 +1,24 @@
 [
     {
-        "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+        "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"
+        "category": "\ue802Apr 03, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html"
     },
     {
-        "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+        "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
         "source": "The Hacker News",
         "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html"
+        "category": "\ue802Apr 03, 2026Compliance / Cyber Insurance",
+        "link": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html"
     },
     {
-        "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+        "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
         "source": "The Hacker News",
         "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026Cybersecurity / Hacking News",
-        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html"
+        "category": "\ue802Apr 03, 2026Mobile Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sentinelone-threat-report"
     },
     {
-        "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
+        "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
         "source": "The Hacker News",
         "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026Cryptomining / Malware",
-        "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html"
+        "category": "\ue802Apr 03, 2026Durable Nonce Social Engineering",
+        "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html"
     },
     {
-        "title": "The State of Trusted Open Source Report",
+        "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
         "source": "The Hacker News",
         "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026DevSecOps / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html"
+        "category": "\ue802Apr 02, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+        "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
         "source": "The Hacker News",
         "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026Surveillance / Mobile Security",
-        "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html"
+        "category": "\ue802Apr 02, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html"
     }
 ]
