@@ -1,10 +1,31 @@
 [
     {
+        "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+        "source": "The Hacker News",
+        "time": "2026-04-03",
+        "category": "\ue802Apr 03, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"
+    },
+    {
+        "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+        "source": "The Hacker News",
+        "time": "2026-04-03",
+        "category": "\ue802Apr 03, 2026Linux / Server Hardening",
+        "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html"
+    },
+    {
         "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-04-03",
         "category": "\ue802Apr 03, 2026Threat Intelligence / Malware",
         "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-04-03",
+        "category": "SentinelOneEnterprise Security / Cloud Security",
+        "link": "https://thehackernews.uk/sentinelone-threat-report"
     },
     {
         "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html"
     },
     {
-        "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-04-03",
-        "category": "SentinelOneEnterprise Security / Cloud Security",
-        "link": "https://thehackernews.uk/sentinelone-threat-report"
-    },
-    {
-        "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
-        "source": "The Hacker News",
-        "time": "2026-04-03",
-        "category": "\ue802Apr 03, 2026Durable Nonce Social Engineering",
-        "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html"
-    },
-    {
-        "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-        "source": "The Hacker News",
-        "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
         "source": "The Hacker News",
         "time": "2026-04-03",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+        "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
         "source": "The Hacker News",
         "time": "2026-04-03",
-        "category": "\ue802Apr 02, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html"
+        "category": "\ue802Apr 03, 2026Durable Nonce Social Engineering",
+        "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html"
     }
 ]
