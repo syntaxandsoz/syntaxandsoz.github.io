@@ -1,5 +1,12 @@
 [
     {
+        "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+        "source": "The Hacker News",
+        "time": "2026-04-05",
+        "category": "\ue802Apr 05, 2026Cryptocurrency / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html"
+    },
+    {
         "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
         "source": "The Hacker News",
         "time": "2026-04-05",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html"
     },
     {
-        "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
-        "source": "The Hacker News",
-        "time": "2026-04-05",
-        "category": "\ue802Apr 03, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender\u2019s Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-05",
         "category": "SentinelOneEnterprise Security / Cloud Security",
         "link": "https://thehackernews.uk/sentinelone-threat-report"
+    },
+    {
+        "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+        "source": "The Hacker News",
+        "time": "2026-04-05",
+        "category": "\ue802Apr 03, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"
     },
     {
         "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html"
     },
     {
-        "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
-        "source": "The Hacker News",
-        "time": "2026-04-05",
-        "category": "\ue802Apr 03, 2026Threat Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk.",
         "source": "The Hacker News",
         "time": "2026-04-05",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/attack-surface-review"
     },
     {
-        "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
+        "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-04-05",
-        "category": "\ue802Apr 03, 2026Compliance / Cyber Insurance",
-        "link": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html"
+        "category": "\ue802Apr 03, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html"
     }
 ]
