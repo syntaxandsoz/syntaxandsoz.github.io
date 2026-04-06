@@ -1,24 +1,24 @@
 [
     {
-        "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
+        "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
         "source": "The Hacker News",
         "time": "2026-04-06",
-        "category": "\ue802Apr 06, 2026Cybercrime / Financial Crime",
-        "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html"
+        "category": "\ue802Apr 06, 2026Threat Detection / Endpoint Security",
+        "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html"
     },
     {
-        "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+        "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
         "source": "The Hacker News",
         "time": "2026-04-06",
-        "category": "\ue802Apr 05, 2026Cryptocurrency / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html"
+        "category": "\ue802Apr 06, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html"
     },
     {
-        "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+        "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
         "source": "The Hacker News",
         "time": "2026-04-06",
-        "category": "\ue802Apr 05, 2026Malware / DevSecOps",
-        "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"
+        "category": "\ue802Apr 06, 2026DevSecOps / Cloud Security",
+        "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html"
     },
     {
         "title": "Secure Coding Best Practices [Cheat Sheet]",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
     },
     {
-        "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+        "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
         "source": "The Hacker News",
         "time": "2026-04-06",
-        "category": "\ue802Apr 05, 2026Vulnerability / API Security",
-        "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html"
+        "category": "\ue802Apr 06, 2026Ransomware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html"
     },
     {
-        "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+        "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
         "source": "The Hacker News",
         "time": "2026-04-06",
-        "category": "\ue802Apr 03, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"
+        "category": "\ue802Apr 06, 2026Cybercrime / Financial Crime",
+        "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html"
     },
     {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+        "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
         "source": "The Hacker News",
         "time": "2026-04-06",
-        "category": "\ue802Apr 03, 2026Linux / Server Hardening",
-        "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html"
+        "category": "\ue802Apr 05, 2026Cryptocurrency / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html"
     }
 ]
