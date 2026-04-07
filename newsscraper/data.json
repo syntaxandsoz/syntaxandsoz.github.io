@@ -1,10 +1,10 @@
 [
     {
-        "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+        "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 07, 2026Cloud Security / Malware",
-        "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
+        "category": "\ue802Apr 07, 2026Network Security / Botnet",
+        "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html"
     },
     {
         "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
@@ -14,11 +14,11 @@
         "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html"
     },
     {
-        "title": "The Hidden Cost of Recurring Credential Incidents",
+        "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 07, 2026Cybersecurity / Identity Security",
-        "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html"
+        "category": "\ue802Apr 07, 2026Vulnerability / DevSecOps",
+        "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html"
     },
     {
         "title": "Secure Coding Best Practices [Cheat Sheet]",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
     },
     {
-        "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+        "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 07, 2026Vulnerability / Hardware Security",
-        "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"
+        "category": "\ue802Apr 07, 2026Cloud Security / Malware",
+        "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
     },
     {
-        "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+        "title": "The Hidden Cost of Recurring Credential Incidents",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 07, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"
+        "category": "\ue802Apr 07, 2026Cybersecurity / Identity Security",
+        "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html"
     },
     {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+        "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 07, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html"
+        "category": "\ue802Apr 07, 2026Vulnerability / Hardware Security",
+        "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"
     }
 ]
