@@ -1,10 +1,31 @@
 [
     {
+        "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+        "source": "The Hacker News",
+        "time": "2026-04-07",
+        "category": "\ue802Apr 07, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"
+    },
+    {
+        "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+        "source": "The Hacker News",
+        "time": "2026-04-07",
+        "category": "\ue802Apr 07, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html"
+    },
+    {
         "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
         "source": "The Hacker News",
         "time": "2026-04-07",
         "category": "\ue802Apr 06, 2026Cloud Security / Ransomware",
         "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html"
+    },
+    {
+        "title": "Secure Coding Best Practices [Cheat Sheet]",
+        "source": "The Hacker News",
+        "time": "2026-04-07",
+        "category": "WizSecure Coding / DevSecOps",
+        "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
     },
     {
         "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html"
     },
     {
-        "title": "Secure Coding Best Practices [Cheat Sheet]",
-        "source": "The Hacker News",
-        "time": "2026-04-07",
-        "category": "WizSecure Coding / DevSecOps",
-        "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
-    },
-    {
-        "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
-        "source": "The Hacker News",
-        "time": "2026-04-07",
-        "category": "\ue802Apr 06, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html"
-    },
-    {
-        "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-        "source": "The Hacker News",
-        "time": "2026-04-07",
-        "category": "\ue802Apr 06, 2026DevSecOps / Cloud Security",
-        "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-04-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+        "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 06, 2026Ransomware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html"
+        "category": "\ue802Apr 06, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html"
     }
 ]
