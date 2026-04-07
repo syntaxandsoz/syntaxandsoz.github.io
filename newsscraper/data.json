@@ -1,24 +1,24 @@
 [
     {
-        "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+        "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 07, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"
+        "category": "\ue802Apr 07, 2026Cloud Security / Malware",
+        "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
     },
     {
-        "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+        "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 07, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html"
+        "category": "\ue802Apr 07, 2026SaaS Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html"
     },
     {
-        "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+        "title": "The Hidden Cost of Recurring Credential Incidents",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 06, 2026Cloud Security / Ransomware",
-        "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html"
+        "category": "\ue802Apr 07, 2026Cybersecurity / Identity Security",
+        "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html"
     },
     {
         "title": "Secure Coding Best Practices [Cheat Sheet]",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
     },
     {
-        "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
+        "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 06, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html"
+        "category": "\ue802Apr 07, 2026Vulnerability / Hardware Security",
+        "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"
     },
     {
-        "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
+        "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 06, 2026Threat Detection / Endpoint Security",
-        "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html"
+        "category": "\ue802Apr 07, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"
     },
     {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
+        "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
         "source": "The Hacker News",
         "time": "2026-04-07",
-        "category": "\ue802Apr 06, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html"
+        "category": "\ue802Apr 07, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html"
     }
 ]
