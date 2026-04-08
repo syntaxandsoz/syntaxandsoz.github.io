@@ -1,5 +1,33 @@
 [
     {
+        "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+        "source": "The Hacker News",
+        "time": "2026-04-08",
+        "category": "\ue802Apr 08, 2026Zero Trust / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html"
+    },
+    {
+        "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+        "source": "The Hacker News",
+        "time": "2026-04-08",
+        "category": "\ue802Apr 08, 2026Artificial Intelligence / Secure Coding",
+        "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html"
+    },
+    {
+        "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+        "source": "The Hacker News",
+        "time": "2026-04-08",
+        "category": "\ue802Apr 08, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html"
+    },
+    {
+        "title": "Secure Coding Best Practices [Cheat Sheet]",
+        "source": "The Hacker News",
+        "time": "2026-04-08",
+        "category": "WizSecure Coding / DevSecOps",
+        "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
+    },
+    {
         "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
         "source": "The Hacker News",
         "time": "2026-04-08",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html"
     },
     {
-        "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-        "source": "The Hacker News",
-        "time": "2026-04-08",
-        "category": "\ue802Apr 07, 2026SaaS Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html"
-    },
-    {
-        "title": "Secure Coding Best Practices [Cheat Sheet]",
-        "source": "The Hacker News",
-        "time": "2026-04-08",
-        "category": "WizSecure Coding / DevSecOps",
-        "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
-    },
-    {
-        "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-        "source": "The Hacker News",
-        "time": "2026-04-08",
-        "category": "\ue802Apr 07, 2026Vulnerability / DevSecOps",
-        "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html"
-    },
-    {
-        "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
-        "source": "The Hacker News",
-        "time": "2026-04-08",
-        "category": "\ue802Apr 07, 2026Cloud Security / Malware",
-        "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-04-08",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "The Hidden Cost of Recurring Credential Incidents",
+        "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
         "source": "The Hacker News",
         "time": "2026-04-08",
-        "category": "\ue802Apr 07, 2026Cybersecurity / Identity Security",
-        "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html"
+        "category": "\ue802Apr 07, 2026SaaS Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html"
     }
 ]
