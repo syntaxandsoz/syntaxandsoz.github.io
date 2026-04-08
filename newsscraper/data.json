@@ -1,5 +1,12 @@
 [
     {
+        "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+        "source": "The Hacker News",
+        "time": "2026-04-08",
+        "category": "\ue802Apr 08, 2026Malware / Operational Technology",
+        "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html"
+    },
+    {
         "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
         "source": "The Hacker News",
         "time": "2026-04-08",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html"
     },
     {
-        "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-        "source": "The Hacker News",
-        "time": "2026-04-08",
-        "category": "\ue802Apr 07, 2026Vulnerability / DevSecOps",
-        "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html"
-    },
-    {
         "title": "Secure Coding Best Practices [Cheat Sheet]",
         "source": "The Hacker News",
         "time": "2026-04-08",
         "category": "WizSecure Coding / DevSecOps",
         "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
+    },
+    {
+        "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+        "source": "The Hacker News",
+        "time": "2026-04-08",
+        "category": "\ue802Apr 07, 2026Vulnerability / DevSecOps",
+        "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html"
     },
     {
         "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html"
     },
     {
-        "title": "The Hidden Cost of Recurring Credential Incidents",
-        "source": "The Hacker News",
-        "time": "2026-04-08",
-        "category": "\ue802Apr 07, 2026Cybersecurity / Identity Security",
-        "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-04-08",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+        "title": "The Hidden Cost of Recurring Credential Incidents",
         "source": "The Hacker News",
         "time": "2026-04-08",
-        "category": "\ue802Apr 07, 2026Vulnerability / Hardware Security",
-        "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"
+        "category": "\ue802Apr 07, 2026Cybersecurity / Identity Security",
+        "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html"
     }
 ]
