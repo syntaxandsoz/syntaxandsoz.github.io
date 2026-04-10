@@ -1,5 +1,33 @@
 [
     {
+        "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+        "source": "The Hacker News",
+        "time": "2026-04-10",
+        "category": "\ue802Apr 10, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html"
+    },
+    {
+        "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
+        "source": "The Hacker News",
+        "time": "2026-04-10",
+        "category": "\ue802Apr 10, 2026Malware / Browser Security",
+        "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html"
+    },
+    {
+        "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+        "source": "The Hacker News",
+        "time": "2026-04-10",
+        "category": "\ue802Apr 10, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"
+    },
+    {
+        "title": "Secure Coding Best Practices [Cheat Sheet]",
+        "source": "The Hacker News",
+        "time": "2026-04-10",
+        "category": "WizSecure Coding / DevSecOps",
+        "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
+    },
+    {
         "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
         "source": "The Hacker News",
         "time": "2026-04-10",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html"
     },
     {
-        "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-        "source": "The Hacker News",
-        "time": "2026-04-10",
-        "category": "\ue802Apr 09, 2026Malware / Windows Security",
-        "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html"
-    },
-    {
-        "title": "Secure Coding Best Practices [Cheat Sheet]",
-        "source": "The Hacker News",
-        "time": "2026-04-10",
-        "category": "WizSecure Coding / DevSecOps",
-        "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
-    },
-    {
-        "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-        "source": "The Hacker News",
-        "time": "2026-04-10",
-        "category": "\ue802Apr 09, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html"
-    },
-    {
-        "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-        "source": "The Hacker News",
-        "time": "2026-04-10",
-        "category": "\ue802Apr 09, 2026Data Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-04-10",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
+        "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
         "source": "The Hacker News",
         "time": "2026-04-10",
-        "category": "\ue802Apr 09, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html"
+        "category": "\ue802Apr 09, 2026Malware / Windows Security",
+        "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html"
     }
 ]
