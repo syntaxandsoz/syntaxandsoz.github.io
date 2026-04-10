@@ -1,5 +1,12 @@
 [
     {
+        "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+        "source": "The Hacker News",
+        "time": "2026-04-10",
+        "category": "\ue802Apr 10, 2026Malware / Blockchain",
+        "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html"
+    },
+    {
         "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
         "source": "The Hacker News",
         "time": "2026-04-10",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html"
     },
     {
-        "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-        "source": "The Hacker News",
-        "time": "2026-04-10",
-        "category": "\ue802Apr 10, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"
-    },
-    {
         "title": "Secure Coding Best Practices [Cheat Sheet]",
         "source": "The Hacker News",
         "time": "2026-04-10",
         "category": "WizSecure Coding / DevSecOps",
         "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
+    },
+    {
+        "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+        "source": "The Hacker News",
+        "time": "2026-04-10",
+        "category": "\ue802Apr 10, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"
     },
     {
         "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html"
     },
     {
-        "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-        "source": "The Hacker News",
-        "time": "2026-04-10",
-        "category": "\ue802Apr 09, 2026Vulnerability / Mobile Security",
-        "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-04-10",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
+        "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
         "source": "The Hacker News",
         "time": "2026-04-10",
-        "category": "\ue802Apr 09, 2026Malware / Windows Security",
-        "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html"
+        "category": "\ue802Apr 09, 2026Vulnerability / Mobile Security",
+        "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html"
     }
 ]
