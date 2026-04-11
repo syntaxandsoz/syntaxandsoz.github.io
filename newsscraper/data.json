@@ -1,5 +1,12 @@
 [
     {
+        "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+        "source": "The Hacker News",
+        "time": "2026-04-11",
+        "category": "\ue802Apr 11, 2026Surveillance / Digital Advertising",
+        "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html"
+    },
+    {
         "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
         "source": "The Hacker News",
         "time": "2026-04-11",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html"
     },
     {
-        "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
-        "source": "The Hacker News",
-        "time": "2026-04-11",
-        "category": "\ue802Apr 10, 2026Malware / Browser Security",
-        "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html"
-    },
-    {
         "title": "Secure Coding Best Practices [Cheat Sheet]",
         "source": "The Hacker News",
         "time": "2026-04-11",
         "category": "WizSecure Coding / DevSecOps",
         "link": "https://thehackernews.uk/secure-coding-wiz-cheat"
+    },
+    {
+        "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
+        "source": "The Hacker News",
+        "time": "2026-04-11",
+        "category": "\ue802Apr 10, 2026Malware / Browser Security",
+        "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html"
     },
     {
         "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"
     },
     {
-        "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
-        "source": "The Hacker News",
-        "time": "2026-04-11",
-        "category": "\ue802Apr 10, 2026Malware / Website Security",
-        "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html"
-    },
-    {
         "title": "Inside the 2026 Cyber Workforce: Skills, Shortages, and Shifts in the Age of AI",
         "source": "The Hacker News",
         "time": "2026-04-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/2026-cyber-workforce-sans"
     },
     {
-        "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
+        "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
         "source": "The Hacker News",
         "time": "2026-04-11",
-        "category": "\ue802Apr 09, 2026Vulnerability / Mobile Security",
-        "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html"
+        "category": "\ue802Apr 10, 2026Malware / Website Security",
+        "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html"
     }
 ]
