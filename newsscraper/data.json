@@ -1,5 +1,33 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+        "source": "The Hacker News",
+        "time": "2026-04-13",
+        "category": "\ue802Apr 13, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html"
+    },
+    {
+        "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+        "source": "The Hacker News",
+        "time": "2026-04-13",
+        "category": "\ue802Apr 13, 2026Threat Detection / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html"
+    },
+    {
+        "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+        "source": "The Hacker News",
+        "time": "2026-04-13",
+        "category": "\ue802Apr 13, 2026Social Engineering / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html"
+    },
+    {
+        "title": "2026 Cloud Threats Report",
+        "source": "The Hacker News",
+        "time": "2026-04-13",
+        "category": "WizCloud Security / Threat Landscape",
+        "link": "https://thehackernews.uk/cloud-threat-retrospective"
+    },
+    {
         "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
         "source": "The Hacker News",
         "time": "2026-04-13",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html"
     },
     {
-        "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
-        "source": "The Hacker News",
-        "time": "2026-04-13",
-        "category": "\ue802Apr 12, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html"
-    },
-    {
-        "title": "2026 Cloud Threats Report",
-        "source": "The Hacker News",
-        "time": "2026-04-13",
-        "category": "WizCloud Security / Threat Landscape",
-        "link": "https://thehackernews.uk/cloud-threat-retrospective"
-    },
-    {
-        "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
-        "source": "The Hacker News",
-        "time": "2026-04-13",
-        "category": "\ue802Apr 11, 2026Surveillance / Digital Advertising",
-        "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html"
-    },
-    {
-        "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
-        "source": "The Hacker News",
-        "time": "2026-04-13",
-        "category": "\ue802Apr 10, 2026Malware / Blockchain",
-        "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html"
-    },
-    {
         "title": "Everyone in the Room Knows Something You Don't. Fix That at SANSFIRE",
         "source": "The Hacker News",
         "time": "2026-04-13",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/cyber-training-sansfire"
     },
     {
-        "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+        "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
         "source": "The Hacker News",
         "time": "2026-04-13",
-        "category": "\ue802Apr 10, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html"
+        "category": "\ue802Apr 12, 2026Vulnerability / Endpoint Security",
+        "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html"
     }
 ]
