@@ -1,5 +1,33 @@
 [
     {
+        "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+        "source": "The Hacker News",
+        "time": "2026-04-14",
+        "category": "\ue802Apr 14, 2026Mobile Security / Surveillance",
+        "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html"
+    },
+    {
+        "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
+        "source": "The Hacker News",
+        "time": "2026-04-14",
+        "category": "\ue802Apr 14, 2026Application Security / DevSecOps",
+        "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html"
+    },
+    {
+        "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
+        "source": "The Hacker News",
+        "time": "2026-04-14",
+        "category": "\ue802Apr 14, 2026Data Theft / Browser Security",
+        "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html"
+    },
+    {
+        "title": "2026 Cloud Threats Report",
+        "source": "The Hacker News",
+        "time": "2026-04-14",
+        "category": "WizCloud Security / Threat Landscape",
+        "link": "https://thehackernews.uk/cloud-threat-retrospective"
+    },
+    {
         "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
         "source": "The Hacker News",
         "time": "2026-04-14",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html"
     },
     {
-        "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
-        "source": "The Hacker News",
-        "time": "2026-04-14",
-        "category": "\ue802Apr 13, 2026Threat Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html"
-    },
-    {
-        "title": "2026 Cloud Threats Report",
-        "source": "The Hacker News",
-        "time": "2026-04-14",
-        "category": "WizCloud Security / Threat Landscape",
-        "link": "https://thehackernews.uk/cloud-threat-retrospective"
-    },
-    {
-        "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
-        "source": "The Hacker News",
-        "time": "2026-04-14",
-        "category": "\ue802Apr 13, 2026Cybercrime / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html"
-    },
-    {
-        "title": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
-        "source": "The Hacker News",
-        "time": "2026-04-14",
-        "category": "\ue802Apr 13, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html"
-    },
-    {
         "title": "Everyone in the Room Knows Something You Don't. Fix That at SANSFIRE",
         "source": "The Hacker News",
         "time": "2026-04-14",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/cyber-training-sansfire"
     },
     {
-        "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+        "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
         "source": "The Hacker News",
         "time": "2026-04-14",
-        "category": "\ue802Apr 13, 2026Threat Detection / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html"
+        "category": "\ue802Apr 13, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html"
     }
 ]
