@@ -1,24 +1,24 @@
 [
     {
-        "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+        "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
         "source": "The Hacker News",
         "time": "2026-04-15",
-        "category": "\ue802Apr 15, 2026Vulnerability / Secure Coding",
-        "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html"
+        "category": "\ue802Apr 15, 2026Web Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html"
     },
     {
-        "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
+        "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
         "source": "The Hacker News",
         "time": "2026-04-15",
-        "category": "\ue802Apr 14, 2026Vulnerability / DevSecOps",
-        "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html"
+        "category": "\ue802Apr 15, 2026Vulnerability / Data Breach",
+        "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html"
     },
     {
-        "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+        "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
         "source": "The Hacker News",
         "time": "2026-04-15",
-        "category": "\ue802Apr 14, 2026Mobile Security / Network Security",
-        "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html"
+        "category": "\ue802Apr 15, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html"
     },
     {
         "title": "2026 Cloud Threats Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-threat-retrospective"
     },
     {
-        "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+        "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
         "source": "The Hacker News",
         "time": "2026-04-15",
-        "category": "\ue802Apr 14, 2026Ad Fraud / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html"
+        "category": "\ue802Apr 15, 2026Vulnerability / Patch Tuesday",
+        "link": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html"
     },
     {
-        "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+        "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
         "source": "The Hacker News",
         "time": "2026-04-15",
-        "category": "\ue802Apr 14, 2026Mobile Security / Surveillance",
-        "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html"
+        "category": "\ue802Apr 15, 2026Vulnerability / Secure Coding",
+        "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html"
     },
     {
         "title": "Everyone in the Room Knows Something You Don't. Fix That at SANSFIRE",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/cyber-training-sansfire"
     },
     {
-        "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
+        "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
         "source": "The Hacker News",
         "time": "2026-04-15",
-        "category": "\ue802Apr 14, 2026Application Security / DevSecOps",
-        "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html"
+        "category": "\ue802Apr 14, 2026Vulnerability / DevSecOps",
+        "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html"
     }
 ]
