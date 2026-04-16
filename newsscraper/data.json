@@ -1,24 +1,24 @@
 [
     {
-        "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+        "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
         "source": "The Hacker News",
         "time": "2026-04-16",
-        "category": "\ue802Apr 16, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html"
+        "category": "\ue802Apr 16, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html"
     },
     {
-        "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+        "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
         "source": "The Hacker News",
         "time": "2026-04-16",
-        "category": "\ue802Apr 15, 2026Threat Intelligence / Cloud Security",
-        "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html"
+        "category": "\ue802Apr 16, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
     },
     {
-        "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+        "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
         "source": "The Hacker News",
         "time": "2026-04-16",
-        "category": "\ue802Apr 15, 2026Web Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html"
+        "category": "\ue802Apr 16, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html"
     },
     {
         "title": "2026 Cloud Threats Report",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-threat-retrospective"
     },
     {
-        "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
+        "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
         "source": "The Hacker News",
         "time": "2026-04-16",
-        "category": "\ue802Apr 15, 2026Vulnerability / Data Breach",
-        "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html"
+        "category": "\ue802Apr 16, 2026Data Privacy / Compliance",
+        "link": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html"
     },
     {
-        "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
+        "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
         "source": "The Hacker News",
         "time": "2026-04-16",
-        "category": "\ue802Apr 15, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html"
+        "category": "\ue802Apr 16, 2026Application Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html"
     },
     {
         "title": "Pentest Like Attackers Actually Do. SEC560 at SANSFIRE 2026",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/cybersecfire-2"
     },
     {
-        "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+        "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
         "source": "The Hacker News",
         "time": "2026-04-16",
-        "category": "\ue802Apr 15, 2026Vulnerability / Patch Tuesday",
-        "link": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html"
+        "category": "\ue802Apr 16, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html"
     }
 ]
