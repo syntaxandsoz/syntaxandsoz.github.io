@@ -1,5 +1,12 @@
 [
     {
+        "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+        "source": "The Hacker News",
+        "time": "2026-04-18",
+        "category": "\ue802Apr 18, 2026IoT Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html"
+    },
+    {
         "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
         "source": "The Hacker News",
         "time": "2026-04-18",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html"
     },
     {
-        "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-        "source": "The Hacker News",
-        "time": "2026-04-18",
-        "category": "\ue802Apr 17, 2026Vulnerability Management",
-        "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html"
-    },
-    {
         "title": "2026 Cloud Threats Report",
         "source": "The Hacker News",
         "time": "2026-04-18",
         "category": "WizCloud Security / Threat Landscape",
         "link": "https://thehackernews.uk/cloud-threat-retrospective"
+    },
+    {
+        "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+        "source": "The Hacker News",
+        "time": "2026-04-18",
+        "category": "\ue802Apr 17, 2026Vulnerability Management",
+        "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html"
     },
     {
         "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html"
     },
     {
-        "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-        "source": "The Hacker News",
-        "time": "2026-04-18",
-        "category": "\ue802Apr 17, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html"
-    },
-    {
         "title": "Pentest Like Attackers Actually Do. SEC560 at SANSFIRE 2026",
         "source": "The Hacker News",
         "time": "2026-04-18",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/cybersecfire-2"
     },
     {
-        "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
+        "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
         "source": "The Hacker News",
         "time": "2026-04-18",
-        "category": "\ue802Apr 16, 2026Botnet / Cryptomining",
-        "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html"
+        "category": "\ue802Apr 17, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html"
     }
 ]
