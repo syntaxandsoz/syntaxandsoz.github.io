@@ -1,10 +1,31 @@
 [
     {
+        "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+        "source": "The Hacker News",
+        "time": "2026-04-20",
+        "category": "\ue802Apr 20, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html"
+    },
+    {
+        "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+        "source": "The Hacker News",
+        "time": "2026-04-20",
+        "category": "\ue802Apr 20, 2026Cloud Security / Data Breach",
+        "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html"
+    },
+    {
         "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
         "source": "The Hacker News",
         "time": "2026-04-20",
         "category": "\ue802Apr 18, 2026Artificial Intelligence / Enterprise Security",
         "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-04-20",
+        "category": "SentinelOneEnterprise Security / Cybersecurity",
+        "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
         "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
@@ -21,11 +42,11 @@
         "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html"
     },
     {
-        "title": "2026 Cloud Threats Report",
+        "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
         "time": "2026-04-20",
-        "category": "WizCloud Security / Threat Landscape",
-        "link": "https://thehackernews.uk/cloud-threat-retrospective"
+        "category": "RecoSaaS Security /AI Security",
+        "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
         "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
@@ -33,26 +54,5 @@
         "time": "2026-04-20",
         "category": "\ue802Apr 17, 2026Vulnerability / Endpoint Security",
         "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html"
-    },
-    {
-        "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-        "source": "The Hacker News",
-        "time": "2026-04-20",
-        "category": "\ue802Apr 17, 2026Artificial Intelligence / Mobile Security",
-        "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html"
-    },
-    {
-        "title": "Pentest Like Attackers Actually Do. SEC560 at SANSFIRE 2026",
-        "source": "The Hacker News",
-        "time": "2026-04-20",
-        "category": "SANS InstituteLive Training / Cybersecurity",
-        "link": "https://thehackernews.uk/cybersecfire-2"
-    },
-    {
-        "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-        "source": "The Hacker News",
-        "time": "2026-04-20",
-        "category": "\ue802Apr 17, 2026Vulnerability Management",
-        "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html"
     }
 ]
