@@ -1,5 +1,33 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+        "source": "The Hacker News",
+        "time": "2026-04-20",
+        "category": "\ue802Apr 20, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html"
+    },
+    {
+        "title": "Why Most AI Deployments Stall After the Demo",
+        "source": "The Hacker News",
+        "time": "2026-04-20",
+        "category": "\ue802Apr 20, 2026Artificial Intelligence / Privacy",
+        "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html"
+    },
+    {
+        "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+        "source": "The Hacker News",
+        "time": "2026-04-20",
+        "category": "\ue802Apr 20, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-04-20",
+        "category": "SentinelOneEnterprise Security / Cybersecurity",
+        "link": "https://thehackernews.uk/threat-report-sentinelone"
+    },
+    {
         "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
         "source": "The Hacker News",
         "time": "2026-04-20",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html"
     },
     {
-        "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-        "source": "The Hacker News",
-        "time": "2026-04-20",
-        "category": "\ue802Apr 18, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
-    },
-    {
-        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-04-20",
-        "category": "SentinelOneEnterprise Security / Cybersecurity",
-        "link": "https://thehackernews.uk/threat-report-sentinelone"
-    },
-    {
-        "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-        "source": "The Hacker News",
-        "time": "2026-04-20",
-        "category": "\ue802Apr 18, 2026Money Laundering / Regulatory Compliance",
-        "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html"
-    },
-    {
-        "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-        "source": "The Hacker News",
-        "time": "2026-04-20",
-        "category": "\ue802Apr 18, 2026IoT Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html"
-    },
-    {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
         "time": "2026-04-20",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
+        "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
         "source": "The Hacker News",
         "time": "2026-04-20",
-        "category": "\ue802Apr 17, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html"
+        "category": "\ue802Apr 18, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
     }
 ]
