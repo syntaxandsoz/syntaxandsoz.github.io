@@ -1,5 +1,33 @@
 [
     {
+        "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
+        "source": "The Hacker News",
+        "time": "2026-04-21",
+        "category": "\ue802Apr 21, 2026Botnet / Endpoint Security",
+        "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html"
+    },
+    {
+        "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
+        "source": "The Hacker News",
+        "time": "2026-04-21",
+        "category": "\ue802Apr 21, 2026Network Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html"
+    },
+    {
+        "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+        "source": "The Hacker News",
+        "time": "2026-04-21",
+        "category": "\ue802Apr 21, 2026Insider Threat / Cybercrime",
+        "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-04-21",
+        "category": "SentinelOneEnterprise Security / Cybersecurity",
+        "link": "https://thehackernews.uk/threat-report-sentinelone"
+    },
+    {
         "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
         "source": "The Hacker News",
         "time": "2026-04-21",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html"
     },
     {
-        "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
-        "source": "The Hacker News",
-        "time": "2026-04-21",
-        "category": "\ue802Apr 21, 2026Incident Response / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html"
-    },
-    {
-        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-04-21",
-        "category": "SentinelOneEnterprise Security / Cybersecurity",
-        "link": "https://thehackernews.uk/threat-report-sentinelone"
-    },
-    {
-        "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
-        "source": "The Hacker News",
-        "time": "2026-04-21",
-        "category": "\ue802Apr 21, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html"
-    },
-    {
-        "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
-        "source": "The Hacker News",
-        "time": "2026-04-21",
-        "category": "\ue802Apr 21, 2026Network Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html"
-    },
-    {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
         "time": "2026-04-21",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+        "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
         "source": "The Hacker News",
         "time": "2026-04-21",
-        "category": "\ue802Apr 20, 2026Open Source / Server Security",
-        "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
+        "category": "\ue802Apr 21, 2026Incident Response / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html"
     }
 ]
