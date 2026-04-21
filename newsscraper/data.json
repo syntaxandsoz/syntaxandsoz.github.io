@@ -2,56 +2,56 @@
     {
         "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "\ue802Apr 20, 2026Open Source / Server Security",
         "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
     },
     {
         "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "\ue802Apr 20, 2026Cybersecurity / Hacking",
         "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html"
     },
     {
         "title": "Why Most AI Deployments Stall After the Demo",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "\ue802Apr 20, 2026Artificial Intelligence / Privacy",
         "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "SentinelOneEnterprise Security / Cybersecurity",
         "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
         "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "\ue802Apr 20, 2026Artificial Intelligence / Vulnerability",
         "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html"
     },
     {
         "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "\ue802Apr 20, 2026Malware / Threat Intelligence",
         "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html"
     },
     {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "RecoSaaS Security /AI Security",
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
         "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
         "source": "The Hacker News",
-        "time": "2026-04-20",
+        "time": "2026-04-21",
         "category": "\ue802Apr 20, 2026Cloud Security / Data Breach",
         "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html"
     }
