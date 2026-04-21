@@ -1,24 +1,24 @@
 [
     {
-        "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
+        "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
         "source": "The Hacker News",
         "time": "2026-04-21",
-        "category": "\ue802Apr 21, 2026Network Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html"
+        "category": "\ue802Apr 21, 2026Data Protection / Security Automation",
+        "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html"
     },
     {
-        "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+        "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
         "source": "The Hacker News",
         "time": "2026-04-21",
-        "category": "\ue802Apr 20, 2026Open Source / Server Security",
-        "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
+        "category": "\ue802Apr 21, 2026Mobile Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+        "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
         "source": "The Hacker News",
         "time": "2026-04-21",
-        "category": "\ue802Apr 20, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html"
+        "category": "\ue802Apr 21, 2026Incident Response / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
-        "title": "Why Most AI Deployments Stall After the Demo",
+        "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
         "source": "The Hacker News",
         "time": "2026-04-21",
-        "category": "\ue802Apr 20, 2026Artificial Intelligence / Privacy",
-        "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html"
+        "category": "\ue802Apr 21, 2026Vulnerability / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html"
     },
     {
-        "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+        "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
         "source": "The Hacker News",
         "time": "2026-04-21",
-        "category": "\ue802Apr 20, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html"
+        "category": "\ue802Apr 21, 2026Network Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html"
     },
     {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+        "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
         "source": "The Hacker News",
         "time": "2026-04-21",
-        "category": "\ue802Apr 20, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html"
+        "category": "\ue802Apr 20, 2026Open Source / Server Security",
+        "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
     }
 ]
