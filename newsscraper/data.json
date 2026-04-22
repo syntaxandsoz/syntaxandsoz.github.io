@@ -1,24 +1,24 @@
 [
     {
-        "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
+        "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
         "source": "The Hacker News",
         "time": "2026-04-22",
-        "category": "\ue802Apr 22, 2026Vulnerability / Container Security",
-        "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html"
+        "category": "\ue802Apr 22, 2026Malware / Critical Infrastructure",
+        "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html"
     },
     {
-        "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
+        "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
         "source": "The Hacker News",
         "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Botnet / Endpoint Security",
-        "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html"
+        "category": "\ue802Apr 22, 2026SaaS Security / AI Agents",
+        "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html"
     },
     {
-        "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
+        "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
         "source": "The Hacker News",
         "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Network Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html"
+        "category": "\ue802Apr 22, 2026Vulnerability / Cryptography",
+        "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
-        "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+        "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
         "source": "The Hacker News",
         "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Insider Threat / Cybercrime",
-        "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html"
+        "category": "\ue802Apr 22, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html"
     },
     {
-        "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+        "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
         "source": "The Hacker News",
         "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Data Protection / Security Automation",
-        "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html"
+        "category": "\ue802Apr 22, 2026Vulnerability / Container Security",
+        "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html"
     },
     {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+        "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
         "source": "The Hacker News",
         "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Mobile Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html"
+        "category": "\ue802Apr 21, 2026Botnet / Endpoint Security",
+        "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html"
     }
 ]
