@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
+        "source": "The Hacker News",
+        "time": "2026-04-22",
+        "category": "\ue802Apr 22, 2026Vulnerability / Container Security",
+        "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html"
+    },
+    {
         "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
         "source": "The Hacker News",
         "time": "2026-04-22",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html"
     },
     {
-        "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
-        "source": "The Hacker News",
-        "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Insider Threat / Cybercrime",
-        "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-22",
         "category": "SentinelOneEnterprise Security / Cybersecurity",
         "link": "https://thehackernews.uk/threat-report-sentinelone"
+    },
+    {
+        "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+        "source": "The Hacker News",
+        "time": "2026-04-22",
+        "category": "\ue802Apr 21, 2026Insider Threat / Cybercrime",
+        "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html"
     },
     {
         "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html"
     },
     {
-        "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-        "source": "The Hacker News",
-        "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Mobile Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html"
-    },
-    {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
         "time": "2026-04-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+        "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
         "source": "The Hacker News",
         "time": "2026-04-22",
-        "category": "\ue802Apr 21, 2026Incident Response / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html"
+        "category": "\ue802Apr 21, 2026Mobile Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html"
     }
 ]
