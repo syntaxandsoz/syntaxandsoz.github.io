@@ -2,56 +2,56 @@
     {
         "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "\ue802Apr 22, 2026Cloud Security / Software Security",
         "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html"
     },
     {
         "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "\ue802Apr 22, 2026Malware / DevOps",
         "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html"
     },
     {
         "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "\ue802Apr 22, 2026Cyber Espionage / Malware",
         "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "SentinelOneEnterprise Security / Cybersecurity",
         "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
         "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "\ue802Apr 22, 2026Malware / Critical Infrastructure",
         "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html"
     },
     {
         "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "\ue802Apr 22, 2026SaaS Security / AI Agents",
         "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html"
     },
     {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "RecoSaaS Security /AI Security",
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
         "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
         "source": "The Hacker News",
-        "time": "2026-04-22",
+        "time": "2026-04-23",
         "category": "\ue802Apr 22, 2026Vulnerability / Cryptography",
         "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html"
     }
