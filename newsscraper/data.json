@@ -1,24 +1,24 @@
 [
     {
-        "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+        "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
         "source": "The Hacker News",
         "time": "2026-04-23",
-        "category": "\ue802Apr 22, 2026Cloud Security / Software Security",
-        "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html"
+        "category": "\ue802Apr 23, 2026Supply Chain Attack / Open Source",
+        "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html"
     },
     {
-        "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+        "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
         "source": "The Hacker News",
         "time": "2026-04-23",
-        "category": "\ue802Apr 22, 2026Malware / DevOps",
-        "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html"
+        "category": "\ue802Apr 23, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html"
     },
     {
-        "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+        "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
         "source": "The Hacker News",
         "time": "2026-04-23",
-        "category": "\ue802Apr 22, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html"
+        "category": "\ue802Apr 23, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
-        "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
+        "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
         "source": "The Hacker News",
         "time": "2026-04-23",
-        "category": "\ue802Apr 22, 2026Malware / Critical Infrastructure",
-        "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html"
+        "category": "\ue802Apr 23, 2026Artificial Intelligence / Exposure Management",
+        "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html"
     },
     {
-        "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
+        "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
         "source": "The Hacker News",
         "time": "2026-04-23",
-        "category": "\ue802Apr 22, 2026SaaS Security / AI Agents",
-        "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html"
+        "category": "\ue802Apr 23, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html"
     },
     {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+        "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
         "source": "The Hacker News",
         "time": "2026-04-23",
-        "category": "\ue802Apr 22, 2026Vulnerability / Cryptography",
-        "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html"
+        "category": "\ue802Apr 23, 2026Artificial Intelligence / SaaS Security",
+        "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html"
     }
 ]
