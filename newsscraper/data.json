@@ -1,24 +1,24 @@
 [
     {
-        "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+        "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html"
+        "category": "\ue802Apr 24, 2026Enterprise Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html"
     },
     {
-        "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+        "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Malware / Cloud Security",
-        "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html"
+        "category": "\ue802Apr 24, 2026Malware / Cryptocurrency",
+        "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html"
     },
     {
-        "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+        "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Supply Chain Attack / Open Source",
-        "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html"
+        "category": "\ue802Apr 24, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html"
     },
     {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
-        "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+        "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html"
+        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html"
     },
     {
-        "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+        "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html"
+        "category": "\ue802Apr 23, 2026Malware / Cloud Security",
+        "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html"
     },
     {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+        "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Artificial Intelligence / Exposure Management",
-        "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html"
+        "category": "\ue802Apr 23, 2026Supply Chain Attack / Open Source",
+        "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html"
     }
 ]
