@@ -1,5 +1,12 @@
 [
     {
+        "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+        "source": "The Hacker News",
+        "time": "2026-04-24",
+        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html"
+    },
+    {
         "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
         "source": "The Hacker News",
         "time": "2026-04-24",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html"
     },
     {
-        "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-        "source": "The Hacker News",
-        "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-24",
         "category": "SentinelOneEnterprise Security / Cybersecurity",
         "link": "https://thehackernews.uk/threat-report-sentinelone"
+    },
+    {
+        "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+        "source": "The Hacker News",
+        "time": "2026-04-24",
+        "category": "\ue802Apr 23, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html"
     },
     {
         "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html"
     },
     {
-        "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-        "source": "The Hacker News",
-        "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Artificial Intelligence / Exposure Management",
-        "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html"
-    },
-    {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
         "time": "2026-04-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+        "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Threat Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html"
+        "category": "\ue802Apr 23, 2026Artificial Intelligence / Exposure Management",
+        "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html"
     }
 ]
