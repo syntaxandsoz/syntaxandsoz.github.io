@@ -1,10 +1,31 @@
 [
     {
+        "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+        "source": "The Hacker News",
+        "time": "2026-04-24",
+        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html"
+    },
+    {
+        "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
+        "source": "The Hacker News",
+        "time": "2026-04-24",
+        "category": "\ue802Apr 24, 2026Espionage / National Security,",
+        "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html"
+    },
+    {
         "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
         "source": "The Hacker News",
         "time": "2026-04-24",
         "category": "\ue802Apr 24, 2026Enterprise Security / Artificial Intelligence",
         "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html"
+    },
+    {
+        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
+        "source": "The Hacker News",
+        "time": "2026-04-24",
+        "category": "SentinelOneEnterprise Security / Cybersecurity",
+        "link": "https://thehackernews.uk/threat-report-sentinelone"
     },
     {
         "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html"
     },
     {
-        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-04-24",
-        "category": "SentinelOneEnterprise Security / Cybersecurity",
-        "link": "https://thehackernews.uk/threat-report-sentinelone"
-    },
-    {
-        "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-        "source": "The Hacker News",
-        "time": "2026-04-24",
-        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html"
-    },
-    {
-        "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-        "source": "The Hacker News",
-        "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Malware / Cloud Security",
-        "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html"
-    },
-    {
         "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
         "source": "The Hacker News",
         "time": "2026-04-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/run-mythos-salesforce"
     },
     {
-        "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+        "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
         "source": "The Hacker News",
         "time": "2026-04-24",
-        "category": "\ue802Apr 23, 2026Supply Chain Attack / Open Source",
-        "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html"
+        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html"
     }
 ]
