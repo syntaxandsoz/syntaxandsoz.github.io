@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+        "source": "The Hacker News",
+        "time": "2026-04-27",
+        "category": "\ue802Apr 27, 2026Threat Intelligence / Social Engineering",
+        "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html"
+    },
+    {
         "title": "Researchers Uncover Pre-Stuxnet \u2018fast16\u2019 Malware Targeting Engineering Software",
         "source": "The Hacker News",
         "time": "2026-04-27",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html"
     },
     {
-        "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-        "source": "The Hacker News",
-        "time": "2026-04-27",
-        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-27",
         "category": "SentinelOneEnterprise Security / Cybersecurity",
         "link": "https://thehackernews.uk/threat-report-sentinelone"
+    },
+    {
+        "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+        "source": "The Hacker News",
+        "time": "2026-04-27",
+        "category": "\ue802Apr 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html"
     },
     {
         "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
@@ -35,24 +42,17 @@
         "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html"
     },
     {
+        "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
+        "source": "The Hacker News",
+        "time": "2026-04-27",
+        "category": "Picus SecurityAI Security / Security Validation",
+        "link": "https://thehackernews.uk/val-summit-2026"
+    },
+    {
         "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
         "source": "The Hacker News",
         "time": "2026-04-27",
         "category": "\ue802Apr 24, 2026Enterprise Security / Artificial Intelligence",
         "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html"
-    },
-    {
-        "title": "Anthropic Won't Release Mythos. But Claude Is Already in Your Salesforce",
-        "source": "The Hacker News",
-        "time": "2026-04-27",
-        "category": "RecoSaaS Security /AI Security",
-        "link": "https://thehackernews.uk/run-mythos-salesforce"
-    },
-    {
-        "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-        "source": "The Hacker News",
-        "time": "2026-04-27",
-        "category": "\ue802Apr 24, 2026Malware / Cryptocurrency",
-        "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html"
     }
 ]
