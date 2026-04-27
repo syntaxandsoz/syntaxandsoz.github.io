@@ -1,5 +1,12 @@
 [
     {
+        "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+        "source": "The Hacker News",
+        "time": "2026-04-27",
+        "category": "\ue802Apr 27, 2026",
+        "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html"
+    },
+    {
         "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
         "source": "The Hacker News",
         "time": "2026-04-27",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html"
     },
     {
-        "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-        "source": "The Hacker News",
-        "time": "2026-04-27",
-        "category": "\ue802Apr 27, 2026Vulnerability / Hacktivism",
-        "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html"
-    },
-    {
         "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
         "source": "The Hacker News",
         "time": "2026-04-27",
         "category": "SentinelOneEnterprise Security / Cybersecurity",
         "link": "https://thehackernews.uk/threat-report-sentinelone"
+    },
+    {
+        "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+        "source": "The Hacker News",
+        "time": "2026-04-27",
+        "category": "\ue802Apr 27, 2026Vulnerability / Hacktivism",
+        "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html"
     },
     {
         "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html"
     },
     {
-        "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-        "source": "The Hacker News",
-        "time": "2026-04-27",
-        "category": "\ue802Apr 27, 2026Threat Intelligence / Social Engineering",
-        "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html"
-    },
-    {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
         "source": "The Hacker News",
         "time": "2026-04-27",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "Researchers Uncover Pre-Stuxnet \u2018fast16\u2019 Malware Targeting Engineering Software",
+        "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
         "source": "The Hacker News",
         "time": "2026-04-27",
-        "category": "\ue802Apr 25, 2026Cyberwarfare / National Security",
-        "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html"
+        "category": "\ue802Apr 27, 2026Threat Intelligence / Social Engineering",
+        "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html"
     }
 ]
