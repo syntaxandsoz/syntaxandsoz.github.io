@@ -1,24 +1,24 @@
 [
     {
-        "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+        "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
         "source": "The Hacker News",
         "time": "2026-04-28",
-        "category": "\ue802Apr 28, 2026Cyber Espionage / Vulnerability",
-        "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html"
+        "category": "\ue802Apr 28, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
     },
     {
-        "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+        "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
         "source": "The Hacker News",
         "time": "2026-04-28",
-        "category": "\ue802Apr 28, 2026Vulnerability / Identity Management",
-        "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html"
+        "category": "\ue802Apr 28, 2026Malware / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html"
     },
     {
-        "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+        "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
         "source": "The Hacker News",
         "time": "2026-04-28",
-        "category": "\ue802Apr 28, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html"
+        "category": "\ue802Apr 28, 2026Malware / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
     },
     {
         "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sentinel-threat-intel"
     },
     {
-        "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+        "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
         "source": "The Hacker News",
         "time": "2026-04-28",
-        "category": "\ue802Apr 27, 2026",
-        "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html"
+        "category": "\ue802Apr 28, 2026Operational Technology / Data Integrity",
+        "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+        "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
         "source": "The Hacker News",
         "time": "2026-04-28",
-        "category": "\ue802Apr 27, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html"
+        "category": "\ue802Apr 28, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html"
     },
     {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+        "title": "After Mythos: New Playbooks For a Zero-Window Era",
         "source": "The Hacker News",
         "time": "2026-04-28",
-        "category": "\ue802Apr 27, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html"
+        "category": "\ue802Apr 28, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html"
     }
 ]
