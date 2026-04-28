@@ -1,5 +1,33 @@
 [
     {
+        "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+        "source": "The Hacker News",
+        "time": "2026-04-28",
+        "category": "\ue802Apr 28, 2026Cyber Espionage / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html"
+    },
+    {
+        "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+        "source": "The Hacker News",
+        "time": "2026-04-28",
+        "category": "\ue802Apr 28, 2026Vulnerability / Identity Management",
+        "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html"
+    },
+    {
+        "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+        "source": "The Hacker News",
+        "time": "2026-04-28",
+        "category": "\ue802Apr 28, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html"
+    },
+    {
+        "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
+        "source": "The Hacker News",
+        "time": "2026-04-28",
+        "category": "SentinelOneCyber Resilience / Threat Intel",
+        "link": "https://thehackernews.uk/sentinel-threat-intel"
+    },
+    {
         "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
         "source": "The Hacker News",
         "time": "2026-04-28",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html"
     },
     {
-        "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
-        "source": "The Hacker News",
-        "time": "2026-04-28",
-        "category": "\ue802Apr 27, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html"
-    },
-    {
-        "title": "2026 Annual Threat Report: A Defender's Playbook From the Front Lines",
-        "source": "The Hacker News",
-        "time": "2026-04-28",
-        "category": "SentinelOneEnterprise Security / Cybersecurity",
-        "link": "https://thehackernews.uk/threat-report-sentinelone"
-    },
-    {
-        "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-        "source": "The Hacker News",
-        "time": "2026-04-28",
-        "category": "\ue802Apr 27, 2026Vulnerability / Hacktivism",
-        "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html"
-    },
-    {
-        "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-        "source": "The Hacker News",
-        "time": "2026-04-28",
-        "category": "\ue802Apr 27, 2026Malware / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html"
-    },
-    {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
         "source": "The Hacker News",
         "time": "2026-04-28",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+        "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
         "source": "The Hacker News",
         "time": "2026-04-28",
-        "category": "\ue802Apr 27, 2026Threat Intelligence / Social Engineering",
-        "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html"
+        "category": "\ue802Apr 27, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html"
     }
 ]
