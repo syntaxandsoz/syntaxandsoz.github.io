@@ -1,10 +1,31 @@
 [
     {
+        "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+        "source": "The Hacker News",
+        "time": "2026-04-29",
+        "category": "\ue802Apr 29, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html"
+    },
+    {
+        "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+        "source": "The Hacker News",
+        "time": "2026-04-29",
+        "category": "\ue802Apr 29, 2026Malware / Social Engineering",
+        "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html"
+    },
+    {
         "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
         "source": "The Hacker News",
         "time": "2026-04-29",
         "category": "\ue802Apr 29, 2026Artificial Intelligence / Exposure Validation",
         "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
+    },
+    {
+        "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
+        "source": "The Hacker News",
+        "time": "2026-04-29",
+        "category": "SentinelOneCyber Resilience / Threat Intel",
+        "link": "https://thehackernews.uk/sentinel-threat-intel"
     },
     {
         "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html"
     },
     {
-        "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
-        "source": "The Hacker News",
-        "time": "2026-04-29",
-        "category": "SentinelOneCyber Resilience / Threat Intel",
-        "link": "https://thehackernews.uk/sentinel-threat-intel"
-    },
-    {
-        "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-        "source": "The Hacker News",
-        "time": "2026-04-29",
-        "category": "\ue802Apr 29, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
-    },
-    {
-        "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-        "source": "The Hacker News",
-        "time": "2026-04-29",
-        "category": "\ue802Apr 29, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
-    },
-    {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
         "source": "The Hacker News",
         "time": "2026-04-29",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+        "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
+        "category": "\ue802Apr 29, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
     }
 ]
