@@ -1,24 +1,24 @@
 [
     {
-        "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+        "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 29, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
+        "category": "\ue802Apr 29, 2026Artificial Intelligence / Exposure Validation",
+        "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
     },
     {
-        "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+        "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
+        "category": "\ue802Apr 29, 2026Exposure Management / Security Operations",
+        "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html"
     },
     {
-        "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+        "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Malware / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html"
+        "category": "\ue802Apr 29, 2026Vulnerability / Web Hosting",
+        "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html"
     },
     {
         "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sentinel-threat-intel"
     },
     {
-        "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+        "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Malware / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
+        "category": "\ue802Apr 29, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
     },
     {
-        "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+        "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Operational Technology / Data Integrity",
-        "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html"
+        "category": "\ue802Apr 29, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
     },
     {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+        "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html"
+        "category": "\ue802Apr 28, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
     }
 ]
