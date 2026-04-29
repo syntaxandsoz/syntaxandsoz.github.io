@@ -1,5 +1,12 @@
 [
     {
+        "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+        "source": "The Hacker News",
+        "time": "2026-04-29",
+        "category": "\ue802Apr 29, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
+    },
+    {
         "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
         "source": "The Hacker News",
         "time": "2026-04-29",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html"
     },
     {
-        "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-        "source": "The Hacker News",
-        "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Malware / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
-    },
-    {
         "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
         "source": "The Hacker News",
         "time": "2026-04-29",
         "category": "SentinelOneCyber Resilience / Threat Intel",
         "link": "https://thehackernews.uk/sentinel-threat-intel"
+    },
+    {
+        "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+        "source": "The Hacker News",
+        "time": "2026-04-29",
+        "category": "\ue802Apr 28, 2026Malware / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html"
     },
     {
         "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html"
     },
     {
-        "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
-        "source": "The Hacker News",
-        "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html"
-    },
-    {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
         "source": "The Hacker News",
         "time": "2026-04-29",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "After Mythos: New Playbooks For a Zero-Window Era",
+        "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
         "source": "The Hacker News",
         "time": "2026-04-29",
-        "category": "\ue802Apr 28, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html"
+        "category": "\ue802Apr 28, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html"
     }
 ]
