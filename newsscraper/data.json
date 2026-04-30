@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-04-30",
+        "category": "\ue802Apr 30, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html"
+    },
+    {
         "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-04-30",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html"
     },
     {
-        "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-        "source": "The Hacker News",
-        "time": "2026-04-30",
-        "category": "\ue802Apr 29, 2026Artificial Intelligence / Exposure Validation",
-        "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
-    },
-    {
         "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
         "source": "The Hacker News",
         "time": "2026-04-30",
         "category": "SentinelOneCyber Resilience / Threat Intel",
         "link": "https://thehackernews.uk/sentinel-threat-intel"
+    },
+    {
+        "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+        "source": "The Hacker News",
+        "time": "2026-04-30",
+        "category": "\ue802Apr 29, 2026Artificial Intelligence / Exposure Validation",
+        "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
     },
     {
         "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html"
     },
     {
-        "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
-        "source": "The Hacker News",
-        "time": "2026-04-30",
-        "category": "\ue802Apr 29, 2026Vulnerability / Web Hosting",
-        "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html"
-    },
-    {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
         "source": "The Hacker News",
         "time": "2026-04-30",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+        "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
         "source": "The Hacker News",
         "time": "2026-04-30",
-        "category": "\ue802Apr 29, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
+        "category": "\ue802Apr 29, 2026Vulnerability / Web Hosting",
+        "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html"
     }
 ]
