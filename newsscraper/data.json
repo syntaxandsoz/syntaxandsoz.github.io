@@ -1,5 +1,33 @@
 [
     {
+        "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+        "source": "The Hacker News",
+        "time": "2026-05-01",
+        "category": "\ue802May 01, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html"
+    },
+    {
+        "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
+        "source": "The Hacker News",
+        "time": "2026-05-01",
+        "category": "\ue802May 01, 2026Malware / Social Engineering",
+        "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html"
+    },
+    {
+        "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+        "source": "The Hacker News",
+        "time": "2026-05-01",
+        "category": "\ue802May 01, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html"
+    },
+    {
+        "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
+        "source": "The Hacker News",
+        "time": "2026-05-01",
+        "category": "SentinelOneCyber Resilience / Threat Intel",
+        "link": "https://thehackernews.uk/sentinel-threat-intel"
+    },
+    {
         "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
         "source": "The Hacker News",
         "time": "2026-05-01",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html"
     },
     {
-        "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-        "source": "The Hacker News",
-        "time": "2026-05-01",
-        "category": "\ue802May 01, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html"
-    },
-    {
-        "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
-        "source": "The Hacker News",
-        "time": "2026-05-01",
-        "category": "SentinelOneCyber Resilience / Threat Intel",
-        "link": "https://thehackernews.uk/sentinel-threat-intel"
-    },
-    {
-        "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-        "source": "The Hacker News",
-        "time": "2026-05-01",
-        "category": "\ue802Apr 30, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html"
-    },
-    {
-        "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-        "source": "The Hacker News",
-        "time": "2026-05-01",
-        "category": "\ue802Apr 30, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html"
-    },
-    {
         "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
         "source": "The Hacker News",
         "time": "2026-05-01",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/val-summit-2026"
     },
     {
-        "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+        "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
         "source": "The Hacker News",
         "time": "2026-05-01",
-        "category": "\ue802Apr 30, 2026Cloud Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html"
+        "category": "\ue802May 01, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html"
     }
 ]
