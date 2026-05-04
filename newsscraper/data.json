@@ -1,5 +1,33 @@
 [
     {
+        "title": "2026: The Year of AI-Assisted Attacks",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "\ue802May 04, 2026Artificial Intelligence / Supply Chain Security",
+        "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html"
+    },
+    {
+        "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "\ue802May 04, 2026Malware / Network Security",
+        "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html"
+    },
+    {
+        "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "\ue802May 04, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html"
+    },
+    {
+        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "WizAI Security / Vibe Coding",
+        "link": "https://thehackernews.uk/wiz-secure-coding"
+    },
+    {
         "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
         "source": "The Hacker News",
         "time": "2026-05-04",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html"
     },
     {
-        "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "\ue802May 02, 2026Data Breach / Enterprise Security",
-        "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"
-    },
-    {
-        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "WizAI Security / Vibe Coding",
-        "link": "https://thehackernews.uk/wiz-secure-coding"
-    },
-    {
-        "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "\ue802May 01, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html"
-    },
-    {
-        "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "\ue802May 01, 2026Malware / Social Engineering",
-        "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-05-04",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+        "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
         "source": "The Hacker News",
         "time": "2026-05-04",
-        "category": "\ue802May 01, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html"
+        "category": "\ue802May 02, 2026Data Breach / Enterprise Security",
+        "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"
     }
 ]
