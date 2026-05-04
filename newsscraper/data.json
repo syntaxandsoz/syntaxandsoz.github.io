@@ -1,5 +1,12 @@
 [
     {
+        "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "\ue802May 04, 2026Mobile Security / Financial Crime",
+        "link": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html"
+    },
+    {
         "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
         "source": "The Hacker News",
         "time": "2026-05-04",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"
     },
     {
+        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "WizAI Security / Vibe Coding",
+        "link": "https://thehackernews.uk/wiz-secure-coding"
+    },
+    {
         "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
         "source": "The Hacker News",
         "time": "2026-05-04",
         "category": "\ue802May 01, 2026Malware / Threat Intelligence",
         "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html"
-    },
-    {
-        "title": "Master High-Velocity Defense: SentinelOne's Virtual Cyber Threat Forum 2026",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "SentinelOneCyber Resilience / Threat Intel",
-        "link": "https://thehackernews.uk/sentinel-threat-intel"
     },
     {
         "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
@@ -35,24 +42,17 @@
         "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html"
     },
     {
+        "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "ZscalerAI Security / Network Security",
+        "link": "https://thehackernews.uk/vpn-threat-report"
+    },
+    {
         "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
         "source": "The Hacker News",
         "time": "2026-05-04",
         "category": "\ue802May 01, 2026Vulnerability / Network Security",
         "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html"
-    },
-    {
-        "title": "99% of Mythos Findings Remain Unpatched. Defenders Are Building the Response",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "Picus SecurityAI Security / Security Validation",
-        "link": "https://thehackernews.uk/val-summit-2026"
-    },
-    {
-        "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "\ue802May 01, 2026Compliance / Data Protection",
-        "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html"
     }
 ]
