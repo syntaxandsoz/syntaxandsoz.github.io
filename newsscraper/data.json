@@ -1,5 +1,33 @@
 [
     {
+        "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "\ue802May 04, 2026Network Security / Endpoint Security",
+        "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html"
+    },
+    {
+        "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "\ue802May 04, 2026Vulnerability / Enterprise Software",
+        "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html"
+    },
+    {
+        "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "\ue802May 04, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html"
+    },
+    {
+        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
+        "source": "The Hacker News",
+        "time": "2026-05-04",
+        "category": "WizAI Security / Vibe Coding",
+        "link": "https://thehackernews.uk/wiz-secure-coding"
+    },
+    {
         "title": "2026: The Year of AI-Assisted Attacks",
         "source": "The Hacker News",
         "time": "2026-05-04",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html"
     },
     {
-        "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "\ue802May 04, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html"
-    },
-    {
-        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "WizAI Security / Vibe Coding",
-        "link": "https://thehackernews.uk/wiz-secure-coding"
-    },
-    {
-        "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "\ue802May 04, 2026Mobile Security / Financial Crime",
-        "link": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html"
-    },
-    {
-        "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-        "source": "The Hacker News",
-        "time": "2026-05-04",
-        "category": "\ue802May 03, 2026Vulnerability / Container Security",
-        "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-05-04",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+        "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
         "source": "The Hacker News",
         "time": "2026-05-04",
-        "category": "\ue802May 02, 2026Data Breach / Enterprise Security",
-        "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"
+        "category": "\ue802May 04, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html"
     }
 ]
