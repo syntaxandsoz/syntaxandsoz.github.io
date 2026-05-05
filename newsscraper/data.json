@@ -1,24 +1,24 @@
 [
     {
-        "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+        "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
+        "source": "The Hacker News",
+        "time": "2026-05-05",
+        "category": "\ue802May 05, 2026SaaS Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html"
+    },
+    {
+        "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
         "source": "The Hacker News",
         "time": "2026-05-05",
         "category": "\ue802May 05, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html"
+        "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html"
     },
     {
-        "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+        "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
         "source": "The Hacker News",
         "time": "2026-05-05",
-        "category": "\ue802May 05, 2026",
-        "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html"
-    },
-    {
-        "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-        "source": "The Hacker News",
-        "time": "2026-05-05",
-        "category": "\ue802May 04, 2026Network Security / Endpoint Security",
-        "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html"
+        "category": "\ue802May 05, 2026Artificial Intelligence / API Security",
+        "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html"
     },
     {
         "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-secure-coding"
     },
     {
-        "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+        "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
         "source": "The Hacker News",
         "time": "2026-05-05",
-        "category": "\ue802May 04, 2026Vulnerability / Enterprise Software",
-        "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html"
+        "category": "\ue802May 05, 2026Cyber Espionage / Surveillance",
+        "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+        "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
         "source": "The Hacker News",
         "time": "2026-05-05",
-        "category": "\ue802May 04, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html"
+        "category": "\ue802May 05, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html"
     },
     {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "2026: The Year of AI-Assisted Attacks",
+        "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
         "source": "The Hacker News",
         "time": "2026-05-05",
-        "category": "\ue802May 04, 2026Artificial Intelligence / Supply Chain Security",
-        "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html"
+        "category": "\ue802May 05, 2026",
+        "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html"
     }
 ]
