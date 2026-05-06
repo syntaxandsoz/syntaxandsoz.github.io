@@ -1,24 +1,24 @@
 [
     {
-        "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+        "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
         "source": "The Hacker News",
         "time": "2026-05-06",
-        "category": "\ue802May 06, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html"
+        "category": "\ue802May 06, 2026Ransomware / Cybercrime",
+        "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html"
     },
     {
-        "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+        "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
         "source": "The Hacker News",
         "time": "2026-05-06",
-        "category": "\ue802May 05, 2026Vulnerability / Server Security",
-        "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html"
+        "category": "\ue802May 06, 2026Security Leadership / Industry Recognition",
+        "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html"
     },
     {
-        "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+        "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
         "source": "The Hacker News",
         "time": "2026-05-06",
-        "category": "\ue802May 05, 2026Endpoint Security / Software Security",
-        "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html"
+        "category": "\ue802May 06, 2026Compliance / Data Security",
+        "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html"
     },
     {
         "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-secure-coding"
     },
     {
-        "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+        "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
         "source": "The Hacker News",
         "time": "2026-05-06",
-        "category": "\ue802May 05, 2026Network Security / Endpoint Security",
-        "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html"
+        "category": "\ue802May 06, 2026Android / Data Security",
+        "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html"
     },
     {
-        "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
+        "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
         "source": "The Hacker News",
         "time": "2026-05-06",
-        "category": "\ue802May 05, 2026SaaS Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html"
+        "category": "\ue802May 06, 2026Endpoint Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html"
     },
     {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
+        "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
         "source": "The Hacker News",
         "time": "2026-05-06",
-        "category": "\ue802May 05, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html"
+        "category": "\ue802May 06, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html"
     }
 ]
