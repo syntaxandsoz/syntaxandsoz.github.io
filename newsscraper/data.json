@@ -1,5 +1,12 @@
 [
     {
+        "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-05-06",
+        "category": "\ue802May 06, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html"
+    },
+    {
         "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
         "source": "The Hacker News",
         "time": "2026-05-06",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html"
     },
     {
-        "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-        "source": "The Hacker News",
-        "time": "2026-05-06",
-        "category": "\ue802May 05, 2026Network Security / Endpoint Security",
-        "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html"
-    },
-    {
         "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
         "source": "The Hacker News",
         "time": "2026-05-06",
         "category": "WizAI Security / Vibe Coding",
         "link": "https://thehackernews.uk/wiz-secure-coding"
+    },
+    {
+        "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+        "source": "The Hacker News",
+        "time": "2026-05-06",
+        "category": "\ue802May 05, 2026Network Security / Endpoint Security",
+        "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html"
     },
     {
         "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html"
     },
     {
-        "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-        "source": "The Hacker News",
-        "time": "2026-05-06",
-        "category": "\ue802May 05, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-05-06",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+        "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
         "source": "The Hacker News",
         "time": "2026-05-06",
-        "category": "\ue802May 05, 2026Artificial Intelligence / API Security",
-        "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html"
+        "category": "\ue802May 05, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html"
     }
 ]
