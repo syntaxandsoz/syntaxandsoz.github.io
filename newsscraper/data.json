@@ -1,24 +1,24 @@
 [
     {
-        "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+        "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 07, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html"
+        "category": "\ue802May 07, 2026Artificial Intelligence / Threat Detection",
+        "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
     },
     {
-        "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+        "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 06, 2026IoT Security / Malware",
-        "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html"
+        "category": "\ue802May 07, 2026Vulnerability / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html"
     },
     {
-        "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+        "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 06, 2026Ransomware / Cybercrime",
-        "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html"
+        "category": "\ue802May 07, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html"
     },
     {
         "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-secure-coding"
     },
     {
-        "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
+        "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 06, 2026Security Leadership / Industry Recognition",
-        "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html"
+        "category": "\ue802May 07, 2026Incident Response / Identity Management",
+        "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html"
     },
     {
-        "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+        "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 06, 2026Compliance / Data Security",
-        "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html"
+        "category": "\ue802May 07, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html"
     },
     {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
+        "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 06, 2026Android / Data Security",
-        "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html"
+        "category": "\ue802May 07, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html"
     }
 ]
