@@ -1,5 +1,12 @@
 [
     {
+        "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-05-07",
+        "category": "\ue802May 07, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html"
+    },
+    {
         "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
         "source": "The Hacker News",
         "time": "2026-05-07",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html"
     },
     {
-        "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
-        "source": "The Hacker News",
-        "time": "2026-05-07",
-        "category": "\ue802May 06, 2026Security Leadership / Industry Recognition",
-        "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html"
-    },
-    {
         "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
         "source": "The Hacker News",
         "time": "2026-05-07",
         "category": "WizAI Security / Vibe Coding",
         "link": "https://thehackernews.uk/wiz-secure-coding"
+    },
+    {
+        "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
+        "source": "The Hacker News",
+        "time": "2026-05-07",
+        "category": "\ue802May 06, 2026Security Leadership / Industry Recognition",
+        "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html"
     },
     {
         "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html"
     },
     {
-        "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-        "source": "The Hacker News",
-        "time": "2026-05-07",
-        "category": "\ue802May 06, 2026Android / Data Security",
-        "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-05-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
+        "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 06, 2026Endpoint Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html"
+        "category": "\ue802May 06, 2026Android / Data Security",
+        "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html"
     }
 ]
