@@ -1,10 +1,31 @@
 [
     {
+        "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+        "source": "The Hacker News",
+        "time": "2026-05-07",
+        "category": "\ue802May 07, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html"
+    },
+    {
+        "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+        "source": "The Hacker News",
+        "time": "2026-05-07",
+        "category": "\ue802May 07, 2026Threat Intelligence / Cloud Security",
+        "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html"
+    },
+    {
         "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
         "source": "The Hacker News",
         "time": "2026-05-07",
         "category": "\ue802May 07, 2026Artificial Intelligence / Threat Detection",
         "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
+    },
+    {
+        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
+        "source": "The Hacker News",
+        "time": "2026-05-07",
+        "category": "WizAI Security / Vibe Coding",
+        "link": "https://thehackernews.uk/wiz-secure-coding"
     },
     {
         "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html"
     },
     {
-        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
-        "source": "The Hacker News",
-        "time": "2026-05-07",
-        "category": "WizAI Security / Vibe Coding",
-        "link": "https://thehackernews.uk/wiz-secure-coding"
-    },
-    {
-        "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-        "source": "The Hacker News",
-        "time": "2026-05-07",
-        "category": "\ue802May 07, 2026Incident Response / Identity Management",
-        "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html"
-    },
-    {
-        "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-        "source": "The Hacker News",
-        "time": "2026-05-07",
-        "category": "\ue802May 07, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-05-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+        "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
         "source": "The Hacker News",
         "time": "2026-05-07",
-        "category": "\ue802May 07, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html"
+        "category": "\ue802May 07, 2026Incident Response / Identity Management",
+        "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html"
     }
 ]
