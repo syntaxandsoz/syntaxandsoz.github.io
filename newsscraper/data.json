@@ -1,5 +1,33 @@
 [
     {
+        "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+        "source": "The Hacker News",
+        "time": "2026-05-08",
+        "category": "\ue802May 08, 2026Linux / DevOps",
+        "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html"
+    },
+    {
+        "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+        "source": "The Hacker News",
+        "time": "2026-05-08",
+        "category": "\ue802May 08, 2026Threat Detection / AI Security",
+        "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html"
+    },
+    {
+        "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
+        "source": "The Hacker News",
+        "time": "2026-05-08",
+        "category": "\ue802May 08, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html"
+    },
+    {
+        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
+        "source": "The Hacker News",
+        "time": "2026-05-08",
+        "category": "WizAI Security / Vibe Coding",
+        "link": "https://thehackernews.uk/wiz-secure-coding"
+    },
+    {
         "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
         "source": "The Hacker News",
         "time": "2026-05-08",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html"
     },
     {
-        "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-        "source": "The Hacker News",
-        "time": "2026-05-08",
-        "category": "\ue802May 07, 2026Threat Intelligence / Cloud Security",
-        "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html"
-    },
-    {
-        "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
-        "source": "The Hacker News",
-        "time": "2026-05-08",
-        "category": "WizAI Security / Vibe Coding",
-        "link": "https://thehackernews.uk/wiz-secure-coding"
-    },
-    {
-        "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-        "source": "The Hacker News",
-        "time": "2026-05-08",
-        "category": "\ue802May 07, 2026Artificial Intelligence / Threat Detection",
-        "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
-    },
-    {
-        "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-        "source": "The Hacker News",
-        "time": "2026-05-08",
-        "category": "\ue802May 07, 2026Vulnerability / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-05-08",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
+        "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
         "source": "The Hacker News",
         "time": "2026-05-08",
-        "category": "\ue802May 07, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html"
+        "category": "\ue802May 07, 2026Threat Intelligence / Cloud Security",
+        "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html"
     }
 ]
