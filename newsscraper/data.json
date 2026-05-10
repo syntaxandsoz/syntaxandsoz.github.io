@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+        "source": "The Hacker News",
+        "time": "2026-05-10",
+        "category": "\ue802May 10, 2026Vulnerability / Data Breach",
+        "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"
+    },
+    {
         "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now",
         "source": "The Hacker News",
         "time": "2026-05-10",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html"
     },
     {
-        "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-        "source": "The Hacker News",
-        "time": "2026-05-10",
-        "category": "\ue802May 08, 2026Android / Mobile Security",
-        "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html"
-    },
-    {
         "title": "From Prompts to Production: The Technical Guide to Secure Vibe Coding",
         "source": "The Hacker News",
         "time": "2026-05-10",
         "category": "WizAI Security / Vibe Coding",
         "link": "https://thehackernews.uk/wiz-secure-coding"
+    },
+    {
+        "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+        "source": "The Hacker News",
+        "time": "2026-05-10",
+        "category": "\ue802May 08, 2026Android / Mobile Security",
+        "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html"
     },
     {
         "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
     },
     {
-        "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-        "source": "The Hacker News",
-        "time": "2026-05-10",
-        "category": "\ue802May 08, 2026Linux / DevOps",
-        "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-05-10",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+        "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
         "source": "The Hacker News",
         "time": "2026-05-10",
-        "category": "\ue802May 08, 2026Threat Detection / AI Security",
-        "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html"
+        "category": "\ue802May 08, 2026Linux / DevOps",
+        "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html"
     }
 ]
