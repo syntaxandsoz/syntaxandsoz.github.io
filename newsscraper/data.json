@@ -1,5 +1,33 @@
 [
     {
+        "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+        "source": "The Hacker News",
+        "time": "2026-05-11",
+        "category": "\ue802May 11, 2026Supply Chain Attack / DevSecOps",
+        "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html"
+    },
+    {
+        "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+        "source": "The Hacker News",
+        "time": "2026-05-11",
+        "category": "\ue802May 11, 2026Vulnerability / Ransomware",
+        "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html"
+    },
+    {
+        "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+        "source": "The Hacker News",
+        "time": "2026-05-11",
+        "category": "\ue802May 11, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html"
+    },
+    {
+        "title": "OAuth Review Checklist: 4 Steps to Assess Risk [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-05-11",
+        "category": "Nudge SecuritySaaS Security / AI Security",
+        "link": "https://thehackernews.uk/oauth-mcp-guide"
+    },
+    {
         "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
         "source": "The Hacker News",
         "time": "2026-05-11",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html"
     },
     {
-        "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-        "source": "The Hacker News",
-        "time": "2026-05-11",
-        "category": "\ue802May 11, 2026Supply Chain Attack / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html"
-    },
-    {
-        "title": "OAuth review checklist: 4 steps to assess risk [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-11",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/oauth-mcp-guide"
-    },
-    {
-        "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-        "source": "The Hacker News",
-        "time": "2026-05-11",
-        "category": "\ue802May 10, 2026Vulnerability / Data Breach",
-        "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"
-    },
-    {
-        "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now",
-        "source": "The Hacker News",
-        "time": "2026-05-11",
-        "category": "\ue802May 09, 2026Vulnerability / Web Hosting",
-        "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+        "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
         "source": "The Hacker News",
         "time": "2026-05-11",
-        "category": "\ue802May 08, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html"
+        "category": "\ue802May 11, 2026Supply Chain Attack / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html"
     }
 ]
