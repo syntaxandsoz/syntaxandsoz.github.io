@@ -1,10 +1,31 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+        "source": "The Hacker News",
+        "time": "2026-05-11",
+        "category": "\ue802May 11, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html"
+    },
+    {
+        "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room",
+        "source": "The Hacker News",
+        "time": "2026-05-11",
+        "category": "\ue802May 11, 2026Artificial Intelligence / Penetration Testing",
+        "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html"
+    },
+    {
         "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
         "source": "The Hacker News",
         "time": "2026-05-11",
         "category": "\ue802May 11, 2026Supply Chain Attack / Threat Intelligence",
         "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html"
+    },
+    {
+        "title": "OAuth review checklist: 4 steps to assess risk [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-05-11",
+        "category": "Nudge SecuritySaaS Security / AI Security",
+        "link": "https://thehackernews.uk/oauth-mcp-guide"
     },
     {
         "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html"
     },
     {
-        "title": "OAuth review checklist: 4 steps to assess risk [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-11",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/oauth-mcp-guide"
-    },
-    {
-        "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-        "source": "The Hacker News",
-        "time": "2026-05-11",
-        "category": "\ue802May 08, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html"
-    },
-    {
-        "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-        "source": "The Hacker News",
-        "time": "2026-05-11",
-        "category": "\ue802May 08, 2026Android / Mobile Security",
-        "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+        "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
         "source": "The Hacker News",
         "time": "2026-05-11",
-        "category": "\ue802May 08, 2026Artificial Intelligence / Threat Detection",
-        "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
+        "category": "\ue802May 08, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html"
     }
 ]
