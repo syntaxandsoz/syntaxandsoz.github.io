@@ -1,24 +1,24 @@
 [
     {
-        "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+        "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
         "source": "The Hacker News",
         "time": "2026-05-12",
-        "category": "\ue802May 12, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html"
+        "category": "\ue802May 12, 2026Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html"
     },
     {
-        "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+        "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
         "source": "The Hacker News",
         "time": "2026-05-12",
-        "category": "\ue802May 12, 2026Vulnerability / AI Security",
-        "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html"
+        "category": "\ue802May 12, 2026Threat Detection / AI Security",
+        "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html"
     },
     {
-        "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
+        "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
         "source": "The Hacker News",
         "time": "2026-05-12",
-        "category": "\ue802May 12, 2026Encryption / Mobile Security",
-        "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html"
+        "category": "\ue802May 12, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html"
     },
     {
         "title": "OAuth Review Checklist: 4 Steps to Assess Risk [Free Guide]",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/oauth-mcp-guide"
     },
     {
-        "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+        "title": "Why Agentic AI Is Security's Next Blind Spot",
         "source": "The Hacker News",
         "time": "2026-05-12",
-        "category": "\ue802May 11, 2026Supply Chain Attack / DevSecOps",
-        "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html"
+        "category": "\ue802May 12, 2026Artificial Intelligence / Threat Detection",
+        "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html"
     },
     {
-        "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+        "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
         "source": "The Hacker News",
         "time": "2026-05-12",
-        "category": "\ue802May 11, 2026Vulnerability / Ransomware",
-        "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html"
+        "category": "\ue802May 12, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html"
     },
     {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+        "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
         "source": "The Hacker News",
         "time": "2026-05-12",
-        "category": "\ue802May 11, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html"
+        "category": "\ue802May 12, 2026Vulnerability / AI Security",
+        "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html"
     }
 ]
