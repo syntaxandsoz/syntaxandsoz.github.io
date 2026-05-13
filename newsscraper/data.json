@@ -1,10 +1,31 @@
 [
     {
+        "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+        "source": "The Hacker News",
+        "time": "2026-05-13",
+        "category": "\ue802May 13, 2026Software Supply Chain / Data Exfiltration",
+        "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html"
+    },
+    {
+        "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+        "source": "The Hacker News",
+        "time": "2026-05-13",
+        "category": "\ue802May 13, 2026Encryption / Spyware",
+        "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html"
+    },
+    {
         "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
         "source": "The Hacker News",
         "time": "2026-05-13",
         "category": "\ue802May 12, 2026Vulnerability / Email Security",
         "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html"
+    },
+    {
+        "title": "OAuth Review Checklist: 4 Steps to Assess Risk [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-05-13",
+        "category": "Nudge SecuritySaaS Security / AI Security",
+        "link": "https://thehackernews.uk/oauth-mcp-guide"
     },
     {
         "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html"
     },
     {
-        "title": "OAuth Review Checklist: 4 Steps to Assess Risk [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-13",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/oauth-mcp-guide"
-    },
-    {
-        "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
-        "source": "The Hacker News",
-        "time": "2026-05-13",
-        "category": "\ue802May 12, 2026Threat Detection / AI Security",
-        "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html"
-    },
-    {
-        "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-        "source": "The Hacker News",
-        "time": "2026-05-13",
-        "category": "\ue802May 12, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-13",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "Why Agentic AI Is Security's Next Blind Spot",
+        "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
         "source": "The Hacker News",
         "time": "2026-05-13",
-        "category": "\ue802May 12, 2026Artificial Intelligence / Threat Detection",
-        "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html"
+        "category": "\ue802May 12, 2026Threat Detection / AI Security",
+        "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html"
     }
 ]
