@@ -1,5 +1,33 @@
 [
     {
+        "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+        "source": "The Hacker News",
+        "time": "2026-05-14",
+        "category": "\ue802May 14, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html"
+    },
+    {
+        "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+        "source": "The Hacker News",
+        "time": "2026-05-14",
+        "category": "\ue802May 14, 2026Developer Security / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html"
+    },
+    {
+        "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+        "source": "The Hacker News",
+        "time": "2026-05-14",
+        "category": "\ue802May 14, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html"
+    },
+    {
+        "title": "Agentic AI is Already in Your Org. Here's How to Secure It [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-05-14",
+        "category": "Nudge SecuritySaaS Security / AI Security",
+        "link": "https://thehackernews.uk/nudge-agentic-security"
+    },
+    {
         "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
         "source": "The Hacker News",
         "time": "2026-05-14",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html"
     },
     {
-        "title": "How AI Hallucinations Are Creating Real Security Risks",
-        "source": "The Hacker News",
-        "time": "2026-05-14",
-        "category": "\ue802May 14, 2026Artificial Intelligence / Identity Security",
-        "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html"
-    },
-    {
-        "title": "Agentic AI is Already in Your Org. Here's How to Secure It [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-14",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/nudge-agentic-security"
-    },
-    {
-        "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-        "source": "The Hacker News",
-        "time": "2026-05-14",
-        "category": "\ue802May 14, 2026Zero-Day / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html"
-    },
-    {
-        "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-        "source": "The Hacker News",
-        "time": "2026-05-14",
-        "category": "\ue802May 14, 2026Vulnerability / Linux",
-        "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-14",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+        "title": "How AI Hallucinations Are Creating Real Security Risks",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 14, 2026Vulnerability / Web Server",
-        "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
+        "category": "\ue802May 14, 2026Artificial Intelligence / Identity Security",
+        "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html"
     }
 ]
