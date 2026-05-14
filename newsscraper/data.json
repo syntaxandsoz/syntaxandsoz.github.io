@@ -1,24 +1,24 @@
 [
     {
-        "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+        "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 14, 2026Vulnerability / Linux",
-        "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
+        "category": "\ue802May 14, 2026Hacktivism / Data Theft",
+        "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html"
     },
     {
-        "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+        "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 14, 2026Vulnerability / Web Server",
-        "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
+        "category": "\ue802May 14, 2026Vulnerability / API Security",
+        "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html"
     },
     {
-        "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+        "title": "How AI Hallucinations Are Creating Real Security Risks",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 13, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html"
+        "category": "\ue802May 14, 2026Artificial Intelligence / Identity Security",
+        "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html"
     },
     {
         "title": "Agentic AI is Already in Your Org. Here's How to Secure It [Free Guide]",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/nudge-agentic-security"
     },
     {
-        "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+        "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 13, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html"
+        "category": "\ue802May 14, 2026Zero-Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html"
     },
     {
-        "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
+        "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 13, 2026AppSec / Webinar",
-        "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html"
+        "category": "\ue802May 14, 2026Vulnerability / Linux",
+        "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
     },
     {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+        "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 13, 2026Cloud Security / Automation",
-        "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html"
+        "category": "\ue802May 14, 2026Vulnerability / Web Server",
+        "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
     }
 ]
