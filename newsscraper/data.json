@@ -1,10 +1,31 @@
 [
     {
+        "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+        "source": "The Hacker News",
+        "time": "2026-05-14",
+        "category": "\ue802May 14, 2026Vulnerability / Linux",
+        "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
+    },
+    {
+        "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+        "source": "The Hacker News",
+        "time": "2026-05-14",
+        "category": "\ue802May 14, 2026Vulnerability / Web Server",
+        "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
+    },
+    {
         "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
         "source": "The Hacker News",
         "time": "2026-05-14",
         "category": "\ue802May 13, 2026Vulnerability / Artificial Intelligence",
         "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html"
+    },
+    {
+        "title": "Agentic AI is Already in Your Org. Here's How to Secure It [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-05-14",
+        "category": "Nudge SecuritySaaS Security / AI Security",
+        "link": "https://thehackernews.uk/nudge-agentic-security"
     },
     {
         "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html"
     },
     {
-        "title": "Shadow AI is Everywhere. Here's How You Can Find and Secure it [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-14",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/nudge-ai-visibility"
-    },
-    {
-        "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-        "source": "The Hacker News",
-        "time": "2026-05-14",
-        "category": "\ue802May 13, 2026Cloud Security / Automation",
-        "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html"
-    },
-    {
-        "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-        "source": "The Hacker News",
-        "time": "2026-05-14",
-        "category": "\ue802May 13, 2026Patch Tuesday / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-14",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+        "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
         "source": "The Hacker News",
         "time": "2026-05-14",
-        "category": "\ue802May 13, 2026Software Supply Chain / Data Exfiltration",
-        "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html"
+        "category": "\ue802May 13, 2026Cloud Security / Automation",
+        "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html"
     }
 ]
