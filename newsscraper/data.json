@@ -1,10 +1,31 @@
 [
     {
+        "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+        "source": "The Hacker News",
+        "time": "2026-05-15",
+        "category": "\ue802May 15, 2026Microsoft / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html"
+    },
+    {
+        "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+        "source": "The Hacker News",
+        "time": "2026-05-15",
+        "category": "\ue802May 15, 2026Vulnerability / Credential Theft",
+        "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html"
+    },
+    {
         "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
         "source": "The Hacker News",
         "time": "2026-05-15",
         "category": "\ue802May 14, 2026Vulnerability / Network Security",
         "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html"
+    },
+    {
+        "title": "Agentic AI is Already in Your Org. Here's How to Secure It [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-05-15",
+        "category": "Nudge SecuritySaaS Security / AI Security",
+        "link": "https://thehackernews.uk/nudge-agentic-security"
     },
     {
         "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html"
     },
     {
-        "title": "Agentic AI is Already in Your Org. Here's How to Secure It [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-15",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/nudge-agentic-security"
-    },
-    {
-        "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-        "source": "The Hacker News",
-        "time": "2026-05-15",
-        "category": "\ue802May 14, 2026Hacktivism / Data Theft",
-        "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html"
-    },
-    {
-        "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
-        "source": "The Hacker News",
-        "time": "2026-05-15",
-        "category": "\ue802May 14, 2026Vulnerability / API Security",
-        "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-15",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "How AI Hallucinations Are Creating Real Security Risks",
+        "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
         "source": "The Hacker News",
         "time": "2026-05-15",
-        "category": "\ue802May 14, 2026Artificial Intelligence / Identity Security",
-        "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html"
+        "category": "\ue802May 14, 2026Hacktivism / Data Theft",
+        "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html"
     }
 ]
