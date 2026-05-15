@@ -1,5 +1,12 @@
 [
     {
+        "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+        "source": "The Hacker News",
+        "time": "2026-05-15",
+        "category": "\ue802May 15, 2026Botnet / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
+    },
+    {
         "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
         "source": "The Hacker News",
         "time": "2026-05-15",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
     },
     {
-        "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-        "source": "The Hacker News",
-        "time": "2026-05-15",
-        "category": "\ue802May 15, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
-    },
-    {
         "title": "OAuth Review Checklist: 4 Steps to Assess Risk [Free Guide]",
         "source": "The Hacker News",
         "time": "2026-05-15",
         "category": "Nudge SecuritySaaS Security / AI Security",
         "link": "https://thehackernews.uk/oauth-mcp-guide"
+    },
+    {
+        "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+        "source": "The Hacker News",
+        "time": "2026-05-15",
+        "category": "\ue802May 15, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
     },
     {
         "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html"
     },
     {
-        "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-        "source": "The Hacker News",
-        "time": "2026-05-15",
-        "category": "\ue802May 15, 2026Vulnerability / Credential Theft",
-        "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-15",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+        "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
         "source": "The Hacker News",
         "time": "2026-05-15",
-        "category": "\ue802May 14, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html"
+        "category": "\ue802May 15, 2026Vulnerability / Credential Theft",
+        "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html"
     }
 ]
