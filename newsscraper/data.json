@@ -1,5 +1,12 @@
 [
     {
+        "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+        "source": "The Hacker News",
+        "time": "2026-05-17",
+        "category": "\ue802May 17, 2026Server Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html"
+    },
+    {
         "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
         "source": "The Hacker News",
         "time": "2026-05-17",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"
     },
     {
-        "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-        "source": "The Hacker News",
-        "time": "2026-05-17",
-        "category": "\ue802May 15, 2026Botnet / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
-    },
-    {
         "title": "Shadow AI is everywhere. Here\u2019s how you can find and secure it [Free Guide]",
         "source": "The Hacker News",
         "time": "2026-05-17",
         "category": "Nudge SecuritySaaS Security / AI Security",
         "link": "https://thehackernews.uk/nudge-ai-visibility"
+    },
+    {
+        "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+        "source": "The Hacker News",
+        "time": "2026-05-17",
+        "category": "\ue802May 15, 2026Botnet / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
     },
     {
         "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html"
     },
     {
-        "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-        "source": "The Hacker News",
-        "time": "2026-05-17",
-        "category": "\ue802May 15, 2026Endpoint Security / Threat Detection",
-        "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-17",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+        "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
         "source": "The Hacker News",
         "time": "2026-05-17",
-        "category": "\ue802May 15, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
+        "category": "\ue802May 15, 2026Endpoint Security / Threat Detection",
+        "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
     }
 ]
