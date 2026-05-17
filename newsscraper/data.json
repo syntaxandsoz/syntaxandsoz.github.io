@@ -1,5 +1,12 @@
 [
     {
+        "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+        "source": "The Hacker News",
+        "time": "2026-05-17",
+        "category": "\ue802May 17, 2026Data Breach / Cybercrime",
+        "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
+    },
+    {
         "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
         "source": "The Hacker News",
         "time": "2026-05-17",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
     },
     {
-        "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-        "source": "The Hacker News",
-        "time": "2026-05-17",
-        "category": "\ue802May 15, 2026Vulnerability / AI Security",
-        "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html"
-    },
-    {
         "title": "Shadow AI is everywhere. Here\u2019s how you can find and secure it [Free Guide]",
         "source": "The Hacker News",
         "time": "2026-05-17",
         "category": "Nudge SecuritySaaS Security / AI Security",
         "link": "https://thehackernews.uk/nudge-ai-visibility"
+    },
+    {
+        "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+        "source": "The Hacker News",
+        "time": "2026-05-17",
+        "category": "\ue802May 15, 2026Vulnerability / AI Security",
+        "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html"
     },
     {
         "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
     },
     {
-        "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-        "source": "The Hacker News",
-        "time": "2026-05-17",
-        "category": "\ue802May 15, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
-    },
-    {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
         "time": "2026-05-17",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
-        "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+        "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
         "source": "The Hacker News",
         "time": "2026-05-17",
-        "category": "\ue802May 15, 2026Microsoft / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html"
+        "category": "\ue802May 15, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
     }
 ]
