@@ -1,5 +1,12 @@
 [
     {
+        "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+        "source": "The Hacker News",
+        "time": "2026-05-18",
+        "category": "\ue802May 18, 2026Cybercrime / Malware",
+        "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html"
+    },
+    {
         "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
         "source": "The Hacker News",
         "time": "2026-05-18",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html"
     },
     {
+        "title": "Apply ML to Threat Detection and Threat Hunting \u2014 SANS SEC595, NYC, Aug 10",
+        "source": "The Hacker News",
+        "time": "2026-05-18",
+        "category": "SANS InstituteCybersecurity Training",
+        "link": "https://thehackernews.uk/sans-training-nyc"
+    },
+    {
         "title": "Developer Workstations Are Now Part of the Software Supply Chain",
         "source": "The Hacker News",
         "time": "2026-05-18",
         "category": "\ue802May 18, 2026Artificial Intelligence / Developer Security",
         "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html"
-    },
-    {
-        "title": "Agentic AI is already in your org. Here\u2019s how to secure it [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-18",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/nudge-agentic-security"
     },
     {
         "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html"
     },
     {
-        "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-        "source": "The Hacker News",
-        "time": "2026-05-18",
-        "category": "\ue802May 18, 2026Zero Day / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html"
-    },
-    {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
         "source": "The Hacker News",
         "time": "2026-05-18",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+        "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
         "source": "The Hacker News",
         "time": "2026-05-18",
-        "category": "\ue802May 18, 2026Supply Chain Attack / Botnet",
-        "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html"
+        "category": "\ue802May 18, 2026Zero Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html"
     }
 ]
