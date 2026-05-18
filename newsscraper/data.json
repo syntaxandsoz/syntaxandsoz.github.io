@@ -1,5 +1,33 @@
 [
     {
+        "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+        "source": "The Hacker News",
+        "time": "2026-05-18",
+        "category": "\ue802May 18, 2026Zero Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html"
+    },
+    {
+        "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+        "source": "The Hacker News",
+        "time": "2026-05-18",
+        "category": "\ue802May 18, 2026Supply Chain Attack / Botnet",
+        "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html"
+    },
+    {
+        "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+        "source": "The Hacker News",
+        "time": "2026-05-18",
+        "category": "\ue802May 18, 2026Industrial Sabotage / Malware",
+        "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html"
+    },
+    {
+        "title": "Agentic AI is already in your org. Here\u2019s how to secure it [Free Guide]",
+        "source": "The Hacker News",
+        "time": "2026-05-18",
+        "category": "Nudge SecuritySaaS Security / AI Security",
+        "link": "https://thehackernews.uk/nudge-agentic-security"
+    },
+    {
         "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
         "source": "The Hacker News",
         "time": "2026-05-18",
@@ -14,45 +42,17 @@
         "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
     },
     {
+        "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
+        "source": "The Hacker News",
+        "time": "2026-05-18",
+        "category": "Picus SecurityAutomated Pentesting / Exposure Validation",
+        "link": "https://thehackernews.uk/hidden-pentest-risks"
+    },
+    {
         "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
         "source": "The Hacker News",
         "time": "2026-05-18",
         "category": "\ue802May 16, 2026Vulnerability / Website Security",
         "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"
-    },
-    {
-        "title": "Agentic AI is already in your org. Here\u2019s how to secure it [Free Guide]",
-        "source": "The Hacker News",
-        "time": "2026-05-18",
-        "category": "Nudge SecuritySaaS Security / AI Security",
-        "link": "https://thehackernews.uk/nudge-agentic-security"
-    },
-    {
-        "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-        "source": "The Hacker News",
-        "time": "2026-05-18",
-        "category": "\ue802May 15, 2026Botnet / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
-    },
-    {
-        "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-        "source": "The Hacker News",
-        "time": "2026-05-18",
-        "category": "\ue802May 15, 2026Vulnerability / AI Security",
-        "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html"
-    },
-    {
-        "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
-        "source": "The Hacker News",
-        "time": "2026-05-18",
-        "category": "RecoAI Agent Security",
-        "link": "https://thehackernews.uk/apex-site-security"
-    },
-    {
-        "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-        "source": "The Hacker News",
-        "time": "2026-05-18",
-        "category": "\ue802May 15, 2026Endpoint Security / Threat Detection",
-        "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
     }
 ]
