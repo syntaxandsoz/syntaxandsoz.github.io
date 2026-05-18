@@ -2,56 +2,56 @@
     {
         "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "\ue802May 17, 2026Server Security / Vulnerability",
         "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html"
     },
     {
         "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "\ue802May 17, 2026Data Breach / Cybercrime",
         "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
     },
     {
         "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "\ue802May 16, 2026Vulnerability / Website Security",
         "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"
     },
     {
         "title": "Agentic AI is already in your org. Here\u2019s how to secure it [Free Guide]",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "Nudge SecuritySaaS Security / AI Security",
         "link": "https://thehackernews.uk/nudge-agentic-security"
     },
     {
         "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "\ue802May 15, 2026Botnet / Threat Intelligence",
         "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
     },
     {
         "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "\ue802May 15, 2026Vulnerability / AI Security",
         "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html"
     },
     {
         "title": "The Salesforce Aura Attack Surface Most Pentesters Miss",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "RecoAI Agent Security",
         "link": "https://thehackernews.uk/apex-site-security"
     },
     {
         "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
         "source": "The Hacker News",
-        "time": "2026-05-17",
+        "time": "2026-05-18",
         "category": "\ue802May 15, 2026Endpoint Security / Threat Detection",
         "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
     }
