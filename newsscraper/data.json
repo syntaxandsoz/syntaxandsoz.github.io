@@ -1,24 +1,24 @@
 [
     {
-        "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+        "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
         "source": "The Hacker News",
         "time": "2026-05-18",
-        "category": "\ue802May 18, 2026Zero Day / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html"
+        "category": "\ue802May 18, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html"
     },
     {
-        "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+        "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
         "source": "The Hacker News",
         "time": "2026-05-18",
-        "category": "\ue802May 18, 2026Supply Chain Attack / Botnet",
-        "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html"
+        "category": "\ue802May 18, 2026Threat Intelligence / Malware Analysis",
+        "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html"
     },
     {
-        "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+        "title": "Developer Workstations Are Now Part of the Software Supply Chain",
         "source": "The Hacker News",
         "time": "2026-05-18",
-        "category": "\ue802May 18, 2026Industrial Sabotage / Malware",
-        "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html"
+        "category": "\ue802May 18, 2026Artificial Intelligence / Developer Security",
+        "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html"
     },
     {
         "title": "Agentic AI is already in your org. Here\u2019s how to secure it [Free Guide]",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/nudge-agentic-security"
     },
     {
-        "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+        "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
         "source": "The Hacker News",
         "time": "2026-05-18",
-        "category": "\ue802May 17, 2026Server Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html"
+        "category": "\ue802May 18, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html"
     },
     {
-        "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+        "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
         "source": "The Hacker News",
         "time": "2026-05-18",
-        "category": "\ue802May 17, 2026Data Breach / Cybercrime",
-        "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
+        "category": "\ue802May 18, 2026Zero Day / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html"
     },
     {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+        "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
         "source": "The Hacker News",
         "time": "2026-05-18",
-        "category": "\ue802May 16, 2026Vulnerability / Website Security",
-        "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"
+        "category": "\ue802May 18, 2026Supply Chain Attack / Botnet",
+        "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html"
     }
 ]
