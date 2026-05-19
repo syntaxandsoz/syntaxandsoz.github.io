@@ -1,24 +1,24 @@
 [
     {
-        "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+        "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
         "source": "The Hacker News",
         "time": "2026-05-19",
-        "category": "\ue802May 18, 2026Cybercrime / Malware",
-        "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html"
+        "category": "\ue802May 19, 2026Vulnerability / Email Security",
+        "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+        "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
         "source": "The Hacker News",
         "time": "2026-05-19",
-        "category": "\ue802May 18, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html"
+        "category": "\ue802May 19, 2026Supply Chain Attack / Developer Security",
+        "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html"
     },
     {
-        "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+        "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
         "source": "The Hacker News",
         "time": "2026-05-19",
-        "category": "\ue802May 18, 2026Threat Intelligence / Malware Analysis",
-        "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html"
+        "category": "\ue802May 19, 2026Software Security / Malware",
+        "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html"
     },
     {
         "title": "Apply ML to Threat Detection and Threat Hunting \u2014 SANS SEC595, NYC, Aug 10",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sans-training-nyc"
     },
     {
-        "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+        "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
         "source": "The Hacker News",
         "time": "2026-05-19",
-        "category": "\ue802May 18, 2026Artificial Intelligence / Developer Security",
-        "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html"
+        "category": "\ue802May 19, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html"
     },
     {
-        "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+        "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
         "source": "The Hacker News",
         "time": "2026-05-19",
-        "category": "\ue802May 18, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html"
+        "category": "\ue802May 18, 2026Cybercrime / Malware",
+        "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html"
     },
     {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+        "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
         "source": "The Hacker News",
         "time": "2026-05-19",
-        "category": "\ue802May 18, 2026Zero Day / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html"
+        "category": "\ue802May 18, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html"
     }
 ]
