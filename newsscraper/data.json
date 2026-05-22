@@ -1,5 +1,33 @@
 [
     {
+        "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "\ue802May 22, 2026Cybercrime / Law Enforcement",
+        "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
+    },
+    {
+        "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "\ue802May 22, 2026Vulnerability / Cyber Attack",
+        "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
+    },
+    {
+        "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "\ue802May 22, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
+    },
+    {
+        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "SANS InstituteCybersecurity Training",
+        "link": "https://thehackernews.uk/sans-may-discount"
+    },
+    {
         "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
         "source": "The Hacker News",
         "time": "2026-05-22",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html"
     },
     {
-        "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Endpoint Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html"
-    },
-    {
-        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "SANS InstituteCybersecurity Training",
-        "link": "https://thehackernews.uk/sans-may-discount"
-    },
-    {
-        "title": "When Identity is the Attack Path",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Identity Security / AI Security",
-        "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html"
-    },
-    {
-        "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Linux / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
-    },
-    {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
         "source": "The Hacker News",
         "time": "2026-05-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+        "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
         "source": "The Hacker News",
         "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Supply Chain Attack / Developer Tools",
-        "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html"
+        "category": "\ue802May 21, 2026Endpoint Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html"
     }
 ]
