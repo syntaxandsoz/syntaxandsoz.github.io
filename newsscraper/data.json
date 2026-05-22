@@ -1,10 +1,31 @@
 [
     {
+        "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "\ue802May 22, 2026Cybercrime / Infrastructure",
+        "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"
+    },
+    {
+        "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "\ue802May 22, 2026Malware / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html"
+    },
+    {
         "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
         "source": "The Hacker News",
         "time": "2026-05-22",
         "category": "\ue802May 22, 2026Supply Chain Attack / Cloud Security",
         "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
+    },
+    {
+        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "SANS InstituteCybersecurity Training",
+        "link": "https://thehackernews.uk/sans-may-discount"
     },
     {
         "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
     },
     {
-        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "SANS InstituteCybersecurity Training",
-        "link": "https://thehackernews.uk/sans-may-discount"
-    },
-    {
-        "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "\ue802May 22, 2026Vulnerability / Cyber Attack",
-        "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
-    },
-    {
-        "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "\ue802May 22, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
-    },
-    {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
         "source": "The Hacker News",
         "time": "2026-05-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+        "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
         "source": "The Hacker News",
         "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html"
+        "category": "\ue802May 22, 2026Vulnerability / Cyber Attack",
+        "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
     }
 ]
