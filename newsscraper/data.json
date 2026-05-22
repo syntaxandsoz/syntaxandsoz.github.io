@@ -1,10 +1,31 @@
 [
     {
+        "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "\ue802May 22, 2026Supply Chain Attack / Cloud Security",
+        "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
+    },
+    {
+        "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "\ue802May 22, 2026Vulnerability / Driver Security",
+        "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html"
+    },
+    {
         "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
         "source": "The Hacker News",
         "time": "2026-05-22",
         "category": "\ue802May 22, 2026Cybercrime / Law Enforcement",
         "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
+    },
+    {
+        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
+        "source": "The Hacker News",
+        "time": "2026-05-22",
+        "category": "SANS InstituteCybersecurity Training",
+        "link": "https://thehackernews.uk/sans-may-discount"
     },
     {
         "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
     },
     {
-        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "SANS InstituteCybersecurity Training",
-        "link": "https://thehackernews.uk/sans-may-discount"
-    },
-    {
-        "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html"
-    },
-    {
-        "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-        "source": "The Hacker News",
-        "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html"
-    },
-    {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
         "source": "The Hacker News",
         "time": "2026-05-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+        "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
         "source": "The Hacker News",
         "time": "2026-05-22",
-        "category": "\ue802May 21, 2026Endpoint Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html"
+        "category": "\ue802May 21, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html"
     }
 ]
