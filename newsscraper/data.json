@@ -1,10 +1,31 @@
 [
     {
+        "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+        "source": "The Hacker News",
+        "time": "2026-05-23",
+        "category": "\ue802May 23, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
+    },
+    {
+        "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+        "source": "The Hacker News",
+        "time": "2026-05-23",
+        "category": "\ue802May 23, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
+    },
+    {
         "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
         "source": "The Hacker News",
         "time": "2026-05-23",
         "category": "\ue802May 23, 2026Vulnerability / Web Security",
         "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
+    },
+    {
+        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
+        "source": "The Hacker News",
+        "time": "2026-05-23",
+        "category": "SANS InstituteCybersecurity Training",
+        "link": "https://thehackernews.uk/sans-may-discount"
     },
     {
         "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"
     },
     {
-        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
-        "source": "The Hacker News",
-        "time": "2026-05-23",
-        "category": "SANS InstituteCybersecurity Training",
-        "link": "https://thehackernews.uk/sans-may-discount"
-    },
-    {
-        "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-        "source": "The Hacker News",
-        "time": "2026-05-23",
-        "category": "\ue802May 22, 2026Malware / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html"
-    },
-    {
-        "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-        "source": "The Hacker News",
-        "time": "2026-05-23",
-        "category": "\ue802May 22, 2026Supply Chain Attack / Cloud Security",
-        "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
-    },
-    {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
         "source": "The Hacker News",
         "time": "2026-05-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+        "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
         "source": "The Hacker News",
         "time": "2026-05-23",
-        "category": "\ue802May 22, 2026Vulnerability / Driver Security",
-        "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html"
+        "category": "\ue802May 22, 2026Malware / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html"
     }
 ]
