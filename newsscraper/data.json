@@ -1,10 +1,31 @@
 [
     {
+        "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+        "source": "The Hacker News",
+        "time": "2026-05-23",
+        "category": "\ue802May 23, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
+    },
+    {
+        "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+        "source": "The Hacker News",
+        "time": "2026-05-23",
+        "category": "\ue802May 23, 2026Vulnerability / Website Security",
+        "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html"
+    },
+    {
         "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
         "source": "The Hacker News",
         "time": "2026-05-23",
         "category": "\ue802May 22, 2026Cybercrime / Infrastructure",
         "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"
+    },
+    {
+        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
+        "source": "The Hacker News",
+        "time": "2026-05-23",
+        "category": "SANS InstituteCybersecurity Training",
+        "link": "https://thehackernews.uk/sans-may-discount"
     },
     {
         "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
     },
     {
-        "title": "Military Appreciation Month: 10% Off SANS Cybersecurity Training",
-        "source": "The Hacker News",
-        "time": "2026-05-23",
-        "category": "SANS InstituteCybersecurity Training",
-        "link": "https://thehackernews.uk/sans-may-discount"
-    },
-    {
-        "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-        "source": "The Hacker News",
-        "time": "2026-05-23",
-        "category": "\ue802May 22, 2026Vulnerability / Driver Security",
-        "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html"
-    },
-    {
-        "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-        "source": "The Hacker News",
-        "time": "2026-05-23",
-        "category": "\ue802May 22, 2026Cybercrime / Law Enforcement",
-        "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html"
-    },
-    {
         "title": "The Validation Gap: What Automated Pentesting Alone Cannot See",
         "source": "The Hacker News",
         "time": "2026-05-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/hidden-pentest-risks"
     },
     {
-        "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+        "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
         "source": "The Hacker News",
         "time": "2026-05-23",
-        "category": "\ue802May 22, 2026Vulnerability / Cyber Attack",
-        "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
+        "category": "\ue802May 22, 2026Vulnerability / Driver Security",
+        "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html"
     }
 ]
