@@ -1,5 +1,33 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+        "source": "The Hacker News",
+        "time": "2026-05-25",
+        "category": "\ue802May 25, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html"
+    },
+    {
+        "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+        "source": "The Hacker News",
+        "time": "2026-05-25",
+        "category": "\ue802May 25, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html"
+    },
+    {
+        "title": "The Alert Firehose Finally Meets Its Match",
+        "source": "The Hacker News",
+        "time": "2026-05-25",
+        "category": "\ue802May 25, 2026Agentic AI / Threat Detection",
+        "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html"
+    },
+    {
+        "title": "Securing AI Use Within Your Organization Starts Here",
+        "source": "The Hacker News",
+        "time": "2026-05-25",
+        "category": "SANS InstituteAI Security",
+        "link": "https://thehackernews.uk/sans-maturity-ebook"
+    },
+    {
         "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
         "source": "The Hacker News",
         "time": "2026-05-25",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html"
     },
     {
-        "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-        "source": "The Hacker News",
-        "time": "2026-05-25",
-        "category": "\ue802May 23, 2026Software Supply Chain / DevSecOps",
-        "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
-    },
-    {
-        "title": "Securing AI Use Within Your Organization Starts Here",
-        "source": "The Hacker News",
-        "time": "2026-05-25",
-        "category": "SANS InstituteAI Security",
-        "link": "https://thehackernews.uk/sans-maturity-ebook"
-    },
-    {
-        "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-        "source": "The Hacker News",
-        "time": "2026-05-25",
-        "category": "\ue802May 23, 2026Malware / DevSecOps",
-        "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html"
-    },
-    {
-        "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-        "source": "The Hacker News",
-        "time": "2026-05-25",
-        "category": "\ue802May 23, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
-    },
-    {
         "title": "Surviving the Mythos Era: Transitioning to Continuous Exposure Management",
         "source": "The Hacker News",
         "time": "2026-05-25",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/mythos-exposure-talk"
     },
     {
-        "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+        "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
         "source": "The Hacker News",
         "time": "2026-05-25",
-        "category": "\ue802May 23, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
+        "category": "\ue802May 23, 2026Software Supply Chain / DevSecOps",
+        "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
     }
 ]
