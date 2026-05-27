@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+        "source": "The Hacker News",
+        "time": "2026-05-27",
+        "category": "\ue802May 27, 2026Artificial Intelligence / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html"
+    },
+    {
         "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
         "source": "The Hacker News",
         "time": "2026-05-27",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html"
     },
     {
-        "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-        "source": "The Hacker News",
-        "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html"
-    },
-    {
         "title": "Securing AI Use Within Your Organization Starts Here",
         "source": "The Hacker News",
         "time": "2026-05-27",
         "category": "SANS InstituteAI Security",
         "link": "https://thehackernews.uk/sans-maturity-ebook"
+    },
+    {
+        "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+        "source": "The Hacker News",
+        "time": "2026-05-27",
+        "category": "\ue802May 26, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html"
     },
     {
         "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html"
     },
     {
-        "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-        "source": "The Hacker News",
-        "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Artificial Intelligence / Cloud Security,",
-        "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html"
-    },
-    {
         "title": "Surviving the Mythos Era: Transitioning to Continuous Exposure Management",
         "source": "The Hacker News",
         "time": "2026-05-27",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/mythos-exposure-talk"
     },
     {
-        "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+        "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Cyber Espionage / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html"
+        "category": "\ue802May 26, 2026Artificial Intelligence / Cloud Security,",
+        "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html"
     }
 ]
