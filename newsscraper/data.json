@@ -1,24 +1,24 @@
 [
     {
-        "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+        "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 27, 2026Artificial Intelligence / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html"
+        "category": "\ue802May 27, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html"
     },
     {
-        "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+        "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html"
+        "category": "\ue802May 27, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html"
     },
     {
-        "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+        "title": "3 SOC Steps that Shut Down Incident Risks Early",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Web Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html"
+        "category": "\ue802May 27, 2026Threat Intelligence / Incident Response",
+        "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html"
     },
     {
         "title": "Securing AI Use Within Your Organization Starts Here",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sans-maturity-ebook"
     },
     {
-        "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+        "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html"
+        "category": "\ue802May 27, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
     },
     {
-        "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+        "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Password Security / Social Engineering",
-        "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html"
+        "category": "\ue802May 27, 2026Artificial Intelligence / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html"
     },
     {
         "title": "Surviving the Mythos Era: Transitioning to Continuous Exposure Management",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/mythos-exposure-talk"
     },
     {
-        "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+        "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Artificial Intelligence / Cloud Security,",
-        "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html"
+        "category": "\ue802May 26, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html"
     }
 ]
