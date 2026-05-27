@@ -1,10 +1,31 @@
 [
     {
+        "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+        "source": "The Hacker News",
+        "time": "2026-05-27",
+        "category": "\ue802May 27, 2026Financial Fraud / Malware",
+        "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
+    },
+    {
+        "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+        "source": "The Hacker News",
+        "time": "2026-05-27",
+        "category": "\ue802May 27, 2026Threat Intelligence / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html"
+    },
+    {
         "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
         "source": "The Hacker News",
         "time": "2026-05-27",
         "category": "\ue802May 27, 2026Artificial Intelligence / Enterprise Security",
         "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html"
+    },
+    {
+        "title": "Securing AI Use Within Your Organization Starts Here",
+        "source": "The Hacker News",
+        "time": "2026-05-27",
+        "category": "SANS InstituteAI Security",
+        "link": "https://thehackernews.uk/sans-maturity-ebook"
     },
     {
         "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html"
     },
     {
-        "title": "Securing AI Use Within Your Organization Starts Here",
-        "source": "The Hacker News",
-        "time": "2026-05-27",
-        "category": "SANS InstituteAI Security",
-        "link": "https://thehackernews.uk/sans-maturity-ebook"
-    },
-    {
-        "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-        "source": "The Hacker News",
-        "time": "2026-05-27",
-        "category": "\ue802May 27, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
-    },
-    {
-        "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-        "source": "The Hacker News",
-        "time": "2026-05-27",
-        "category": "\ue802May 27, 2026Artificial Intelligence / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html"
-    },
-    {
         "title": "Surviving the Mythos Era: Transitioning to Continuous Exposure Management",
         "source": "The Hacker News",
         "time": "2026-05-27",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/mythos-exposure-talk"
     },
     {
-        "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+        "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
         "source": "The Hacker News",
         "time": "2026-05-27",
-        "category": "\ue802May 26, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html"
+        "category": "\ue802May 27, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
     }
 ]
