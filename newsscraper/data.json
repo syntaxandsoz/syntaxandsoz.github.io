@@ -1,24 +1,24 @@
 [
     {
-        "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+        "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 28, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
+        "category": "\ue802May 28, 2026Vulnerability / Endpoint Security",
+        "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
     },
     {
-        "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+        "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Financial Fraud / Malware",
-        "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
+        "category": "\ue802May 28, 2026Zero Day / Vulnerability Disclosure",
+        "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html"
     },
     {
-        "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+        "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Threat Intelligence / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html"
+        "category": "\ue802May 28, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html"
     },
     {
         "title": "Securing AI Use Within Your Organization Starts Here",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sans-maturity-ebook"
     },
     {
-        "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+        "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html"
+        "category": "\ue802May 28, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html"
     },
     {
-        "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+        "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html"
+        "category": "\ue802May 28, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
     },
     {
         "title": "Surviving the Mythos Era: Transitioning to Continuous Exposure Management",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/mythos-exposure-talk"
     },
     {
-        "title": "3 SOC Steps that Shut Down Incident Risks Early",
+        "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Threat Intelligence / Incident Response",
-        "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html"
+        "category": "\ue802May 27, 2026Financial Fraud / Malware",
+        "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
     }
 ]
