@@ -1,5 +1,12 @@
 [
     {
+        "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+        "source": "The Hacker News",
+        "time": "2026-05-28",
+        "category": "\ue802May 28, 2026Vulnerability / Open Source",
+        "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
+    },
+    {
         "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
         "source": "The Hacker News",
         "time": "2026-05-28",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html"
     },
     {
-        "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-        "source": "The Hacker News",
-        "time": "2026-05-28",
-        "category": "\ue802May 28, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html"
-    },
-    {
         "title": "Securing AI Use Within Your Organization Starts Here",
         "source": "The Hacker News",
         "time": "2026-05-28",
         "category": "SANS InstituteAI Security",
         "link": "https://thehackernews.uk/sans-maturity-ebook"
+    },
+    {
+        "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+        "source": "The Hacker News",
+        "time": "2026-05-28",
+        "category": "\ue802May 28, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html"
     },
     {
         "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html"
     },
     {
-        "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-        "source": "The Hacker News",
-        "time": "2026-05-28",
-        "category": "\ue802May 28, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
-    },
-    {
         "title": "Surviving the Mythos Era: Transitioning to Continuous Exposure Management",
         "source": "The Hacker News",
         "time": "2026-05-28",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/mythos-exposure-talk"
     },
     {
-        "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+        "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Financial Fraud / Malware",
-        "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
+        "category": "\ue802May 28, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
     }
 ]
