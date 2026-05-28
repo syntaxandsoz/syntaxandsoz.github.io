@@ -1,5 +1,12 @@
 [
     {
+        "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+        "source": "The Hacker News",
+        "time": "2026-05-28",
+        "category": "\ue802May 28, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
+    },
+    {
         "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
         "source": "The Hacker News",
         "time": "2026-05-28",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html"
     },
     {
-        "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-        "source": "The Hacker News",
-        "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Artificial Intelligence / Enterprise Security",
-        "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html"
-    },
-    {
         "title": "Securing AI Use Within Your Organization Starts Here",
         "source": "The Hacker News",
         "time": "2026-05-28",
         "category": "SANS InstituteAI Security",
         "link": "https://thehackernews.uk/sans-maturity-ebook"
+    },
+    {
+        "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+        "source": "The Hacker News",
+        "time": "2026-05-28",
+        "category": "\ue802May 27, 2026Artificial Intelligence / Enterprise Security",
+        "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html"
     },
     {
         "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html"
     },
     {
-        "title": "3 SOC Steps that Shut Down Incident Risks Early",
-        "source": "The Hacker News",
-        "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Threat Intelligence / Incident Response",
-        "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html"
-    },
-    {
         "title": "Surviving the Mythos Era: Transitioning to Continuous Exposure Management",
         "source": "The Hacker News",
         "time": "2026-05-28",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/mythos-exposure-talk"
     },
     {
-        "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+        "title": "3 SOC Steps that Shut Down Incident Risks Early",
         "source": "The Hacker News",
         "time": "2026-05-28",
-        "category": "\ue802May 27, 2026Vulnerability / Software Security",
-        "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
+        "category": "\ue802May 27, 2026Threat Intelligence / Incident Response",
+        "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html"
     }
 ]
