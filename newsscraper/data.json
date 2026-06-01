@@ -1,5 +1,33 @@
 [
     {
+        "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+        "source": "The Hacker News",
+        "time": "2026-06-01",
+        "category": "\ue802Jun 01, 2026Supply Chain Attack / Software Security",
+        "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html"
+    },
+    {
+        "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+        "source": "The Hacker News",
+        "time": "2026-06-01",
+        "category": "\ue802Jun 01, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
+    },
+    {
+        "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+        "source": "The Hacker News",
+        "time": "2026-06-01",
+        "category": "\ue802Jun 01, 2026Endpoint Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
+    },
+    {
+        "title": "5 Defaults Mythos-Class AI Finds in Every Enterprise Environment",
+        "source": "The Hacker News",
+        "time": "2026-06-01",
+        "category": "RecoAI Agent Security",
+        "link": "https://thehackernews.uk/mythos-ai-finds"
+    },
+    {
         "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
         "source": "The Hacker News",
         "time": "2026-06-01",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html"
     },
     {
-        "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-        "source": "The Hacker News",
-        "time": "2026-06-01",
-        "category": "\ue802Jun 01, 2026Vulnerability / Website Security,",
-        "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"
-    },
-    {
-        "title": "5 Defaults Mythos-Class AI Finds in Every Enterprise Environment",
-        "source": "The Hacker News",
-        "time": "2026-06-01",
-        "category": "RecoAI Agent Security",
-        "link": "https://thehackernews.uk/mythos-ai-finds"
-    },
-    {
-        "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-        "source": "The Hacker News",
-        "time": "2026-06-01",
-        "category": "\ue802May 31, 2026IoT Security / Network Security",
-        "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html"
-    },
-    {
-        "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-        "source": "The Hacker News",
-        "time": "2026-06-01",
-        "category": "\ue802May 30, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html"
-    },
-    {
         "title": "Gartner: 70% of SOCs Will Pilot AI Agents. Only 15% Will See Results",
         "source": "The Hacker News",
         "time": "2026-06-01",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/gartner-ai-report"
     },
     {
-        "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+        "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
         "source": "The Hacker News",
         "time": "2026-06-01",
-        "category": "\ue802May 29, 2026Artificial Intelligence / Vulnerability Research",
-        "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html"
+        "category": "\ue802Jun 01, 2026Vulnerability / Website Security,",
+        "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"
     }
 ]
