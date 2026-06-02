@@ -1,5 +1,33 @@
 [
     {
+        "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+        "source": "The Hacker News",
+        "time": "2026-06-02",
+        "category": "\ue802Jun 02, 2026Vulnerability / Mobile Security",
+        "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"
+    },
+    {
+        "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+        "source": "The Hacker News",
+        "time": "2026-06-02",
+        "category": "\ue802Jun 02, 2026Threat Intelligence / Malware",
+        "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"
+    },
+    {
+        "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+        "source": "The Hacker News",
+        "time": "2026-06-02",
+        "category": "\ue802Jun 02, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html"
+    },
+    {
+        "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
+        "source": "The Hacker News",
+        "time": "2026-06-02",
+        "category": "RecoAI Agent Security",
+        "link": "https://thehackernews.uk/ai-vendor-evaluation"
+    },
+    {
         "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
         "source": "The Hacker News",
         "time": "2026-06-02",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html"
     },
     {
-        "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-        "source": "The Hacker News",
-        "time": "2026-06-02",
-        "category": "\ue802Jun 02, 2026Cyber Espionage / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html"
-    },
-    {
-        "title": "5 Defaults Mythos-Class AI Finds in Every Enterprise Environment",
-        "source": "The Hacker News",
-        "time": "2026-06-02",
-        "category": "RecoAI Agent Security",
-        "link": "https://thehackernews.uk/mythos-ai-finds"
-    },
-    {
-        "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-        "source": "The Hacker News",
-        "time": "2026-06-02",
-        "category": "\ue802Jun 02, 2026Identity Security / Data Protection",
-        "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html"
-    },
-    {
-        "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-        "source": "The Hacker News",
-        "time": "2026-06-02",
-        "category": "\ue802Jun 01, 2026Supply Chain Attack / Software Security",
-        "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html"
-    },
-    {
         "title": "Gartner: 70% of SOCs Will Pilot AI Agents. Only 15% Will See Results",
         "source": "The Hacker News",
         "time": "2026-06-02",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/gartner-ai-report"
     },
     {
-        "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+        "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
         "source": "The Hacker News",
         "time": "2026-06-02",
-        "category": "\ue802Jun 01, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
+        "category": "\ue802Jun 02, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html"
     }
 ]
