@@ -1,10 +1,31 @@
 [
     {
+        "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
+        "source": "The Hacker News",
+        "time": "2026-06-02",
+        "category": "\ue802Jun 02, 2026Vulnerability Management / Enterprise Security",
+        "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html"
+    },
+    {
+        "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+        "source": "The Hacker News",
+        "time": "2026-06-02",
+        "category": "\ue802Jun 02, 2026Security Operations / Cyber Resilience",
+        "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html"
+    },
+    {
         "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
         "source": "The Hacker News",
         "time": "2026-06-02",
         "category": "\ue802Jun 02, 2026Cyber Espionage / Threat Intelligence",
         "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html"
+    },
+    {
+        "title": "5 Defaults Mythos-Class AI Finds in Every Enterprise Environment",
+        "source": "The Hacker News",
+        "time": "2026-06-02",
+        "category": "RecoAI Agent Security",
+        "link": "https://thehackernews.uk/mythos-ai-finds"
     },
     {
         "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html"
     },
     {
-        "title": "5 Defaults Mythos-Class AI Finds in Every Enterprise Environment",
-        "source": "The Hacker News",
-        "time": "2026-06-02",
-        "category": "RecoAI Agent Security",
-        "link": "https://thehackernews.uk/mythos-ai-finds"
-    },
-    {
-        "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-        "source": "The Hacker News",
-        "time": "2026-06-02",
-        "category": "\ue802Jun 01, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
-    },
-    {
-        "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-        "source": "The Hacker News",
-        "time": "2026-06-02",
-        "category": "\ue802Jun 01, 2026Endpoint Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
-    },
-    {
         "title": "Gartner: 70% of SOCs Will Pilot AI Agents. Only 15% Will See Results",
         "source": "The Hacker News",
         "time": "2026-06-02",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/gartner-ai-report"
     },
     {
-        "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+        "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
         "source": "The Hacker News",
         "time": "2026-06-02",
-        "category": "\ue802Jun 01, 2026Security Automation / SMB Security",
-        "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html"
+        "category": "\ue802Jun 01, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html"
     }
 ]
