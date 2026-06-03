@@ -1,24 +1,24 @@
 [
     {
-        "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+        "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
         "source": "The Hacker News",
         "time": "2026-06-03",
-        "category": "\ue802Jun 03, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html"
+        "category": "\ue802Jun 03, 2026Malware / Microsoft Defender",
+        "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html"
     },
     {
-        "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+        "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
         "source": "The Hacker News",
         "time": "2026-06-03",
-        "category": "\ue802Jun 03, 2026Vulnerability / Server Security",
-        "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html"
+        "category": "\ue802Jun 03, 2026Exposure Management",
+        "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html"
     },
     {
-        "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+        "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
         "source": "The Hacker News",
         "time": "2026-06-03",
-        "category": "\ue802Jun 03, 2026Cryptocurrency / SEO Poisoning",
-        "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html"
+        "category": "\ue802Jun 03, 2026Vulnerability / Mobile Security",
+        "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html"
     },
     {
         "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/ai-vendor-evaluation"
     },
     {
-        "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+        "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
         "source": "The Hacker News",
         "time": "2026-06-03",
-        "category": "\ue802Jun 02, 2026Vulnerability / Mobile Security",
-        "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"
+        "category": "\ue802Jun 03, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html"
     },
     {
-        "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+        "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
         "source": "The Hacker News",
         "time": "2026-06-03",
-        "category": "\ue802Jun 02, 2026Threat Intelligence / Malware",
-        "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"
+        "category": "\ue802Jun 03, 2026Vulnerability / Software Development",
+        "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html"
     },
     {
         "title": "Gartner: 70% of SOCs Will Pilot AI Agents. Only 15% Will See Results",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/gartner-ai-report"
     },
     {
-        "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+        "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
         "source": "The Hacker News",
         "time": "2026-06-03",
-        "category": "\ue802Jun 02, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html"
+        "category": "\ue802Jun 03, 2026Enterprise Security / AI Agents",
+        "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html"
     }
 ]
