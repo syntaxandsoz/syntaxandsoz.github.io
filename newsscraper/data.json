@@ -1,24 +1,24 @@
 [
     {
-        "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+        "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 03, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html"
+        "category": "\ue802Jun 04, 2026Malware / Open Source",
+        "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html"
     },
     {
-        "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+        "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 03, 2026Malware / Microsoft Defender",
-        "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html"
+        "category": "\ue802Jun 04, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html"
     },
     {
-        "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+        "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 03, 2026Exposure Management",
-        "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html"
+        "category": "\ue802Jun 04, 2026Web Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html"
     },
     {
         "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/ai-vendor-evaluation"
     },
     {
-        "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+        "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 03, 2026Vulnerability / Mobile Security",
-        "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html"
+        "category": "\ue802Jun 04, 2026Cryptocurrency / Law Enforcement",
+        "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html"
     },
     {
-        "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+        "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 03, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html"
+        "category": "\ue802Jun 03, 2026Vulnerability / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html"
     },
     {
         "title": "Gartner: 70% of SOCs Will Pilot AI Agents. Only 15% Will See Results",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/gartner-ai-report"
     },
     {
-        "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+        "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 03, 2026Vulnerability / Software Development",
-        "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html"
+        "category": "\ue802Jun 03, 2026Malware / Microsoft Defender",
+        "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html"
     }
 ]
