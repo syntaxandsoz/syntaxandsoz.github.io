@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+        "source": "The Hacker News",
+        "time": "2026-06-04",
+        "category": "\ue802Jun 04, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
+    },
+    {
         "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
         "source": "The Hacker News",
         "time": "2026-06-04",
@@ -7,18 +14,11 @@
         "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html"
     },
     {
-        "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
+        "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 04, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html"
-    },
-    {
-        "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
-        "source": "The Hacker News",
-        "time": "2026-06-04",
-        "category": "\ue802Jun 04, 2026Malware / Cybercrime",
-        "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html"
+        "category": "\ue802Jun 04, 2026Artificial Intelligence / Defense Technology",
+        "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html"
     },
     {
         "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/ai-vendor-evaluation"
     },
     {
-        "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
+        "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 04, 2026Malvertising / Browser Security",
-        "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html"
+        "category": "\ue802Jun 04, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html"
     },
     {
-        "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+        "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 04, 2026Malware / Open Source",
-        "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html"
+        "category": "\ue802Jun 04, 2026Malware / Cybercrime",
+        "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html"
     },
     {
         "title": "Gartner: 70% of SOCs Will Pilot AI Agents. Only 15% Will See Results",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/gartner-ai-report"
     },
     {
-        "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+        "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
         "source": "The Hacker News",
         "time": "2026-06-04",
-        "category": "\ue802Jun 04, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html"
+        "category": "\ue802Jun 04, 2026Malvertising / Browser Security",
+        "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html"
     }
 ]
