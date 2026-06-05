@@ -1,10 +1,31 @@
 [
     {
+        "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+        "source": "The Hacker News",
+        "time": "2026-06-05",
+        "category": "\ue802Jun 05, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html"
+    },
+    {
+        "title": "Only 10% of SOCs Say They\u2019re Getting Excellent Value From AI. Here\u2019s What the Second Wave Has to Deliver",
+        "source": "The Hacker News",
+        "time": "2026-06-05",
+        "category": "\ue802Jun 05, 2026Security Operations / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html"
+    },
+    {
         "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
         "source": "The Hacker News",
         "time": "2026-06-05",
         "category": "\ue802Jun 05, 2026Web Security / Vulnerability",
         "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html"
+    },
+    {
+        "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
+        "source": "The Hacker News",
+        "time": "2026-06-05",
+        "category": "RecoAI Agent Security",
+        "link": "https://thehackernews.uk/ai-vendor-evaluation"
     },
     {
         "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html"
     },
     {
-        "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
-        "source": "The Hacker News",
-        "time": "2026-06-05",
-        "category": "RecoAI Agent Security",
-        "link": "https://thehackernews.uk/ai-vendor-evaluation"
-    },
-    {
-        "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
-        "source": "The Hacker News",
-        "time": "2026-06-05",
-        "category": "\ue802Jun 04, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
-    },
-    {
-        "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-        "source": "The Hacker News",
-        "time": "2026-06-05",
-        "category": "\ue802Jun 04, 2026Vulnerability / AI Security",
-        "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html"
-    },
-    {
         "title": "Gartner: 70% of SOCs Will Pilot AI Agents. Only 15% Will See Results",
         "source": "The Hacker News",
         "time": "2026-06-05",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/gartner-ai-report"
     },
     {
-        "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+        "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
         "source": "The Hacker News",
         "time": "2026-06-05",
-        "category": "\ue802Jun 04, 2026Artificial Intelligence / Defense Technology",
-        "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html"
+        "category": "\ue802Jun 04, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
     }
 ]
