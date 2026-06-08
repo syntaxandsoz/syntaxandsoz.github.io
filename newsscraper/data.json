@@ -1,24 +1,24 @@
 [
     {
-        "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+        "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
         "source": "The Hacker News",
         "time": "2026-06-08",
-        "category": "\ue802Jun 08, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html"
+        "category": "\ue802Jun 08, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html"
     },
     {
-        "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+        "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
         "source": "The Hacker News",
         "time": "2026-06-08",
-        "category": "\ue802Jun 08, 2026Social Engineering / Cyber Crime",
-        "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html"
+        "category": "\ue802Jun 08, 2026Incident Response / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
     },
     {
-        "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+        "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
         "source": "The Hacker News",
         "time": "2026-06-08",
-        "category": "\ue802Jun 08, 2026Software Supply Chain / Malware",
-        "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html"
+        "category": "\ue802Jun 08, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html"
     },
     {
         "title": "State of AI in the Cloud 2026: How AI is Reshaping Cloud Attack Surface",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-ai-reshaping"
     },
     {
-        "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+        "title": "The Hardest Fork",
         "source": "The Hacker News",
         "time": "2026-06-08",
-        "category": "\ue802Jun 06, 2026Cybersecurity / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"
+        "category": "\ue802Jun 08, 2026Open Source / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/06/the-hardest-fork.html"
     },
     {
-        "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+        "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
         "source": "The Hacker News",
         "time": "2026-06-08",
-        "category": "\ue802Jun 06, 2026Network Security / IoT Security",
-        "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html"
+        "category": "\ue802Jun 08, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+        "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
         "source": "The Hacker News",
         "time": "2026-06-08",
-        "category": "\ue802Jun 06, 2026Vulnerability / Patch Management",
-        "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html"
+        "category": "\ue802Jun 08, 2026Social Engineering / Cyber Crime",
+        "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html"
     }
 ]
