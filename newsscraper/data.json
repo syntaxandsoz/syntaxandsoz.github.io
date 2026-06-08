@@ -1,10 +1,31 @@
 [
     {
+        "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "\ue802Jun 08, 2026Linux / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+    },
+    {
+        "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "\ue802Jun 08, 2026Spyware / Mobile Security",
+        "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html"
+    },
+    {
         "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
         "source": "The Hacker News",
         "time": "2026-06-08",
         "category": "\ue802Jun 08, 2026Vulnerability / Network Security",
         "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html"
+    },
+    {
+        "title": "State of AI in the Cloud 2026: How AI is Reshaping Cloud Attack Surface",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-ai-reshaping"
     },
     {
         "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html"
     },
     {
-        "title": "State of AI in the Cloud 2026: How AI is Reshaping Cloud Attack Surface",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-ai-reshaping"
-    },
-    {
-        "title": "The Hardest Fork",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "\ue802Jun 08, 2026Open Source / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/the-hardest-fork.html"
-    },
-    {
-        "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "\ue802Jun 08, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-08",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+        "title": "The Hardest Fork",
         "source": "The Hacker News",
         "time": "2026-06-08",
-        "category": "\ue802Jun 08, 2026Social Engineering / Cyber Crime",
-        "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html"
+        "category": "\ue802Jun 08, 2026Open Source / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/06/the-hardest-fork.html"
     }
 ]
