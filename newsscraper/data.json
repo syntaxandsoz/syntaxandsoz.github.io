@@ -1,5 +1,33 @@
 [
     {
+        "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "\ue802Jun 08, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html"
+    },
+    {
+        "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "\ue802Jun 08, 2026Social Engineering / Cyber Crime",
+        "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html"
+    },
+    {
+        "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "\ue802Jun 08, 2026Software Supply Chain / Malware",
+        "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html"
+    },
+    {
+        "title": "State of AI in the Cloud 2026: How AI is Reshaping Cloud Attack Surface",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/cloud-ai-reshaping"
+    },
+    {
         "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
         "source": "The Hacker News",
         "time": "2026-06-08",
@@ -14,45 +42,17 @@
         "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html"
     },
     {
+        "title": "Free Assessment: Identify Hidden Internal Risk",
+        "source": "The Hacker News",
+        "time": "2026-06-08",
+        "category": "BitdefenderAttack Surface / Threat Detection",
+        "link": "https://thehackernews.uk/bitdefender-attack-surface"
+    },
+    {
         "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
         "source": "The Hacker News",
         "time": "2026-06-08",
         "category": "\ue802Jun 06, 2026Vulnerability / Patch Management",
         "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html"
-    },
-    {
-        "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "RecoAI Agent Security",
-        "link": "https://thehackernews.uk/ai-vendor-evaluation"
-    },
-    {
-        "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "\ue802Jun 06, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html"
-    },
-    {
-        "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "\ue802Jun 06, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
-    },
-    {
-        "title": "Facebook Phishing Email Campaign: How Attackers Weaponize Meta Business Manager",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "Prophet SecurityAI Security",
-        "link": "https://thehackernews.uk/facebook-phishing-prophet"
-    },
-    {
-        "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited \u2013 No Patch Available",
-        "source": "The Hacker News",
-        "time": "2026-06-08",
-        "category": "\ue802Jun 06, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html"
     }
 ]
