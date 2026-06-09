@@ -1,24 +1,24 @@
 [
     {
-        "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+        "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
         "source": "The Hacker News",
         "time": "2026-06-09",
-        "category": "\ue802Jun 09, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html"
+        "category": "\ue802Jun 09, 2026Vulnerability / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html"
     },
     {
-        "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+        "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
         "source": "The Hacker News",
         "time": "2026-06-09",
-        "category": "\ue802Jun 09, 2026Vulnerability / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html"
+        "category": "\ue802Jun 09, 2026Artificial Intelligence / Network Security",
+        "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html"
     },
     {
-        "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+        "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
         "source": "The Hacker News",
         "time": "2026-06-09",
-        "category": "\ue802Jun 08, 2026Linux / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+        "category": "\ue802Jun 09, 2026Vulnerability / Browser Security",
+        "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html"
     },
     {
         "title": "State of AI in the Cloud 2026: How AI is Reshaping Cloud Attack Surface",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/cloud-ai-reshaping"
     },
     {
-        "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+        "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
         "source": "The Hacker News",
         "time": "2026-06-09",
-        "category": "\ue802Jun 08, 2026Spyware / Mobile Security",
-        "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html"
+        "category": "\ue802Jun 09, 2026Artificial Intelligence / Security Automation",
+        "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html"
     },
     {
-        "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+        "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
         "source": "The Hacker News",
         "time": "2026-06-09",
-        "category": "\ue802Jun 08, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html"
+        "category": "\ue802Jun 09, 2026Browser Security / Privacy",
+        "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+        "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
         "source": "The Hacker News",
         "time": "2026-06-09",
-        "category": "\ue802Jun 08, 2026Incident Response / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
+        "category": "\ue802Jun 09, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html"
     }
 ]
