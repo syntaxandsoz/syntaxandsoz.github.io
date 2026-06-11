@@ -1,10 +1,31 @@
 [
     {
+        "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+        "source": "The Hacker News",
+        "time": "2026-06-11",
+        "category": "\ue802Jun 11, 2026Supply Chain Attack / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html"
+    },
+    {
+        "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+        "source": "The Hacker News",
+        "time": "2026-06-11",
+        "category": "\ue802Jun 11, 2026Developer Security / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html"
+    },
+    {
         "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
         "source": "The Hacker News",
         "time": "2026-06-11",
         "category": "\ue802Jun 10, 2026Botnet / Network Security",
         "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html"
+    },
+    {
+        "title": "State of SDLC Report 2026",
+        "source": "The Hacker News",
+        "time": "2026-06-11",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/sdlc-security-report-2026"
     },
     {
         "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html"
     },
     {
-        "title": "State of AI in the Cloud 2026: How AI is Reshaping Cloud Attack Surface",
-        "source": "The Hacker News",
-        "time": "2026-06-11",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/cloud-ai-reshaping"
-    },
-    {
-        "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
-        "source": "The Hacker News",
-        "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html"
-    },
-    {
-        "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
-        "source": "The Hacker News",
-        "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Pentesting / Security Validation",
-        "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
+        "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Vulnerability / Zero-Day",
-        "link": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html"
+        "category": "\ue802Jun 10, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html"
     }
 ]
