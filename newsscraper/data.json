@@ -1,5 +1,33 @@
 [
     {
+        "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+        "source": "The Hacker News",
+        "time": "2026-06-11",
+        "category": "\ue802Jun 11, 2026Cybersecurity Innovations and Excellence",
+        "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html"
+    },
+    {
+        "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+        "source": "The Hacker News",
+        "time": "2026-06-11",
+        "category": "\ue802Jun 11, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
+    },
+    {
+        "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+        "source": "The Hacker News",
+        "time": "2026-06-11",
+        "category": "\ue802Jun 11, 2026Artificial Intelligence / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html"
+    },
+    {
+        "title": "State of SDLC Report 2026",
+        "source": "The Hacker News",
+        "time": "2026-06-11",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/sdlc-security-report-2026"
+    },
+    {
         "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
         "source": "The Hacker News",
         "time": "2026-06-11",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html"
     },
     {
-        "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-        "source": "The Hacker News",
-        "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Botnet / Network Security",
-        "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html"
-    },
-    {
-        "title": "State of SDLC Report 2026",
-        "source": "The Hacker News",
-        "time": "2026-06-11",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/sdlc-security-report-2026"
-    },
-    {
-        "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-        "source": "The Hacker News",
-        "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Vulnerability / Patch Management",
-        "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html"
-    },
-    {
-        "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
-        "source": "The Hacker News",
-        "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Vulnerability / Open Source",
-        "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+        "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html"
+        "category": "\ue802Jun 10, 2026Botnet / Network Security",
+        "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html"
     }
 ]
