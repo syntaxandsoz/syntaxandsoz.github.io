@@ -1,24 +1,24 @@
 [
     {
-        "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+        "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 11, 2026Cybersecurity Innovations and Excellence",
-        "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html"
+        "category": "\ue802Jun 11, 2026AI Security / Data Security",
+        "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html"
     },
     {
-        "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+        "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 11, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
+        "category": "\ue802Jun 11, 2026Endpoint Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html"
     },
     {
-        "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+        "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 11, 2026Artificial Intelligence / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html"
+        "category": "\ue802Jun 11, 2026Cybercrime / Ransomware",
+        "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html"
     },
     {
         "title": "State of SDLC Report 2026",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sdlc-security-report-2026"
     },
     {
-        "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+        "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 11, 2026Supply Chain Attack / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html"
+        "category": "\ue802Jun 11, 2026Cybersecurity Innovations and Excellence",
+        "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html"
     },
     {
-        "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+        "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 11, 2026Developer Security / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html"
+        "category": "\ue802Jun 11, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+        "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
         "source": "The Hacker News",
         "time": "2026-06-11",
-        "category": "\ue802Jun 10, 2026Botnet / Network Security",
-        "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html"
+        "category": "\ue802Jun 11, 2026Artificial Intelligence / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html"
     }
 ]
