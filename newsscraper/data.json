@@ -1,10 +1,31 @@
 [
     {
+        "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html"
+    },
+    {
+        "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Endpoint Security / SOC Automation",
+        "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html"
+    },
+    {
         "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
         "source": "The Hacker News",
         "time": "2026-06-12",
         "category": "\ue802Jun 12, 2026Vulnerability / AI Security",
         "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html"
+    },
+    {
+        "title": "State of SDLC Report 2026",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/sdlc-security-report-2026"
     },
     {
         "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html"
     },
     {
-        "title": "State of SDLC Report 2026",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/sdlc-security-report-2026"
-    },
-    {
-        "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026Vulnerability / Data Breach",
-        "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
-    },
-    {
-        "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026AI Security / Data Security",
-        "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-12",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+        "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
         "source": "The Hacker News",
         "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026Endpoint Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html"
+        "category": "\ue802Jun 11, 2026Vulnerability / Data Breach",
+        "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
     }
 ]
