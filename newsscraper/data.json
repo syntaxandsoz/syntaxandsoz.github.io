@@ -1,5 +1,33 @@
 [
     {
+        "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Vulnerability / AI Security",
+        "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html"
+    },
+    {
+        "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Cybercrime / Phishing",
+        "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html"
+    },
+    {
+        "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Cybercrime / Dark Web",
+        "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html"
+    },
+    {
+        "title": "State of SDLC Report 2026",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/sdlc-security-report-2026"
+    },
+    {
         "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
         "source": "The Hacker News",
         "time": "2026-06-12",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html"
     },
     {
-        "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026Endpoint Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html"
-    },
-    {
-        "title": "State of SDLC Report 2026",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/sdlc-security-report-2026"
-    },
-    {
-        "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026Cybercrime / Ransomware",
-        "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html"
-    },
-    {
-        "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026Cybersecurity Innovations and Excellence",
-        "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-12",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
+        "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
         "source": "The Hacker News",
         "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
+        "category": "\ue802Jun 11, 2026Endpoint Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html"
     }
 ]
