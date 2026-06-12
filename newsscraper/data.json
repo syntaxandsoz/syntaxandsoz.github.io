@@ -1,5 +1,33 @@
 [
     {
+        "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Linux / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html"
+    },
+    {
+        "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Cybercrime / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html"
+    },
+    {
+        "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "\ue802Jun 12, 2026Linux / Network Security",
+        "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html"
+    },
+    {
+        "title": "State of SDLC Report 2026",
+        "source": "The Hacker News",
+        "time": "2026-06-12",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/sdlc-security-report-2026"
+    },
+    {
         "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
         "source": "The Hacker News",
         "time": "2026-06-12",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html"
     },
     {
-        "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 12, 2026Vulnerability / AI Security",
-        "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html"
-    },
-    {
-        "title": "State of SDLC Report 2026",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/sdlc-security-report-2026"
-    },
-    {
-        "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 12, 2026Cybercrime / Phishing",
-        "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html"
-    },
-    {
-        "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-        "source": "The Hacker News",
-        "time": "2026-06-12",
-        "category": "\ue802Jun 12, 2026Cybercrime / Dark Web",
-        "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-12",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+        "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
         "source": "The Hacker News",
         "time": "2026-06-12",
-        "category": "\ue802Jun 11, 2026Vulnerability / Data Breach",
-        "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
+        "category": "\ue802Jun 12, 2026Vulnerability / AI Security",
+        "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html"
     }
 ]
