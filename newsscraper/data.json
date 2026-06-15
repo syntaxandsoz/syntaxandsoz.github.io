@@ -1,58 +1,58 @@
 [
     {
+        "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+        "source": "The Hacker News",
+        "time": "2026-06-15",
+        "category": "\ue802Jun 15, 2026Password Security / Critical Infrastructure",
+        "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html"
+    },
+    {
+        "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
+        "source": "The Hacker News",
+        "time": "2026-06-15",
+        "category": "\ue802Jun 15, 2026Browser Security / Privacy",
+        "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html"
+    },
+    {
+        "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
+        "source": "The Hacker News",
+        "time": "2026-06-15",
+        "category": "\ue802Jun 15, 2026Web Security / Supply Chain Attack",
+        "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html"
+    },
+    {
+        "title": "Stephen Sims Wrote SEC660 (GXPN). He's Also the SANS NetSec 2026 Keynote Speaker",
+        "source": "The Hacker News",
+        "time": "2026-06-15",
+        "category": "SANS InstituteNetwork Security / Ethical Hacking",
+        "link": "https://thehackernews.uk/network-security-sans"
+    },
+    {
+        "title": "Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts",
+        "source": "The Hacker News",
+        "time": "2026-06-15",
+        "category": "\ue802Jun 15, 2026Social Engineering / Browser Security",
+        "link": "https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html"
+    },
+    {
+        "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+        "source": "The Hacker News",
+        "time": "2026-06-15",
+        "category": "\ue802Jun 15, 2026Vulnerability / VPN Security",
+        "link": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html"
+    },
+    {
+        "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
+        "source": "The Hacker News",
+        "time": "2026-06-15",
+        "category": "Push SecurityPhishing / Webinar",
+        "link": "https://thehackernews.uk/device-code-threat"
+    },
+    {
         "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
         "source": "The Hacker News",
         "time": "2026-06-15",
         "category": "\ue802Jun 13, 2026Vulnerability / Enterprise Software",
         "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
-    },
-    {
-        "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-        "source": "The Hacker News",
-        "time": "2026-06-15",
-        "category": "\ue802Jun 13, 2026Artificial Intelligence / National Security",
-        "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html"
-    },
-    {
-        "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-        "source": "The Hacker News",
-        "time": "2026-06-15",
-        "category": "\ue802Jun 12, 2026Linux / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html"
-    },
-    {
-        "title": "State of SDLC Report 2026",
-        "source": "The Hacker News",
-        "time": "2026-06-15",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/sdlc-security-report-2026"
-    },
-    {
-        "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-        "source": "The Hacker News",
-        "time": "2026-06-15",
-        "category": "\ue802Jun 12, 2026Cybercrime / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html"
-    },
-    {
-        "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-        "source": "The Hacker News",
-        "time": "2026-06-15",
-        "category": "\ue802Jun 12, 2026Linux / Network Security",
-        "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html"
-    },
-    {
-        "title": "Free Assessment: Identify Hidden Internal Risk",
-        "source": "The Hacker News",
-        "time": "2026-06-15",
-        "category": "BitdefenderAttack Surface / Threat Detection",
-        "link": "https://thehackernews.uk/bitdefender-attack-surface"
-    },
-    {
-        "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-        "source": "The Hacker News",
-        "time": "2026-06-15",
-        "category": "\ue802Jun 12, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html"
     }
 ]
