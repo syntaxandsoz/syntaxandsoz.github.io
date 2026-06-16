@@ -1,10 +1,31 @@
 [
     {
+        "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+        "source": "The Hacker News",
+        "time": "2026-06-16",
+        "category": "\ue802Jun 16, 2026Mobile Security / Malware",
+        "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html"
+    },
+    {
+        "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
+        "source": "The Hacker News",
+        "time": "2026-06-16",
+        "category": "\ue802Jun 16, 2026Threat Intelligence / Zero Trust",
+        "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html"
+    },
+    {
         "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
         "source": "The Hacker News",
         "time": "2026-06-16",
         "category": "\ue802Jun 16, 2026Vulnerability / Threat Intelligence",
         "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
+    },
+    {
+        "title": "Stephen Sims Wrote SEC660 (GXPN). He's Also the SANS NetSec 2026 Keynote Speaker",
+        "source": "The Hacker News",
+        "time": "2026-06-16",
+        "category": "SANS InstituteNetwork Security / Ethical Hacking",
+        "link": "https://thehackernews.uk/network-security-sans"
     },
     {
         "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html"
     },
     {
-        "title": "Stephen Sims Wrote SEC660 (GXPN). He's Also the SANS NetSec 2026 Keynote Speaker",
-        "source": "The Hacker News",
-        "time": "2026-06-16",
-        "category": "SANS InstituteNetwork Security / Ethical Hacking",
-        "link": "https://thehackernews.uk/network-security-sans"
-    },
-    {
-        "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-        "source": "The Hacker News",
-        "time": "2026-06-16",
-        "category": "\ue802Jun 16, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html"
-    },
-    {
-        "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-        "source": "The Hacker News",
-        "time": "2026-06-16",
-        "category": "\ue802Jun 16, 2026Vulnerability / Server Security",
-        "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html"
-    },
-    {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
         "source": "The Hacker News",
         "time": "2026-06-16",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-code-threat"
     },
     {
-        "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+        "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 15, 2026Cyber Espionage / Email Security",
-        "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html"
+        "category": "\ue802Jun 16, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html"
     }
 ]
