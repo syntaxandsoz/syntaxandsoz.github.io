@@ -1,24 +1,24 @@
 [
     {
-        "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+        "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 15, 2026Cyber Espionage / Email Security",
-        "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html"
+        "category": "\ue802Jun 16, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
     },
     {
-        "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+        "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 15, 2026Malware / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html"
+        "category": "\ue802Jun 16, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html"
     },
     {
-        "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+        "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 15, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html"
+        "category": "\ue802Jun 16, 2026Malware / Cyber Attack",
+        "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html"
     },
     {
         "title": "Stephen Sims Wrote SEC660 (GXPN). He's Also the SANS NetSec 2026 Keynote Speaker",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/network-security-sans"
     },
     {
-        "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+        "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 15, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html"
+        "category": "\ue802Jun 16, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+        "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 15, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html"
+        "category": "\ue802Jun 16, 2026Vulnerability / Server Security",
+        "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html"
     },
     {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-code-threat"
     },
     {
-        "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+        "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 15, 2026Password Security / Critical Infrastructure",
-        "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html"
+        "category": "\ue802Jun 15, 2026Cyber Espionage / Email Security",
+        "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html"
     }
 ]
