@@ -1,10 +1,31 @@
 [
     {
+        "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+        "source": "The Hacker News",
+        "time": "2026-06-16",
+        "category": "\ue802Jun 16, 2026Machine Learning / Cloud Security",
+        "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html"
+    },
+    {
+        "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+        "source": "The Hacker News",
+        "time": "2026-06-16",
+        "category": "\ue802Jun 16, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html"
+    },
+    {
         "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
         "source": "The Hacker News",
         "time": "2026-06-16",
         "category": "\ue802Jun 16, 2026Mobile Security / Malware",
         "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html"
+    },
+    {
+        "title": "Stephen Sims Wrote SEC660 (GXPN). He's Also the SANS NetSec 2026 Keynote Speaker",
+        "source": "The Hacker News",
+        "time": "2026-06-16",
+        "category": "SANS InstituteNetwork Security / Ethical Hacking",
+        "link": "https://thehackernews.uk/network-security-sans"
     },
     {
         "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
     },
     {
-        "title": "Stephen Sims Wrote SEC660 (GXPN). He's Also the SANS NetSec 2026 Keynote Speaker",
-        "source": "The Hacker News",
-        "time": "2026-06-16",
-        "category": "SANS InstituteNetwork Security / Ethical Hacking",
-        "link": "https://thehackernews.uk/network-security-sans"
-    },
-    {
-        "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
-        "source": "The Hacker News",
-        "time": "2026-06-16",
-        "category": "\ue802Jun 16, 2026Malware / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html"
-    },
-    {
-        "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-        "source": "The Hacker News",
-        "time": "2026-06-16",
-        "category": "\ue802Jun 16, 2026Malware / Cyber Attack",
-        "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html"
-    },
-    {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
         "source": "The Hacker News",
         "time": "2026-06-16",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-code-threat"
     },
     {
-        "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+        "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
         "source": "The Hacker News",
         "time": "2026-06-16",
-        "category": "\ue802Jun 16, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html"
+        "category": "\ue802Jun 16, 2026Malware / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html"
     }
 ]
