@@ -1,10 +1,31 @@
 [
     {
-        "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+        "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
         "source": "The Hacker News",
         "time": "2026-06-17",
-        "category": "\ue802Jun 17, 2026Supply Chain Security / AI Security",
-        "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html"
+        "category": "\ue802Jun 17, 2026Malware / Social Engineering",
+        "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html"
+    },
+    {
+        "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+        "source": "The Hacker News",
+        "time": "2026-06-17",
+        "category": "\ue802Jun 17, 2026Endpoint Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html"
+    },
+    {
+        "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+        "source": "The Hacker News",
+        "time": "2026-06-17",
+        "category": "\ue802Jun 17, 2026Malware / Cyber Attack",
+        "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html"
+    },
+    {
+        "title": "Moses Frost Trains You to Think Like an AI-Armed Attacker - Online in Aug",
+        "source": "The Hacker News",
+        "time": "2026-06-17",
+        "category": "SANS InstituteNetwork Security / Ethical Hacking",
+        "link": "https://thehackernews.uk/sans-cyber-training-2026"
     },
     {
         "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
@@ -14,32 +35,11 @@
         "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html"
     },
     {
-        "title": "The Top 10 Attack Surface Exposures in 2026",
+        "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
         "source": "The Hacker News",
         "time": "2026-06-17",
-        "category": "\ue802Jun 17, 2026Attack Surface Management",
-        "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html"
-    },
-    {
-        "title": "Stephen Sims Wrote SEC660 (GXPN). He's Also the SANS NetSec 2026 Keynote Speaker",
-        "source": "The Hacker News",
-        "time": "2026-06-17",
-        "category": "SANS InstituteNetwork Security / Ethical Hacking",
-        "link": "https://thehackernews.uk/network-security-sans"
-    },
-    {
-        "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
-        "source": "The Hacker News",
-        "time": "2026-06-17",
-        "category": "\ue802Jun 17, 2026Malware / Cryptocurrency",
-        "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html"
-    },
-    {
-        "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-        "source": "The Hacker News",
-        "time": "2026-06-17",
-        "category": "\ue802Jun 17, 2026Vulnerability / Supply Chain Attack",
-        "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html"
+        "category": "\ue802Jun 17, 2026Supply Chain Security / AI Security",
+        "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html"
     },
     {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-code-threat"
     },
     {
-        "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+        "title": "The Top 10 Attack Surface Exposures in 2026",
         "source": "The Hacker News",
         "time": "2026-06-17",
-        "category": "\ue802Jun 16, 2026Machine Learning / Cloud Security",
-        "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html"
+        "category": "\ue802Jun 17, 2026Attack Surface Management",
+        "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html"
     }
 ]
