@@ -1,24 +1,24 @@
 [
     {
-        "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+        "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
         "source": "The Hacker News",
         "time": "2026-06-19",
-        "category": "\ue802Jun 19, 2026Data Breach / Cloud Security",
-        "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html"
+        "category": "\ue802Jun 19, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"
     },
     {
-        "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+        "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
         "source": "The Hacker News",
         "time": "2026-06-19",
-        "category": "\ue802Jun 19, 2026Mobile Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html"
+        "category": "\ue802Jun 19, 2026Threat Intelligence / Firewall Security",
+        "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html"
     },
     {
-        "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
+        "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
         "source": "The Hacker News",
         "time": "2026-06-19",
-        "category": "\ue802Jun 18, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html"
+        "category": "\ue802Jun 19, 2026Enterprise Security / Agentic AI",
+        "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html"
     },
     {
         "title": "Moses Frost Trains You to Think Like an AI-Armed Attacker - Online in Aug",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sans-cyber-training-2026"
     },
     {
-        "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+        "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
         "source": "The Hacker News",
         "time": "2026-06-19",
-        "category": "\ue802Jun 18, 2026AI Security / Data Security",
-        "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html"
+        "category": "\ue802Jun 19, 2026Agentic AI / SaaS Security",
+        "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html"
     },
     {
-        "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
+        "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
         "source": "The Hacker News",
         "time": "2026-06-19",
-        "category": "\ue802Jun 18, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html"
+        "category": "\ue802Jun 19, 2026Data Breach / Cloud Security",
+        "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html"
     },
     {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-code-threat"
     },
     {
-        "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
+        "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
         "source": "The Hacker News",
         "time": "2026-06-19",
-        "category": "\ue802Jun 18, 2026Malware / Cryptocurrency",
-        "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html"
+        "category": "\ue802Jun 19, 2026Mobile Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html"
     }
 ]
