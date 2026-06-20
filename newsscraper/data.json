@@ -1,5 +1,12 @@
 [
     {
+        "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+        "source": "The Hacker News",
+        "time": "2026-06-20",
+        "category": "\ue802Jun 20, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"
+    },
+    {
         "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
         "source": "The Hacker News",
         "time": "2026-06-20",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html"
     },
     {
-        "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-        "source": "The Hacker News",
-        "time": "2026-06-20",
-        "category": "\ue802Jun 19, 2026Vulnerability / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html"
-    },
-    {
         "title": "Moses Frost Trains You to Think Like an AI-Armed Attacker - Online in Aug",
         "source": "The Hacker News",
         "time": "2026-06-20",
         "category": "SANS InstituteNetwork Security / Ethical Hacking",
         "link": "https://thehackernews.uk/sans-cyber-training-2026"
+    },
+    {
+        "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-06-20",
+        "category": "\ue802Jun 19, 2026Vulnerability / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html"
     },
     {
         "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"
     },
     {
-        "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-        "source": "The Hacker News",
-        "time": "2026-06-20",
-        "category": "\ue802Jun 19, 2026Threat Intelligence / Firewall Security",
-        "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html"
-    },
-    {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
         "source": "The Hacker News",
         "time": "2026-06-20",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-code-threat"
     },
     {
-        "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+        "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
         "source": "The Hacker News",
         "time": "2026-06-20",
-        "category": "\ue802Jun 19, 2026Enterprise Security / Agentic AI",
-        "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html"
+        "category": "\ue802Jun 19, 2026Threat Intelligence / Firewall Security",
+        "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html"
     }
 ]
