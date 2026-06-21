@@ -21,11 +21,11 @@
         "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html"
     },
     {
-        "title": "Moses Frost Trains You to Think Like an AI-Armed Attacker - Online in Aug",
+        "title": "MCP Prompt Playbook for SOC Teams",
         "source": "The Hacker News",
         "time": "2026-06-21",
-        "category": "SANS InstituteNetwork Security / Ethical Hacking",
-        "link": "https://thehackernews.uk/sans-cyber-training-2026"
+        "category": "WizAI Security / DevSecOps",
+        "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
         "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
@@ -42,11 +42,11 @@
         "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"
     },
     {
-        "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
+        "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-21",
-        "category": "Push SecurityPhishing / Webinar",
-        "link": "https://thehackernews.uk/device-code-threat"
+        "category": "BitdefenderAttack Surface / Threat Detection",
+        "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
         "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
