@@ -1,24 +1,24 @@
 [
     {
-        "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+        "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 22, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html"
+        "category": "\ue802Jun 22, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html"
     },
     {
-        "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
+        "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 22, 2026Cyber Espionage / IoT Security",
-        "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html"
+        "category": "\ue802Jun 22, 2026Vulnerability / Server Security",
+        "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html"
     },
     {
-        "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+        "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 22, 2026IoT Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html"
+        "category": "\ue802Jun 22, 2026Malvertising / Endpoint Security",
+        "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html"
     },
     {
         "title": "MCP Prompt Playbook for SOC Teams",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
-        "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+        "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 22, 2026Cybercrime / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html"
+        "category": "\ue802Jun 22, 2026Mobile Security / Open Source",
+        "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html"
     },
     {
-        "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+        "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 20, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"
+        "category": "\ue802Jun 22, 2026Exposure Management / AI Security",
+        "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+        "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 19, 2026Hardware Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
+        "category": "\ue802Jun 22, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html"
     }
 ]
