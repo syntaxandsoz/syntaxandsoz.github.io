@@ -1,24 +1,24 @@
 [
     {
-        "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+        "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 20, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"
+        "category": "\ue802Jun 22, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html"
     },
     {
-        "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+        "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 19, 2026Hardware Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
+        "category": "\ue802Jun 22, 2026Cyber Espionage / IoT Security",
+        "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html"
     },
     {
-        "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+        "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 19, 2026Ransomware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html"
+        "category": "\ue802Jun 22, 2026IoT Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html"
     },
     {
         "title": "MCP Prompt Playbook for SOC Teams",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
-        "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+        "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 19, 2026Vulnerability / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html"
+        "category": "\ue802Jun 22, 2026Cybercrime / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html"
     },
     {
-        "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+        "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 19, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"
+        "category": "\ue802Jun 20, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+        "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 19, 2026Threat Intelligence / Firewall Security",
-        "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html"
+        "category": "\ue802Jun 19, 2026Hardware Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
     }
 ]
