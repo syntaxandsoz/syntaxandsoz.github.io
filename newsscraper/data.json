@@ -1,5 +1,12 @@
 [
     {
+        "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+        "source": "The Hacker News",
+        "time": "2026-06-22",
+        "category": "\ue802Jun 22, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html"
+    },
+    {
         "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
         "source": "The Hacker News",
         "time": "2026-06-22",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html"
     },
     {
-        "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-        "source": "The Hacker News",
-        "time": "2026-06-22",
-        "category": "\ue802Jun 22, 2026Malvertising / Endpoint Security",
-        "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html"
-    },
-    {
         "title": "MCP Prompt Playbook for SOC Teams",
         "source": "The Hacker News",
         "time": "2026-06-22",
         "category": "WizAI Security / DevSecOps",
         "link": "https://thehackernews.uk/sec-playbook-wiz"
+    },
+    {
+        "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+        "source": "The Hacker News",
+        "time": "2026-06-22",
+        "category": "\ue802Jun 22, 2026Malvertising / Endpoint Security",
+        "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html"
     },
     {
         "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html"
     },
     {
-        "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-        "source": "The Hacker News",
-        "time": "2026-06-22",
-        "category": "\ue802Jun 22, 2026Exposure Management / AI Security",
-        "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-22",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+        "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
         "source": "The Hacker News",
         "time": "2026-06-22",
-        "category": "\ue802Jun 22, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html"
+        "category": "\ue802Jun 22, 2026Exposure Management / AI Security",
+        "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html"
     }
 ]
