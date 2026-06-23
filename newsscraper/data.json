@@ -1,10 +1,31 @@
 [
     {
+        "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Workflow Security / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html"
+    },
+    {
+        "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Offensive AI / Cybersecurity Training",
+        "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html"
+    },
+    {
         "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
         "source": "The Hacker News",
         "time": "2026-06-23",
         "category": "\ue802Jun 23, 2026Supply Chain Attack / Developer Security",
         "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
+    },
+    {
+        "title": "MCP Prompt Playbook for SOC Teams",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "WizAI Security / DevSecOps",
+        "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
         "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html"
     },
     {
-        "title": "MCP Prompt Playbook for SOC Teams",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "WizAI Security / DevSecOps",
-        "link": "https://thehackernews.uk/sec-playbook-wiz"
-    },
-    {
-        "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html"
-    },
-    {
-        "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+        "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026Vulnerability / Server Security",
-        "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html"
+        "category": "\ue802Jun 22, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html"
     }
 ]
