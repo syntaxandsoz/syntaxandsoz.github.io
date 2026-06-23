@@ -1,5 +1,33 @@
 [
     {
+        "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Supply Chain Attack / Developer Security",
+        "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
+    },
+    {
+        "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Malware / Social Engineering",
+        "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html"
+    },
+    {
+        "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Artificial Intelligence / Codex Security",
+        "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html"
+    },
+    {
+        "title": "MCP Prompt Playbook for SOC Teams",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "WizAI Security / DevSecOps",
+        "link": "https://thehackernews.uk/sec-playbook-wiz"
+    },
+    {
         "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-06-23",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html"
     },
     {
-        "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026Vulnerability / Server Security",
-        "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html"
-    },
-    {
-        "title": "MCP Prompt Playbook for SOC Teams",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "WizAI Security / DevSecOps",
-        "link": "https://thehackernews.uk/sec-playbook-wiz"
-    },
-    {
-        "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026Malvertising / Endpoint Security",
-        "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html"
-    },
-    {
-        "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026Mobile Security / Open Source",
-        "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+        "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
         "source": "The Hacker News",
         "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026Exposure Management / AI Security",
-        "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html"
+        "category": "\ue802Jun 22, 2026Vulnerability / Server Security",
+        "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html"
     }
 ]
