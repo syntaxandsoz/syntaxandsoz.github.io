@@ -1,5 +1,33 @@
 [
     {
+        "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Initial Access Broker / Firewall Security",
+        "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
+    },
+    {
+        "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Supply Chain Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
+    },
+    {
+        "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "\ue802Jun 23, 2026Cryptography / Quantum Computing",
+        "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html"
+    },
+    {
+        "title": "MCP Prompt Playbook for SOC Teams",
+        "source": "The Hacker News",
+        "time": "2026-06-23",
+        "category": "WizAI Security / DevSecOps",
+        "link": "https://thehackernews.uk/sec-playbook-wiz"
+    },
+    {
         "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
         "source": "The Hacker News",
         "time": "2026-06-23",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html"
     },
     {
-        "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 23, 2026Supply Chain Attack / Developer Security",
-        "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
-    },
-    {
-        "title": "MCP Prompt Playbook for SOC Teams",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "WizAI Security / DevSecOps",
-        "link": "https://thehackernews.uk/sec-playbook-wiz"
-    },
-    {
-        "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 23, 2026Malware / Social Engineering",
-        "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html"
-    },
-    {
-        "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-        "source": "The Hacker News",
-        "time": "2026-06-23",
-        "category": "\ue802Jun 23, 2026Artificial Intelligence / Codex Security",
-        "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+        "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
         "source": "The Hacker News",
         "time": "2026-06-23",
-        "category": "\ue802Jun 22, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html"
+        "category": "\ue802Jun 23, 2026Supply Chain Attack / Developer Security",
+        "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
     }
 ]
