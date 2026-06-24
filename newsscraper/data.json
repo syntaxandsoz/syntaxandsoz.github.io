@@ -1,10 +1,31 @@
 [
     {
+        "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "\ue802Jun 24, 2026Money Laundering / Cybercrime",
+        "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html"
+    },
+    {
+        "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "\ue802Jun 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html"
+    },
+    {
         "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
         "source": "The Hacker News",
         "time": "2026-06-24",
         "category": "\ue802Jun 23, 2026Initial Access Broker / Firewall Security",
         "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
+    },
+    {
+        "title": "MCP Prompt Playbook for SOC Teams",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "WizAI Security / DevSecOps",
+        "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
         "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html"
     },
     {
-        "title": "MCP Prompt Playbook for SOC Teams",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "WizAI Security / DevSecOps",
-        "link": "https://thehackernews.uk/sec-playbook-wiz"
-    },
-    {
-        "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Workflow Security / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html"
-    },
-    {
-        "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Offensive AI / Cybersecurity Training",
-        "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+        "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
         "source": "The Hacker News",
         "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Supply Chain Attack / Developer Security",
-        "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
+        "category": "\ue802Jun 23, 2026Workflow Security / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html"
     }
 ]
