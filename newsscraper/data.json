@@ -1,10 +1,31 @@
 [
     {
+        "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "\ue802Jun 24, 2026Open Source / Supply Chain Security",
+        "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html"
+    },
+    {
+        "title": "Dawn of the Apex Agentic Adversary",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "\ue802Jun 24, 2026Network Security / Vulnerability Management",
+        "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html"
+    },
+    {
         "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
         "source": "The Hacker News",
         "time": "2026-06-24",
         "category": "\ue802Jun 24, 2026Money Laundering / Cybercrime",
         "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html"
+    },
+    {
+        "title": "MCP Prompt Playbook for SOC Teams",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "WizAI Security / DevSecOps",
+        "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
         "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
     },
     {
-        "title": "MCP Prompt Playbook for SOC Teams",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "WizAI Security / DevSecOps",
-        "link": "https://thehackernews.uk/sec-playbook-wiz"
-    },
-    {
-        "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Supply Chain Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
-    },
-    {
-        "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Cryptography / Quantum Computing",
-        "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+        "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
         "source": "The Hacker News",
         "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Workflow Security / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html"
+        "category": "\ue802Jun 23, 2026Supply Chain Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
     }
 ]
