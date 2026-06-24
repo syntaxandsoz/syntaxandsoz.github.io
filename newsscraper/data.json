@@ -1,10 +1,31 @@
 [
     {
+        "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "\ue802Jun 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html"
+    },
+    {
+        "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "\ue802Jun 24, 2026Cybercrime / Law Enforcement",
+        "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html"
+    },
+    {
         "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
         "source": "The Hacker News",
         "time": "2026-06-24",
         "category": "\ue802Jun 24, 2026Open Source / Supply Chain Security",
         "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html"
+    },
+    {
+        "title": "MCP Prompt Playbook for SOC Teams",
+        "source": "The Hacker News",
+        "time": "2026-06-24",
+        "category": "WizAI Security / DevSecOps",
+        "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
         "title": "Dawn of the Apex Agentic Adversary",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html"
     },
     {
-        "title": "MCP Prompt Playbook for SOC Teams",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "WizAI Security / DevSecOps",
-        "link": "https://thehackernews.uk/sec-playbook-wiz"
-    },
-    {
-        "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "\ue802Jun 24, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html"
-    },
-    {
-        "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-        "source": "The Hacker News",
-        "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Initial Access Broker / Firewall Security",
-        "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
-    },
-    {
         "title": "Free Assessment: Identify Hidden Internal Risk",
         "source": "The Hacker News",
         "time": "2026-06-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+        "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
         "source": "The Hacker News",
         "time": "2026-06-24",
-        "category": "\ue802Jun 23, 2026Supply Chain Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
+        "category": "\ue802Jun 24, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html"
     }
 ]
