@@ -1,24 +1,24 @@
 [
     {
-        "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+        "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
         "source": "The Hacker News",
         "time": "2026-06-25",
-        "category": "\ue802Jun 25, 2026Initial Access Broker / Ransomware",
-        "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html"
+        "category": "\ue802Jun 25, 2026Browser Security / Malware",
+        "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html"
     },
     {
-        "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+        "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
         "source": "The Hacker News",
         "time": "2026-06-25",
-        "category": "\ue802Jun 25, 2026Vulnerability / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html"
+        "category": "\ue802Jun 25, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html"
     },
     {
-        "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+        "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
         "source": "The Hacker News",
         "time": "2026-06-25",
-        "category": "\ue802Jun 24, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html"
+        "category": "\ue802Jun 25, 2026Artificial Intelligence / Threat Hunting",
+        "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html"
     },
     {
         "title": "MCP Prompt Playbook for SOC Teams",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
-        "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+        "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
         "source": "The Hacker News",
         "time": "2026-06-25",
-        "category": "\ue802Jun 24, 2026Cybercrime / Law Enforcement",
-        "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html"
+        "category": "\ue802Jun 25, 2026AI Security / Malware",
+        "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html"
     },
     {
-        "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+        "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
         "source": "The Hacker News",
         "time": "2026-06-25",
-        "category": "\ue802Jun 24, 2026Open Source / Supply Chain Security",
-        "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html"
+        "category": "\ue802Jun 25, 2026Initial Access Broker / Ransomware",
+        "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "Dawn of the Apex Agentic Adversary",
+        "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
         "source": "The Hacker News",
         "time": "2026-06-25",
-        "category": "\ue802Jun 24, 2026Network Security / Vulnerability Management",
-        "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html"
+        "category": "\ue802Jun 25, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html"
     }
 ]
