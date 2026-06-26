@@ -1,24 +1,24 @@
 [
     {
-        "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+        "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
         "source": "The Hacker News",
         "time": "2026-06-26",
-        "category": "\ue802Jun 26, 2026Phishing / Malware",
-        "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html"
+        "category": "\ue802Jun 26, 2026Linux / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html"
     },
     {
-        "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+        "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
         "source": "The Hacker News",
         "time": "2026-06-26",
-        "category": "\ue802Jun 26, 2026Mobile Security / Digital Forensics",
-        "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html"
+        "category": "\ue802Jun 26, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html"
     },
     {
-        "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+        "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
         "source": "The Hacker News",
         "time": "2026-06-26",
-        "category": "\ue802Jun 26, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html"
+        "category": "\ue802Jun 26, 2026Vulnerability / Software Security",
+        "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html"
     },
     {
         "title": "MCP Prompt Playbook for SOC Teams",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/sec-playbook-wiz"
     },
     {
-        "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+        "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
         "source": "The Hacker News",
         "time": "2026-06-26",
-        "category": "\ue802Jun 25, 2026Browser Security / Malware",
-        "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html"
+        "category": "\ue802Jun 26, 2026Linux / Vulnerability",
+        "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html"
     },
     {
-        "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+        "title": "Guardian Agents: The Next Layer of Identity Governance",
         "source": "The Hacker News",
         "time": "2026-06-26",
-        "category": "\ue802Jun 25, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html"
+        "category": "\ue802Jun 26, 2026AI Security / Identity Governance",
+        "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html"
     },
     {
         "title": "Free Assessment: Identify Hidden Internal Risk",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/bitdefender-attack-surface"
     },
     {
-        "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+        "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
         "source": "The Hacker News",
         "time": "2026-06-26",
-        "category": "\ue802Jun 25, 2026Artificial Intelligence / Threat Hunting",
-        "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html"
+        "category": "\ue802Jun 26, 2026Supply Chain Attack / Developer Security",
+        "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html"
     }
 ]
