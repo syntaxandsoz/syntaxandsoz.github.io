@@ -1,5 +1,33 @@
 [
     {
+        "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+        "source": "The Hacker News",
+        "time": "2026-06-29",
+        "category": "\ue802Jun 29, 2026Browser Security / Ad Fraud",
+        "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html"
+    },
+    {
+        "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+        "source": "The Hacker News",
+        "time": "2026-06-29",
+        "category": "\ue802Jun 29, 2026Vulnerability / Open Source",
+        "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html"
+    },
+    {
+        "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+        "source": "The Hacker News",
+        "time": "2026-06-29",
+        "category": "\ue802Jun 29, 2026Supply Chain Attack / Cryptocurrency",
+        "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html"
+    },
+    {
+        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
+        "source": "The Hacker News",
+        "time": "2026-06-29",
+        "category": "SANS InstituteCritical infrastructure / Webinar",
+        "link": "https://thehackernews.uk/secure-next-250"
+    },
+    {
         "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
         "source": "The Hacker News",
         "time": "2026-06-29",
@@ -14,45 +42,17 @@
         "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html"
     },
     {
+        "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
+        "source": "The Hacker News",
+        "time": "2026-06-29",
+        "category": "Push SecurityPhishing Attack / Webinar",
+        "link": "https://thehackernews.uk/device-phishing-2026"
+    },
+    {
         "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
         "source": "The Hacker News",
         "time": "2026-06-29",
         "category": "\ue802Jun 26, 2026Secure Messaging / Social Engineering",
         "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html"
-    },
-    {
-        "title": "MCP Prompt Playbook for SOC Teams",
-        "source": "The Hacker News",
-        "time": "2026-06-29",
-        "category": "WizAI Security / DevSecOps",
-        "link": "https://thehackernews.uk/sec-playbook-wiz"
-    },
-    {
-        "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-        "source": "The Hacker News",
-        "time": "2026-06-29",
-        "category": "\ue802Jun 26, 2026Malware / Windows Security",
-        "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html"
-    },
-    {
-        "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-        "source": "The Hacker News",
-        "time": "2026-06-29",
-        "category": "\ue802Jun 26, 2026Cyber Espionage / Malware",
-        "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html"
-    },
-    {
-        "title": "Free Assessment: Identify Hidden Internal Risk",
-        "source": "The Hacker News",
-        "time": "2026-06-29",
-        "category": "BitdefenderAttack Surface / Threat Detection",
-        "link": "https://thehackernews.uk/bitdefender-attack-surface"
-    },
-    {
-        "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-        "source": "The Hacker News",
-        "time": "2026-06-29",
-        "category": "\ue802Jun 26, 2026Linux / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html"
     }
 ]
