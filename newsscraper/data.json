@@ -1,24 +1,24 @@
 [
     {
-        "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+        "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jul 01, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
+        "category": "\ue802Jul 01, 2026Artificial Intelligence / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html"
     },
     {
-        "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+        "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jun 30, 2026Artificial Intelligence / Supply Chain Security",
-        "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html"
+        "category": "\ue802Jul 01, 2026Artificial Intelligence / Critical Infrastructure",
+        "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html"
     },
     {
-        "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+        "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jun 30, 2026Botnet / Vulnerability",
-        "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html"
+        "category": "\ue802Jul 01, 2026Password Security / Cloud Security",
+        "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html"
     },
     {
         "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/secure-next-250"
     },
     {
-        "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+        "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jun 30, 2026Vulnerability / Malware",
-        "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html"
+        "category": "\ue802Jul 01, 2026Threat Intelligence / Social Engineering",
+        "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html"
     },
     {
-        "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+        "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jun 30, 2026Browser Security / Cryptocurrency",
-        "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html"
+        "category": "\ue802Jul 01, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
     },
     {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-phishing-2026"
     },
     {
-        "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+        "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jun 30, 2026AI Security / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html"
+        "category": "\ue802Jun 30, 2026Artificial Intelligence / Supply Chain Security",
+        "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html"
     }
 ]
