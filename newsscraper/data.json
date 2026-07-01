@@ -1,58 +1,58 @@
 [
     {
+        "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+        "source": "The Hacker News",
+        "time": "2026-07-01",
+        "category": "\ue802Jul 01, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
+    },
+    {
         "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
         "source": "The Hacker News",
-        "time": "2026-06-30",
+        "time": "2026-07-01",
         "category": "\ue802Jun 30, 2026Artificial Intelligence / Supply Chain Security",
         "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html"
     },
     {
         "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
         "source": "The Hacker News",
-        "time": "2026-06-30",
+        "time": "2026-07-01",
         "category": "\ue802Jun 30, 2026Botnet / Vulnerability",
         "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html"
     },
     {
-        "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-        "source": "The Hacker News",
-        "time": "2026-06-30",
-        "category": "\ue802Jun 30, 2026Vulnerability / Malware",
-        "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html"
-    },
-    {
         "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
         "source": "The Hacker News",
-        "time": "2026-06-30",
+        "time": "2026-07-01",
         "category": "SANS InstituteCritical infrastructure / Webinar",
         "link": "https://thehackernews.uk/secure-next-250"
     },
     {
+        "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+        "source": "The Hacker News",
+        "time": "2026-07-01",
+        "category": "\ue802Jun 30, 2026Vulnerability / Malware",
+        "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html"
+    },
+    {
         "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
         "source": "The Hacker News",
-        "time": "2026-06-30",
+        "time": "2026-07-01",
         "category": "\ue802Jun 30, 2026Browser Security / Cryptocurrency",
         "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html"
     },
     {
-        "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-        "source": "The Hacker News",
-        "time": "2026-06-30",
-        "category": "\ue802Jun 30, 2026AI Security / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html"
-    },
-    {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
         "source": "The Hacker News",
-        "time": "2026-06-30",
+        "time": "2026-07-01",
         "category": "Push SecurityPhishing Attack / Webinar",
         "link": "https://thehackernews.uk/device-phishing-2026"
     },
     {
-        "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+        "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
         "source": "The Hacker News",
-        "time": "2026-06-30",
-        "category": "\ue802Jun 30, 2026API Security / Mobile Security",
-        "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html"
+        "time": "2026-07-01",
+        "category": "\ue802Jun 30, 2026AI Security / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html"
     }
 ]
