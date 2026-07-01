@@ -1,24 +1,24 @@
 [
     {
-        "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+        "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jul 01, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html"
+        "category": "\ue802Jul 01, 2026Kubernetes / Server Security",
+        "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html"
     },
     {
-        "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+        "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jul 01, 2026Browser Security / Ransomware",
-        "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html"
+        "category": "\ue802Jul 01, 2026Cybercrime / Ransomware",
+        "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html"
     },
     {
-        "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+        "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jul 01, 2026Attack Surface / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html"
+        "category": "\ue802Jul 01, 2026Malware / SEO Poisoning",
+        "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html"
     },
     {
         "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/secure-next-250"
     },
     {
-        "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+        "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jul 01, 2026Quantum Computing / Encryption",
-        "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html"
+        "category": "\ue802Jul 01, 2026Malware / Cyber Attack",
+        "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html"
     },
     {
-        "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+        "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jul 01, 2026Artificial Intelligence / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html"
+        "category": "\ue802Jul 01, 2026Endpoint Security / Malware",
+        "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html"
     },
     {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-phishing-2026"
     },
     {
-        "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+        "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
         "source": "The Hacker News",
         "time": "2026-07-01",
-        "category": "\ue802Jul 01, 2026Artificial Intelligence / Critical Infrastructure",
-        "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html"
+        "category": "\ue802Jul 01, 2026Artificial Intelligence / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html"
     }
 ]
