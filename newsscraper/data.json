@@ -1,5 +1,33 @@
 [
     {
+        "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+        "source": "The Hacker News",
+        "time": "2026-07-02",
+        "category": "\ue802Jul 02, 2026Network Security / Ransomware",
+        "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html"
+    },
+    {
+        "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+        "source": "The Hacker News",
+        "time": "2026-07-02",
+        "category": "\ue802Jul 02, 2026Malware / Vulnerability Research",
+        "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html"
+    },
+    {
+        "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+        "source": "The Hacker News",
+        "time": "2026-07-02",
+        "category": "\ue802Jul 02, 2026Vulnerability / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
+    },
+    {
+        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
+        "source": "The Hacker News",
+        "time": "2026-07-02",
+        "category": "SANS InstituteCritical infrastructure / Webinar",
+        "link": "https://thehackernews.uk/secure-next-250"
+    },
+    {
         "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
         "source": "The Hacker News",
         "time": "2026-07-02",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html"
     },
     {
-        "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-        "source": "The Hacker News",
-        "time": "2026-07-02",
-        "category": "\ue802Jul 01, 2026Malware / SEO Poisoning",
-        "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html"
-    },
-    {
-        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
-        "source": "The Hacker News",
-        "time": "2026-07-02",
-        "category": "SANS InstituteCritical infrastructure / Webinar",
-        "link": "https://thehackernews.uk/secure-next-250"
-    },
-    {
-        "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-        "source": "The Hacker News",
-        "time": "2026-07-02",
-        "category": "\ue802Jul 01, 2026Malware / Cyber Attack",
-        "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html"
-    },
-    {
-        "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-        "source": "The Hacker News",
-        "time": "2026-07-02",
-        "category": "\ue802Jul 01, 2026Endpoint Security / Malware",
-        "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html"
-    },
-    {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
         "source": "The Hacker News",
         "time": "2026-07-02",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-phishing-2026"
     },
     {
-        "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+        "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
         "source": "The Hacker News",
         "time": "2026-07-02",
-        "category": "\ue802Jul 01, 2026Artificial Intelligence / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html"
+        "category": "\ue802Jul 01, 2026Malware / SEO Poisoning",
+        "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html"
     }
 ]
