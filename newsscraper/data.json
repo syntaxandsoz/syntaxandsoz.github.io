@@ -1,10 +1,31 @@
 [
     {
+        "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+        "source": "The Hacker News",
+        "time": "2026-07-03",
+        "category": "\ue802Jul 03, 2026Endpoint Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
+    },
+    {
+        "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+        "source": "The Hacker News",
+        "time": "2026-07-03",
+        "category": "\ue802Jul 03, 2026Software Supply Chain / Malware",
+        "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html"
+    },
+    {
         "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
         "source": "The Hacker News",
         "time": "2026-07-03",
         "category": "\ue802Jul 03, 2026Infostealer / Cyber Espionage",
         "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html"
+    },
+    {
+        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
+        "source": "The Hacker News",
+        "time": "2026-07-03",
+        "category": "SANS InstituteCritical infrastructure / Webinar",
+        "link": "https://thehackernews.uk/secure-next-250"
     },
     {
         "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html"
     },
     {
-        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
-        "source": "The Hacker News",
-        "time": "2026-07-03",
-        "category": "SANS InstituteCritical infrastructure / Webinar",
-        "link": "https://thehackernews.uk/secure-next-250"
-    },
-    {
-        "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-        "source": "The Hacker News",
-        "time": "2026-07-03",
-        "category": "\ue802Jul 02, 2026Cybercrime / Botnet",
-        "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html"
-    },
-    {
-        "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-        "source": "The Hacker News",
-        "time": "2026-07-03",
-        "category": "\ue802Jul 02, 2026Malware / Cyber Attack",
-        "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html"
-    },
-    {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
         "source": "The Hacker News",
         "time": "2026-07-03",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-phishing-2026"
     },
     {
-        "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+        "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
         "source": "The Hacker News",
         "time": "2026-07-03",
-        "category": "\ue802Jul 02, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html"
+        "category": "\ue802Jul 02, 2026Cybercrime / Botnet",
+        "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html"
     }
 ]
