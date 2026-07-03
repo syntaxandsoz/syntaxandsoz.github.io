@@ -1,10 +1,31 @@
 [
     {
+        "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+        "source": "The Hacker News",
+        "time": "2026-07-03",
+        "category": "\ue802Jul 03, 2026Infostealer / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html"
+    },
+    {
+        "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+        "source": "The Hacker News",
+        "time": "2026-07-03",
+        "category": "\ue802Jul 03, 2026Mobile Security / Spyware",
+        "link": "https://thehackernews.com/2026/07/european-parliament-member.html"
+    },
+    {
         "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
         "source": "The Hacker News",
         "time": "2026-07-03",
         "category": "\ue802Jul 03, 2026Credential Theft / Cryptocurrency",
         "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html"
+    },
+    {
+        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
+        "source": "The Hacker News",
+        "time": "2026-07-03",
+        "category": "SANS InstituteCritical infrastructure / Webinar",
+        "link": "https://thehackernews.uk/secure-next-250"
     },
     {
         "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html"
     },
     {
-        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
-        "source": "The Hacker News",
-        "time": "2026-07-03",
-        "category": "SANS InstituteCritical infrastructure / Webinar",
-        "link": "https://thehackernews.uk/secure-next-250"
-    },
-    {
-        "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-        "source": "The Hacker News",
-        "time": "2026-07-03",
-        "category": "\ue802Jul 02, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html"
-    },
-    {
-        "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-        "source": "The Hacker News",
-        "time": "2026-07-03",
-        "category": "\ue802Jul 02, 2026API Security / Cyberespionage",
-        "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html"
-    },
-    {
         "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
         "source": "The Hacker News",
         "time": "2026-07-03",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/device-phishing-2026"
     },
     {
-        "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+        "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
         "source": "The Hacker News",
         "time": "2026-07-03",
-        "category": "\ue802Jul 02, 2026Identity Governance / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html"
+        "category": "\ue802Jul 02, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html"
     }
 ]
