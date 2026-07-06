@@ -1,5 +1,33 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "\ue802Jul 06, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html"
+    },
+    {
+        "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "\ue802Jul 06, 2026Security Operations / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html"
+    },
+    {
+        "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "\ue802Jul 06, 2026Cyber Espionage / Cybercrime",
+        "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html"
+    },
+    {
+        "title": "Take the AI Sprawl CISO Survey. We'll Ship You Swag For It",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "RecoAI Security / SaaS Security",
+        "link": "https://thehackernews.uk/reco-ai-survey"
+    },
+    {
         "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
         "source": "The Hacker News",
         "time": "2026-07-06",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html"
     },
     {
-        "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "\ue802Jul 06, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html"
-    },
-    {
-        "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "RecoAI Security / SaaS Security",
-        "link": "https://thehackernews.uk/ai-security-reco"
-    },
-    {
-        "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "\ue802Jul 06, 2026AI Security / Threat Detection",
-        "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html"
-    },
-    {
-        "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "\ue802Jul 04, 2026Cyber Extortion / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-07-06",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+        "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
         "source": "The Hacker News",
         "time": "2026-07-06",
-        "category": "\ue802Jul 04, 2026Cryptocurrency / Malware",
-        "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
+        "category": "\ue802Jul 06, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html"
     }
 ]
