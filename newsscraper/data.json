@@ -1,5 +1,40 @@
 [
     {
+        "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "\ue802Jul 06, 2026Cyber Espionage / Endpoint Security",
+        "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html"
+    },
+    {
+        "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "\ue802Jul 06, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html"
+    },
+    {
+        "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "\ue802Jul 06, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html"
+    },
+    {
+        "title": "The AI Security Vendor Test Most Vendors Hope You Skip",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "RecoAI Security / SaaS Security",
+        "link": "https://thehackernews.uk/ai-security-reco"
+    },
+    {
+        "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "\ue802Jul 06, 2026AI Security / Threat Detection",
+        "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html"
+    },
+    {
         "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
         "source": "The Hacker News",
         "time": "2026-07-06",
@@ -7,52 +42,17 @@
         "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
     },
     {
+        "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
+        "source": "The Hacker News",
+        "time": "2026-07-06",
+        "category": "ZscalerAI Security / Network Security",
+        "link": "https://thehackernews.uk/vpn-threat-report"
+    },
+    {
         "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
         "source": "The Hacker News",
         "time": "2026-07-06",
         "category": "\ue802Jul 04, 2026Cryptocurrency / Malware",
         "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
-    },
-    {
-        "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "\ue802Jul 03, 2026Vulnerability / IoT Security",
-        "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html"
-    },
-    {
-        "title": "The Systems That Power America Are Under Threat. Is Your ICS/OT Program Ready?",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "SANS InstituteCritical infrastructure / Webinar",
-        "link": "https://thehackernews.uk/secure-next-250"
-    },
-    {
-        "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "\ue802Jul 03, 2026Linux / Android",
-        "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"
-    },
-    {
-        "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "\ue802Jul 03, 2026Endpoint Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
-    },
-    {
-        "title": "Inside Device Code Phishing: Live Demos, Real Kits, and What's Next",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "Push SecurityPhishing Attack / Webinar",
-        "link": "https://thehackernews.uk/device-phishing-2026"
-    },
-    {
-        "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-        "source": "The Hacker News",
-        "time": "2026-07-06",
-        "category": "\ue802Jul 03, 2026Software Supply Chain / Malware",
-        "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html"
     }
 ]
