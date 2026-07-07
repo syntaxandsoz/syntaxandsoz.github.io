@@ -1,5 +1,33 @@
 [
     {
+        "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "\ue802Jul 07, 2026Malware / Mobile Security",
+        "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html"
+    },
+    {
+        "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "\ue802Jul 07, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html"
+    },
+    {
+        "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "\ue802Jul 07, 2026Identity Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html"
+    },
+    {
+        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "RecoAI Security / SaaS Security",
+        "link": "https://thehackernews.uk/reco-ai-survey"
+    },
+    {
         "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
         "source": "The Hacker News",
         "time": "2026-07-07",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html"
     },
     {
-        "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "\ue802Jul 07, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html"
-    },
-    {
-        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "RecoAI Security / SaaS Security",
-        "link": "https://thehackernews.uk/reco-ai-survey"
-    },
-    {
-        "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "\ue802Jul 07, 2026AI Security / Software Supply Chain",
-        "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html"
-    },
-    {
-        "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "\ue802Jul 07, 2026Email Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-07-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+        "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 07, 2026",
-        "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
+        "category": "\ue802Jul 07, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html"
     }
 ]
