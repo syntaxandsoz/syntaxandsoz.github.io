@@ -1,5 +1,33 @@
 [
     {
+        "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "\ue802Jul 07, 2026Email Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
+    },
+    {
+        "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "\ue802Jul 07, 2026",
+        "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
+    },
+    {
+        "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "\ue802Jul 07, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html"
+    },
+    {
+        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
+        "source": "The Hacker News",
+        "time": "2026-07-07",
+        "category": "RecoAI Security / SaaS Security",
+        "link": "https://thehackernews.uk/reco-ai-survey"
+    },
+    {
         "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
         "source": "The Hacker News",
         "time": "2026-07-07",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
     },
     {
-        "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "\ue802Jul 06, 2026Vulnerability / DevOps",
-        "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
-    },
-    {
-        "title": "Take the AI Sprawl CISO Survey. We'll Ship You Swag For It",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "RecoAI Security / SaaS Security",
-        "link": "https://thehackernews.uk/reco-ai-survey"
-    },
-    {
-        "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "\ue802Jul 06, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html"
-    },
-    {
-        "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-        "source": "The Hacker News",
-        "time": "2026-07-07",
-        "category": "\ue802Jul 06, 2026Security Operations / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-07-07",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+        "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 06, 2026Cyber Espionage / Cybercrime",
-        "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html"
+        "category": "\ue802Jul 06, 2026Vulnerability / DevOps",
+        "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
     }
 ]
