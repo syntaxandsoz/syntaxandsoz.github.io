@@ -1,24 +1,24 @@
 [
     {
-        "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+        "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 07, 2026Email Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
+        "category": "\ue802Jul 07, 2026Vulnerability / AI Security",
+        "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
     },
     {
-        "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+        "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 07, 2026",
-        "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
+        "category": "\ue802Jul 07, 2026Cybercrime / Law Enforcement",
+        "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html"
     },
     {
-        "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+        "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 07, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html"
+        "category": "\ue802Jul 07, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html"
     },
     {
         "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/reco-ai-survey"
     },
     {
-        "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+        "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 06, 2026Threat intelligence / Malware",
-        "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html"
+        "category": "\ue802Jul 07, 2026AI Security / Software Supply Chain",
+        "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html"
     },
     {
-        "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+        "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 06, 2026Linux / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
+        "category": "\ue802Jul 07, 2026Email Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
     },
     {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+        "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
         "source": "The Hacker News",
         "time": "2026-07-07",
-        "category": "\ue802Jul 06, 2026Vulnerability / DevOps",
-        "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
+        "category": "\ue802Jul 07, 2026",
+        "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
     }
 ]
