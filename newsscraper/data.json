@@ -1,24 +1,24 @@
 [
     {
-        "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+        "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
         "source": "The Hacker News",
         "time": "2026-07-08",
-        "category": "\ue802Jul 08, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
+        "category": "\ue802Jul 08, 2026",
+        "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html"
     },
     {
-        "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+        "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
         "source": "The Hacker News",
         "time": "2026-07-08",
-        "category": "\ue802Jul 08, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html"
+        "category": "\ue802Jul 08, 2026Cybercrime / AI Security",
+        "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html"
     },
     {
-        "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+        "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
         "source": "The Hacker News",
         "time": "2026-07-08",
-        "category": "\ue802Jul 07, 2026Malware / Mobile Security",
-        "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html"
+        "category": "\ue802Jul 08, 2026DevSecOps / Open Source Security",
+        "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html"
     },
     {
         "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/reco-ai-survey"
     },
     {
-        "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+        "title": "The Verification Step Is the New ATO Battleground in 2026",
         "source": "The Hacker News",
         "time": "2026-07-08",
-        "category": "\ue802Jul 07, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html"
+        "category": "\ue802Jul 08, 2026Identity Security / Compliance",
+        "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html"
     },
     {
-        "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+        "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
         "source": "The Hacker News",
         "time": "2026-07-08",
-        "category": "\ue802Jul 07, 2026Identity Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html"
+        "category": "\ue802Jul 08, 2026Artificial Intelligence / Software Security",
+        "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html"
     },
     {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+        "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
         "source": "The Hacker News",
         "time": "2026-07-08",
-        "category": "\ue802Jul 07, 2026Vulnerability / AI Security",
-        "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
+        "category": "\ue802Jul 08, 2026Malware / Network Security",
+        "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html"
     }
 ]
