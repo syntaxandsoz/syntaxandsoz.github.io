@@ -1,10 +1,31 @@
 [
     {
+        "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+        "source": "The Hacker News",
+        "time": "2026-07-08",
+        "category": "\ue802Jul 08, 2026Vulnerability / Cloud Security",
+        "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
+    },
+    {
+        "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+        "source": "The Hacker News",
+        "time": "2026-07-08",
+        "category": "\ue802Jul 08, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html"
+    },
+    {
         "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
         "source": "The Hacker News",
         "time": "2026-07-08",
         "category": "\ue802Jul 07, 2026Malware / Mobile Security",
         "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html"
+    },
+    {
+        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
+        "source": "The Hacker News",
+        "time": "2026-07-08",
+        "category": "RecoAI Security / SaaS Security",
+        "link": "https://thehackernews.uk/reco-ai-survey"
     },
     {
         "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html"
     },
     {
-        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
-        "source": "The Hacker News",
-        "time": "2026-07-08",
-        "category": "RecoAI Security / SaaS Security",
-        "link": "https://thehackernews.uk/reco-ai-survey"
-    },
-    {
-        "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-        "source": "The Hacker News",
-        "time": "2026-07-08",
-        "category": "\ue802Jul 07, 2026Vulnerability / AI Security",
-        "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
-    },
-    {
-        "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
-        "source": "The Hacker News",
-        "time": "2026-07-08",
-        "category": "\ue802Jul 07, 2026Cybercrime / Law Enforcement",
-        "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-07-08",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+        "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
         "source": "The Hacker News",
         "time": "2026-07-08",
-        "category": "\ue802Jul 07, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html"
+        "category": "\ue802Jul 07, 2026Vulnerability / AI Security",
+        "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
     }
 ]
