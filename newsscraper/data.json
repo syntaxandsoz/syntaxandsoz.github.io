@@ -1,24 +1,24 @@
 [
     {
-        "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
+        "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
         "source": "The Hacker News",
         "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html"
+        "category": "\ue802Jul 09, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html"
     },
     {
-        "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+        "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
         "source": "The Hacker News",
         "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026Privacy / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html"
+        "category": "\ue802Jul 09, 2026AI Security / Zero Trust",
+        "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html"
     },
     {
-        "title": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+        "title": "Summer of Clearinghouses",
         "source": "The Hacker News",
         "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html"
+        "category": "\ue802Jul 09, 2026AI Security / Application Security",
+        "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html"
     },
     {
         "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/reco-ai-survey"
     },
     {
-        "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+        "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
         "source": "The Hacker News",
         "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html"
+        "category": "\ue802Jul 09, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html"
     },
     {
-        "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+        "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
         "source": "The Hacker News",
         "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html"
+        "category": "\ue802Jul 09, 2026Vulnerability / Endpoint Security",
+        "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html"
     },
     {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+        "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
         "source": "The Hacker News",
         "time": "2026-07-09",
-        "category": "\ue802Jul 08, 2026AI Security / Threat Detection",
-        "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html"
+        "category": "\ue802Jul 09, 2026Privacy / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html"
     }
 ]
