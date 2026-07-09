@@ -1,5 +1,33 @@
 [
     {
+        "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+        "source": "The Hacker News",
+        "time": "2026-07-09",
+        "category": "\ue802Jul 09, 2026Developer Security / Supply Chain Security",
+        "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html"
+    },
+    {
+        "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+        "source": "The Hacker News",
+        "time": "2026-07-09",
+        "category": "\ue802Jul 09, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html"
+    },
+    {
+        "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+        "source": "The Hacker News",
+        "time": "2026-07-09",
+        "category": "\ue802Jul 09, 2026Supply Chain Security / DevSecOps",
+        "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html"
+    },
+    {
+        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
+        "source": "The Hacker News",
+        "time": "2026-07-09",
+        "category": "RecoAI Security / SaaS Security",
+        "link": "https://thehackernews.uk/reco-ai-survey"
+    },
+    {
         "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
         "source": "The Hacker News",
         "time": "2026-07-09",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html"
     },
     {
-        "title": "Summer of Clearinghouses",
-        "source": "The Hacker News",
-        "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026AI Security / Application Security",
-        "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html"
-    },
-    {
-        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
-        "source": "The Hacker News",
-        "time": "2026-07-09",
-        "category": "RecoAI Security / SaaS Security",
-        "link": "https://thehackernews.uk/reco-ai-survey"
-    },
-    {
-        "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-        "source": "The Hacker News",
-        "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html"
-    },
-    {
-        "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-        "source": "The Hacker News",
-        "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026Vulnerability / Endpoint Security",
-        "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-07-09",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+        "title": "Summer of Clearinghouses",
         "source": "The Hacker News",
         "time": "2026-07-09",
-        "category": "\ue802Jul 09, 2026Privacy / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html"
+        "category": "\ue802Jul 09, 2026AI Security / Application Security",
+        "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html"
     }
 ]
