@@ -1,10 +1,31 @@
 [
     {
+        "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+        "source": "The Hacker News",
+        "time": "2026-07-10",
+        "category": "\ue802Jul 10, 2026Cryptocurrency / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html"
+    },
+    {
+        "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+        "source": "The Hacker News",
+        "time": "2026-07-10",
+        "category": "\ue802Jul 10, 2026Cybercrime / Law Enforcement",
+        "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html"
+    },
+    {
         "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
         "source": "The Hacker News",
         "time": "2026-07-10",
         "category": "\ue802Jul 09, 2026Developer Security / Supply Chain Security",
         "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html"
+    },
+    {
+        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
+        "source": "The Hacker News",
+        "time": "2026-07-10",
+        "category": "RecoAI Security / SaaS Security",
+        "link": "https://thehackernews.uk/reco-ai-survey"
     },
     {
         "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html"
     },
     {
-        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
-        "source": "The Hacker News",
-        "time": "2026-07-10",
-        "category": "RecoAI Security / SaaS Security",
-        "link": "https://thehackernews.uk/reco-ai-survey"
-    },
-    {
-        "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-        "source": "The Hacker News",
-        "time": "2026-07-10",
-        "category": "\ue802Jul 09, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html"
-    },
-    {
-        "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-        "source": "The Hacker News",
-        "time": "2026-07-10",
-        "category": "\ue802Jul 09, 2026AI Security / Zero Trust",
-        "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-07-10",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Summer of Clearinghouses",
+        "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
         "source": "The Hacker News",
         "time": "2026-07-10",
-        "category": "\ue802Jul 09, 2026AI Security / Application Security",
-        "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html"
+        "category": "\ue802Jul 09, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html"
     }
 ]
