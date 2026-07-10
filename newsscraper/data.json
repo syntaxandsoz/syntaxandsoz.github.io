@@ -1,24 +1,24 @@
 [
     {
-        "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+        "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
         "source": "The Hacker News",
         "time": "2026-07-10",
-        "category": "\ue802Jul 10, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
+        "category": "\ue802Jul 10, 2026Enterprise Security / Security Incident",
+        "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html"
     },
     {
-        "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+        "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
         "source": "The Hacker News",
         "time": "2026-07-10",
-        "category": "\ue802Jul 10, 2026Malware / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html"
+        "category": "\ue802Jul 10, 2026Software Supply Chain / Malware",
+        "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html"
     },
     {
-        "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+        "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
         "source": "The Hacker News",
         "time": "2026-07-10",
-        "category": "\ue802Jul 10, 2026Vulnerability / Server Security",
-        "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html"
+        "category": "\ue802Jul 10, 2026Firmware Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
     },
     {
         "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/reco-ai-survey"
     },
     {
-        "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+        "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
         "source": "The Hacker News",
         "time": "2026-07-10",
-        "category": "\ue802Jul 10, 2026Asset Management / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html"
+        "category": "\ue802Jul 10, 2026Vulnerability / Hardware Security",
+        "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html"
     },
     {
-        "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+        "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
         "source": "The Hacker News",
         "time": "2026-07-10",
-        "category": "\ue802Jul 10, 2026Cybercrime / Website Security",
-        "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html"
+        "category": "\ue802Jul 10, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
     },
     {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+        "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
         "source": "The Hacker News",
         "time": "2026-07-10",
-        "category": "\ue802Jul 10, 2026Mobile Security / Privacy",
-        "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html"
+        "category": "\ue802Jul 10, 2026Malware / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html"
     }
 ]
