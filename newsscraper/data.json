@@ -1,5 +1,12 @@
 [
     {
+        "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+        "source": "The Hacker News",
+        "time": "2026-07-11",
+        "category": "\ue802Jul 11, 2026Vulnerability / Email Security",
+        "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html"
+    },
+    {
         "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
         "source": "The Hacker News",
         "time": "2026-07-11",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html"
     },
     {
-        "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-        "source": "The Hacker News",
-        "time": "2026-07-11",
-        "category": "\ue802Jul 10, 2026Firmware Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
-    },
-    {
         "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
         "source": "The Hacker News",
         "time": "2026-07-11",
         "category": "RecoAI Security / SaaS Security",
         "link": "https://thehackernews.uk/reco-ai-survey"
+    },
+    {
+        "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+        "source": "The Hacker News",
+        "time": "2026-07-11",
+        "category": "\ue802Jul 10, 2026Firmware Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
     },
     {
         "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html"
     },
     {
-        "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-        "source": "The Hacker News",
-        "time": "2026-07-11",
-        "category": "\ue802Jul 10, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
-    },
-    {
         "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
         "source": "The Hacker News",
         "time": "2026-07-11",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/vpn-threat-report"
     },
     {
-        "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+        "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
         "source": "The Hacker News",
         "time": "2026-07-11",
-        "category": "\ue802Jul 10, 2026Malware / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html"
+        "category": "\ue802Jul 10, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
     }
 ]
