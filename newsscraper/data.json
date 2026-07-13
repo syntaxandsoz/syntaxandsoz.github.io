@@ -1,24 +1,24 @@
 [
     {
-        "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+        "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
         "source": "The Hacker News",
         "time": "2026-07-13",
-        "category": "\ue802Jul 13, 2026Identity Security / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html"
+        "category": "\ue802Jul 13, 2026AI Security / Data Integrity",
+        "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html"
     },
     {
-        "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+        "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
         "source": "The Hacker News",
         "time": "2026-07-13",
-        "category": "\ue802Jul 13, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html"
+        "category": "\ue802Jul 13, 2026Email Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html"
     },
     {
-        "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+        "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
         "source": "The Hacker News",
         "time": "2026-07-13",
-        "category": "\ue802Jul 11, 2026Software Supply Chain / Malware",
-        "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
+        "category": "\ue802Jul 13, 2026Artificial Intelligence / Privacy",
+        "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html"
     },
     {
         "title": "The AI Security Starter Pack",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
-        "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+        "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
         "source": "The Hacker News",
         "time": "2026-07-13",
-        "category": "\ue802Jul 11, 2026Threat Intelligence / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html"
+        "category": "\ue802Jul 13, 2026Artificial Intelligence / Security Operations",
+        "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html"
     },
     {
-        "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+        "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
         "source": "The Hacker News",
         "time": "2026-07-13",
-        "category": "\ue802Jul 11, 2026Vulnerability / Email Security",
-        "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html"
+        "category": "\ue802Jul 13, 2026Artificial Intelligence / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html"
     },
     {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+        "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
         "source": "The Hacker News",
         "time": "2026-07-13",
-        "category": "\ue802Jul 10, 2026Enterprise Security / Security Incident",
-        "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html"
+        "category": "\ue802Jul 13, 2026Identity Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html"
     }
 ]
