@@ -1,10 +1,31 @@
 [
     {
+        "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+        "source": "The Hacker News",
+        "time": "2026-07-13",
+        "category": "\ue802Jul 13, 2026Identity Security / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html"
+    },
+    {
+        "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+        "source": "The Hacker News",
+        "time": "2026-07-13",
+        "category": "\ue802Jul 13, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html"
+    },
+    {
         "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
         "source": "The Hacker News",
         "time": "2026-07-13",
         "category": "\ue802Jul 11, 2026Software Supply Chain / Malware",
         "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
+    },
+    {
+        "title": "The AI Security Starter Pack",
+        "source": "The Hacker News",
+        "time": "2026-07-13",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
         "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
@@ -21,11 +42,11 @@
         "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html"
     },
     {
-        "title": "Take the AI Sprawl CISO Survey. Get fast track to BlackHat swag",
+        "title": "11 real-world stories proving how identity drift opens active attack paths",
         "source": "The Hacker News",
         "time": "2026-07-13",
-        "category": "RecoAI Security / SaaS Security",
-        "link": "https://thehackernews.uk/reco-ai-survey"
+        "category": "XM CyberIdentity Security / Exposure Management",
+        "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
         "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
@@ -33,26 +54,5 @@
         "time": "2026-07-13",
         "category": "\ue802Jul 10, 2026Enterprise Security / Security Incident",
         "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html"
-    },
-    {
-        "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-        "source": "The Hacker News",
-        "time": "2026-07-13",
-        "category": "\ue802Jul 10, 2026Software Supply Chain / Malware",
-        "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html"
-    },
-    {
-        "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders",
-        "source": "The Hacker News",
-        "time": "2026-07-13",
-        "category": "ZscalerAI Security / Network Security",
-        "link": "https://thehackernews.uk/vpn-threat-report"
-    },
-    {
-        "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-        "source": "The Hacker News",
-        "time": "2026-07-13",
-        "category": "\ue802Jul 10, 2026Firmware Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
     }
 ]
