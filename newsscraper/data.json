@@ -1,24 +1,24 @@
 [
     {
-        "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
+        "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
         "source": "The Hacker News",
         "time": "2026-07-14",
-        "category": "\ue802Jul 14, 2026Network Security / Cyber Espionage",
-        "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html"
+        "category": "\ue802Jul 14, 2026Endpoint Security / Linux",
+        "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html"
     },
     {
-        "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
+        "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
         "source": "The Hacker News",
         "time": "2026-07-14",
-        "category": "\ue802Jul 14, 2026Browser Security / Malvertising",
-        "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html"
+        "category": "\ue802Jul 14, 2026Cryptocurrency / Identity Protection",
+        "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html"
     },
     {
-        "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
+        "title": "How Pentera Turns AI Security Workflows into Validation Engines",
         "source": "The Hacker News",
         "time": "2026-07-14",
-        "category": "\ue802Jul 14, 2026SaaS Security / Identity Security",
-        "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html"
+        "category": "\ue802Jul 14, 2026Artificial Intelligence / Security Agent",
+        "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html"
     },
     {
         "title": "The AI Security Starter Pack",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
-        "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+        "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
         "source": "The Hacker News",
         "time": "2026-07-14",
-        "category": "\ue802Jul 13, 2026Endpoint Security / Cybercrime",
-        "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
+        "category": "\ue802Jul 14, 2026Cloud Security / Identity Security",
+        "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html"
     },
     {
-        "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+        "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
         "source": "The Hacker News",
         "time": "2026-07-14",
-        "category": "\ue802Jul 13, 2026Browser Security / Web Security",
-        "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html"
+        "category": "\ue802Jul 14, 2026Artificial Intelligence / Data Privacy",
+        "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html"
     },
     {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+        "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
         "source": "The Hacker News",
         "time": "2026-07-14",
-        "category": "\ue802Jul 13, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html"
+        "category": "\ue802Jul 14, 2026Network Security / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html"
     }
 ]
