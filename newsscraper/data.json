@@ -1,5 +1,33 @@
 [
     {
+        "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
+        "source": "The Hacker News",
+        "time": "2026-07-14",
+        "category": "\ue802Jul 14, 2026Network Security / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html"
+    },
+    {
+        "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
+        "source": "The Hacker News",
+        "time": "2026-07-14",
+        "category": "\ue802Jul 14, 2026Browser Security / Malvertising",
+        "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html"
+    },
+    {
+        "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
+        "source": "The Hacker News",
+        "time": "2026-07-14",
+        "category": "\ue802Jul 14, 2026SaaS Security / Identity Security",
+        "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html"
+    },
+    {
+        "title": "The AI Security Starter Pack",
+        "source": "The Hacker News",
+        "time": "2026-07-14",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/wiz-security-bundle"
+    },
+    {
         "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
         "source": "The Hacker News",
         "time": "2026-07-14",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html"
     },
     {
-        "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-        "source": "The Hacker News",
-        "time": "2026-07-14",
-        "category": "\ue802Jul 13, 2026Cybersecurity / Hacking",
-        "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html"
-    },
-    {
-        "title": "The AI Security Starter Pack",
-        "source": "The Hacker News",
-        "time": "2026-07-14",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/wiz-security-bundle"
-    },
-    {
-        "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-        "source": "The Hacker News",
-        "time": "2026-07-14",
-        "category": "\ue802Jul 13, 2026AI Security / Data Integrity",
-        "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html"
-    },
-    {
-        "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-        "source": "The Hacker News",
-        "time": "2026-07-14",
-        "category": "\ue802Jul 13, 2026Email Security / Artificial Intelligence",
-        "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html"
-    },
-    {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
         "source": "The Hacker News",
         "time": "2026-07-14",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+        "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
         "source": "The Hacker News",
         "time": "2026-07-14",
-        "category": "\ue802Jul 13, 2026Artificial Intelligence / Privacy",
-        "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html"
+        "category": "\ue802Jul 13, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html"
     }
 ]
