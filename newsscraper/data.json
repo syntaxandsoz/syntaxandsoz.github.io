@@ -1,24 +1,24 @@
 [
     {
-        "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+        "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+        "source": "The Hacker News",
+        "time": "2026-07-15",
+        "category": "\ue802Jul 15, 2026Vulnerability / Browser Security",
+        "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+    },
+    {
+        "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+        "source": "The Hacker News",
+        "time": "2026-07-15",
+        "category": "\ue802Jul 15, 2026Network Security / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html"
+    },
+    {
+        "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
         "source": "The Hacker News",
         "time": "2026-07-15",
         "category": "\ue802Jul 15, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
-    },
-    {
-        "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-        "source": "The Hacker News",
-        "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html"
-    },
-    {
-        "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-        "source": "The Hacker News",
-        "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Enterprise Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html"
+        "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html"
     },
     {
         "title": "The AI Security Starter Pack",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
-        "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+        "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
         "source": "The Hacker News",
         "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Browser Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html"
+        "category": "\ue802Jul 15, 2026Web Security / Supply Chain Security",
+        "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html"
     },
     {
-        "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+        "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
         "source": "The Hacker News",
         "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html"
+        "category": "\ue802Jul 15, 2026Endpoint Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html"
     },
     {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+        "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
         "source": "The Hacker News",
         "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html"
+        "category": "\ue802Jul 15, 2026Malware / Software Security",
+        "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html"
     }
 ]
