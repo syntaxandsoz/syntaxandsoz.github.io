@@ -1,5 +1,12 @@
 [
     {
+        "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+        "source": "The Hacker News",
+        "time": "2026-07-15",
+        "category": "\ue802Jul 15, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
+    },
+    {
         "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
         "source": "The Hacker News",
         "time": "2026-07-15",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html"
     },
     {
-        "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-        "source": "The Hacker News",
-        "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Browser Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html"
-    },
-    {
         "title": "The AI Security Starter Pack",
         "source": "The Hacker News",
         "time": "2026-07-15",
         "category": "WizAI Security / Cloud Security",
         "link": "https://thehackernews.uk/wiz-security-bundle"
+    },
+    {
+        "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+        "source": "The Hacker News",
+        "time": "2026-07-15",
+        "category": "\ue802Jul 14, 2026Browser Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html"
     },
     {
         "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html"
     },
     {
-        "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-        "source": "The Hacker News",
-        "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html"
-    },
-    {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
         "source": "The Hacker News",
         "time": "2026-07-15",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+        "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
         "source": "The Hacker News",
         "time": "2026-07-15",
-        "category": "\ue802Jul 14, 2026Endpoint Security / Linux",
-        "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html"
+        "category": "\ue802Jul 14, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html"
     }
 ]
