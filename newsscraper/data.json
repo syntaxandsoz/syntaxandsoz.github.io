@@ -1,24 +1,24 @@
 [
     {
-        "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+        "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
         "source": "The Hacker News",
         "time": "2026-07-16",
-        "category": "\ue802Jul 16, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html"
+        "category": "\ue802Jul 16, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html"
     },
     {
-        "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+        "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
         "source": "The Hacker News",
         "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026IoT Security / Network Security",
-        "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html"
+        "category": "\ue802Jul 16, 2026Cybercrime / Endpoint Security",
+        "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html"
     },
     {
-        "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+        "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
         "source": "The Hacker News",
         "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026Endpoint Security / Malware",
-        "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html"
+        "category": "\ue802Jul 16, 2026Malware / Cryptocurrency",
+        "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html"
     },
     {
         "title": "The AI Security Starter Pack",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
-        "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+        "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
         "source": "The Hacker News",
         "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026Vulnerability / Browser Security",
-        "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+        "category": "\ue802Jul 16, 2026Malware / Endpoint Security",
+        "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html"
     },
     {
-        "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+        "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
         "source": "The Hacker News",
         "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026Network Security / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html"
+        "category": "\ue802Jul 16, 2026AI Security / Developer Security",
+        "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html"
     },
     {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+        "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
         "source": "The Hacker News",
         "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html"
+        "category": "\ue802Jul 16, 2026Cyber Espionage / Malware",
+        "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html"
     }
 ]
