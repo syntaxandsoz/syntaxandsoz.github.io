@@ -1,5 +1,12 @@
 [
     {
+        "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+        "source": "The Hacker News",
+        "time": "2026-07-16",
+        "category": "\ue802Jul 16, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html"
+    },
+    {
         "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
         "source": "The Hacker News",
         "time": "2026-07-16",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html"
     },
     {
-        "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-        "source": "The Hacker News",
-        "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026Vulnerability / Browser Security",
-        "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
-    },
-    {
         "title": "The AI Security Starter Pack",
         "source": "The Hacker News",
         "time": "2026-07-16",
         "category": "WizAI Security / Cloud Security",
         "link": "https://thehackernews.uk/wiz-security-bundle"
+    },
+    {
+        "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+        "source": "The Hacker News",
+        "time": "2026-07-16",
+        "category": "\ue802Jul 15, 2026Vulnerability / Browser Security",
+        "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
     },
     {
         "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html"
     },
     {
-        "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-        "source": "The Hacker News",
-        "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html"
-    },
-    {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
         "source": "The Hacker News",
         "time": "2026-07-16",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+        "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
         "source": "The Hacker News",
         "time": "2026-07-16",
-        "category": "\ue802Jul 15, 2026Web Security / Supply Chain Security",
-        "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html"
+        "category": "\ue802Jul 15, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html"
     }
 ]
