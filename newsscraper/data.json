@@ -1,5 +1,12 @@
 [
     {
+        "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+        "source": "The Hacker News",
+        "time": "2026-07-17",
+        "category": "\ue802Jul 17, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
+    },
+    {
         "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
         "source": "The Hacker News",
         "time": "2026-07-17",
@@ -14,18 +21,18 @@
         "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html"
     },
     {
-        "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-        "source": "The Hacker News",
-        "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html"
-    },
-    {
         "title": "The AI Security Starter Pack",
         "source": "The Hacker News",
         "time": "2026-07-17",
         "category": "WizAI Security / Cloud Security",
         "link": "https://thehackernews.uk/wiz-security-bundle"
+    },
+    {
+        "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+        "source": "The Hacker News",
+        "time": "2026-07-17",
+        "category": "\ue802Jul 16, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html"
     },
     {
         "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
@@ -35,13 +42,6 @@
         "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html"
     },
     {
-        "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-        "source": "The Hacker News",
-        "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Malware / Cryptocurrency",
-        "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html"
-    },
-    {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
         "source": "The Hacker News",
         "time": "2026-07-17",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
+        "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
         "source": "The Hacker News",
         "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Malware / Endpoint Security",
-        "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html"
+        "category": "\ue802Jul 16, 2026Malware / Cryptocurrency",
+        "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html"
     }
 ]
