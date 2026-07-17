@@ -1,24 +1,24 @@
 [
     {
-        "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+        "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
         "source": "The Hacker News",
         "time": "2026-07-17",
-        "category": "\ue802Jul 17, 2026Vulnerability / Enterprise Security",
-        "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
+        "category": "\ue802Jul 17, 2026Regulation / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html"
     },
     {
-        "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
+        "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
         "source": "The Hacker News",
         "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Cybercrime / Identity Security",
-        "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html"
+        "category": "\ue802Jul 17, 2026National Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html"
     },
     {
-        "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+        "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
         "source": "The Hacker News",
         "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Hacking News / Cybersecurity News",
-        "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html"
+        "category": "\ue802Jul 17, 2026Ransomware / Law Enforcement",
+        "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"
     },
     {
         "title": "The AI Security Starter Pack",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
-        "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+        "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
         "source": "The Hacker News",
         "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html"
+        "category": "\ue802Jul 17, 2026Malware / Windows Security",
+        "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html"
     },
     {
-        "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+        "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
         "source": "The Hacker News",
         "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Cybercrime / Endpoint Security",
-        "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html"
+        "category": "\ue802Jul 17, 2026Cyber Espionage / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html"
     },
     {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+        "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
         "source": "The Hacker News",
         "time": "2026-07-17",
-        "category": "\ue802Jul 16, 2026Malware / Cryptocurrency",
-        "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html"
+        "category": "\ue802Jul 17, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
     }
 ]
