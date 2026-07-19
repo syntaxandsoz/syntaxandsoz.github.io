@@ -1,10 +1,31 @@
 [
     {
+        "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+        "source": "The Hacker News",
+        "time": "2026-07-19",
+        "category": "\ue802Jul 19, 2026Malware / Cyber Warfare",
+        "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html"
+    },
+    {
+        "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+        "source": "The Hacker News",
+        "time": "2026-07-19",
+        "category": "\ue802Jul 19, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html"
+    },
+    {
         "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
         "source": "The Hacker News",
         "time": "2026-07-19",
         "category": "\ue802Jul 17, 2026Vulnerability / Web Security",
         "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
+    },
+    {
+        "title": "The AI Security Starter Pack",
+        "source": "The Hacker News",
+        "time": "2026-07-19",
+        "category": "WizAI Security / Cloud Security",
+        "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
         "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
     },
     {
-        "title": "The AI Security Starter Pack",
-        "source": "The Hacker News",
-        "time": "2026-07-19",
-        "category": "WizAI Security / Cloud Security",
-        "link": "https://thehackernews.uk/wiz-security-bundle"
-    },
-    {
-        "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-        "source": "The Hacker News",
-        "time": "2026-07-19",
-        "category": "\ue802Jul 17, 2026Botnet / AI Security",
-        "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
-    },
-    {
-        "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-        "source": "The Hacker News",
-        "time": "2026-07-19",
-        "category": "\ue802Jul 17, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"
-    },
-    {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
         "source": "The Hacker News",
         "time": "2026-07-19",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+        "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
         "source": "The Hacker News",
         "time": "2026-07-19",
-        "category": "\ue802Jul 17, 2026Social Engineering / Malware",
-        "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
+        "category": "\ue802Jul 17, 2026Botnet / AI Security",
+        "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
     }
 ]
