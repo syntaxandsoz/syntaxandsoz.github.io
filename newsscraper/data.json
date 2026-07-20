@@ -1,58 +1,58 @@
 [
     {
+        "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+        "source": "The Hacker News",
+        "time": "2026-07-20",
+        "category": "\ue802Jul 19, 2026Vulnerability / Server Security",
+        "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
+    },
+    {
         "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
         "source": "The Hacker News",
-        "time": "2026-07-19",
+        "time": "2026-07-20",
         "category": "\ue802Jul 19, 2026Malware / Cyber Warfare",
         "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html"
     },
     {
         "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
         "source": "The Hacker News",
-        "time": "2026-07-19",
+        "time": "2026-07-20",
         "category": "\ue802Jul 19, 2026Vulnerability / Network Security",
         "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html"
     },
     {
-        "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-        "source": "The Hacker News",
-        "time": "2026-07-19",
-        "category": "\ue802Jul 17, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
-    },
-    {
         "title": "The AI Security Starter Pack",
         "source": "The Hacker News",
-        "time": "2026-07-19",
+        "time": "2026-07-20",
         "category": "WizAI Security / Cloud Security",
         "link": "https://thehackernews.uk/wiz-security-bundle"
     },
     {
+        "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+        "source": "The Hacker News",
+        "time": "2026-07-20",
+        "category": "\ue802Jul 17, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
+    },
+    {
         "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
         "source": "The Hacker News",
-        "time": "2026-07-19",
+        "time": "2026-07-20",
         "category": "\ue802Jul 17, 2026Vulnerability / Server Security",
         "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
     },
     {
-        "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-        "source": "The Hacker News",
-        "time": "2026-07-19",
-        "category": "\ue802Jul 17, 2026Software Supply Chain / Malware",
-        "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
-    },
-    {
         "title": "11 real-world stories proving how identity drift opens active attack paths",
         "source": "The Hacker News",
-        "time": "2026-07-19",
+        "time": "2026-07-20",
         "category": "XM CyberIdentity Security / Exposure Management",
         "link": "https://thehackernews.uk/real-identity-attacks"
     },
     {
-        "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+        "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
         "source": "The Hacker News",
-        "time": "2026-07-19",
-        "category": "\ue802Jul 17, 2026Botnet / AI Security",
-        "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
+        "time": "2026-07-20",
+        "category": "\ue802Jul 17, 2026Software Supply Chain / Malware",
+        "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
     }
 ]
