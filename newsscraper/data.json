@@ -1,5 +1,33 @@
 [
     {
+        "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+        "source": "The Hacker News",
+        "time": "2026-07-20",
+        "category": "\ue802Jul 20, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html"
+    },
+    {
+        "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+        "source": "The Hacker News",
+        "time": "2026-07-20",
+        "category": "\ue802Jul 20, 2026IoT Security / Cyber Espionage",
+        "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html"
+    },
+    {
+        "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+        "source": "The Hacker News",
+        "time": "2026-07-20",
+        "category": "\ue802Jul 20, 2026Security Operations / Exposure Management",
+        "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html"
+    },
+    {
+        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
+        "source": "The Hacker News",
+        "time": "2026-07-20",
+        "category": "SANSAI Security / Offensive AI",
+        "link": "https://thehackernews.uk/ai-weapon-sans"
+    },
+    {
         "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
         "source": "The Hacker News",
         "time": "2026-07-20",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html"
     },
     {
-        "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-        "source": "The Hacker News",
-        "time": "2026-07-20",
-        "category": "\ue802Jul 20, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html"
-    },
-    {
-        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
-        "source": "The Hacker News",
-        "time": "2026-07-20",
-        "category": "SANSAI Security / Offensive AI",
-        "link": "https://thehackernews.uk/ai-weapon-sans"
-    },
-    {
-        "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-        "source": "The Hacker News",
-        "time": "2026-07-20",
-        "category": "\ue802Jul 20, 2026Malware / Application Security",
-        "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html"
-    },
-    {
-        "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-        "source": "The Hacker News",
-        "time": "2026-07-20",
-        "category": "\ue802Jul 19, 2026Vulnerability / Server Security",
-        "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
-    },
-    {
         "title": "Webinar: The State of Shadow AI in 2026 (And How Attackers Are Taking Advantage)",
         "source": "The Hacker News",
         "time": "2026-07-20",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/shadowai-webinar"
     },
     {
-        "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+        "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
         "source": "The Hacker News",
         "time": "2026-07-20",
-        "category": "\ue802Jul 19, 2026Malware / Cyber Warfare",
-        "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html"
+        "category": "\ue802Jul 20, 2026AI Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html"
     }
 ]
