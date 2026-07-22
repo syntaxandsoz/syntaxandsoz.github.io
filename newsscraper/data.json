@@ -1,31 +1,17 @@
 [
     {
-        "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+        "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
         "source": "The Hacker News",
         "time": "2026-07-22",
-        "category": "\ue802Jul 22, 2026Law Enforcement / Cybercrime",
-        "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html"
+        "category": "\ue802Jul 22, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html"
     },
     {
-        "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+        "title": "The Fastest Path to AI Adoption Runs Through Security",
         "source": "The Hacker News",
         "time": "2026-07-22",
-        "category": "\ue802Jul 22, 2026Supply Chain Attack / Malware",
-        "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html"
-    },
-    {
-        "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-        "source": "The Hacker News",
-        "time": "2026-07-22",
-        "category": "\ue802Jul 22, 2026AI Security / DevSecOps",
-        "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html"
-    },
-    {
-        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
-        "source": "The Hacker News",
-        "time": "2026-07-22",
-        "category": "SANSAI Security / Offensive AI",
-        "link": "https://thehackernews.uk/ai-weapon-sans"
+        "category": "\ue802Jul 22, 2026AI Security / Shadow IT",
+        "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html"
     },
     {
         "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
@@ -35,11 +21,25 @@
         "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html"
     },
     {
-        "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
         "source": "The Hacker News",
         "time": "2026-07-22",
-        "category": "\ue802Jul 21, 2026Vulnerability / Cloud Security",
-        "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html"
+        "category": "SANSAI Security / Offensive AI",
+        "link": "https://thehackernews.uk/ai-weapon-sans"
+    },
+    {
+        "title": "Why Modern SOCs Need Multi-Layered Detections",
+        "source": "The Hacker News",
+        "time": "2026-07-22",
+        "category": "\ue802Jul 22, 2026Network Security / Artificial Intelligence",
+        "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html"
+    },
+    {
+        "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+        "source": "The Hacker News",
+        "time": "2026-07-22",
+        "category": "\ue802Jul 22, 2026Law Enforcement / Cybercrime",
+        "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html"
     },
     {
         "title": "Webinar: The State of Shadow AI in 2026 (And How Attackers Are Taking Advantage)",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/shadowai-webinar"
     },
     {
-        "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+        "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
         "source": "The Hacker News",
         "time": "2026-07-22",
-        "category": "\ue802Jul 21, 2026AI Security / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html"
+        "category": "\ue802Jul 22, 2026Supply Chain Attack / Malware",
+        "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html"
     }
 ]
