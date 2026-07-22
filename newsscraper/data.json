@@ -2,56 +2,56 @@
     {
         "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "\ue802Jul 21, 2026Vulnerability / Cloud Security",
         "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html"
     },
     {
         "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "\ue802Jul 21, 2026AI Security / Vulnerability",
         "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html"
     },
     {
         "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "\ue802Jul 21, 2026Software Security / Artificial Intelligence",
         "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html"
     },
     {
         "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "SANSAI Security / Offensive AI",
         "link": "https://thehackernews.uk/ai-weapon-sans"
     },
     {
         "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "\ue802Jul 21, 2026Vulnerability / Web Security",
         "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
     },
     {
         "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "\ue802Jul 21, 2026Vulnerability / Network Security",
         "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
     },
     {
         "title": "Webinar: The State of Shadow AI in 2026 (And How Attackers Are Taking Advantage)",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "Push SecurityShadow AI / SaaS Security",
         "link": "https://thehackernews.uk/shadowai-webinar"
     },
     {
         "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
         "source": "The Hacker News",
-        "time": "2026-07-21",
+        "time": "2026-07-22",
         "category": "\ue802Jul 21, 2026Email Security / Vulnerability",
         "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html"
     }
