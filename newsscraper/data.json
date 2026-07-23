@@ -1,10 +1,31 @@
 [
     {
+        "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+        "source": "The Hacker News",
+        "time": "2026-07-23",
+        "category": "\ue802Jul 23, 2026Linux / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html"
+    },
+    {
+        "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+        "source": "The Hacker News",
+        "time": "2026-07-23",
+        "category": "\ue802Jul 23, 2026Vulnerability / Network Security",
+        "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html"
+    },
+    {
         "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
         "source": "The Hacker News",
         "time": "2026-07-23",
         "category": "\ue802Jul 22, 2026Vulnerability / DevSecOps",
         "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html"
+    },
+    {
+        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
+        "source": "The Hacker News",
+        "time": "2026-07-23",
+        "category": "SANSAI Security / Offensive AI",
+        "link": "https://thehackernews.uk/ai-weapon-sans"
     },
     {
         "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html"
     },
     {
-        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
-        "source": "The Hacker News",
-        "time": "2026-07-23",
-        "category": "SANSAI Security / Offensive AI",
-        "link": "https://thehackernews.uk/ai-weapon-sans"
-    },
-    {
-        "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-        "source": "The Hacker News",
-        "time": "2026-07-23",
-        "category": "\ue802Jul 22, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html"
-    },
-    {
-        "title": "The Fastest Path to AI Adoption Runs Through Security",
-        "source": "The Hacker News",
-        "time": "2026-07-23",
-        "category": "\ue802Jul 22, 2026AI Security / Shadow IT",
-        "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html"
-    },
-    {
         "title": "Webinar: The State of Shadow AI in 2026 (And How Attackers Are Taking Advantage)",
         "source": "The Hacker News",
         "time": "2026-07-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/shadowai-webinar"
     },
     {
-        "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+        "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 22, 2026AI Security / Cloud Security",
-        "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html"
+        "category": "\ue802Jul 22, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html"
     }
 ]
