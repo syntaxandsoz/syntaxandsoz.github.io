@@ -1,24 +1,24 @@
 [
     {
-        "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+        "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 23, 2026Linux / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html"
+        "category": "\ue802Jul 23, 2026Vulnerability / Application Security",
+        "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html"
     },
     {
-        "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+        "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 23, 2026Vulnerability / Network Security",
-        "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html"
+        "category": "\ue802Jul 23, 2026Ransomware / Network Security",
+        "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html"
     },
     {
-        "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+        "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 22, 2026Vulnerability / DevSecOps",
-        "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html"
+        "category": "\ue802Jul 23, 2026Malware / Threat Intelligence",
+        "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html"
     },
     {
         "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
@@ -28,18 +28,18 @@
         "link": "https://thehackernews.uk/ai-weapon-sans"
     },
     {
-        "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+        "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 22, 2026Linux / Vulnerability",
-        "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html"
+        "category": "\ue802Jul 23, 2026Identity Security / Cloud Security",
+        "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html"
     },
     {
-        "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+        "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 22, 2026Vulnerability / Browser Security",
-        "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html"
+        "category": "\ue802Jul 23, 2026Vulnerability / Web Security",
+        "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html"
     },
     {
         "title": "Webinar: The State of Shadow AI in 2026 (And How Attackers Are Taking Advantage)",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/shadowai-webinar"
     },
     {
-        "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+        "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 22, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html"
+        "category": "\ue802Jul 23, 2026Authentication / Data Protection",
+        "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html"
     }
 ]
