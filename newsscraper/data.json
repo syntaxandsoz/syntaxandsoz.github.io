@@ -1,10 +1,31 @@
 [
     {
+        "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+        "source": "The Hacker News",
+        "time": "2026-07-23",
+        "category": "\ue802Jul 23, 2026Email Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html"
+    },
+    {
+        "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+        "source": "The Hacker News",
+        "time": "2026-07-23",
+        "category": "\ue802Jul 23, 2026Hacking News / Cybersecurity News",
+        "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html"
+    },
+    {
         "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
         "source": "The Hacker News",
         "time": "2026-07-23",
         "category": "\ue802Jul 23, 2026Vulnerability / Application Security",
         "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html"
+    },
+    {
+        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
+        "source": "The Hacker News",
+        "time": "2026-07-23",
+        "category": "SANSAI Security / Offensive AI",
+        "link": "https://thehackernews.uk/ai-weapon-sans"
     },
     {
         "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
@@ -21,27 +42,6 @@
         "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html"
     },
     {
-        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
-        "source": "The Hacker News",
-        "time": "2026-07-23",
-        "category": "SANSAI Security / Offensive AI",
-        "link": "https://thehackernews.uk/ai-weapon-sans"
-    },
-    {
-        "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
-        "source": "The Hacker News",
-        "time": "2026-07-23",
-        "category": "\ue802Jul 23, 2026Identity Security / Cloud Security",
-        "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html"
-    },
-    {
-        "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-        "source": "The Hacker News",
-        "time": "2026-07-23",
-        "category": "\ue802Jul 23, 2026Vulnerability / Web Security",
-        "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html"
-    },
-    {
         "title": "Webinar: The State of Shadow AI in 2026 (And How Attackers Are Taking Advantage)",
         "source": "The Hacker News",
         "time": "2026-07-23",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/shadowai-webinar"
     },
     {
-        "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+        "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
         "source": "The Hacker News",
         "time": "2026-07-23",
-        "category": "\ue802Jul 23, 2026Authentication / Data Protection",
-        "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html"
+        "category": "\ue802Jul 23, 2026Identity Security / Cloud Security",
+        "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html"
     }
 ]
