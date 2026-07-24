@@ -1,5 +1,33 @@
 [
     {
+        "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+        "source": "The Hacker News",
+        "time": "2026-07-24",
+        "category": "\ue802Jul 24, 2026Web Security / Vulnerability",
+        "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html"
+    },
+    {
+        "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+        "source": "The Hacker News",
+        "time": "2026-07-24",
+        "category": "\ue802Jul 24, 2026Vulnerability / Database Security",
+        "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html"
+    },
+    {
+        "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+        "source": "The Hacker News",
+        "time": "2026-07-24",
+        "category": "\ue802Jul 24, 2026Cyber Espionage / Web Security",
+        "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html"
+    },
+    {
+        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
+        "source": "The Hacker News",
+        "time": "2026-07-24",
+        "category": "SANSAI Security / Offensive AI",
+        "link": "https://thehackernews.uk/ai-weapon-sans"
+    },
+    {
         "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
         "source": "The Hacker News",
         "time": "2026-07-24",
@@ -14,34 +42,6 @@
         "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html"
     },
     {
-        "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-        "source": "The Hacker News",
-        "time": "2026-07-24",
-        "category": "\ue802Jul 23, 2026Vulnerability / Application Security",
-        "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html"
-    },
-    {
-        "title": "Agentic AI Runs Recon, Phishing, and Malware Without a Human",
-        "source": "The Hacker News",
-        "time": "2026-07-24",
-        "category": "SANSAI Security / Offensive AI",
-        "link": "https://thehackernews.uk/ai-weapon-sans"
-    },
-    {
-        "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-        "source": "The Hacker News",
-        "time": "2026-07-24",
-        "category": "\ue802Jul 23, 2026Ransomware / Network Security",
-        "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html"
-    },
-    {
-        "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-        "source": "The Hacker News",
-        "time": "2026-07-24",
-        "category": "\ue802Jul 23, 2026Malware / Threat Intelligence",
-        "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html"
-    },
-    {
         "title": "Webinar: The State of Shadow AI in 2026 (And How Attackers Are Taking Advantage)",
         "source": "The Hacker News",
         "time": "2026-07-24",
@@ -49,10 +49,10 @@
         "link": "https://thehackernews.uk/shadowai-webinar"
     },
     {
-        "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+        "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
         "source": "The Hacker News",
         "time": "2026-07-24",
-        "category": "\ue802Jul 23, 2026Identity Security / Cloud Security",
-        "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html"
+        "category": "\ue802Jul 23, 2026Vulnerability / Application Security",
+        "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html"
     }
 ]
