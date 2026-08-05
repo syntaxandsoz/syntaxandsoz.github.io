@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Syntax & Soz - Zero-BS Developer Tools
 
-## Getting Started
+Syntax & Soz is a blazing-fast, lightweight suite of developer micro-utilities built for speed and efficiency. Engineered with a legacy Vanilla HTML/CSS architecture to eliminate DOM bloat, providing a pure, instant-execution technical environment.
 
-First, run the development server:
+## 🚀 Core Philosophy
+- **Zero Setup:** No logins, no ads, no loading screens.
+- **100% Client-Side:** All data processing happens directly in your browser. Total privacy.
+- **Vanilla Aesthetics:** Stripped-down, terminal-like UI. No Tailwind, no unnecessary utility classes.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Features & Micro-Tools
+* [Add your tool names here, e.g., Fast JSON Formatter]
+* [Add your tool names here, e.g., Regex Tester]
+* [Add your tool names here, e.g., Base64 Encoder/Decoder]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 Tech Stack
+- **Framework:** Next.js (App Router)
+- **Styling:** Legacy Vanilla CSS
+- **Deployment:** GitHub Pages (Static Export)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🌐 Live URL
+Visit the live site: [https://syntaxandsoz.github.io](https://syntaxandsoz.github.io)
