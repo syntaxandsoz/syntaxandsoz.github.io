@@ -1,0 +1,113 @@
+/* RESET & FONTS */
+.newsscraper-wrapper {
+    background-color: #050505;
+    color: #e0e0e0;
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+    overflow: hidden; /* Scrollbar sirf feed mein hoga */
+}
+
+/* LAYOUT */
+.newsscraper-wrapper .dashboard-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* SIDEBAR */
+.newsscraper-wrapper .sidebar {
+    width: 280px;
+    background: #0d1117;
+    border-right: 1px solid #30363d;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.newsscraper-wrapper .back-link {
+    color: #58a6ff; text-decoration: none; font-family: 'Fira Code'; font-size: 0.8rem;
+    margin-bottom: 30px; display: block;
+}
+
+.newsscraper-wrapper .status-panel {
+    background: #161b22; border: 1px solid #30363d;
+    padding: 15px; border-radius: 6px; margin-bottom: 20px;
+}
+.newsscraper-wrapper .status-panel h3 { font-size: 0.7rem; color: #888; margin-bottom: 8px; letter-spacing: 1px; }
+
+.newsscraper-wrapper .status-indicator { display: flex; align-items: center; gap: 8px; }
+.newsscraper-wrapper .dot { width: 8px; height: 8px; background: #00ff41; border-radius: 50%; box-shadow: 0 0 8px #00ff41; }
+.newsscraper-wrapper .text { color: #00ff41; font-family: 'Fira Code'; font-weight: bold; font-size: 0.9rem; }
+.newsscraper-wrapper .pulse { animation: pulse 2s infinite; }
+
+.newsscraper-wrapper .terminal-logs {
+    font-family: 'Fira Code'; font-size: 0.75rem; color: #8b949e;
+    background: #000; padding: 15px; border-radius: 6px; border: 1px solid #21262d;
+    flex-grow: 1; overflow: hidden;
+}
+.newsscraper-wrapper .terminal-logs p { margin-bottom: 5px; }
+.newsscraper-wrapper .blink { animation: blink 1s infinite; }
+
+.newsscraper-wrapper .actions { margin-top: 20px; }
+.newsscraper-wrapper .label { font-size: 0.7rem; color: #666; margin-bottom: 10px; font-weight: bold; }
+.newsscraper-wrapper .btn-download {
+    display: block; width: 100%; text-align: center;
+    background: #238636; color: white; text-decoration: none;
+    padding: 10px; border-radius: 6px; font-weight: bold;
+    border: 1px solid #2ea043; transition: 0.3s; font-size: 0.9rem;
+}
+.newsscraper-wrapper .btn-download:hover { background: #2ea043; }
+
+
+/* MAIN FEED */
+.newsscraper-wrapper .feed {
+    flex: 1;
+    padding: 40px;
+    overflow-y: auto; /* Scroll sirf yahan hoga */
+}
+
+.newsscraper-wrapper header { margin-bottom: 40px; border-bottom: 1px solid #30363d; padding-bottom: 20px; }
+.newsscraper-wrapper h1 { font-family: 'Fira Code'; font-size: 2rem; margin-bottom: 5px; }
+.newsscraper-wrapper .accent { color: #58a6ff; }
+.newsscraper-wrapper header p { color: #8b949e; }
+
+/* NEWS GRID */
+.newsscraper-wrapper .news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.newsscraper-wrapper .card {
+    background: #0d1117; border: 1px solid #30363d;
+    padding: 20px; border-radius: 8px;
+    transition: transform 0.2s, border-color 0.2s;
+    position: relative; display: flex; flex-direction: column;
+    justify-content: space-between;
+}
+.newsscraper-wrapper .card:hover { transform: translateY(-5px); border-color: #58a6ff; cursor: pointer; }
+
+.newsscraper-wrapper .tag {
+    font-size: 0.7rem; background: #1f6feb; color: white;
+    padding: 2px 8px; border-radius: 4px; align-self: flex-start; margin-bottom: 10px;
+    font-family: 'Fira Code';
+}
+
+.newsscraper-wrapper .card h3 { font-size: 1.1rem; line-height: 1.5; color: #e0e0e0; margin-bottom: 15px; }
+
+.newsscraper-wrapper .meta {
+    font-size: 0.75rem; color: #8b949e;
+    display: flex; justify-content: space-between;
+    border-top: 1px solid #21262d; padding-top: 10px; margin-top: auto;
+}
+
+/* Animations */
+@keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+@keyframes blink { 50% { opacity: 0; } }
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .newsscraper-wrapper .dashboard-container { flex-direction: column; overflow: auto; }
+    .newsscraper-wrapper .sidebar { width: 100%; height: auto; border-right: none; border-bottom: 1px solid #30363d; }
+    .newsscraper-wrapper .feed { overflow: visible; }
+}

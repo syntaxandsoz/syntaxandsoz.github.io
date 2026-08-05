@@ -1,0 +1,5240 @@
+
+================================================================================
+FILE PATH: airgap\encoder.py
+================================================================================
+
+import cv2
+import qrcode
+import numpy as np
+import json
+import time
+import sys
+
+# Syntax & Soz - QR Video Encoder v1.0
+# Converts text/JSON data into a video stream of QR codes.
+
+def text_to_qr_video(data, filename="output.avi"):
+    print(f">> Initializing Encoder for: {filename}")
+    
+    # 2 Frames per second
+    fourcc = cv2.VideoWriter_fourcc(*'XVID')
+    out = cv2.VideoWriter(filename, fourcc, 2.0, (500, 500))
+    
+    # Split data into chunks of 200 chars
+    chunks = [data[i:i+200] for i in range(0, len(data), 200)]
+    
+    print(f">> Total Chunks: {len(chunks)}")
+
+    for i, chunk in enumerate(chunks):
+        # Generate QR Code
+        qr = qrcode.QRCode(
+            version=1,
+            error_correction=qrcode.constants.ERROR_CORRECT_L,
+            box_size=10,
+            border=4,
+        )
+        qr.add_data(chunk)
+        qr.make(fit=True)
+        img = qr.make_image(fill_color="black", back_color="white")
+        
+        # Convert PIL image to OpenCV format
+        frame = np.array(img.convert('RGB'))
+        frame = cv2.resize(frame, (500, 500))
+        
+        # Write frame to video
+        out.write(frame)
+        
+        # Progress Bar effect
+        sys.stdout.write(f"\r[+] Encoding Frame {i+1}/{len(chunks)}")
+        sys.stdout.flush()
+        
+    out.release()
+    print("\n>> Video Sequence Complete. Saved as " + filename)
+
+if __name__ == "__main__":
+    # Dummy Data for demonstration
+    sample_data = "{ 'project': 'AirGap', 'author': 'SyntaxAndSoz', 'key': '8299102' }" * 50
+    text_to_qr_video(sample_data)
+
+
+================================================================================
+FILE PATH: airgap\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air-Gap Encoder | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <button class="menu-btn" onclick="toggleSidebar()">
+        ☰
+    </button>
+
+    <div class="doc-layout">
+        <nav class="sidebar" id="sidebar">
+            <div class="brand">
+                <a href="../">← Syntax & Soz</a>
+            </div>
+            <ul>
+                <li><a href="#intro" class="active">1. Introduction</a></li>
+                <li><a href="#workflow">2. How it Works</a></li>
+                <li><a href="#install">3. Installation</a></li>
+                <li><a href="#usage">4. Usage Guide</a></li>
+                <li><a href="#source">5. Source Code</a></li>
+                <li><a href="#download" class="highlight">Download .py</a></li>
+            </ul>
+        </nav>
+
+        <main class="content" id="content">
+            
+            <header>
+                <span class="badge">v1.0.2-stable</span>
+                <span class="badge green">MIT License</span>
+                <h1>Air-Gap Data Encoder</h1>
+                <p class="lead">A forensic Python utility designed to exfiltrate data from isolated (air-gapped) systems by converting raw binary/text into a visual QR code stream.</p>
+            </header>
+
+            <hr>
+
+            <section id="intro">
+                <h2>1. Introduction</h2>
+                <p>
+                    In high-security environments, systems are often "air-gapped" (physically isolated from the internet and USB ports). Moving data out of these systems is challenging.
+                </p>
+                <p>
+                    The <strong>Air-Gap Encoder</strong> solves this by utilizing the system's display. It takes a payload (JSON, Text, or Files), chunks it into small packets, and renders them as a high-speed video of QR codes.
+                </p>
+            </section>
+
+            <section id="workflow">
+                <h2>2. Technical Workflow</h2>
+                <div class="workflow-box">
+                    <p>INPUT DATA (JSON/Text)</p>
+                    <div class="arrow">↓</div>
+                    <p>CHUNKING ALGORITHM (200 bytes/frame)</p>
+                    <div class="arrow">↓</div>
+                    <p>QR GENERATION (Error Correction Level: L)</p>
+                    <div class="arrow">↓</div>
+                    <p>OPENCV RENDERING (Frame Sequencing)</p>
+                    <div class="arrow">↓</div>
+                    <p>OUTPUT: .AVI Video Stream</p>
+                </div>
+            </section>
+
+            <section id="install">
+                <h2>3. System Requirements</h2>
+                <p>You need Python 3.7+ installed. The script relies on <code>opencv-python</code> for video rendering and <code>qrcode</code> for matrix generation.</p>
+                <div class="code-block shell">
+                    <span class="cmd">$ pip install opencv-python qrcode numpy</span>
+                </div>
+            </section>
+
+            <section id="usage">
+                <h2>4. Usage Guide</h2>
+                <p>Run the script directly from the terminal. You can modify the <code>sample_data</code> variable inside the script to change the payload.</p>
+                <div class="code-block shell">
+                    <span class="cmd">$ python encoder.py</span>
+                    <br>
+                    <span class="output">>> Initializing Encoder...</span><br>
+                    <span class="output">>> Total Chunks: 50</span><br>
+                    <span class="output">[+] Encoding Frame 1/50</span><br>
+                    <span class="output">[+] Encoding Frame 2/50</span><br>
+                    <span class="output">...</span><br>
+                    <span class="output">>> Video Sequence Complete. Saved as output.avi</span>
+                </div>
+            </section>
+
+            <section id="source">
+                <h2>5. Source Code</h2>
+                <p>The core logic is open-source. You can review the implementation below before downloading.</p>
+                
+                <div class="code-window">
+                    <div class="window-bar">
+                        <span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span>
+                        <span class="filename">encoder.py</span>
+                    </div>
+                    <pre><code class="python">
+<span class="kwd">import</span> cv2
+<span class="kwd">import</span> qrcode
+<span class="kwd">import</span> numpy <span class="kwd">as</span> np
+
+<span class="comment"># Configuration</span>
+CHUNK_SIZE = <span class="num">200</span>
+OUTPUT_FILE = <span class="str">"evidence.avi"</span>
+
+<span class="kwd">def</span> <span class="func">text_to_qr_video</span>(data):
+    <span class="kwd">print</span>(<span class="str">f">> Processing {len(data)} bytes..."</span>)
+    
+    <span class="comment"># Initialize Video Writer (XVID Codec)</span>
+    fourcc = cv2.VideoWriter_fourcc(*<span class="str">'XVID'</span>)
+    out = cv2.VideoWriter(OUTPUT_FILE, fourcc, <span class="num">2.0</span>, (<span class="num">500</span>, <span class="num">500</span>))
+    
+    <span class="comment"># Split Data</span>
+    chunks = [data[i:i+CHUNK_SIZE] <span class="kwd">for</span> i <span class="kwd">in</span> <span class="func">range</span>(<span class="num">0</span>, <span class="func">len</span>(data), CHUNK_SIZE)]
+
+    <span class="kwd">for</span> i, chunk <span class="kwd">in</span> <span class="func">enumerate</span>(chunks):
+        <span class="comment"># Create QR Matrix</span>
+        qr = qrcode.QRCode(box_size=<span class="num">10</span>, border=<span class="num">4</span>)
+        qr.add_data(chunk)
+        qr.make(fit=<span class="kwd">True</span>)
+        
+        <span class="comment"># Convert to Image Frame</span>
+        img = qr.make_image(fill=<span class="str">'black'</span>, back_color=<span class="str">'white'</span>)
+        frame = np.array(img.convert(<span class="str">'RGB'</span>))
+        frame = cv2.resize(frame, (<span class="num">500</span>, <span class="num">500</span>))
+        
+        out.write(frame)
+        
+    out.release()
+    <span class="kwd">print</span>(<span class="str">">> Done."</span>)
+                    </code></pre>
+                </div>
+            </section>
+
+            <section id="download" class="center-box">
+                <h3>Ready to deploy?</h3>
+                <p>Download the standalone Python script.</p>
+                <a href="encoder.py" download="encoder.py" class="btn-primary">
+                    <span class="icon">⬇</span> Download Source (.py)
+                </a>
+            </section>
+
+            <footer>
+                <p>Designed by Syntax & Soz | &copy; 2025 | For Educational Use Only</p>
+            </footer>
+
+        </main>
+    </div>
+
+    <script>
+        function toggleSidebar() {
+            document.body.classList.toggle('menu-closed');
+        }
+    </script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: airgap\style.css
+================================================================================
+
+/* GENERAL RESET */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background-color: #0d1117; color: #c9d1d9;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+/* LAYOUT CONTAINER */
+.doc-layout { display: flex; min-height: 100vh; }
+
+/* === SIDEBAR NAVIGATION === */
+.menu-btn {
+    position: fixed; top: 20px; left: 20px; z-index: 1000;
+    background: #161b22; color: #58a6ff; border: 1px solid #30363d;
+    padding: 8px 12px; border-radius: 6px; cursor: pointer;
+    font-size: 1.2rem; transition: 0.3s;
+}
+.menu-btn:hover { background: #1f6feb; color: white; border-color: #1f6feb; }
+
+.sidebar {
+    width: 250px; background: #050505; border-right: 1px solid #30363d;
+    padding: 20px; padding-top: 80px; /* Space for button */
+    position: fixed; height: 100%; top: 0; left: 0;
+    transition: transform 0.3s ease; z-index: 900;
+}
+
+.brand a {
+    color: #58a6ff; font-family: 'Fira Code'; font-weight: bold;
+    text-decoration: none; display: block; margin-bottom: 30px; font-size: 1.1rem;
+}
+
+.sidebar ul { list-style: none; }
+.sidebar li { margin-bottom: 10px; }
+
+.sidebar a {
+    display: block; color: #8b949e; text-decoration: none;
+    padding: 5px 0; font-size: 0.9rem; transition: 0.2s;
+}
+.sidebar a:hover, .sidebar a.active { color: white; transform: translateX(5px); }
+.sidebar a.highlight { color: #00ff41; font-weight: bold; margin-bottom: 15px; }
+
+
+/* === MAIN CONTENT === */
+.content {
+    margin-left: 250px; padding: 40px 60px; width: 100%;
+    transition: margin-left 0.3s ease; max-width: 1000px;
+}
+
+/* Toggle Logic Classes */
+body.menu-closed .sidebar { transform: translateX(-250px); }
+body.menu-closed .content { margin-left: 0; padding: 40px 100px; max-width: 100%; }
+
+/* Typography */
+header { margin-bottom: 40px; }
+h1 { font-family: 'Fira Code'; color: white; margin: 15px 0; font-size: 2.5rem; }
+.lead { color: #8b949e; font-size: 1.1rem; margin-bottom: 30px; }
+.badge { background: #1f6feb; color: white; font-size: 0.7rem; padding: 3px 8px; border-radius: 10px; font-family: 'Fira Code'; margin-right: 10px; }
+.badge.green { background: #238636; }
+
+hr { border: 0; border-top: 1px solid #30363d; margin: 40px 0; }
+h2 { color: white; margin-bottom: 20px; font-size: 1.5rem; border-bottom: 1px solid #30363d; padding-bottom: 10px; }
+p { margin-bottom: 15px; line-height: 1.7; }
+
+
+/* === LIVE TOOL UI (NEW) === */
+.tool-section { margin-bottom: 50px; }
+.tool-grid { display: flex; gap: 20px; flex-wrap: wrap; }
+
+.panel {
+    background: #161b22; border: 1px solid #30363d; padding: 25px;
+    border-radius: 8px; flex: 1; min-width: 300px;
+}
+
+/* Input Panel */
+.input-panel h3 { font-family: 'Fira Code'; font-size: 1rem; margin-bottom: 15px; color: #58a6ff; }
+textarea {
+    width: 100%; height: 120px; background: #0d1117; border: 1px solid #30363d;
+    color: #00ff41; font-family: 'Fira Code'; padding: 10px; border-radius: 6px;
+    font-size: 0.85rem; resize: none; margin-bottom: 20px;
+}
+textarea:focus { outline: none; border-color: #58a6ff; }
+
+.controls { display: flex; gap: 20px; margin-bottom: 20px; }
+.slider-group { flex: 1; }
+.slider-group label { display: block; font-size: 0.75rem; color: #8b949e; margin-bottom: 8px; font-family: 'Fira Code'; }
+input[type=range] { width: 100%; accent-color: #58a6ff; cursor: pointer; }
+
+.btn-group { display: flex; gap: 10px; }
+.btn-action {
+    flex: 1; padding: 12px; border: none; border-radius: 6px; font-weight: bold;
+    cursor: pointer; font-family: 'Fira Code'; transition: 0.2s; display: flex;
+    justify-content: center; align-items: center; gap: 8px;
+}
+.start { background: #238636; color: white; }
+.start:hover { background: #2ea043; transform: scale(1.02); }
+.stop { background: #da3633; color: white; }
+.stop:hover { background: #f85149; transform: scale(1.02); }
+
+/* Output Panel */
+.output-panel { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+.screen-frame {
+    width: 240px; height: 240px; background: white; padding: 10px;
+    border: 5px solid #30363d; position: relative; border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+#qrcode img { display: block; width: 100%; height: auto; }
+
+.overlay {
+    position: absolute; top:0; left:0; width:100%; height:100%;
+    background: rgba(13, 17, 23, 0.95); color: #58a6ff;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Fira Code'; font-size: 0.9rem; text-align: center;
+    font-weight: bold; z-index: 10;
+}
+.status-bar {
+    width: 100%; margin-top: 20px; display: flex; justify-content: space-between;
+    font-family: 'Fira Code'; font-size: 0.8rem; color: #8b949e; 
+    border-top: 1px solid #30363d; padding-top: 15px;
+}
+
+
+/* === DOCUMENTATION STYLES === */
+/* Workflow Box */
+.workflow-box { 
+    background: #161b22; padding: 20px; border-left: 3px solid #58a6ff; 
+    font-family: 'Fira Code'; font-size: 0.9rem; color: #fff; text-align: center; 
+}
+.arrow { color: #58a6ff; margin: 5px 0; }
+
+/* Code Blocks */
+.code-block { background: #050505; padding: 15px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9rem; border: 1px solid #30363d; }
+.cmd { color: #00ff41; }
+.output { color: #8b949e; display: block; }
+
+/* Source Code Window */
+.code-window { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; margin: 20px 0; }
+.window-bar { background: #161b22; padding: 10px; border-bottom: 1px solid #30363d; }
+.dot { height: 10px; width: 10px; border-radius: 50%; display: inline-block; margin-right: 5px; }
+.red { background: #ff5f56; } .yellow { background: #ffbd2e; } .green { background: #27c93f; }
+.filename { color: #8b949e; font-family: 'Fira Code'; font-size: 0.8rem; margin-left: 10px; }
+
+pre { padding: 20px; overflow-x: auto; margin: 0; }
+code { font-family: 'Fira Code', monospace; font-size: 0.9rem; color: #e0e0e0; }
+
+.kwd { color: #ff7b72; } .func { color: #d2a8ff; } .str { color: #a5d6ff; } .num { color: #79c0ff; } .comment { color: #8b949e; font-style: italic; }
+
+/* Download Section */
+.center-box { text-align: center; margin-top: 50px; background: #161b22; padding: 40px; border-radius: 8px; }
+.btn-primary { display: inline-block; background: #238636; color: white; padding: 12px 25px; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 15px; transition: 0.3s; }
+.btn-primary:hover { background: #2ea043; transform: scale(1.05); }
+
+footer { margin-top: 50px; color: #484f58; font-size: 0.8rem; text-align: center; }
+
+/* Mobile Logic */
+@media (max-width: 768px) {
+    .content { margin-left: 0; padding: 20px; padding-top: 70px; }
+    .sidebar { transform: translateX(-250px); } 
+    body.menu-closed .sidebar { transform: translateX(0); }
+    .tool-grid { flex-direction: column; }
+}
+
+
+
+================================================================================
+FILE PATH: b64\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stealth Converter | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1 class="glitch">Stealth Converter</h1>
+            <p>Securely convert Files to Base64 & Back. <br> <span class="green">[Client-Side Only]</span></p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('encode')">File to Text (Encode)</button>
+            <button class="tab-btn" onclick="switchTab('decode')">Text to File (Decode)</button>
+        </div>
+
+        <div id="encode-panel" class="panel active">
+            <div class="upload-box">
+                <input type="file" id="fileInput">
+                <p id="uploadText">Drag file here or Click to Upload</p>
+                <p style="font-size: 0.7rem; color: #666; margin-top: 10px; margin-bottom: 0;">(Recommended: Under 10MB)</p>
+            </div>
+            <button onclick="encodeFile()" class="action-btn">Encrypt to Base64</button>
+            
+            <div id="progress-container" style="display: none;">
+                <div class="progress-bar-track">
+                    <div id="progress-bar-fill" class="progress-bar-fill"></div>
+                </div>
+                <p id="progress-text">Initializing... 0%</p>
+            </div>
+
+            <div class="output-area" id="encodeOutput" style="display:none;">
+                <textarea id="base64Output" readonly placeholder="Result will appear here..."></textarea>
+                <div class="controls">
+                    <button onclick="copyText()" class="btn-copy-themed">>> Copy Encrypted Code</button>
+                    <span id="statusMsg"></span>
+                </div>
+            </div>
+        </div>
+
+        <div id="decode-panel" class="panel">
+            <textarea id="base64Input" placeholder="Paste your Base64 string here (Must start with 'data:')..."></textarea>
+            <div class="inputs-row">
+                <input type="text" id="fileName" placeholder="filename (e.g., image.png)">
+            </div>
+            <button onclick="decodeFile()" class="action-btn">Decrypt & Download</button>
+        </div>
+
+        <footer>
+            <a href="../">← Back to Terminal</a>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: b64\script.js
+================================================================================
+
+/* Syntax & Soz - Stealth Converter (Smart Paste Fix) */
+
+let globalDecodeData = ""; // Stores pasted data in RAM
+
+function switchTab(tab) {
+    document.querySelectorAll('.panel').forEach(p => p.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(tab + '-panel').style.display = 'block';
+    event.currentTarget.classList.add('active');
+}
+
+// --- 1. File Selection & Warning ---
+document.getElementById('fileInput').addEventListener('change', function() {
+    const file = this.files[0];
+    const uploadText = document.getElementById('uploadText');
+    const uploadBox = document.querySelector('.upload-box');
+
+    if (file) {
+        let size = file.size / 1024;
+        let sizeText = size < 1024 ? size.toFixed(2) + " KB" : (size / 1024).toFixed(2) + " MB";
+        
+        let color = (file.size > 10 * 1024 * 1024) ? "#ffbd2e" : "#00ff41"; 
+
+        uploadText.innerHTML = `
+            <span style="color: #888;">>> Target Locked:</span><br>
+            <span style="color: ${color}; font-weight: bold; font-size: 1.1rem;">${file.name}</span>
+            <br><span style="color: #58a6ff; font-size: 0.8rem;">[Size: ${sizeText}]</span>
+        `;
+        uploadBox.style.borderColor = color; 
+        uploadBox.style.background = "rgba(0, 255, 65, 0.05)";
+    }
+});
+
+// --- 2. Encode Logic ---
+function encodeFile() {
+    const fileInput = document.getElementById('fileInput');
+    const outputArea = document.getElementById('encodeOutput');
+    const textarea = document.getElementById('base64Output');
+    const status = document.getElementById('statusMsg');
+    
+    const progressContainer = document.getElementById('progress-container');
+    const progressBarFill = document.getElementById('progress-bar-fill');
+    const progressText = document.getElementById('progress-text');
+
+    if (fileInput.files.length === 0) {
+        alert(">> ERROR: No file selected.");
+        return;
+    }
+
+    const file = fileInput.files[0];
+    const reader = new FileReader();
+
+    outputArea.style.display = "none";
+    progressContainer.style.display = "block";
+    progressBarFill.style.width = "0%";
+    progressText.innerText = ">> Initializing... 0%";
+    status.innerText = "";
+    textarea.value = ""; 
+
+    reader.onprogress = function(e) {
+        if (e.lengthComputable) {
+            const percent = Math.round((e.loaded / e.total) * 100);
+            progressBarFill.style.width = percent + "%";
+            progressText.innerText = `>> Encrypting... ${percent}%`;
+        }
+    };
+
+    reader.onload = function(e) {
+        progressBarFill.style.width = "100%";
+        progressText.innerText = ">> Rendering Code...";
+        
+        setTimeout(() => {
+            textarea.value = e.target.result; // Show Full Code
+            progressContainer.style.display = "none";
+            outputArea.style.display = "block";
+            status.innerText = ">> Encryption Successful.";
+            status.style.color = "#00ff41";
+        }, 100);
+    };
+
+    reader.readAsDataURL(file);
+}
+
+function copyText() {
+    const copyText = document.getElementById("base64Output");
+    const status = document.getElementById('statusMsg');
+    status.innerText = ">> Copying...";
+    
+    setTimeout(() => {
+        copyText.select();
+        document.execCommand("copy");
+        status.innerText = ">> COPIED TO CLIPBOARD!";
+        status.style.color = "#58a6ff";
+    }, 50);
+}
+
+// --- 3. SMART PASTE HANDLER (The Fix) ---
+document.getElementById('base64Input').addEventListener('paste', function(e) {
+    // 1. Browser ka default paste rokein (taake freeze na ho)
+    e.preventDefault();
+    
+    // 2. Clipboard se data uthayen
+    const pastedData = (e.clipboardData || window.clipboardData).getData('text');
+    
+    if (!pastedData) return;
+
+    // 3. Data ko RAM mein save karein (Decode function yahan se uthayega)
+    globalDecodeData = pastedData;
+
+    // 4. Textarea mein "Preview" dikhayen agar data bara hai
+    if (pastedData.length > 50000) {
+        this.value = pastedData.substring(0, 2000) + 
+                     "\n\n... [HUGE DATA DETECTED: Content Hidden to Prevent Lag] ...\n\n" + 
+                     pastedData.slice(-500);
+        
+        // Success Message
+        alert(`>> SUCCESS: ${pastedData.length} characters received!\nIt is stored in memory. You can click 'Decrypt' now.`);
+    } else {
+        // Agar data chota hai to poora dikhayen
+        this.value = pastedData;
+    }
+});
+
+// --- 4. Decode Logic (Updated to use Smart Paste) ---
+function decodeFile() {
+    // Pehle Smart Paste variable check karein, agar khali hai to Textarea check karein
+    let base64String = globalDecodeData || document.getElementById('base64Input').value.trim();
+    let fileName = document.getElementById('fileName').value || "recovered_file";
+    
+    if (!base64String) { alert(">> ERROR: Input is empty."); return; }
+
+    // Check header
+    if (!base64String.startsWith("data:")) {
+        // Koshish karein ke agar user ne ghalat paste kiya hai to clean karein
+        if (base64String.includes("HUGE DATA DETECTED")) {
+            alert(">> ERROR: Please Paste again. Data corrupted.");
+            return;
+        }
+        alert(">> CRITICAL ERROR: Code must start with 'data:'."); 
+        return;
+    }
+
+    // Auto-detect extension
+    if (!fileName.includes('.')) {
+        if (base64String.includes('image/png')) fileName += ".png";
+        else if (base64String.includes('image/jpeg')) fileName += ".jpg";
+        else if (base64String.includes('application/pdf')) fileName += ".pdf";
+        else if (base64String.includes('text/plain')) fileName += ".txt";
+        else if (base64String.includes('video/mp4')) fileName += ".mp4";
+        else fileName += ".bin"; 
+    }
+
+    try {
+        const link = document.createElement('a');
+        link.href = base64String;
+        link.download = fileName;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        
+        // Reset memory after download
+        globalDecodeData = "";
+        
+    } catch (e) { 
+        alert(">> FATAL ERROR: Browser refused download."); 
+    }
+}
+
+
+================================================================================
+FILE PATH: b64\style.css
+================================================================================
+
+body {
+    background-color: #050505;
+    color: #e0e0e0;
+    font-family: 'Fira Code', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* === FIX 1: Wider & Better Scrollbars === */
+::-webkit-scrollbar { width: 14px; height: 14px; } /* Thora chora kiya */
+::-webkit-scrollbar-track { background: #0f0f0f; border-left: 1px solid #333; }
+::-webkit-scrollbar-thumb { 
+    background: #333; 
+    border: 2px solid #0f0f0f; /* Padding effect */
+    border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover { background: #58a6ff; }
+
+/* === FIX 2: Remove White Outline on Click === */
+*:focus { outline: none !important; }
+button:focus { border-color: #58a6ff; }
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    background: #0f0f0f;
+    padding: 30px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(88, 166, 255, 0.1);
+}
+
+h1 { color: #58a6ff; text-align: center; margin-bottom: 5px; }
+p { text-align: center; color: #888; font-size: 0.9rem; margin-bottom: 25px; }
+.green { color: #00ff41; }
+
+.tabs { display: flex; margin-bottom: 20px; border-bottom: 1px solid #333; }
+.tab-btn {
+    flex: 1;
+    background: none;
+    border: none;
+    color: #666;
+    padding: 15px;
+    cursor: pointer;
+    font-family: 'Fira Code';
+    font-weight: bold;
+    transition: 0.2s;
+}
+.tab-btn.active { color: #58a6ff; border-bottom: 2px solid #58a6ff; background: rgba(88,166,255,0.05); }
+
+/* === FIX 3: Removed Animation for Instant Switching === */
+.panel { display: none; }
+.panel.active { display: block; } 
+
+.upload-box {
+    border: 2px dashed #333;
+    padding: 40px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    position: relative;
+    transition: 0.3s;
+}
+.upload-box:hover { border-color: #58a6ff; }
+input[type="file"] {
+    position: absolute; width: 100%; height: 100%; top: 0; left: 0; opacity: 0; cursor: pointer;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    background: #000;
+    border: 1px solid #333;
+    color: #00ff41;
+    padding: 10px;
+    font-family: 'Fira Code';
+    resize: vertical;
+    margin-bottom: 15px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    background: #000;
+    border: 1px solid #333;
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: 'Fira Code';
+}
+
+.action-btn {
+    width: 100%;
+    padding: 15px;
+    background: #58a6ff;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-family: 'Fira Code';
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+.action-btn:hover { background: #79b8ff; }
+
+/* Progress Bar Styling */
+#progress-container { margin-bottom: 20px; }
+.progress-bar-track {
+    width: 100%; height: 15px; background: #111;
+    border: 1px solid #333; border-radius: 2px; overflow: hidden;
+    margin-bottom: 5px;
+}
+.progress-bar-fill {
+    height: 100%; width: 0%; background: #58a6ff;
+    transition: width 0.2s linear; /* Smooth movement */
+    box-shadow: 0 0 10px #58a6ff;
+}
+#progress-text { color: #58a6ff; font-size: 0.8rem; margin-bottom: 0; }
+
+/* Themed Copy Button */
+.controls { display: flex; gap: 15px; align-items: center; }
+.btn-copy-themed {
+    background: #238636; color: white; border: 1px solid #2ea043;
+    padding: 10px 20px; font-family: 'Fira Code'; font-weight: bold;
+    cursor: pointer; transition: 0.3s; flex-grow: 1;
+}
+.btn-copy-themed:hover { background: #2ea043; box-shadow: 0 0 10px #2ea043; }
+#statusMsg { color: #888; font-size: 0.8rem; white-space: nowrap; }
+
+footer { text-align: center; margin-top: 20px; font-size: 0.8rem; }
+a { color: #666; text-decoration: none; }
+a:hover { color: #58a6ff; }
+
+
+================================================================================
+FILE PATH: ghostpixel\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZE6DZNTL3Y');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost-Pixel | Anti-AI Image Cloak</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&family=Share+Tech+Mono&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <div class="overlay-noise"></div>
+
+    <div class="container">
+        <header>
+            <nav class="top-nav">
+                <a href="../" class="back-link"><i class="fas fa-chevron-left"></i> RETURN_TO_SYSTEM</a>
+            </nav>
+
+            <div class="logo">
+                <i class="fas fa-ghost"></i> GHOST-PIXEL
+            </div>
+            <p class="tagline">
+                Utilizes adversarial perturbation algorithms to inject imperceptible pixel-noise,
+                rendering facial features unrecognizable to neural networks.
+            </p>
+        </header>
+
+        <div class="upload-zone" id="dropZone">
+            <input type="file" id="fileInput" accept="image/png, image/jpeg">
+            <div class="upload-content">
+                <i class="fas fa-cloud-upload-alt fa-3x"></i>
+                <h3>Drag & Drop or Click to Upload Image</h3>
+                <p>Supports PNG, JPG (Processing done locally)</p>
+            </div>
+        </div>
+
+        <div class="editor-interface hidden" id="editorInterface">
+
+            <div class="comparison-view">
+                <div class="img-container">
+                    <h4>// HUMAN_VIEW (Original)</h4>
+                    <img id="originalImage" src="" alt="Original">
+                </div>
+
+                <div class="processing-overlay hidden" id="processingOverlay">
+                    <div class="scanner-bar"></div>
+                    <span>INJECTING ADVERSARIAL NOISE...</span>
+                </div>
+
+                <div class="img-container">
+                    <h4>// MACHINE_VIEW (Cloaked)</h4>
+                    <canvas id="cloakedCanvas"></canvas>
+                </div>
+            </div>
+
+            <div class="controls panel">
+                <h3>### CLOAKING PROTOCOLS</h3>
+
+                <div class="control-group">
+                    <label for="noiseLevel">Noise Intensity (Invisibility Level):</label>
+                    <input type="range" id="noiseLevel" min="1" max="50" value="15" class="slider">
+                    <span id="noiseValue">15%</span>
+                </div>
+
+                <div class="toggles">
+                    <label class="checkbox-container">Scrub EXIF Metadata
+                        <input type="checkbox" id="wipeMetadata" checked>
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="checkbox-container">Apply Subtle Glitch
+                        <input type="checkbox" id="applyGlitch">
+                        <span class="checkmark"></span>
+                    </label>
+                </div>
+
+                <div class="actions">
+                    <button id="resetBtn" class="btn-danger"><i class="fas fa-trash-alt"></i> REMOVE</button>
+
+                    <button id="processBtn" class="btn-main"><i class="fas fa-microchip"></i> EXECUTE CLOAK</button>
+
+                    <button id="downloadBtn" class="btn-secondary hidden"><i class="fas fa-download"></i>
+                        DOWNLOAD</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
+
+
+================================================================================
+FILE PATH: ghostpixel\script.js
+================================================================================
+
+// --- GHOST-PIXEL CORE LOGIC ---
+
+const resetBtn = document.getElementById('resetBtn');
+const fileInput = document.getElementById('fileInput');
+const dropZone = document.getElementById('dropZone');
+const editorInterface = document.getElementById('editorInterface');
+const originalImage = document.getElementById('originalImage');
+const cloakedCanvas = document.getElementById('cloakedCanvas');
+const ctx = cloakedCanvas.getContext('2d', { willReadFrequently: true });
+
+const noiseSlider = document.getElementById('noiseLevel');
+const noiseValueDisplay = document.getElementById('noiseValue');
+const processBtn = document.getElementById('processBtn');
+const downloadBtn = document.getElementById('downloadBtn');
+const processingOverlay = document.getElementById('processingOverlay');
+
+let currentFile = null;
+
+// --- EVENT LISTENERS ---
+
+// --- RESET / REMOVE IMAGE LOGIC ---
+resetBtn.addEventListener('click', () => {
+    // 1. Clear variables
+    currentFile = null;
+    fileInput.value = ''; // Reset input so same file can be selected again
+
+    // 2. Hide Interface & Show Upload Zone
+    editorInterface.classList.add('hidden');
+    dropZone.classList.remove('hidden');
+
+    // 3. Reset Buttons
+    downloadBtn.classList.add('hidden');
+
+    // 4. Clear Canvas (Optional but good practice)
+    ctx.clearRect(0, 0, cloakedCanvas.width, cloakedCanvas.height);
+    originalImage.src = "";
+});
+
+// Drag & Drop Handling
+['dragenter', 'dragover'].forEach(eventName => {
+    dropZone.addEventListener(eventName, (e) => {
+        e.preventDefault();
+        dropZone.classList.add('dragover');
+    });
+});
+['dragleave', 'drop'].forEach(eventName => {
+    dropZone.addEventListener(eventName, (e) => {
+        e.preventDefault();
+        dropZone.classList.remove('dragover');
+    });
+});
+
+dropZone.addEventListener('drop', (e) => {
+    const file = e.dataTransfer.files[0];
+    handleFileUpload(file);
+});
+fileInput.addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    handleFileUpload(file);
+});
+
+// Slider Value Update
+noiseSlider.addEventListener('input', () => {
+    noiseValueDisplay.innerText = noiseSlider.value + "%";
+});
+
+// Process Button Click
+processBtn.addEventListener('click', () => {
+    if (!currentFile) return;
+    startCloakingProcess();
+});
+
+// Download Button Click
+downloadBtn.addEventListener('click', () => {
+    const link = document.createElement('a');
+    link.download = 'ghost_pixel_secure_' + Date.now() + '.png';
+    // Export canvas as PNG (metadata stripped by default)
+    link.href = cloakedCanvas.toDataURL('image/png');
+    link.click();
+});
+
+
+// --- FUNCTIONS ---
+
+function handleFileUpload(file) {
+    if (!file || !file.type.startsWith('image/')) {
+        alert('Please upload a valid image file (PNG or JPG).');
+        return;
+    }
+    currentFile = file;
+
+    const reader = new FileReader();
+    reader.onload = (e) => {
+        originalImage.src = e.target.result;
+        originalImage.onload = () => {
+            // Setup canvas dimensions
+            cloakedCanvas.width = originalImage.naturalWidth;
+            cloakedCanvas.height = originalImage.naturalHeight;
+            // Draw initial image
+            ctx.drawImage(originalImage, 0, 0);
+
+            // Show interface, hide upload zone
+            dropZone.classList.add('hidden');
+            editorInterface.classList.remove('hidden');
+        }
+    };
+    reader.readAsDataURL(file);
+}
+
+function startCloakingProcess() {
+    // 1. Text Dikhao (Scanning start)
+    processingOverlay.classList.remove('hidden');
+    downloadBtn.classList.add('hidden');
+
+    // 2. 1.5 Second wait karo (Animation ke liye)
+    setTimeout(() => {
+        applyNoiseAndGlitch();
+
+        // 3. Text Chupao (Scanning complete)
+        processingOverlay.classList.add('hidden');
+        downloadBtn.classList.remove('hidden');
+
+    }, 1500);
+}
+function applyNoiseAndGlitch() {
+    // 1. Reset Canvas
+    ctx.drawImage(originalImage, 0, 0);
+
+    const width = cloakedCanvas.width;
+    const height = cloakedCanvas.height;
+
+    // Get raw pixel data (RGBA array)
+    let imgData = ctx.getImageData(0, 0, width, height);
+    let pixels = imgData.data; // The massive array of pixel values
+
+    const intensity = parseInt(noiseSlider.value);
+    const applyGlitch = document.getElementById('applyGlitch').checked;
+
+    // 2. THE CLOAKING LOOP (Iterate over every pixel)
+    // Loop iterates by 4 because each pixel has 4 values (R, G, B, A)
+    for (let i = 0; i < pixels.length; i += 4) {
+
+        // ADVERSARIAL NOISE: Add random small values to RGB channels
+        // This slightly shifts colors in a way humans ignore but AIs detect.
+        // We use varying noise for each channel to make it harder to reverse.
+        let noiseR = (Math.random() - 0.5) * intensity * 1.5;
+        let noiseG = (Math.random() - 0.5) * intensity;
+        let noiseB = (Math.random() - 0.5) * intensity * 1.2;
+
+        pixels[i] = pixels[i] + noiseR;     // Red
+        pixels[i + 1] = pixels[i + 1] + noiseG; // Green
+        pixels[i + 2] = pixels[i + 2] + noiseB; // Blue
+        // pixels[i+3] is Alpha, we leave it alone.
+
+        // OPTIONAL: SUBTLE GLITCH EFFECT (Random row shifting)
+        if (applyGlitch && Math.random() > 0.995) {
+            // Occasionally shift pixel values drastically for visual glitch
+            pixels[i] = pixels[i + 4] || pixels[i];
+            pixels[i + 2] = pixels[i - 4] || pixels[i + 2];
+        }
+    }
+
+    // 3. Put modified pixels back onto canvas
+    ctx.putImageData(imgData, 0, 0);
+
+    // Metadata is automatically wiped because we are exporting 
+    // raw pixels from Canvas to a new PNG file.
+}
+
+
+================================================================================
+FILE PATH: ghostpixel\style.css
+================================================================================
+
+:root {
+    --bg: #0a0a0f;
+    --panel: #12121a;
+    --text: #e0e0e0;
+    --accent: #00d9ff;
+    /* Electric Blue */
+    --accent-dark: #007a99;
+    --border: #1f1f2e;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Rajdhani', sans-serif;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Subtle digital noise background texture */
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.05'/%3E%3C/svg%3E");
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+}
+
+/* --- HEADER --- */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.logo {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 2.5rem;
+    color: var(--accent);
+    text-shadow: 0 0 15px rgba(0, 217, 255, 0.3);
+}
+
+.tagline {
+    color: #888;
+    letter-spacing: 1px;
+}
+
+/* --- UPLOAD ZONE --- */
+.upload-zone {
+    border: 2px dashed var(--border);
+    background: var(--panel);
+    padding: 50px;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    position: relative;
+}
+
+.upload-zone:hover,
+.upload-zone.dragover {
+    border-color: var(--accent);
+    box-shadow: 0 0 20px rgba(0, 217, 255, 0.1);
+}
+
+#fileInput {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.upload-content i {
+    color: var(--accent);
+    margin-bottom: 15px;
+}
+
+/* --- EDITOR INTERFACE --- */
+/* FORCE HIDE */
+.hidden {
+    display: none !important;
+}
+
+.editor-interface {
+    margin-top: 30px;
+}
+
+.comparison-view {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+@media (max-width: 768px) {
+    .comparison-view {
+        grid-template-columns: 1fr;
+    }
+}
+
+.img-container {
+    background: var(--panel);
+    padding: 10px;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+}
+
+h4 {
+    font-family: 'Share Tech Mono';
+    color: var(--accent-dark);
+    margin: 5px 0;
+}
+
+img,
+canvas {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 3px;
+}
+
+/* --- PROCESSING ANIMATION --- */
+.processing-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(10, 10, 15, 0.8);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    backdrop-filter: blur(2px);
+}
+
+.scanner-bar {
+    width: 80%;
+    height: 3px;
+    background: var(--accent);
+    box-shadow: 0 0 15px var(--accent);
+    animation: scan 1.5s infinite ease-in-out;
+    margin-bottom: 15px;
+}
+
+@keyframes scan {
+    0% {
+        width: 10%;
+        opacity: 0.5;
+    }
+
+    50% {
+        width: 80%;
+        opacity: 1;
+    }
+
+    100% {
+        width: 10%;
+        opacity: 0.5;
+    }
+}
+
+.processing-overlay span {
+    font-family: 'Share Tech Mono';
+    color: var(--accent);
+    letter-spacing: 2px;
+}
+
+/* --- CONTROLS --- */
+.panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h3 {
+    color: var(--accent);
+    font-family: 'Share Tech Mono';
+    border-bottom: 1px dashed var(--border);
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+.control-group {
+    margin-bottom: 20px;
+}
+
+.slider {
+    width: 80%;
+    margin-right: 10px;
+    accent-color: var(--accent);
+}
+
+#noiseValue {
+    font-family: 'Share Tech Mono';
+    color: var(--accent);
+}
+
+/* Custom Checkboxes */
+.toggles {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+}
+
+.checkbox-container {
+    display: block;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    user-select: none;
+}
+
+.checkbox-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background-color: var(--border);
+    border-radius: 3px;
+}
+
+.checkbox-container:hover input~.checkmark {
+    background-color: #333;
+}
+
+.checkbox-container input:checked~.checkmark {
+    background-color: var(--accent);
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.checkbox-container input:checked~.checkmark:after {
+    display: block;
+}
+
+.checkbox-container .checkmark:after {
+    left: 7px;
+    top: 3px;
+    width: 5px;
+    height: 10px;
+    border: solid black;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+/* Buttons */
+.actions {
+    display: flex;
+    gap: 15px;
+}
+
+button {
+    padding: 12px 24px;
+    font-family: 'Share Tech Mono';
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+}
+
+.btn-main {
+    background: var(--accent);
+    color: #000;
+    font-weight: bold;
+}
+
+.btn-main:hover {
+    box-shadow: 0 0 20px rgba(0, 217, 255, 0.4);
+}
+
+.btn-secondary {
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+}
+
+.btn-secondary:hover {
+    background: rgba(0, 217, 255, 0.1);
+}
+
+/* --- NEW STYLES: Navigation & Reset --- */
+
+/* Back Button (Top Left) */
+.top-nav {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.back-link {
+    color: #666;
+    text-decoration: none;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.9rem;
+    border: 1px solid #333;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+
+.back-link:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    box-shadow: 0 0 10px rgba(0, 217, 255, 0.2);
+}
+
+@media (max-width: 600px) {
+    .top-nav {
+        position: static;
+        margin-bottom: 20px;
+        display: block;
+        text-align: left;
+    }
+}
+
+/* Reset Button (Red/Danger) */
+.btn-danger {
+    background: transparent;
+    border: 1px solid #ff0055;
+    color: #ff0055;
+}
+
+.btn-danger:hover {
+    background: rgba(255, 0, 85, 0.1);
+    box-shadow: 0 0 15px rgba(255, 0, 85, 0.3);
+}
+
+.top-nav {
+    margin-bottom: 20px;
+}
+
+.back-link {
+    color: #666;
+    text-decoration: none;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.9rem;
+    border: 1px solid #333;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: 0.3s;
+    display: inline-block;
+}
+
+.back-link:hover {
+    color: var(--text);
+    /* Hacker Green */
+    border-color: var(--text);
+    box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
+    background: rgba(0, 255, 65, 0.05);
+}
+
+
+================================================================================
+FILE PATH: gpg.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPG Crypto Suite | Syntax & Soz</title>
+    <script src="openpgp.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root { --bg: #050505; --panel: #0d1117; --accent: #00ff41; --border: #30363d; --text: #c9d1d9; }
+        
+        body { background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; display: flex; justify-content: center; padding: 20px; min-height: 100vh; }
+        
+        .suite-container { width: 100%; max-width: 900px; }
+        
+        h1, h2, h3, button, textarea, input { font-family: 'Fira Code', monospace; }
+        h1 { color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 20px; text-align: center; }
+
+        /* TABS */
+        .tabs { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+        .tab-btn { background: var(--panel); border: 1px solid var(--border); color: #8b949e; padding: 10px; flex: 1; cursor: pointer; border-radius: 6px; transition: 0.3s; min-width: 150px; }
+        .tab-btn.active { background: #1f6feb; color: white; border-color: #1f6feb; }
+        
+        .section { display: none; background: var(--panel); padding: 25px; border-radius: 8px; border: 1px solid var(--border); }
+        .section.active { display: block; animation: fadeIn 0.3s ease; }
+
+        /* FORMS */
+        .form-group { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 8px; color: #58a6ff; font-size: 0.9rem; }
+        
+        input, textarea, select { width: 100%; background: #010409; border: 1px solid var(--border); color: var(--accent); padding: 12px; border-radius: 6px; font-size: 0.9rem; }
+        input:focus, textarea:focus { outline: none; border-color: var(--accent); }
+        
+        textarea { min-height: 120px; resize: vertical; }
+
+        .btn-action { width: 100%; background: #238636; color: white; padding: 15px; border: none; border-radius: 6px; cursor: pointer; font-size: 1rem; font-weight: bold; margin-top: 10px; }
+        .btn-action:hover { background: #2ea043; }
+        .btn-action:disabled { background: #30363d; cursor: not-allowed; }
+        .btn-red { background: #da3633; }
+        .btn-red:hover { background: #f85149; }
+
+        .toggle-group { display: flex; gap: 20px; margin-bottom: 15px; border: 1px dashed var(--border); padding: 15px; border-radius: 6px; flex-wrap: wrap; }
+        .radio-label { display: flex; align-items: center; gap: 8px; cursor: pointer; color: white; }
+
+        .status-log { margin-top: 15px; font-size: 0.85rem; color: #8b949e; text-align: center; }
+        
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* File Input Style */
+        .file-drop { border: 2px dashed var(--border); padding: 20px; text-align: center; border-radius: 6px; cursor: pointer; position: relative; }
+        .file-drop:hover { border-color: var(--accent); background: #0f1218; }
+        .file-drop input { position: absolute; width: 100%; height: 100%; top: 0; left: 0; opacity: 0; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+    <div class="suite-container">
+        <h1>GPG CRYPTO SUITE</h1>
+
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('encryptTab')">🔒 ENCRYPT</button>
+            <button class="tab-btn" onclick="switchTab('decryptTab')">🔓 DECRYPT</button>
+            <button class="tab-btn" onclick="switchTab('keygenTab')">🔑 KEYS</button>
+        </div>
+
+        <div id="encryptTab" class="section active">
+            <div class="form-group">
+                <label>1. INPUT TYPE</label>
+                <div class="toggle-group">
+                    <label class="radio-label"><input type="radio" name="inputType" value="text" checked onchange="toggleInputMode()"> Text Message</label>
+                    <label class="radio-label"><input type="radio" name="inputType" value="file" onchange="toggleInputMode()"> File (Any Format)</label>
+                </div>
+                <div id="textInputArea">
+                    <textarea id="msgInput" placeholder="Enter secret text here..."></textarea>
+                </div>
+                <div id="fileInputArea" style="display:none;">
+                    <div class="file-drop">
+                        <span id="fileName">📂 Drag & Drop File or Click to Upload</span>
+                        <input type="file" id="fileInput" onchange="updateFileName('fileInput', 'fileName')">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>2. ENCRYPTION METHOD</label>
+                <div class="toggle-group">
+                    <label class="radio-label"><input type="radio" name="method" value="password" checked onchange="toggleMethod()"> Password (Symmetric)</label>
+                    <label class="radio-label"><input type="radio" name="method" value="key" onchange="toggleMethod()"> Public Key (Asymmetric)</label>
+                </div>
+                <div id="passArea">
+                    <input type="password" id="encPassword" placeholder="Set a strong password...">
+                </div>
+                <div id="keyArea" style="display:none;">
+                    <textarea id="pubKeyInput" placeholder="Paste Recipient's Public Key Block here..."></textarea>
+                </div>
+            </div>
+
+            <button class="btn-action" onclick="processEncryption()">START ENCRYPTION</button>
+            <p id="encStatus" class="status-log">Ready.</p>
+
+            <div class="form-group" id="outputWrapper" style="margin-top:20px;">
+                <label>3. OUTPUT</label>
+                <textarea id="finalOutput" readonly placeholder="Result will appear here..."></textarea>
+                <button onclick="downloadOutput('enc')" id="dlBtn" style="display:none; margin-top:5px; background:#1f6feb; border:none; padding:10px; color:white; border-radius:4px; cursor:pointer; width:100%;">⬇ Download Encrypted File</button>
+            </div>
+        </div>
+
+        <div id="decryptTab" class="section">
+            <div class="form-group">
+                <label>1. ENCRYPTED SOURCE</label>
+                <div class="toggle-group">
+                    <label class="radio-label"><input type="radio" name="decInputType" value="text" checked onchange="toggleDecInputMode()"> PGP Text Block</label>
+                    <label class="radio-label"><input type="radio" name="decInputType" value="file" onchange="toggleDecInputMode()"> Encrypted File (.gpg)</label>
+                </div>
+                <div id="decTextArea">
+                    <textarea id="decMsgInput" placeholder="Paste -----BEGIN PGP MESSAGE----- here..."></textarea>
+                </div>
+                <div id="decFileArea" style="display:none;">
+                    <div class="file-drop">
+                        <span id="decFileName">📂 Upload Encrypted .gpg File</span>
+                        <input type="file" id="decFileInput" onchange="updateFileName('decFileInput', 'decFileName')">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>2. UNLOCK METHOD</label>
+                <div class="toggle-group">
+                    <label class="radio-label"><input type="radio" name="decMethod" value="password" checked onchange="toggleDecMethod()"> Password</label>
+                    <label class="radio-label"><input type="radio" name="decMethod" value="key" onchange="toggleDecMethod()"> Private Key</label>
+                </div>
+                <div id="decPassArea">
+                    <input type="password" id="decPassword" placeholder="Enter the password used to encrypt...">
+                </div>
+                <div id="decKeyArea" style="display:none;">
+                    <textarea id="privKeyInput" placeholder="Paste Your Private Key Block here..."></textarea>
+                    <input type="password" id="privKeyPass" placeholder="Key Password (if key is locked)" style="margin-top:10px;">
+                </div>
+            </div>
+
+            <button class="btn-action btn-red" onclick="processDecryption()">UNLOCK & DECRYPT</button>
+            <p id="decStatus" class="status-log">Waiting for encrypted data...</p>
+
+            <div class="form-group" id="decOutputWrapper" style="margin-top:20px;">
+                <label>3. DECRYPTED DATA</label>
+                <textarea id="decFinalOutput" readonly placeholder="Original message will appear here..."></textarea>
+                <button onclick="downloadOutput('dec')" id="decDlBtn" style="display:none; margin-top:5px; background:#1f6feb; border:none; padding:10px; color:white; border-radius:4px; cursor:pointer; width:100%;">⬇ Download Decrypted File</button>
+            </div>
+        </div>
+
+        <div id="keygenTab" class="section">
+            <div class="form-group">
+                <label>USER IDENTITY</label>
+                <input type="text" id="genName" placeholder="Name" style="margin-bottom:10px;">
+                <input type="email" id="genEmail" placeholder="Email">
+            </div>
+            <div class="form-group">
+                <label>PASSPHRASE (Optional)</label>
+                <input type="password" id="genPass" placeholder="Protect Private Key with Password">
+            </div>
+            <button id="genBtn" class="btn-action" onclick="generateKeys()">GENERATE KEY PAIR (ECC)</button>
+            <p id="genStatus" class="status-log">System ready.</p>
+            <div class="form-group" style="margin-top:20px;">
+                <label>PUBLIC KEY</label>
+                <textarea id="outPub" readonly></textarea>
+            </div>
+            <div class="form-group">
+                <label style="color:#da3633;">PRIVATE KEY</label>
+                <textarea id="outPriv" readonly style="border-color:#da3633; color:#ff7b72;"></textarea>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // --- UI UTILS ---
+        function switchTab(id) {
+            document.querySelectorAll('.section').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            event.target.classList.add('active');
+        }
+
+        // Encryption Toggles
+        function toggleInputMode() {
+            const isFile = document.querySelector('input[name="inputType"]:checked').value === 'file';
+            document.getElementById('textInputArea').style.display = isFile ? 'none' : 'block';
+            document.getElementById('fileInputArea').style.display = isFile ? 'block' : 'none';
+            document.getElementById('outputWrapper').style.display = isFile ? 'none' : 'block';
+        }
+        function toggleMethod() {
+            const isKey = document.querySelector('input[name="method"]:checked').value === 'key';
+            document.getElementById('passArea').style.display = isKey ? 'none' : 'block';
+            document.getElementById('keyArea').style.display = isKey ? 'block' : 'none';
+        }
+
+        // Decryption Toggles
+        function toggleDecInputMode() {
+            const isFile = document.querySelector('input[name="decInputType"]:checked').value === 'file';
+            document.getElementById('decTextArea').style.display = isFile ? 'none' : 'block';
+            document.getElementById('decFileArea').style.display = isFile ? 'block' : 'none';
+        }
+        function toggleDecMethod() {
+            const isKey = document.querySelector('input[name="decMethod"]:checked').value === 'key';
+            document.getElementById('decPassArea').style.display = isKey ? 'none' : 'block';
+            document.getElementById('decKeyArea').style.display = isKey ? 'block' : 'none';
+        }
+
+        function updateFileName(inputId, spanId) {
+            const input = document.getElementById(inputId);
+            if(input.files.length > 0) document.getElementById(spanId).innerText = "✅ " + input.files[0].name;
+        }
+
+        // --- GLOBAL VARIABLES FOR DOWNLOADS ---
+        let lastEncryptedBlob = null;
+        let lastEncryptedName = "file.gpg";
+        let lastDecryptedBlob = null;
+        let lastDecryptedName = "decrypted_file";
+
+        // --- KEY GEN ---
+        async function generateKeys() {
+            const btn = document.getElementById('genBtn');
+            const status = document.getElementById('genStatus');
+            btn.disabled = true; status.innerText = "Generating ECC Keys...";
+            
+            try {
+                const { privateKey, publicKey } = await openpgp.generateKey({
+                    type: 'ecc', curve: 'curve25519',
+                    userIDs: [{ name: document.getElementById('genName').value || 'User', email: document.getElementById('genEmail').value || 'test@test.com' }],
+                    passphrase: document.getElementById('genPass').value || undefined
+                });
+                document.getElementById('outPub').value = publicKey;
+                document.getElementById('outPriv').value = privateKey;
+                status.innerText = "Done!"; status.style.color = "#00ff41";
+            } catch (err) { status.innerText = err.message; }
+            btn.disabled = false;
+        }
+
+        // --- ENCRYPTION LOGIC ---
+        async function processEncryption() {
+    const status = document.getElementById('encStatus');
+    const inputType = document.querySelector('input[name="inputType"]:checked').value;
+    const method = document.querySelector('input[name="method"]:checked').value;
+    
+    status.innerText = "Encrypting..."; status.style.color = "#eac54f";
+
+    try {
+        let message;
+        let filename = "message.txt";
+
+        // --- FIX 1: Ensure File is read as Uint8Array ---
+        if (inputType === 'file') {
+            const file = document.getElementById('fileInput').files[0];
+            if (!file) throw new Error("No file selected");
+            filename = file.name;
+            const buffer = await file.arrayBuffer();
+            const uint8Array = new Uint8Array(buffer);
+            
+            // Create message specifically marked as binary
+            message = await openpgp.createMessage({ 
+                binary: uint8Array, 
+                filename: file.name 
+            });
+        } else {
+            const text = document.getElementById('msgInput').value;
+            if (!text) throw new Error("No text entered");
+            message = await openpgp.createMessage({ text: text });
+        }
+
+        let encrypted;
+        if (method === 'password') {
+            const pass = document.getElementById('encPassword').value;
+            if(!pass) throw new Error("Password required");
+            
+            // Encrypt
+            encrypted = await openpgp.encrypt({ 
+                message, 
+                passwords: [pass], 
+                format: 'armored' // Output will be text block (Safe for transfer)
+            });
+        } else {
+            const keyText = document.getElementById('pubKeyInput').value;
+            if(!keyText) throw new Error("Public Key required");
+            const publicKey = await openpgp.readKey({ armoredKey: keyText });
+            
+            encrypted = await openpgp.encrypt({ 
+                message, 
+                encryptionKeys: publicKey,
+                format: 'armored'
+            });
+        }
+
+        status.innerText = "Encryption Success!"; status.style.color = "#00ff41";
+        
+        document.getElementById('outputWrapper').style.display = 'block';
+        
+        // Show result in textarea
+        document.getElementById('finalOutput').value = encrypted;
+        
+        // Setup Download
+        // Even though it's a file, we save the ENCRYPTED version as .asc (Text) 
+        // because we used format: 'armored'. This prevents corruption during transfer.
+        document.getElementById('dlBtn').style.display = 'block';
+        lastEncryptedBlob = new Blob([encrypted], { type: 'text/plain' });
+        lastEncryptedName = filename + ".asc"; // Standard PGP extension
+
+    } catch (err) { 
+        console.error(err);
+        status.innerText = "Error: " + err.message; 
+        status.style.color = "#da3633"; 
+    }
+}
+
+        // --- DECRYPTION LOGIC (NEW) ---
+async function processDecryption() {
+    const status = document.getElementById('decStatus');
+    const inputType = document.querySelector('input[name="decInputType"]:checked').value;
+    const method = document.querySelector('input[name="decMethod"]:checked').value;
+    
+    status.innerText = "Processing Data..."; 
+    status.style.color = "#eac54f";
+
+    try {
+        let message;
+        
+        // --- STEP 1: READ INPUT ---
+        if (inputType === 'file') {
+            const file = document.getElementById('decFileInput').files[0];
+            if (!file) throw new Error("Please select a file.");
+            
+            const buffer = await file.arrayBuffer();
+            const uint8Array = new Uint8Array(buffer);
+            
+            try {
+                // Try reading as binary PGP first
+                message = await openpgp.readMessage({ binaryMessage: uint8Array });
+            } catch (e) {
+                // Fallback to text (Armored)
+                const textDecoder = new TextDecoder();
+                const textContent = textDecoder.decode(uint8Array);
+                message = await openpgp.readMessage({ armoredMessage: textContent.trim() });
+            }
+        } else {
+            let text = document.getElementById('decMsgInput').value.trim();
+            if (!text) throw new Error("No text provided.");
+            message = await openpgp.readMessage({ armoredMessage: text });
+        }
+
+        // --- STEP 2: DECRYPT WITH BINARY FORCE ---
+        let decryptedData, filename;
+        
+        // Options object setup
+        const decryptOptions = {
+            message: message,
+            format: 'binary' // <--- CRITICAL FIX: FORCE BINARY OUTPUT (Uint8Array)
+        };
+
+        if (method === 'password') {
+            const pass = document.getElementById('decPassword').value;
+            if(!pass) throw new Error("Password required.");
+            decryptOptions.passwords = [pass];
+        } else {
+            let keyText = document.getElementById('privKeyInput').value.trim();
+            if(!keyText) throw new Error("Private Key required.");
+            
+            const keyPass = document.getElementById('privKeyPass').value;
+            let privateKey = await openpgp.readPrivateKey({ armoredKey: keyText });
+            
+            if (!privateKey.isDecrypted()) { 
+                if(!keyPass) throw new Error("Key Password required.");
+                try {
+                    privateKey = await openpgp.decryptKey({ privateKey, passphrase: keyPass });
+                } catch(e) { throw new Error("Wrong Key Password."); }
+            }
+            decryptOptions.decryptionKeys = privateKey;
+        }
+
+        // Execute Decryption
+        const result = await openpgp.decrypt(decryptOptions);
+        
+        decryptedData = result.data; // This is now a Uint8Array (Pure Bytes)
+        filename = result.filename || "decrypted_file";
+
+        // --- STEP 3: OUTPUT ---
+        status.innerText = "Decryption Successful!"; 
+        status.style.color = "#00ff41";
+        document.getElementById('decOutputWrapper').style.display = 'block';
+
+        // Check if we need to offer a download (Always valid for files)
+        // Since we forced 'binary', decryptedData is Uint8Array.
+        
+        document.getElementById('decFinalOutput').value = "✅ Success! Binary data recovered.\n\nFilename: " + filename + "\nSize: " + decryptedData.byteLength + " bytes\n\nClick Download below to save.";
+        
+        document.getElementById('decDlBtn').style.display = 'block';
+        
+        // Create Blob from Uint8Array
+        lastDecryptedBlob = new Blob([decryptedData], { type: 'application/octet-stream' });
+        lastDecryptedName = filename;
+
+        // Agar chota text message tha, to usse convert karke dikha bhi do
+        // (Optional helper: agar data < 1KB hai aur text lagta hai)
+        try {
+            if(decryptedData.byteLength < 5000) {
+                const textDec = new TextDecoder('utf-8', {fatal: true});
+                const str = textDec.decode(decryptedData);
+                // Agar bina error ke text ban gaya, to dikha do
+                document.getElementById('decFinalOutput').value = str;
+            }
+        } catch(e) {
+            // Ignore error, it was a binary file (image/zip)
+        }
+
+    } catch (err) { 
+        console.error(err); 
+        status.innerText = "Error: " + err.message; 
+        status.style.color = "#da3633"; 
+    }
+}
+
+        // Download Helper
+        function downloadOutput(type) {
+            const a = document.createElement('a');
+            if(type === 'enc') {
+                a.href = URL.createObjectURL(lastEncryptedBlob);
+                a.download = lastEncryptedName;
+            } else {
+                a.href = URL.createObjectURL(lastDecryptedBlob);
+                a.download = lastDecryptedName;
+            }
+            a.click();
+        }
+    </script>
+</body>
+
+</html>
+
+
+
+================================================================================
+FILE PATH: index (2).html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZE6DZNTL3Y');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="tlD4g64xWh2_B4zDimwlRaFZUkgL-DhGxU6BJOwp03Q" />
+    <title>Syntax & Soz | Developer & Automator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@300;400;600&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">{ Syntax & Soz }</div>
+        <div class="links">
+            <a href="#about">_about</a>
+            <a href="#projects">_projects</a>
+            <a href="#contact">_contact</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="container">
+            <div class="hero-content hidden">
+                <img src="https://2cm.es/soz"
+                    alt="Logo" class="profile-img">
+                <h1>Syntax <span class="accent">&</span> Soz</h1>
+                <p class="tagline">Writer of Code & Logic.</p>
+
+                <div class="terminal-box">
+                    <p>> print("Welcome to my digital void.")</p>
+                    <p>> System status: <span class="green">Online</span></p>
+                    <p class="typing">> Initializing portfolio...<span class="cursor">_</span></p>
+                </div>
+                <div style="margin-top: 30px;">
+    <a href="panopticon/" class="btn-main" style="margin-right: 15px;">
+        <i class="fas fa-eye"></i> Scan Device
+    </a>
+    <a href="#projects" class="btn-small" style="color: #888;">
+        View Source Code_
+    </a>
+</div>
+            </div>
+        </div>
+    </header>
+
+    <section id="about" class="section hidden">
+        <div class="container">
+            <h2 class="section-title">01. About Me</h2>
+            <div class="content-text">
+                <p>
+                    I am a developer who believes that <strong>code is the closest thing to magic</strong>.
+                    If a task is boring and repetitive, I will write a script to do it for me.
+                </p>
+                <p>
+                    My journey started with curiosity, and it turned into an obsession with <strong>Automation</strong>
+                    and <strong>Digital Privacy</strong>.
+                    I don't just write lines of code; I build tools that save time and protect data.
+                    I prefer to stay behind the screen, operating anonymously to solve puzzles that others find
+                    impossible.
+                </p>
+                <div class="skills">
+                    <span>Python</span>
+                    <span>Web Scraping</span>
+                    <span>Automation</span>
+                    <span>Privacy Tools</span>
+                    <span>Linux</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="container">
+            <h2 class="section-title hidden">02. Selected Works</h2>
+            <div class="project-grid">
+
+                <div class="project-card hidden" style="transition-delay: 50ms;">
+                    <h3>Symphony of Syntax</h3>
+                    <p>An algorithmic rhythm engine that converts code logic into audio beats. Features visualizers and
+                        9:16 video export.</p>
+                    <div class="tech-stack">
+                        <span>Web Audio API</span><span>Canvas</span><span>Generative</span>
+                    </div>
+                    <a href="symphony-of-syntax/" class="btn-small">Generate Rhythm -></a>
+                </div>
+
+                <div class="project-card hidden" style="transition-delay: 100ms;">
+                    <h3>GPG Crypto Suite</h3>
+                    <p>A complete PGP encryption suite. Generate ECC keys, encrypt files/text, and decrypt data entirely
+                        in the browser.</p>
+                    <div class="tech-stack">
+                        <span>OpenPGP.js</span><span>Web Crypto</span><span>Privacy</span>
+                    </div>
+                    <a href="gpg" class="btn-small">Open Secure Terminal -></a>
+                </div>
+
+                <div class="project-card hidden" style="transition-delay: 150ms;">
+                    <h3>Base64 Stealth Tool</h3>
+                    <p>A secure web tool that converts any file into Base64 raw text and rebuilds it. Client-side Only.
+                    </p>
+                    <div class="tech-stack">
+                        <span>HTML/JS</span><span>Cryptography</span>
+                    </div>
+                    <a href="b64/" class="btn-small">Launch Tool -></a>
+                </div>
+
+                <div class="project-card hidden" style="transition-delay: 200ms;">
+                    <h3>QR Video Encoder</h3>
+                    <p>A Python script that converts JSON data into a video of QR codes for air-gapped data transfer.
+                    </p>
+                    <div class="tech-stack">
+                        <span>Python</span><span>OpenCV</span>
+                    </div>
+                    <a href="airgap/" class="btn-small">View Documentation -></a>
+                </div>
+
+                <div class="project-card hidden" style="transition-delay: 250ms;">
+                    <h3>WhatsApp Privacy Ext.</h3>
+                    <p>A browser extension focused on privacy features. Blur messages and hide status instantly.</p>
+                    <div class="tech-stack">
+                        <span>JavaScript</span><span>Manifest V3</span>
+                    </div>
+                    <a href="privacy/" class="btn-small">Try Live Demo -></a>
+                </div>
+
+                <div class="project-card hidden" style="transition-delay: 300ms;">
+                    <h3>CyberNews Spider</h3>
+                    <p>An automated web scraper that fetches latest cybersecurity threats and visualizes them in a
+                        dashboard.</p>
+                    <div class="tech-stack">
+                        <span>Python</span><span>BeautifulSoup</span><span>JSON</span>
+                    </div>
+                    <a href="newsscraper/" class="btn-small">Live Feed -></a>
+                </div>
+
+                <div class="project-card hidden" style="transition-delay: 350ms;">
+                    <h3>StealthImg Exif Wiper</h3>
+                    <p>A web utility that strips hidden metadata (GPS, Device Info) from images before sharing.</p>
+                    <div class="tech-stack">
+                        <span>JavaScript</span><span>Canvas API</span><span>Privacy</span>
+                    </div>
+                    <a href="metadatacleaner/" class="btn-small">Sanitize Image -></a>
+                </div>
+
+                <div class="project-card hidden" style="transition-delay: 400ms;">
+                    <h3>StegoVault Image Encryptor</h3>
+                    <p>A digital spy tool that hides secret text messages inside image pixels using steganography.</p>
+                    <div class="tech-stack">
+                        <span>JavaScript</span><span>Binary</span><span>Cybersec</span>
+                    </div>
+                    <a href="stegovault/" class="btn-small">Hide Secrets -></a>
+                </div>
+                <div class="project-card hidden" style="transition-delay: 450ms;">
+                    <h3>The Panopticon</h3>
+                    <p>An advanced device fingerprinting tool that exposes hardware sensors, WebRTC leaks, and unique
+                        browser hashes.</p>
+                    <div class="tech-stack">
+                        <span>Canvas API</span><span>WebRTC</span><span>Forensics</span>
+                    </div>
+                    <a href="panopticon/" class="btn-small">Start Scan -></a>
+                </div>
+                <div class="project-card hidden" style="transition-delay: 500ms;">
+                    <h3>Ghost-Pixel Image Cloak</h3>
+                    <p>Utilizes adversarial perturbation algorithms to inject imperceptible pixel-noise, rendering
+                        facial features unrecognizable to neural networks.</p>
+                    <div class="tech-stack">
+                        <span>Canvas API</span><span>Steganography</span><span>Privacy</span>
+                    </div>
+                    <a href="ghostpixel/" class="btn-small">Secure Image -></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section hidden">
+        <div class="container center">
+            <h2 class="section-title">03. Contact</h2>
+            <p>Have a boring task you want to automate? Or a website you need data from?</p>
+            <a href="mailto:syntaxandsoz@outlook.com" class="btn-main">Initiate Protocol (Email Me)</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>Designed by <a target="_blank" href="https://github.com/syntaxandsoz">Syntax & Soz</a> | &copy; 2025</p>
+    </footer>
+
+    <script>
+
+        generateFingerprint();
+
+        // Send Event to Google Analytics
+        if (typeof gtag === 'function') {
+            gtag('event', 'scan_complete', {
+                'event_category': 'Fingerprinting',
+                'event_label': 'Visitor Scanned',
+                'device_platform': navigator.platform,
+                'screen_res': window.screen.width + "x" + window.screen.height
+            });
+        }
+    </script>
+
+    <script>
+        const observerOptions = {
+            root: null,
+            rootMargin: '0px',
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('show');
+                    observer.unobserve(entry.target); // Only animate once
+                }
+            });
+        }, observerOptions);
+
+        const hiddenElements = document.querySelectorAll('.hidden');
+        hiddenElements.forEach((el) => observer.observe(el));
+    </script>
+<script>
+    
+setTimeout(() => {
+    console.clear();
+    console.log("%c⚠️ SECURITY ALERT ⚠️", "color: red; font-size: 40px; font-weight: bold; text-shadow: 2px 2px black;");
+    console.log("%cYou are poking around where you shouldn't be...", "color: white; font-size: 16px;");
+    console.log("%cIf you want to hire me, decode this: c3ludGF4YW5kc296QG91dGxvb2suY29t", "color: #00ff41; font-family: monospace; font-size: 14px; border: 1px solid #00ff41; padding: 5px;");
+    console.log("%c(Hint: It's Base64)", "color: gray; font-size: 10px;");
+}, 2000);
+</script>
+</body>
+
+
+</html>
+
+
+
+
+================================================================================
+FILE PATH: index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air-Gap Encoder | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <button class="menu-btn" onclick="toggleSidebar()">
+        ☰
+    </button>
+
+    <div class="doc-layout">
+        <nav class="sidebar" id="sidebar">
+            <div class="brand">
+                <a href="../">← Syntax & Soz</a>
+            </div>
+            <ul>
+                <li><a href="#intro" class="active">1. Introduction</a></li>
+                <li><a href="#workflow">2. How it Works</a></li>
+                <li><a href="#install">3. Installation</a></li>
+                <li><a href="#usage">4. Usage Guide</a></li>
+                <li><a href="#source">5. Source Code</a></li>
+                <li><a href="#download" class="highlight">Download .py</a></li>
+            </ul>
+        </nav>
+
+        <main class="content" id="content">
+            
+            <header>
+                <span class="badge">v1.0.2-stable</span>
+                <span class="badge green">MIT License</span>
+                <h1>Air-Gap Data Encoder</h1>
+                <p class="lead">A forensic Python utility designed to exfiltrate data from isolated (air-gapped) systems by converting raw binary/text into a visual QR code stream.</p>
+            </header>
+
+            <hr>
+
+            <section id="intro">
+                <h2>1. Introduction</h2>
+                <p>
+                    In high-security environments, systems are often "air-gapped" (physically isolated from the internet and USB ports). Moving data out of these systems is challenging.
+                </p>
+                <p>
+                    The <strong>Air-Gap Encoder</strong> solves this by utilizing the system's display. It takes a payload (JSON, Text, or Files), chunks it into small packets, and renders them as a high-speed video of QR codes.
+                </p>
+            </section>
+
+            <section id="workflow">
+                <h2>2. Technical Workflow</h2>
+                <div class="workflow-box">
+                    <p>INPUT DATA (JSON/Text)</p>
+                    <div class="arrow">↓</div>
+                    <p>CHUNKING ALGORITHM (200 bytes/frame)</p>
+                    <div class="arrow">↓</div>
+                    <p>QR GENERATION (Error Correction Level: L)</p>
+                    <div class="arrow">↓</div>
+                    <p>OPENCV RENDERING (Frame Sequencing)</p>
+                    <div class="arrow">↓</div>
+                    <p>OUTPUT: .AVI Video Stream</p>
+                </div>
+            </section>
+
+            <section id="install">
+                <h2>3. System Requirements</h2>
+                <p>You need Python 3.7+ installed. The script relies on <code>opencv-python</code> for video rendering and <code>qrcode</code> for matrix generation.</p>
+                <div class="code-block shell">
+                    <span class="cmd">$ pip install opencv-python qrcode numpy</span>
+                </div>
+            </section>
+
+            <section id="usage">
+                <h2>4. Usage Guide</h2>
+                <p>Run the script directly from the terminal. You can modify the <code>sample_data</code> variable inside the script to change the payload.</p>
+                <div class="code-block shell">
+                    <span class="cmd">$ python encoder.py</span>
+                    <br>
+                    <span class="output">>> Initializing Encoder...</span><br>
+                    <span class="output">>> Total Chunks: 50</span><br>
+                    <span class="output">[+] Encoding Frame 1/50</span><br>
+                    <span class="output">[+] Encoding Frame 2/50</span><br>
+                    <span class="output">...</span><br>
+                    <span class="output">>> Video Sequence Complete. Saved as output.avi</span>
+                </div>
+            </section>
+
+            <section id="source">
+                <h2>5. Source Code</h2>
+                <p>The core logic is open-source. You can review the implementation below before downloading.</p>
+                
+                <div class="code-window">
+                    <div class="window-bar">
+                        <span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span>
+                        <span class="filename">encoder.py</span>
+                    </div>
+                    <pre><code class="python">
+<span class="kwd">import</span> cv2
+<span class="kwd">import</span> qrcode
+<span class="kwd">import</span> numpy <span class="kwd">as</span> np
+
+<span class="comment"># Configuration</span>
+CHUNK_SIZE = <span class="num">200</span>
+OUTPUT_FILE = <span class="str">"evidence.avi"</span>
+
+<span class="kwd">def</span> <span class="func">text_to_qr_video</span>(data):
+    <span class="kwd">print</span>(<span class="str">f">> Processing {len(data)} bytes..."</span>)
+    
+    <span class="comment"># Initialize Video Writer (XVID Codec)</span>
+    fourcc = cv2.VideoWriter_fourcc(*<span class="str">'XVID'</span>)
+    out = cv2.VideoWriter(OUTPUT_FILE, fourcc, <span class="num">2.0</span>, (<span class="num">500</span>, <span class="num">500</span>))
+    
+    <span class="comment"># Split Data</span>
+    chunks = [data[i:i+CHUNK_SIZE] <span class="kwd">for</span> i <span class="kwd">in</span> <span class="func">range</span>(<span class="num">0</span>, <span class="func">len</span>(data), CHUNK_SIZE)]
+
+    <span class="kwd">for</span> i, chunk <span class="kwd">in</span> <span class="func">enumerate</span>(chunks):
+        <span class="comment"># Create QR Matrix</span>
+        qr = qrcode.QRCode(box_size=<span class="num">10</span>, border=<span class="num">4</span>)
+        qr.add_data(chunk)
+        qr.make(fit=<span class="kwd">True</span>)
+        
+        <span class="comment"># Convert to Image Frame</span>
+        img = qr.make_image(fill=<span class="str">'black'</span>, back_color=<span class="str">'white'</span>)
+        frame = np.array(img.convert(<span class="str">'RGB'</span>))
+        frame = cv2.resize(frame, (<span class="num">500</span>, <span class="num">500</span>))
+        
+        out.write(frame)
+        
+    out.release()
+    <span class="kwd">print</span>(<span class="str">">> Done."</span>)
+                    </code></pre>
+                </div>
+            </section>
+
+            <section id="download" class="center-box">
+                <h3>Ready to deploy?</h3>
+                <p>Download the standalone Python script.</p>
+                <a href="encoder.py" download="encoder.py" class="btn-primary">
+                    <span class="icon">⬇</span> Download Source (.py)
+                </a>
+            </section>
+
+            <footer>
+                <p>Designed by Syntax & Soz | &copy; 2025 | For Educational Use Only</p>
+            </footer>
+
+        </main>
+    </div>
+
+    <script>
+        function toggleSidebar() {
+            document.body.classList.toggle('menu-closed');
+        }
+    </script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: metadatacleaner\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StealthImg | Metadata Wiper</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+</head>
+<body>
+
+    <div class="container">
+        
+        <nav class="sidebar">
+            <a href="../" class="brand">← Back to Terminal</a>
+            
+            <div class="info-box">
+                <h3><i class="fas fa-shield-alt"></i> HOW IT WORKS</h3>
+                <p>Images contain hidden data (EXIF) like GPS location and device model.</p>
+                <p>This tool scans for <strong>Real Metadata</strong> and reconstructs the image to wipe it clean.</p>
+            </div>
+
+            <div class="status-box">
+                <p>PROCESS STATUS</p>
+                <div id="statusIndicator" class="indicator idle"></div> 
+                <span id="statusText">WAITING FOR INPUT</span>
+            </div>
+        </nav>
+
+        <main class="tool-area">
+            <header>
+                <h1>Stealth<span class="accent">Img</span></h1>
+                <p>Real-Time Exif Scanner & Metadata Wiper.</p>
+            </header>
+
+            <div class="upload-zone" id="dropZone">
+                <input type="file" id="fileInput" accept="image/png, image/jpeg, image/jpg" hidden>
+                <div class="icon-box">
+                    <i class="fas fa-cloud-upload-alt"></i>
+                </div>
+                <h3>Drag & Drop or Click to Upload</h3>
+                <p>Supports JPG, JPEG (Extracts Real Data)</p>
+            </div>
+
+            <div class="result-area" id="resultArea" style="display: none;">
+                
+                <div class="stats-grid">
+                    <div class="stat-card danger">
+                        <h4>HIDDEN DATA FOUND</h4>
+                        <ul id="exifList">
+                            </ul>
+                    </div>
+                    <div class="arrow">➔</div>
+                    <div class="stat-card success">
+                        <h4>CLEANED FILE</h4>
+                        <p>GPS Removed</p>
+                        <p>Device Info Removed</p>
+                        <p>Timestamp Removed</p>
+                    </div>
+                </div>
+
+                <div class="preview-box">
+                    <img id="previewImg" src="" alt="Cleaned Image">
+                </div>
+
+                <button id="downloadBtn" class="btn-download">
+                    <i class="fas fa-download"></i> Download Clean Image
+                </button>
+                
+                <button id="resetBtn" class="btn-reset">Process Another</button>
+            </div>
+
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: metadatacleaner\script.js
+================================================================================
+
+// Syntax & Soz - StealthImg Logic (Fixed for Raw Data)
+
+const dropZone = document.getElementById('dropZone');
+const fileInput = document.getElementById('fileInput');
+const resultArea = document.getElementById('resultArea');
+const previewImg = document.getElementById('previewImg');
+const downloadBtn = document.getElementById('downloadBtn');
+const resetBtn = document.getElementById('resetBtn');
+const statusIndicator = document.getElementById('statusIndicator');
+const statusText = document.getElementById('statusText');
+const exifList = document.getElementById('exifList');
+
+// --- EVENT LISTENERS ---
+
+dropZone.addEventListener('click', () => fileInput.click());
+
+dropZone.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    dropZone.classList.add('dragover');
+});
+
+dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+
+dropZone.addEventListener('drop', (e) => {
+    e.preventDefault();
+    dropZone.classList.remove('dragover');
+    handleFile(e.dataTransfer.files[0]);
+});
+
+fileInput.addEventListener('change', (e) => handleFile(e.target.files[0]));
+
+resetBtn.addEventListener('click', () => {
+    resultArea.style.display = 'none';
+    dropZone.style.display = 'flex';
+    setStatus('idle', 'WAITING FOR INPUT');
+    exifList.innerHTML = ''; // Clear list
+    fileInput.value = ''; // Reset input to allow same file selection
+});
+
+// --- CORE FUNCTIONS ---
+
+function handleFile(file) {
+    if (!file) return;
+
+    // Check File Type
+    if (file.type !== 'image/jpeg' && file.type !== 'image/jpg') {
+        if (file.type === 'image/png') {
+             alert('Info: PNG files usually do not store GPS/Camera metadata. Processing anyway.');
+        } else {
+             alert('Please upload a JPG/JPEG file for EXIF scanning.');
+        }
+    }
+
+    setStatus('processing', 'SCANNING RAW DATA...');
+
+    // 1. EXTRACT REAL EXIF DATA (Directly from File Object)
+    // Ye line ab direct file ko parhegi, image tag ko nahi.
+    getRealExifData(file);
+
+    // 2. SHOW PREVIEW & CLEAN
+    const reader = new FileReader();
+    reader.onload = (e) => {
+        const img = new Image();
+        img.onload = () => {
+            cleanImage(img, file.type, file.name);
+        };
+        img.src = e.target.result;
+    };
+    reader.readAsDataURL(file);
+}
+
+function getRealExifData(file) {
+    exifList.innerHTML = ""; // Clear old data
+    let foundData = false;
+
+    // FIX: Passing 'file' directly instead of 'img' element
+    // This reads the raw binary data ensuring nothing is lost.
+    EXIF.getData(file, function() {
+        const allMetaData = EXIF.getAllTags(this);
+        console.log("Detected Metadata:", allMetaData); // Debugging ke liye console check karein
+
+        if (Object.keys(allMetaData).length > 0) {
+            
+            // Device Info
+            if (allMetaData.Make || allMetaData.Model) {
+                const device = `${allMetaData.Make || ''} ${allMetaData.Model || ''}`;
+                addItem(`Device: ${device}`);
+                foundData = true;
+            }
+            
+            // Date Time
+            if (allMetaData.DateTimeOriginal || allMetaData.DateTime) {
+                addItem(`Date: ${allMetaData.DateTimeOriginal || allMetaData.DateTime}`);
+                foundData = true;
+            }
+            
+            // Software
+            if (allMetaData.Software) {
+                addItem(`Software: ${allMetaData.Software}`);
+                foundData = true;
+            }
+
+            // GPS Check
+            if (allMetaData.GPSLatitude || allMetaData.GPSLongitude) {
+                addItem(`GPS Data: DETECTED & LOGGED`);
+                foundData = true;
+            }
+
+            // Exposure/ISO (Extra info)
+            if (allMetaData.ISOSpeedRatings) {
+                addItem(`ISO Speed: ${allMetaData.ISOSpeedRatings}`);
+                foundData = true;
+            }
+
+            if (!foundData) {
+                addItem("No sensitive EXIF data found (Safe Image).");
+            }
+
+        } else {
+            addItem("No EXIF metadata detected.");
+        }
+    });
+}
+
+function addItem(text) {
+    const li = document.createElement('li');
+    li.innerHTML = `<i class="fas fa-bug"></i> ${text}`;
+    exifList.appendChild(li);
+}
+
+function cleanImage(img, mimeType, fileName) {
+    // Create a canvas to re-render the pixels
+    const canvas = document.createElement('canvas');
+    canvas.width = img.width;
+    canvas.height = img.height;
+    
+    const ctx = canvas.getContext('2d');
+    ctx.drawImage(img, 0, 0);
+
+    // Metadata is stripped here
+    const cleanDataUrl = canvas.toDataURL(mimeType, 0.95);
+
+    setTimeout(() => {
+        dropZone.style.display = 'none';
+        resultArea.style.display = 'block';
+        previewImg.src = cleanDataUrl;
+        
+        setStatus('done', 'METADATA WIPED');
+        
+        downloadBtn.onclick = () => {
+            const link = document.createElement('a');
+            link.download = 'cleaned_' + fileName;
+            link.href = cleanDataUrl;
+            link.click();
+        };
+    }, 800); 
+}
+
+function setStatus(state, text) {
+    statusIndicator.className = 'indicator ' + state;
+    statusText.innerText = text;
+}
+
+
+================================================================================
+FILE PATH: metadatacleaner\style.css
+================================================================================
+
+/* RESET */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background-color: #050505; color: #e0e0e0;
+    font-family: 'Inter', sans-serif;
+    height: 100vh; overflow: hidden;
+}
+
+.container { display: flex; height: 100%; }
+
+/* SIDEBAR */
+.sidebar {
+    width: 300px; background: #0d1117;
+    border-right: 1px solid #30363d;
+    padding: 30px; display: flex; flex-direction: column;
+}
+
+.brand { color: #58a6ff; text-decoration: none; font-family: 'Fira Code'; margin-bottom: 40px; display: block; font-size: 0.9rem; }
+
+.info-box { margin-bottom: 40px; }
+.info-box h3 { color: #8b949e; font-size: 0.8rem; margin-bottom: 10px; letter-spacing: 1px; }
+.info-box p { font-size: 0.85rem; color: #666; line-height: 1.6; margin-bottom: 10px; }
+
+.status-box { background: #161b22; padding: 20px; border-radius: 8px; border: 1px solid #30363d; margin-top: auto; }
+.status-box p { font-size: 0.7rem; color: #888; margin-bottom: 10px; }
+.indicator { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 8px; }
+.idle { background: #888; }
+.processing { background: #e3b341; box-shadow: 0 0 10px #e3b341; animation: blink 0.5s infinite; }
+.done { background: #00ff41; box-shadow: 0 0 10px #00ff41; }
+
+@keyframes blink { 50% { opacity: 0.5; } }
+
+/* MAIN AREA */
+.tool-area { flex: 1; padding: 50px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+header { text-align: center; margin-bottom: 40px; }
+h1 { font-family: 'Fira Code'; font-size: 2.5rem; margin-bottom: 10px; }
+.accent { color: #58a6ff; }
+header p { color: #8b949e; }
+
+/* UPLOAD ZONE */
+.upload-zone {
+    width: 100%; max-width: 600px;
+    height: 300px;
+    border: 2px dashed #30363d;
+    border-radius: 12px;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    cursor: pointer; transition: 0.3s;
+    background: #0d1117;
+}
+.upload-zone:hover, .upload-zone.dragover { border-color: #58a6ff; background: #161b22; }
+.icon-box { font-size: 3rem; color: #30363d; margin-bottom: 20px; transition: 0.3s; }
+.upload-zone:hover .icon-box { color: #58a6ff; transform: translateY(-5px); }
+
+/* RESULT AREA */
+.result-area { width: 100%; max-width: 700px; text-align: center; animation: fadeIn 0.5s; }
+
+.stats-grid { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; }
+.stat-card { background: #161b22; padding: 15px; border-radius: 8px; width: 45%; text-align: left; border: 1px solid #30363d; }
+.stat-card h4 { font-family: 'Fira Code'; font-size: 0.8rem; margin-bottom: 10px; border-bottom: 1px solid #333; padding-bottom: 5px; }
+
+.danger h4 { color: #ff5f56; }
+.success h4 { color: #00ff41; }
+.stat-card ul { list-style: none; font-size: 0.8rem; color: #ff5f56; }
+.stat-card p { font-size: 0.8rem; color: #00ff41; }
+
+.arrow { color: #58a6ff; font-size: 1.5rem; }
+
+.preview-box img { max-height: 200px; border-radius: 8px; border: 1px solid #58a6ff; margin-bottom: 20px; }
+
+.btn-download {
+    background: #238636; color: white; border: none; padding: 12px 30px;
+    border-radius: 6px; font-weight: bold; cursor: pointer; font-size: 1rem; margin-right: 10px;
+    transition: 0.3s;
+}
+.btn-download:hover { background: #2ea043; transform: scale(1.05); }
+
+.btn-reset { background: transparent; border: 1px solid #30363d; color: #888; padding: 12px 20px; border-radius: 6px; cursor: pointer; }
+.btn-reset:hover { color: #fff; border-color: #fff; }
+
+@keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+
+/* Mobile */
+@media (max-width: 768px) {
+    .container { flex-direction: column; overflow: auto; }
+    .sidebar { width: 100%; height: auto; }
+    .tool-area { padding: 20px; }
+    .stats-grid { flex-direction: column; gap: 20px; }
+    .stat-card { width: 100%; }
+    .arrow { transform: rotate(90deg); margin: 10px 0; }
+}
+
+
+================================================================================
+FILE PATH: newsscraper\data.json
+================================================================================
+
+[
+    {
+        "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "\ue802Jul 27, 2026AI Security / Software Security",
+        "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html"
+    },
+    {
+        "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "\ue802Jul 27, 2026Botnet / IoT Security",
+        "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html"
+    },
+    {
+        "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "\ue802Jul 27, 2026Vulnerability / Website Security",
+        "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html"
+    },
+    {
+        "title": "How AI Is Rewriting the Cloud Security Playbook",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "SANSCloud Security / Training",
+        "link": "https://thehackernews.uk/cse2026"
+    },
+    {
+        "title": "\u26a1 Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "\ue802Jul 27, 2026Cybersecurity / Hacking",
+        "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html"
+    },
+    {
+        "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "\ue802Jul 27, 2026Vulnerability / Enterprise Security",
+        "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html"
+    },
+    {
+        "title": "Five things successful IT teams get right about SaaS management",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "1PasswordSaaS Management / Password Security",
+        "link": "https://thehackernews.uk/saas-insights"
+    },
+    {
+        "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+        "source": "The Hacker News",
+        "time": "2026-07-28",
+        "category": "\ue802Jul 27, 2026Malware / Cyber Attack",
+        "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html"
+    }
+]
+
+
+================================================================================
+FILE PATH: newsscraper\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberNews Spider | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="dashboard-container">
+        
+        <aside class="sidebar">
+            <a href="../" class="back-link">← Main Terminal</a>
+            
+            <div class="status-panel">
+                <h3>SPIDER STATUS</h3>
+                <div class="status-indicator">
+                    <span class="dot pulse"></span>
+                    <span class="text">OPERATIONAL</span>
+                </div>
+            </div>
+
+            <div class="terminal-logs">
+                <p>> Initializing Spider v2.0...</p>
+                <p>> Target: The Hacker News</p>
+                <p>> Bypass Protocol: Active</p>
+                <p>> Fetching latest packets...</p>
+                <p class="blink">_</p>
+            </div>
+
+            <div class="actions">
+                <p class="label">SOURCE CODE</p>
+                <a href="spider.py" download="spider.py" class="btn-download">
+                    Download .py Script ⬇
+                </a>
+            </div>
+        </aside>
+
+        <main class="feed">
+            <header>
+                <h1>CyberNews <span class="accent">Spider</span></h1>
+                <p>Automated Threat Intelligence Feed.</p>
+            </header>
+
+            <div class="news-grid" id="newsGrid">
+                <p style="color:#666;">Loading data stream...</p>
+            </div>
+        </main>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: newsscraper\requirements.txt
+================================================================================
+
+requests
+beautifulsoup4
+
+
+================================================================================
+FILE PATH: newsscraper\script.js
+================================================================================
+
+document.addEventListener("DOMContentLoaded", () => {
+    const grid = document.getElementById("newsGrid");
+    
+    // Fetch Data (Cache busting added to get fresh data)
+    fetch('data.json?t=' + new Date().getTime()) 
+        .then(response => response.json())
+        .then(data => {
+            grid.innerHTML = ""; // Clear loading text
+            
+            data.forEach((item, index) => {
+                // Create Card
+                const card = document.createElement("div");
+                card.classList.add("card");
+                
+                // Clickable Link
+                card.onclick = () => window.open(item.link || "#", "_blank");
+
+                // HTML Structure
+                card.innerHTML = `
+                    <span class="tag">${item.category || 'General'}</span>
+                    <h3>${item.title}</h3>
+                    <div class="meta">
+                        <span>${item.source}</span>
+                        <span>${item.time}</span>
+                    </div>
+                `;
+                
+                // Staggered Animation (Elements appear one by one)
+                card.style.opacity = "0";
+                card.style.animation = `fadeIn 0.5s forwards ${index * 0.1}s`;
+                
+                grid.appendChild(card);
+            });
+        })
+        .catch(error => {
+            console.error(error);
+            grid.innerHTML = `<p style="color:#ff5f56;">>> Error: Data Stream Offline.</p>`;
+        });
+});
+
+// Add FadeIn Keyframe dynamically
+const style = document.createElement('style');
+style.innerHTML = `
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+`;
+document.head.appendChild(style);
+
+
+================================================================================
+FILE PATH: newsscraper\spider.py
+================================================================================
+
+import requests
+from bs4 import BeautifulSoup
+import json
+import os
+from datetime import datetime
+
+# URL to scrape
+URL = "https://thehackernews.com/"
+
+def scrape_data():
+    print(">> [BOT] Connecting to Target: The Hacker News...")
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    
+    try:
+        response = requests.get(URL, headers=headers)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, "html.parser")
+        articles_list = []
+        
+        news_items = soup.select(".body-post")[:8]
+
+        for item in news_items:
+            try:
+                title = item.select_one(".home-title").get_text(strip=True)
+                link = item.select_one("a.story-link")['href']
+                tag = item.select_one(".item-label").get_text(strip=True)
+                
+                articles_list.append({
+                    "title": title,
+                    "source": "The Hacker News",
+                    "time": datetime.now().strftime("%Y-%m-%d"),
+                    "category": tag,
+                    "link": link
+                })
+                print(f"[+] Scraped: {title[:30]}...")
+            except Exception as e:
+                print(f"[-] Skipped item: {e}")
+
+    
+        # If running from root (GitHub Actions), go into the folder
+        if os.path.exists('newsscraper'):
+            file_path = 'newsscraper/data.json'
+        else:
+            # If inside the folder, save directly
+            file_path = 'data.json'
+
+        with open(file_path, 'w') as f:
+            json.dump(articles_list, f, indent=4)
+        
+        print(f">> [SUCCESS] {len(articles_list)} articles saved to {file_path}")
+
+    except Exception as e:
+        print(f">> [ERROR] Bot Failed: {e}")
+
+if __name__ == "__main__":
+    scrape_data()
+
+
+================================================================================
+FILE PATH: newsscraper\style.css
+================================================================================
+
+/* RESET & FONTS */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background-color: #050505;
+    color: #e0e0e0;
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+    overflow: hidden; /* Scrollbar sirf feed mein hoga */
+}
+
+/* LAYOUT */
+.dashboard-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 280px;
+    background: #0d1117;
+    border-right: 1px solid #30363d;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.back-link {
+    color: #58a6ff; text-decoration: none; font-family: 'Fira Code'; font-size: 0.8rem;
+    margin-bottom: 30px; display: block;
+}
+
+.status-panel {
+    background: #161b22; border: 1px solid #30363d;
+    padding: 15px; border-radius: 6px; margin-bottom: 20px;
+}
+.status-panel h3 { font-size: 0.7rem; color: #888; margin-bottom: 8px; letter-spacing: 1px; }
+
+.status-indicator { display: flex; align-items: center; gap: 8px; }
+.dot { width: 8px; height: 8px; background: #00ff41; border-radius: 50%; box-shadow: 0 0 8px #00ff41; }
+.text { color: #00ff41; font-family: 'Fira Code'; font-weight: bold; font-size: 0.9rem; }
+.pulse { animation: pulse 2s infinite; }
+
+.terminal-logs {
+    font-family: 'Fira Code'; font-size: 0.75rem; color: #8b949e;
+    background: #000; padding: 15px; border-radius: 6px; border: 1px solid #21262d;
+    flex-grow: 1; overflow: hidden;
+}
+.terminal-logs p { margin-bottom: 5px; }
+.blink { animation: blink 1s infinite; }
+
+.actions { margin-top: 20px; }
+.label { font-size: 0.7rem; color: #666; margin-bottom: 10px; font-weight: bold; }
+.btn-download {
+    display: block; width: 100%; text-align: center;
+    background: #238636; color: white; text-decoration: none;
+    padding: 10px; border-radius: 6px; font-weight: bold;
+    border: 1px solid #2ea043; transition: 0.3s; font-size: 0.9rem;
+}
+.btn-download:hover { background: #2ea043; }
+
+
+/* MAIN FEED */
+.feed {
+    flex: 1;
+    padding: 40px;
+    overflow-y: auto; /* Scroll sirf yahan hoga */
+}
+
+header { margin-bottom: 40px; border-bottom: 1px solid #30363d; padding-bottom: 20px; }
+h1 { font-family: 'Fira Code'; font-size: 2rem; margin-bottom: 5px; }
+.accent { color: #58a6ff; }
+header p { color: #8b949e; }
+
+/* NEWS GRID */
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: #0d1117; border: 1px solid #30363d;
+    padding: 20px; border-radius: 8px;
+    transition: transform 0.2s, border-color 0.2s;
+    position: relative; display: flex; flex-direction: column;
+    justify-content: space-between;
+}
+.card:hover { transform: translateY(-5px); border-color: #58a6ff; cursor: pointer; }
+
+.tag {
+    font-size: 0.7rem; background: #1f6feb; color: white;
+    padding: 2px 8px; border-radius: 4px; align-self: flex-start; margin-bottom: 10px;
+    font-family: 'Fira Code';
+}
+
+.card h3 { font-size: 1.1rem; line-height: 1.5; color: #e0e0e0; margin-bottom: 15px; }
+
+.meta {
+    font-size: 0.75rem; color: #8b949e;
+    display: flex; justify-content: space-between;
+    border-top: 1px solid #21262d; padding-top: 10px; margin-top: auto;
+}
+
+/* Animations */
+@keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+@keyframes blink { 50% { opacity: 0; } }
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .dashboard-container { flex-direction: column; overflow: auto; }
+    .sidebar { width: 100%; height: auto; border-right: none; border-bottom: 1px solid #30363d; }
+    .feed { overflow: visible; }
+}
+
+
+================================================================================
+FILE PATH: panopticon\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Panopticon | Device Fingerprinting</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="scan-overlay"></div>
+    
+    <div class="container">
+        <nav class="top-nav">
+            <a href="../" class="back-link"><i class="fas fa-chevron-left"></i> RETURN_TO_SYSTEM</a>
+        </nav>
+        <header>
+            <h1>THE PANOPTICON</h1>
+            <p>SUBJECT: <span id="visitor-id" class="blink">SCANNING...</span></p>
+        </header>
+
+        <div class="grid">
+            
+            <div class="panel">
+                <h3>// HARDWARE_INTEGRITY</h3>
+                <div class="data-row">
+                    <span>CPU CORES:</span>
+                    <span id="cpu" class="val">Analyzing...</span>
+                </div>
+                <div class="data-row">
+                    <span>RAM (Est):</span>
+                    <span id="ram" class="val">Analyzing...</span>
+                </div>
+                <div class="data-row">
+                    <span>PLATFORM:</span>
+                    <span id="platform" class="val">Analyzing...</span>
+                </div>
+                <div class="data-row">
+                    <span>GPU RENDERER:</span>
+                    <span id="gpu" class="val">Analyzing...</span>
+                </div>
+            </div>
+
+            <div class="center-stage">
+                <div class="radar">
+                    <div class="sweep"></div>
+                </div>
+                <div class="status-msg">DIGITAL FOOTPRINT DETECTED</div>
+            </div>
+
+            <div class="panel">
+                <h3>// CONNECTION_NODE</h3>
+                <div class="data-row">
+                    <span>PUBLIC IP:</span>
+                    <span id="ip" class="val highlight">Fetching...</span>
+                </div>
+                <div class="data-row">
+                    <span>LATENCY:</span>
+                    <span id="latency" class="val">Calculating...</span>
+                </div>
+                <div class="data-row">
+                    <span>CONNECTION:</span>
+                    <span id="connection" class="val">--</span>
+                </div>
+                <hr style="border-color: #333; margin: 10px 0;">
+                <div class="data-row">
+                    <span>BATTERY:</span>
+                    <span id="battery" class="val">--</span>
+                </div>
+                <div class="data-row">
+                    <span>POWER STATUS:</span>
+                    <span id="charging" class="val">--</span>
+                </div>
+            </div>
+
+            <div class="panel mobile-panel">
+                <h3>// SENSORS_&_LEAKS</h3>
+                <div class="data-row">
+                    <span>LOCAL IP (RTC):</span>
+                    <span id="local-ip" class="val" style="color: #ff0055;">Scanning...</span>
+                </div>
+                <div class="data-row">
+                    <span>DEVICE TILT (X):</span>
+                    <span id="tilt-a" class="val">0°</span>
+                </div>
+                <div class="data-row">
+                    <span>DEVICE TILT (Y):</span>
+                    <span id="tilt-b" class="val">0°</span>
+                </div>
+                <div class="data-row">
+                    <span>SCREEN RES:</span>
+                    <span id="screen-res" class="val">--</span>
+                </div>
+                <div class="data-row">
+                    <span>DO NOT TRACK:</span>
+                    <span id="dnt" class="val">--</span>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="terminal-log">
+            <h3>>> RAW_USER_AGENT_STRING</h3>
+            <p id="userAgent" style="color: #666;">Retrieving...</p>
+        </div>
+        
+        <div class="fingerprint-box">
+            <span>UNIQUE CANVAS HASH: </span>
+            <span id="hash" style="color: #ff0055;">CALCULATING...</span>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: panopticon\script.js
+================================================================================
+
+// --- THE PANOPTICON v2.1 (STABLE) ---
+
+document.addEventListener("DOMContentLoaded", () => {
+    // Run scanners safely
+    try { initScanner(); } catch(e) { console.log("Scanner Error", e); }
+    try { initAdvancedSensors(); } catch(e) { console.log("Sensor Error", e); }
+});
+
+function initScanner() {
+    // 1. Basic Info
+    document.getElementById('platform').innerText = navigator.platform.toUpperCase();
+    document.getElementById('cpu').innerText = navigator.hardwareConcurrency + " CORES";
+    
+    // RAM Check
+    if(navigator.deviceMemory) {
+        document.getElementById('ram').innerText = navigator.deviceMemory + " GB";
+    } else {
+        document.getElementById('ram').innerText = "HIDDEN";
+    }
+
+    document.getElementById('userAgent').innerText = navigator.userAgent;
+    document.getElementById('screen-res').innerText = window.screen.width + "x" + window.screen.height;
+    
+    // Do Not Track Status
+    document.getElementById('dnt').innerText = navigator.doNotTrack === "1" ? "ENABLED (IGNORED)" : "DISABLED";
+
+    // 2. Battery Status (Safe Check)
+    if (navigator.getBattery) {
+        navigator.getBattery().then(battery => {
+            updateBattery(battery);
+            battery.addEventListener('levelchange', () => updateBattery(battery));
+            battery.addEventListener('chargingchange', () => updateBattery(battery));
+        });
+    } else {
+        document.getElementById('battery').innerText = "PROTECTED";
+        document.getElementById('charging').innerText = "N/A";
+    }
+
+    // 3. Network Info
+    const connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+    if (connection) {
+        document.getElementById('connection').innerText = connection.effectiveType.toUpperCase();
+        document.getElementById('latency').innerText = connection.rtt + " ms";
+    }
+
+    // 4. GPU Renderer
+    try {
+        const canvas = document.createElement('canvas');
+        const gl = canvas.getContext('webgl') || canvas.getContext('experimental-webgl');
+        const debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+        const renderer = gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL);
+        document.getElementById('gpu').innerText = renderer.replace("ANGLE (", "").replace(")", "");
+    } catch(e) {
+        document.getElementById('gpu').innerText = "BLOCKED";
+    }
+
+    // 5. Public IP Fetch
+    fetch('https://api.ipify.org?format=json')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('ip').innerText = data.ip;
+            // VIBRATE PHONE (Haptic Feedback)
+            if (navigator.vibrate) navigator.vibrate(200); 
+        })
+        .catch(() => {
+            document.getElementById('ip').innerText = "ADBLOCKER";
+        });
+
+    generateFingerprint();
+}
+
+function initAdvancedSensors() {
+    // 6. WebRTC Leak (Local IP)
+    try {
+        const rtc = new RTCPeerConnection({iceServers: []});
+        rtc.createDataChannel('');
+        rtc.createOffer().then(o => rtc.setLocalDescription(o));
+        
+        rtc.onicecandidate = (e) => {
+            if (!e.candidate) return;
+            const ipRegex = /([0-9]{1,3}(\.[0-9]{1,3}){3})/;
+            const match = e.candidate.candidate.match(ipRegex);
+            if (match) {
+                document.getElementById('local-ip').innerText = match[1];
+            } else {
+                document.getElementById('local-ip').innerText = "OBFUSCATED";
+                document.getElementById('local-ip').style.color = "#00ff41";
+            }
+        };
+    } catch(e) {
+        document.getElementById('local-ip').innerText = "BLOCKED";
+    }
+
+    // 7. Gyroscope / Device Orientation (Mobile Only)
+    if (window.DeviceOrientationEvent) {
+        window.addEventListener('deviceorientation', function(event) {
+            // Check if sensor is providing data
+            if(event.alpha || event.beta) {
+                document.getElementById('tilt-a').innerText = Math.round(event.alpha) + "°";
+                document.getElementById('tilt-b').innerText = Math.round(event.beta) + "°";
+                
+                // 3D Radar Tilt Effect
+                const radar = document.querySelector('.radar');
+                if(radar) {
+                    radar.style.transform = `perspective(500px) rotateX(${event.beta/2}deg) rotateY(${event.gamma/2}deg)`;
+                }
+            }
+        });
+    }
+}
+
+function updateBattery(battery) {
+    const level = Math.round(battery.level * 100);
+    const charging = battery.charging ? "CHARGING ⚡" : "DISCHARGING";
+    document.getElementById('battery').innerText = level + "%";
+    document.getElementById('charging').innerText = charging;
+    
+    if (level < 20) document.getElementById('battery').style.color = "#ff0055";
+}
+
+function generateFingerprint() {
+    const text = "SyntaxAndSoz_Panopticon_v2";
+    const canvas = document.createElement("canvas");
+    const ctx = canvas.getContext("2d");
+    ctx.textBaseline = "top";
+    ctx.font = "14px 'Arial'";
+    ctx.fillStyle = "#f60";
+    ctx.fillRect(125,1,62,20);
+    ctx.fillStyle = "#069";
+    ctx.fillText(text, 2, 15);
+    const dataURI = canvas.toDataURL();
+    
+    let hash = 0;
+    for (let i = 0; i < dataURI.length; i++) {
+        const char = dataURI.charCodeAt(i);
+        hash = ((hash << 5) - hash) + char;
+        hash = hash & hash;
+    }
+    const finalID = "UID-" + Math.abs(hash).toString(16).toUpperCase();
+    document.getElementById('hash').innerText = finalID;
+    document.getElementById('visitor-id').innerText = finalID;
+}
+
+
+================================================================================
+FILE PATH: panopticon\style.css
+================================================================================
+
+:root {
+    --bg: #050505;
+    --text: #00ff41; /* Hacker Green */
+    --alert: #ff0055; /* Error Red */
+    --cyan: #00f3ff;
+    --panel: rgba(0, 20, 0, 0.3);
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Share Tech Mono', monospace;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh; /* Changed from height to min-height for scrolling */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    /* Allow scrolling on small screens */
+    overflow-y: auto; 
+}
+
+/* --- CRT SCANLINE EFFECT --- */
+.scan-overlay {
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 2px, 3px 100%;
+    pointer-events: none;
+    z-index: 999;
+}
+
+.container {
+    width: 95%;
+    max-width: 1200px; /* Increased width for 3 panels */
+    border: 1px solid #333;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.1);
+    background: var(--panel);
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    text-shadow: 0 0 10px var(--text);
+    letter-spacing: 3px;
+}
+
+header {
+    border-bottom: 2px solid var(--text);
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+/* --- GRID LAYOUT --- */
+.grid {
+    display: grid;
+    /* 3 Columns Layout */
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 15px;
+}
+
+@media (max-width: 900px) {
+    .grid { 
+        /* On Tablet/Mobile: 1 Column */
+        grid-template-columns: 1fr; 
+    }
+    .center-stage { 
+        order: -1; 
+        margin-bottom: 20px; 
+    }
+}
+
+.panel {
+    border: 1px solid #1a1a1a;
+    padding: 15px;
+    background: rgba(0,0,0,0.5);
+}
+
+h3 {
+    color: var(--cyan);
+    margin-top: 0;
+    border-bottom: 1px dashed #333;
+    padding-bottom: 5px;
+    font-size: 1rem;
+}
+
+.data-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+    font-size: 0.85rem;
+}
+
+.val { color: #fff; font-weight: bold; }
+.highlight { color: var(--cyan); text-shadow: 0 0 5px var(--cyan); }
+
+/* --- RADAR ANIMATION --- */
+.center-stage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    perspective: 800px; /* For 3D Tilt Effect */
+}
+
+.radar {
+    width: 150px;
+    height: 150px;
+    border: 2px solid var(--text);
+    border-radius: 50%;
+    position: relative;
+    background: radial-gradient(circle, transparent 20%, rgba(0,255,65,0.1) 60%);
+    box-shadow: 0 0 15px var(--text);
+    transition: transform 0.1s; /* Smooth tilt */
+}
+
+.sweep {
+    width: 50%;
+    height: 2px;
+    background: var(--text);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: left;
+    animation: sweep 2s infinite linear;
+    box-shadow: 0 0 10px var(--text);
+}
+
+@keyframes sweep {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.status-msg { margin-top: 15px; font-size: 0.8rem; letter-spacing: 2px; animation: blink 1s infinite; }
+
+.blink { animation: blink 1s infinite; }
+@keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+
+/* --- FOOTER --- */
+.terminal-log {
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    padding-top: 10px;
+    font-size: 0.8rem;
+    word-break: break-all;
+}
+
+.fingerprint-box {
+    margin-top: 10px;
+    background: #111;
+    padding: 10px;
+    border-left: 3px solid var(--alert);
+    font-family: monospace;
+    word-break: break-all;
+}
+
+
+================================================================================
+FILE PATH: privacy\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Mode Whatsapp Ext | Syntax & Soz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <div class="container">
+        <nav>
+            <a href="../" class="brand">← Back to Terminal</a>
+            <div class="nav-links">
+                <a href="#demo" class="active">Live Demo</a>
+                <a href="#" class="btn-nav">Download v2.0</a>
+            </div>
+        </nav>
+
+        <header>
+            <span class="badge">v2.1 Stable</span>
+            <h1>Ghost Mode <span class="green">Suite</span></h1>
+            <p>Advanced Privacy for WhatsApp Web. Blur chats, hide identity, and vanish media.</p>
+        </header>
+
+        <section id="demo" class="demo-box">
+            
+            <div class="demo-controls">
+                <h3><i class="fas fa-shield-alt"></i> Privacy Controls</h3>
+                
+                <div class="control-group">
+                    <span class="label-head">MESSAGE PRIVACY</span>
+                    <label class="switch-container">
+                        <span>Blur Content</span>
+                        <input type="checkbox" onclick="togglePrivacy('content')">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+
+                <div class="control-group">
+                    <span class="label-head">SIDEBAR PRIVACY</span>
+                    <label class="switch-container">
+                        <span>Blur Groups Only</span>
+                        <input type="checkbox" onclick="togglePrivacy('groups')">
+                        <span class="slider"></span>
+                    </label>
+                    <label class="switch-container">
+                        <span>Blur Contacts Only</span>
+                        <input type="checkbox" onclick="togglePrivacy('contacts')">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+
+                <div class="control-group">
+                    <span class="label-head">IDENTITY HIDE</span>
+                    <label class="switch-container">
+                        <span>Blur Names</span>
+                        <input type="checkbox" onclick="togglePrivacy('names')">
+                        <span class="slider"></span>
+                    </label>
+                    <label class="switch-container">
+                        <span>Hide Photos</span>
+                        <input type="checkbox" onclick="togglePrivacy('photos')">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="mock-app" id="mockApp">
+                
+                <div class="mock-sidebar">
+                    <div class="sidebar-header">
+                        <div class="my-dp"></div>
+                        <div class="icons">•••</div>
+                    </div>
+                    
+                    <div class="chat-list">
+                        <div class="chat-item contact-item">
+                            <div class="dp"></div>
+                            <div class="info">
+                                <div class="name">John Doe (Client)</div>
+                                <div class="preview">Payment sent for the project.</div>
+                            </div>
+                        </div>
+
+                        <div class="chat-item group-item">
+                            <div class="dp group-dp"><i class="fas fa-users" style="color:#fff; font-size:12px;"></i></div>
+                            <div class="info">
+                                <div class="name">Dev Team Alpha</div>
+                                <div class="preview">Server logs updated.</div>
+                            </div>
+                        </div>
+
+                        <div class="chat-item contact-item active">
+                            <div class="dp"></div>
+                            <div class="info">
+                                <div class="name">Syntax & Soz</div>
+                                <div class="preview">Files attached below.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mock-chat-window">
+                    <div class="chat-header">
+                        <div class="dp"></div>
+                        <div class="header-info">
+                            <span class="name">Syntax & Soz</span>
+                            <span class="status">Online</span>
+                        </div>
+                    </div>
+
+                    <div class="chat-body">
+                        <div class="msg received">
+                            <p>Where is the final delivery?</p>
+                            <span class="time">10:42 AM</span>
+                        </div>
+                        
+                        <div class="msg sent img-msg">
+                            <img src="codescr.png" alt="Code Screenshot">
+                            <span class="time">10:43 AM</span>
+                        </div>
+
+                        <div class="msg sent">
+                            <p>Let me know if you need changes.</p>
+                            <span class="time">10:44 AM</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: privacy\script.js
+================================================================================
+
+// Syntax & Soz - Ghost Mode Demo Controller
+
+function togglePrivacy(feature) {
+    const mockApp = document.getElementById('mockApp');
+    const isChecked = event.target.checked;
+    
+    // Class Mapping
+    const classMap = {
+        'content': 'blur-content',
+        'groups': 'blur-groups',
+        'contacts': 'blur-contacts',
+        'names': 'hide-names',
+        'photos': 'hide-photos'
+    };
+
+    const targetClass = classMap[feature];
+
+    if (isChecked) {
+        mockApp.classList.add(targetClass);
+    } else {
+        mockApp.classList.remove(targetClass);
+    }
+}
+
+
+================================================================================
+FILE PATH: privacy\style.css
+================================================================================
+
+/* General Reset */
+body {
+    background-color: #050505; color: #e0e0e0;
+    font-family: 'Inter', sans-serif; margin: 0;
+    display: flex; justify-content: center;
+}
+.container { width: 100%; max-width: 950px; padding: 20px; }
+
+/* Header & Nav */
+nav { display: flex; justify-content: space-between; margin-bottom: 30px; }
+.brand { color: #58a6ff; text-decoration: none; font-family: 'Fira Code'; }
+.nav-links a { margin-left: 20px; color: #888; text-decoration: none; font-size: 0.9rem; }
+.btn-nav { border: 1px solid #333; padding: 5px 10px; border-radius: 4px; transition: 0.3s; }
+.btn-nav:hover { background: #238636; color: white; border-color: #238636; }
+
+header { text-align: center; margin-bottom: 30px; }
+h1 { font-size: 2rem; margin: 10px 0; }
+.green { color: #00ff41; }
+.badge { background: #238636; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.7rem; font-family: 'Fira Code'; }
+
+/* === DEMO BOX LAYOUT === */
+.demo-box {
+    display: flex; gap: 20px;
+    background: #0d1117; border: 1px solid #30363d;
+    border-radius: 12px; padding: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    min-height: 400px;
+}
+
+/* 1. CONTROLS (Left) */
+.demo-controls {
+    flex: 1; min-width: 220px;
+    border-right: 1px solid #30363d; padding-right: 20px;
+}
+.demo-controls h3 { color: #58a6ff; font-family: 'Fira Code'; font-size: 1rem; margin-bottom: 20px; border-bottom: 1px solid #333; padding-bottom: 10px; }
+.label-head { font-size: 0.65rem; color: #666; font-weight: bold; display: block; margin-bottom: 8px; margin-top: 15px; }
+
+/* Switches */
+.switch-container { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; cursor: pointer; }
+.switch-container span { font-size: 0.85rem; color: #c9d1d9; }
+input[type="checkbox"] { display: none; }
+.slider { width: 34px; height: 18px; background: #333; border-radius: 20px; position: relative; transition: 0.3s; }
+.slider::before { content: ""; position: absolute; width: 14px; height: 14px; background: #fff; border-radius: 50%; top: 2px; left: 2px; transition: 0.3s; }
+input:checked + .slider { background: #238636; }
+input:checked + .slider::before { transform: translateX(16px); }
+
+
+/* 2. MOCK APP (Right) */
+.mock-app {
+    flex: 2.5; display: flex;
+    background: #111b21; border-radius: 8px; overflow: hidden;
+    border: 1px solid #333;
+}
+
+/* Sidebar */
+.mock-sidebar { width: 35%; background: #111b21; border-right: 1px solid #202c33; display: flex; flex-direction: column; }
+.sidebar-header { height: 50px; background: #202c33; display: flex; align-items: center; padding: 0 15px; justify-content: space-between; }
+.my-dp { width: 30px; height: 30px; background: #667781; border-radius: 50%; }
+
+.chat-list { overflow-y: auto; }
+.chat-item { display: flex; padding: 10px 15px; cursor: pointer; border-bottom: 1px solid #202c33; }
+.chat-item:hover { background: #202c33; }
+.chat-item.active { background: #2a3942; }
+
+.dp { width: 40px; height: 40px; background: #667781; border-radius: 50%; margin-right: 12px; flex-shrink: 0; }
+.group-dp { background: #58a6ff; display: flex; align-items: center; justify-content: center; }
+
+.info { overflow: hidden; justify-content: center; display: flex; flex-direction: column; }
+.info .name { color: #e9edef; font-size: 0.9rem; margin-bottom: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.info .preview { color: #8696a0; font-size: 0.75rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+
+/* Chat Window */
+.mock-chat-window { flex: 1; display: flex; flex-direction: column; background: #0b141a; position: relative; }
+.mock-chat-window::before { content: ""; position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.06; background-image: url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png'); z-index: 0; }
+
+.chat-header { height: 50px; background: #202c33; display: flex; align-items: center; padding: 0 15px; z-index: 1; }
+.header-info { margin-left: 10px; display: flex; flex-direction: column; }
+.header-info .name { color: #e9edef; font-size: 0.9rem; }
+.header-info .status { color: #8696a0; font-size: 0.7rem; }
+
+.chat-body { padding: 20px; flex: 1; display: flex; flex-direction: column; gap: 10px; z-index: 1; }
+
+.msg { max-width: 70%; padding: 6px 10px; border-radius: 8px; font-size: 0.9rem; color: #e9edef; position: relative; font-size: 0.85rem; }
+.received { background: #202c33; align-self: flex-start; border-top-left-radius: 0; }
+.sent { background: #005c4b; align-self: flex-end; border-top-right-radius: 0; }
+.img-msg { padding: 4px; }
+.img-msg img { width: 100%; border-radius: 6px; display: block; }
+.time { font-size: 0.6rem; color: #8696a0; display: block; text-align: right; margin-top: 2px; }
+
+/* === EFFECTS (Applied via JS) === */
+
+/* 1. Blur Content */
+.blur-content .msg p, 
+.blur-content .info .preview { filter: blur(5px); }
+
+/* 2. Blur Groups Only */
+.blur-groups .group-item { filter: blur(4px); opacity: 0.6; }
+
+/* 3. Blur Contacts Only */
+.blur-contacts .contact-item { filter: blur(4px); opacity: 0.6; }
+
+/* 4. Blur Names */
+.hide-names .name { 
+    color: transparent !important; 
+    text-shadow: 0 0 5px rgba(255,255,255,0.7); 
+}
+
+/* 5. Hide Photos */
+.hide-photos img { filter: blur(10px); opacity: 0.5; }
+
+
+================================================================================
+FILE PATH: README.md
+================================================================================
+
+<div align="center">
+
+  <img src="https://2cm.es/soz" 
+    alt="Syntax & Soz Logo" width="100" height="100"/>
+
+  # Hi, I'm <span style="color: #58a6ff;">Syntax & Soz</span> 
+  
+  ### `Writer of Code & Logic`
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+Automation;Web+Scraping+Expert;Privacy+%26+Security;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <i>"Logic in mind, chaos in heart."</i>
+  </p>
+
+</div>
+
+---
+
+### About Me
+I am a privacy advocate and a Python developer operating from the shadows. In a world where data is the new oil, I specialize in mining it (Scraping) and protecting it (Security).
+
+I focus on writing clean, efficient, and anonymous code. My expertise lies in dissecting websites to extract meaningful data and building tools that respect user privacy. I am not here to just finish a project; I am here to build robust solutions that stand the test of time.
+
+I believe in open-source, encryption, and the freedom of the internet.
+
+- 🔭 I’m currently working on **Automated Scrapers & Privacy Tools**
+- 🐍 My main weapon: **Python**
+- 🤝 Open to work: **Freelance & Projects**
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <a href="mailto:syntaxandsoz@outlook.com">
+    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge" />
+  </a>
+</div>
+
+
+
+================================================================================
+FILE PATH: stegovault\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StegoVault | Image Steganography</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <div class="container">
+        
+        <nav class="sidebar">
+            <a href="../" class="brand">← Back to Terminal</a>
+            <div class="info-box">
+                <h3><i class="fas fa-user-secret"></i> STEGANOGRAPHY</h3>
+                <p>Hide secret text messages inside the pixels of an image using LSB (Least Significant Bit) manipulation.</p>
+                <p><strong>Client-Side Only:</strong> Your secrets never leave this browser.</p>
+            </div>
+            <div class="status-box">
+                <p>MODE</p>
+                <div id="modeIndicator" class="indicator encrypt"></div> 
+                <span id="modeText">ENCRYPTION ACTIVE</span>
+            </div>
+        </nav>
+
+        <main class="tool-area">
+            <header>
+                <h1>Stego<span class="accent">Vault</span></h1>
+                <p>Hide data in plain sight.</p>
+            </header>
+
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('encrypt')">Hide Data (Encode)</button>
+                <button class="tab-btn" onclick="switchTab('decrypt')">Reveal Data (Decode)</button>
+            </div>
+
+            <div id="encryptSection" class="panel active">
+                <div class="upload-box" id="encDropZone">
+                    <input type="file" id="encInput" accept="image/*" hidden>
+                    <p>1. Upload Cover Image</p>
+                </div>
+                
+                <textarea id="secretMsg" placeholder="Enter your secret message here..."></textarea>
+                
+                <input type="password" id="encPass" placeholder="Optional Password (Not used in v1.0)" disabled style="cursor: not-allowed; opacity: 0.5;">
+
+                <button class="btn-action" onclick="encodeImage()">
+                    <i class="fas fa-lock"></i> Encrypt & Download
+                </button>
+            </div>
+
+            <div id="decryptSection" class="panel">
+                <div class="upload-box" id="decDropZone">
+                    <input type="file" id="decInput" accept="image/*" hidden>
+                    <p>1. Upload Encrypted Image</p>
+                </div>
+
+                <div class="output-box">
+                    <h4>DECODED MESSAGE:</h4>
+                    <p id="decodedText" class="placeholder">Waiting for image...</p>
+                </div>
+
+                <button class="btn-action" onclick="decodeImage()">
+                    <i class="fas fa-unlock"></i> Reveal Message
+                </button>
+            </div>
+            
+            <canvas id="stegoCanvas" style="display:none;"></canvas>
+
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: stegovault\script.js
+================================================================================
+
+// Syntax & Soz - StegoVault Logic
+
+const encInput = document.getElementById('encInput');
+const decInput = document.getElementById('decInput');
+const encDrop = document.getElementById('encDropZone');
+const decDrop = document.getElementById('decDropZone');
+const canvas = document.getElementById('stegoCanvas');
+const ctx = canvas.getContext('2d');
+
+let loadedImage = null;
+
+// --- TABS LOGIC ---
+function switchTab(mode) {
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    
+    if (mode === 'encrypt') {
+        document.getElementById('encryptSection').classList.add('active');
+        document.querySelectorAll('.tab-btn')[0].classList.add('active');
+        updateStatus('encrypt', 'ENCRYPTION ACTIVE');
+    } else {
+        document.getElementById('decryptSection').classList.add('active');
+        document.querySelectorAll('.tab-btn')[1].classList.add('active');
+        updateStatus('decrypt', 'DECRYPTION ACTIVE');
+    }
+}
+
+function updateStatus(cls, text) {
+    document.getElementById('modeIndicator').className = 'indicator ' + cls;
+    document.getElementById('modeText').innerText = text;
+}
+
+// --- FILE HANDLING ---
+encInput.addEventListener('change', (e) => handleImageUpload(e.target.files[0], 'enc'));
+decInput.addEventListener('change', (e) => handleImageUpload(e.target.files[0], 'dec'));
+
+// Click to upload
+encDrop.addEventListener('click', () => encInput.click());
+decDrop.addEventListener('click', () => decInput.click());
+
+function handleImageUpload(file, type) {
+    if (!file) return;
+    
+    const reader = new FileReader();
+    reader.onload = (event) => {
+        const img = new Image();
+        img.onload = () => {
+            loadedImage = img;
+            canvas.width = img.width;
+            canvas.height = img.height;
+            ctx.drawImage(img, 0, 0);
+            
+            // Visual Feedback
+            const dropZone = type === 'enc' ? encDrop : decDrop;
+            dropZone.classList.add('uploaded');
+            dropZone.querySelector('p').innerText = "Image Loaded: " + file.name;
+        };
+        img.src = event.target.result;
+    };
+    reader.readAsDataURL(file);
+}
+
+// --- ENCRYPTION LOGIC ---
+function encodeImage() {
+    if (!loadedImage) { alert("Please upload an image first!"); return; }
+    
+    const text = document.getElementById('secretMsg').value;
+    if (!text) { alert("Please enter a secret message."); return; }
+
+    const imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+    const data = imgData.data;
+
+    // Convert text to binary string
+    let binaryText = "";
+    for (let i = 0; i < text.length; i++) {
+        let binaryChar = text.charCodeAt(i).toString(2).padStart(8, '0');
+        binaryText += binaryChar;
+    }
+    // Add NULL terminator (00000000) to signal end of message
+    binaryText += "00000000";
+
+    // Check if image is big enough
+    if (binaryText.length > data.length / 4) {
+        alert("Text is too long for this image!");
+        return;
+    }
+
+    // Embed binary into LSB of Red channel
+    let dataIndex = 0;
+    for (let i = 0; i < binaryText.length; i++) {
+        // Pixel structure: R, G, B, A (we use R, G, B channels sequentially)
+        // Here we modify the bit of the data array directly
+        // Make index even (clear LSB) then add bit
+        
+        // Skip Alpha (every 4th byte)
+        if ((dataIndex + 1) % 4 === 0) dataIndex++; 
+
+        let bit = parseInt(binaryText[i]);
+        data[dataIndex] = (data[dataIndex] & 0xFE) | bit; // Modify LSB
+        dataIndex++;
+    }
+
+    // Put new data back
+    ctx.putImageData(imgData, 0, 0);
+
+    // Download
+    const link = document.createElement('a');
+    link.download = 'secret_image.png'; // Must be PNG to be lossless
+    link.href = canvas.toDataURL();
+    link.click();
+    
+    alert("Message Hidden! Downloading image...");
+}
+
+// --- DECRYPTION LOGIC ---
+function decodeImage() {
+    if (!loadedImage) { alert("Please upload an encoded image first!"); return; }
+
+    const imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+    const data = imgData.data;
+    
+    let binaryText = "";
+    let decodedString = "";
+
+    // Read LSBs
+    let dataIndex = 0;
+    while (true) {
+        if ((dataIndex + 1) % 4 === 0) dataIndex++; // Skip Alpha
+
+        let bit = data[dataIndex] & 1; // Get LSB
+        binaryText += bit;
+
+        // Every 8 bits, convert to char
+        if (binaryText.length === 8) {
+            let charCode = parseInt(binaryText, 2);
+            if (charCode === 0) break; // End of message found
+            
+            decodedString += String.fromCharCode(charCode);
+            binaryText = "";
+            
+            // Safety break for very large images/noise
+            if (decodedString.length > 10000) break; 
+        }
+        dataIndex++;
+        
+        // Safety break
+        if (dataIndex >= data.length) break;
+    }
+
+    const output = document.getElementById('decodedText');
+    if (decodedString.length > 0 && /^[ -~]+$/.test(decodedString)) {
+        // Regex checks for printable ASCII (basic check)
+        output.innerText = decodedString;
+        output.className = 'revealed';
+    } else {
+        output.innerText = "No hidden message found or file is corrupted/compressed.";
+        output.className = 'placeholder';
+    }
+}
+
+
+================================================================================
+FILE PATH: stegovault\style.css
+================================================================================
+
+/* RESET */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background-color: #050505; color: #e0e0e0;
+    font-family: 'Inter', sans-serif;
+    height: 100vh; overflow: hidden;
+}
+
+.container { display: flex; height: 100%; }
+
+/* SIDEBAR */
+.sidebar {
+    width: 280px; background: #0d1117;
+    border-right: 1px solid #30363d;
+    padding: 30px; display: flex; flex-direction: column;
+}
+
+.brand { color: #58a6ff; text-decoration: none; font-family: 'Fira Code'; margin-bottom: 40px; display: block; font-size: 0.8rem; }
+.info-box h3 { color: #8b949e; font-size: 0.8rem; margin-bottom: 10px; }
+.info-box p { font-size: 0.85rem; color: #666; margin-bottom: 10px; line-height: 1.5; }
+
+.status-box { background: #161b22; padding: 20px; border-radius: 8px; border: 1px solid #30363d; margin-top: auto; }
+.status-box p { font-size: 0.7rem; color: #888; margin-bottom: 10px; }
+.indicator { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 8px; }
+.encrypt { background: #58a6ff; box-shadow: 0 0 10px #58a6ff; }
+.decrypt { background: #00ff41; box-shadow: 0 0 10px #00ff41; }
+
+/* MAIN */
+.tool-area { flex: 1; padding: 40px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; overflow-y: auto; }
+
+header { text-align: center; margin-bottom: 30px; }
+h1 { font-family: 'Fira Code'; font-size: 2.5rem; margin-bottom: 5px; }
+.accent { color: #00ff41; }
+header p { color: #8b949e; }
+
+/* TABS */
+.tabs { display: flex; gap: 10px; margin-bottom: 30px; background: #161b22; padding: 5px; border-radius: 8px; }
+.tab-btn {
+    background: transparent; border: none; color: #888; padding: 10px 20px; cursor: pointer;
+    font-family: 'Fira Code'; font-size: 0.9rem; border-radius: 6px; transition: 0.3s;
+}
+.tab-btn:hover { color: #fff; }
+.tab-btn.active { background: #30363d; color: #fff; font-weight: bold; }
+
+/* PANELS */
+.panel { display: none; width: 100%; max-width: 500px; flex-direction: column; gap: 20px; }
+.panel.active { display: flex; animation: fadeIn 0.3s; }
+
+/* INPUTS */
+.upload-box {
+    border: 2px dashed #30363d; padding: 30px; text-align: center; border-radius: 8px; cursor: pointer;
+    transition: 0.3s; background: #0d1117; color: #888;
+}
+.upload-box:hover, .upload-box.uploaded { border-color: #00ff41; color: #00ff41; background: #0e150f; }
+
+textarea, input[type="password"] {
+    width: 100%; background: #0d1117; border: 1px solid #30363d; padding: 15px;
+    color: #fff; border-radius: 6px; font-family: 'Fira Code'; font-size: 0.9rem; resize: vertical;
+}
+textarea { height: 120px; }
+textarea:focus, input:focus { border-color: #58a6ff; outline: none; }
+
+.btn-action {
+    background: #238636; color: white; border: none; padding: 15px; border-radius: 6px;
+    font-weight: bold; cursor: pointer; font-size: 1rem; transition: 0.3s; display: flex;
+    justify-content: center; align-items: center; gap: 10px;
+}
+.btn-action:hover { background: #2ea043; transform: scale(1.02); }
+
+/* OUTPUT BOX */
+.output-box {
+    background: #0d1117; border: 1px solid #30363d; padding: 20px; border-radius: 8px; min-height: 100px;
+}
+.output-box h4 { color: #58a6ff; margin-bottom: 10px; font-size: 0.8rem; }
+.placeholder { color: #444; font-style: italic; }
+.revealed { color: #00ff41; font-family: 'Fira Code'; word-break: break-all; }
+
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+/* Mobile */
+@media (max-width: 768px) {
+    .container { flex-direction: column; overflow: auto; }
+    .sidebar { width: 100%; height: auto; }
+    .tool-area { padding: 20px; }
+}
+
+
+================================================================================
+FILE PATH: style (2).css
+================================================================================
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px; /* Offset for sticky header */
+}
+
+body {
+    background-color: #050505; /* Pitch Black */
+    color: #e0e0e0; /* Off-White text */
+    line-height: 1.6;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+/* Typography & Colors */
+h1, h2, h3, .logo, .terminal-box {
+    font-family: 'Fira Code', monospace;
+}
+
+.accent { color: #58a6ff; } /* Blue Accent */
+.green { color: #00ff41; }
+
+a { text-decoration: none; color: inherit; transition: 0.3s; }
+ul { list-style: none; }
+
+/* Navigation - STICKY & RESPONSIVE */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.2rem 2rem;
+    align-items: center;
+    position: sticky; /* Sticky Header */
+    top: 0;
+    background: rgba(5, 5, 5, 0.9); /* Translucent background */
+    backdrop-filter: blur(10px); /* Blur effect */
+    z-index: 1000;
+    border-bottom: 1px solid #1f1f1f;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #58a6ff;
+}
+
+.links a {
+    margin-left: 20px;
+    font-size: 0.9rem;
+    color: #888;
+    position: relative;
+}
+
+.links a:hover { color: #58a6ff; }
+
+/* Hero Section */
+.hero {
+    min-height: 90vh; /* Changed from height to min-height for mobile */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 2px solid #333;
+    object-fit: cover;
+}
+
+.hero h1 { font-size: 3rem; margin-bottom: 10px; line-height: 1.2; }
+.tagline { color: #888; margin-bottom: 30px; font-size: 1.1rem; }
+
+.terminal-box {
+    background: #111;
+    padding: 20px;
+    border-radius: 8px;
+    border-left: 4px solid #58a6ff;
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+    max-width: 500px;
+    font-size: 0.9rem;
+    color: #bbb;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.cursor {
+    animation: blink 1s step-end infinite;
+    color: #58a6ff;
+}
+
+@keyframes blink { 50% { opacity: 0; } }
+
+/* Sections */
+.section { padding: 80px 20px; }
+.container { max-width: 900px; margin: 0 auto; }
+.section-title {
+    font-size: 1.8rem;
+    margin-bottom: 40px;
+    color: #58a6ff;
+    border-bottom: 1px solid #222;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+/* Content Text */
+.content-text p { margin-bottom: 1.5rem; color: #ccc; }
+
+/* About Skills */
+.skills { margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap; }
+.skills span {
+    background: #1a1a1a;
+    padding: 8px 15px;
+    border-radius: 4px;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.85rem;
+    border: 1px solid #333;
+    transition: 0.3s;
+}
+.skills span:hover { border-color: #58a6ff; color: #fff; }
+
+/* Projects Grid - IMPROVED */
+.project-grid {
+    display: grid;
+    /* Better minmax for mobile to avoid squishing */
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+    gap: 25px;
+}
+
+.project-card {
+    background: #0f0f0f;
+    padding: 30px;
+    border-radius: 12px;
+    border: 1px solid #222;
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-card:hover {
+    transform: translateY(-7px);
+    border-color: #58a6ff;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
+
+.project-card h3 { font-size: 1.3rem; margin-bottom: 10px; color: #fff; }
+.project-card p { font-size: 0.95rem; color: #aaa; margin-bottom: 20px; flex-grow: 1; }
+
+.tech-stack { margin-bottom: 20px; font-size: 0.75rem; font-family: 'Fira Code'; color: #666; display: flex; flex-wrap: wrap; gap: 8px; }
+.tech-stack span { background: #181818; padding: 4px 8px; border-radius: 4px; }
+
+.btn-small {
+    font-size: 0.9rem;
+    color: #58a6ff;
+    font-family: 'Fira Code';
+    font-weight: bold;
+    align-self: flex-start;
+}
+.btn-small:hover { text-decoration: underline; }
+
+/* Contact Button */
+.center { text-align: center; }
+.btn-main {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 15px 35px;
+    border: 1px solid #58a6ff;
+    color: #58a6ff;
+    border-radius: 5px;
+    font-family: 'Fira Code';
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-main:hover {
+    background: rgba(88, 166, 255, 0.1);
+    box-shadow: 0 0 15px rgba(88, 166, 255, 0.2);
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+    color: #444;
+    font-size: 0.9rem;
+    font-family: 'Fira Code';
+    border-top: 1px solid #111;
+    margin-top: 40px;
+}
+
+/* ANIMATIONS */
+.hidden {
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateY(20px);
+    transition: all 0.8s ease-out;
+}
+
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+}
+
+/* --- MOBILE RESPONSIVE UPDATES --- */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        gap: 15px;
+        padding: 1rem;
+    }
+
+    .links {
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .links a { margin-left: 0; }
+
+    .hero h1 { font-size: 2.2rem; }
+    
+    .terminal-box {
+        font-size: 0.8rem;
+        padding: 15px;
+    }
+
+    .section { padding: 60px 20px; }
+    
+    .project-grid {
+        grid-template-columns: 1fr; /* 1 column on tablets/phones */
+    }
+}
+
+
+================================================================================
+FILE PATH: style.css
+================================================================================
+
+/* GENERAL RESET */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background-color: #0d1117; color: #c9d1d9;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+/* LAYOUT CONTAINER */
+.doc-layout { display: flex; min-height: 100vh; }
+
+/* === SIDEBAR NAVIGATION === */
+.menu-btn {
+    position: fixed; top: 20px; left: 20px; z-index: 1000;
+    background: #161b22; color: #58a6ff; border: 1px solid #30363d;
+    padding: 8px 12px; border-radius: 6px; cursor: pointer;
+    font-size: 1.2rem; transition: 0.3s;
+}
+.menu-btn:hover { background: #1f6feb; color: white; border-color: #1f6feb; }
+
+.sidebar {
+    width: 250px; background: #050505; border-right: 1px solid #30363d;
+    padding: 20px; padding-top: 80px; /* Space for button */
+    position: fixed; height: 100%; top: 0; left: 0;
+    transition: transform 0.3s ease; z-index: 900;
+}
+
+.brand a {
+    color: #58a6ff; font-family: 'Fira Code'; font-weight: bold;
+    text-decoration: none; display: block; margin-bottom: 30px; font-size: 1.1rem;
+}
+
+.sidebar ul { list-style: none; }
+.sidebar li { margin-bottom: 10px; }
+
+.sidebar a {
+    display: block; color: #8b949e; text-decoration: none;
+    padding: 5px 0; font-size: 0.9rem; transition: 0.2s;
+}
+.sidebar a:hover, .sidebar a.active { color: white; transform: translateX(5px); }
+.sidebar a.highlight { color: #00ff41; font-weight: bold; margin-bottom: 15px; }
+
+
+/* === MAIN CONTENT === */
+.content {
+    margin-left: 250px; padding: 40px 60px; width: 100%;
+    transition: margin-left 0.3s ease; max-width: 1000px;
+}
+
+/* Toggle Logic Classes */
+body.menu-closed .sidebar { transform: translateX(-250px); }
+body.menu-closed .content { margin-left: 0; padding: 40px 100px; max-width: 100%; }
+
+/* Typography */
+header { margin-bottom: 40px; }
+h1 { font-family: 'Fira Code'; color: white; margin: 15px 0; font-size: 2.5rem; }
+.lead { color: #8b949e; font-size: 1.1rem; margin-bottom: 30px; }
+.badge { background: #1f6feb; color: white; font-size: 0.7rem; padding: 3px 8px; border-radius: 10px; font-family: 'Fira Code'; margin-right: 10px; }
+.badge.green { background: #238636; }
+
+hr { border: 0; border-top: 1px solid #30363d; margin: 40px 0; }
+h2 { color: white; margin-bottom: 20px; font-size: 1.5rem; border-bottom: 1px solid #30363d; padding-bottom: 10px; }
+p { margin-bottom: 15px; line-height: 1.7; }
+
+
+/* === LIVE TOOL UI (NEW) === */
+.tool-section { margin-bottom: 50px; }
+.tool-grid { display: flex; gap: 20px; flex-wrap: wrap; }
+
+.panel {
+    background: #161b22; border: 1px solid #30363d; padding: 25px;
+    border-radius: 8px; flex: 1; min-width: 300px;
+}
+
+/* Input Panel */
+.input-panel h3 { font-family: 'Fira Code'; font-size: 1rem; margin-bottom: 15px; color: #58a6ff; }
+textarea {
+    width: 100%; height: 120px; background: #0d1117; border: 1px solid #30363d;
+    color: #00ff41; font-family: 'Fira Code'; padding: 10px; border-radius: 6px;
+    font-size: 0.85rem; resize: none; margin-bottom: 20px;
+}
+textarea:focus { outline: none; border-color: #58a6ff; }
+
+.controls { display: flex; gap: 20px; margin-bottom: 20px; }
+.slider-group { flex: 1; }
+.slider-group label { display: block; font-size: 0.75rem; color: #8b949e; margin-bottom: 8px; font-family: 'Fira Code'; }
+input[type=range] { width: 100%; accent-color: #58a6ff; cursor: pointer; }
+
+.btn-group { display: flex; gap: 10px; }
+.btn-action {
+    flex: 1; padding: 12px; border: none; border-radius: 6px; font-weight: bold;
+    cursor: pointer; font-family: 'Fira Code'; transition: 0.2s; display: flex;
+    justify-content: center; align-items: center; gap: 8px;
+}
+.start { background: #238636; color: white; }
+.start:hover { background: #2ea043; transform: scale(1.02); }
+.stop { background: #da3633; color: white; }
+.stop:hover { background: #f85149; transform: scale(1.02); }
+
+/* Output Panel */
+.output-panel { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+.screen-frame {
+    width: 240px; height: 240px; background: white; padding: 10px;
+    border: 5px solid #30363d; position: relative; border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+#qrcode img { display: block; width: 100%; height: auto; }
+
+.overlay {
+    position: absolute; top:0; left:0; width:100%; height:100%;
+    background: rgba(13, 17, 23, 0.95); color: #58a6ff;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Fira Code'; font-size: 0.9rem; text-align: center;
+    font-weight: bold; z-index: 10;
+}
+.status-bar {
+    width: 100%; margin-top: 20px; display: flex; justify-content: space-between;
+    font-family: 'Fira Code'; font-size: 0.8rem; color: #8b949e; 
+    border-top: 1px solid #30363d; padding-top: 15px;
+}
+
+
+/* === DOCUMENTATION STYLES === */
+/* Workflow Box */
+.workflow-box { 
+    background: #161b22; padding: 20px; border-left: 3px solid #58a6ff; 
+    font-family: 'Fira Code'; font-size: 0.9rem; color: #fff; text-align: center; 
+}
+.arrow { color: #58a6ff; margin: 5px 0; }
+
+/* Code Blocks */
+.code-block { background: #050505; padding: 15px; border-radius: 6px; font-family: 'Fira Code', monospace; font-size: 0.9rem; border: 1px solid #30363d; }
+.cmd { color: #00ff41; }
+.output { color: #8b949e; display: block; }
+
+/* Source Code Window */
+.code-window { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; margin: 20px 0; }
+.window-bar { background: #161b22; padding: 10px; border-bottom: 1px solid #30363d; }
+.dot { height: 10px; width: 10px; border-radius: 50%; display: inline-block; margin-right: 5px; }
+.red { background: #ff5f56; } .yellow { background: #ffbd2e; } .green { background: #27c93f; }
+.filename { color: #8b949e; font-family: 'Fira Code'; font-size: 0.8rem; margin-left: 10px; }
+
+pre { padding: 20px; overflow-x: auto; margin: 0; }
+code { font-family: 'Fira Code', monospace; font-size: 0.9rem; color: #e0e0e0; }
+
+.kwd { color: #ff7b72; } .func { color: #d2a8ff; } .str { color: #a5d6ff; } .num { color: #79c0ff; } .comment { color: #8b949e; font-style: italic; }
+
+/* Download Section */
+.center-box { text-align: center; margin-top: 50px; background: #161b22; padding: 40px; border-radius: 8px; }
+.btn-primary { display: inline-block; background: #238636; color: white; padding: 12px 25px; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 15px; transition: 0.3s; }
+.btn-primary:hover { background: #2ea043; transform: scale(1.05); }
+
+footer { margin-top: 50px; color: #484f58; font-size: 0.8rem; text-align: center; }
+
+/* Mobile Logic */
+@media (max-width: 768px) {
+    .content { margin-left: 0; padding: 20px; padding-top: 70px; }
+    .sidebar { transform: translateX(-250px); } 
+    body.menu-closed .sidebar { transform: translateX(0); }
+    .tool-grid { flex-direction: column; }
+}
+
+
+
+================================================================================
+FILE PATH: symphony-of-syntax\index.html
+================================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZE6DZNTL3Y');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Symphony of Syntax</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Cinzel:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <div class="brand">
+            <span class="bracket">{</span>
+            <div class="heartbeat"></div>
+            <span class="bracket">}</span>
+            <h1>Symphony of <span class="soz">Syntax</span></h1>
+        </div>
+
+        <div class="canvas-wrapper">
+            <canvas id="visualizer"></canvas>
+        </div>
+
+        <div class="input-section">
+            <textarea id="codeInput" placeholder="// Paste Code Here...&#10;// Audio will be generated based on syntax."></textarea>
+        </div>
+
+        <div class="controls">
+            <button id="playBtn" onclick="playMusic()">▶ Generate</button>
+            <button id="stopBtn" onclick="stopMusic()">⏹ Stop</button>
+        </div>
+
+        <div class="actions-area" id="downloadArea">
+            <a id="downloadAudioBtn" class="download-link hidden">🎵 Download Audio (.wav)</a>
+            <a id="downloadVideoBtn" class="download-link hidden">📱 Download Video (9:16)</a>
+            
+            <button id="saveSourceBtn" class="secondary-btn hidden" onclick="downloadSource()">💾 Save Source File (Key)</button>
+            
+            <input type="file" id="fileUpload" accept=".txt,.js,.html,.css,.json" onchange="handleFileUpload(this)" hidden>
+            <button class="secondary-btn" onclick="document.getElementById('fileUpload').click()">📂 Upload Source to Restore</button>
+        </div>
+
+        <div class="status" id="statusText">System Ready.</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+================================================================================
+FILE PATH: symphony-of-syntax\script.js
+================================================================================
+
+// --- SYMPHONY OF SYNTAX (CORE ENGINE) ---
+// Features: 9:16 Video, Clean UI, Professional Timestamping
+
+let audioCtx;
+let isPlaying = false;
+let timeoutIds = [];
+let mediaRecorder;
+let audioChunks = [];
+let videoRecorder;
+let videoChunks = [];
+let dest; // Audio Destination
+let canvasStream;
+
+const canvas = document.getElementById('visualizer');
+const canvasCtx = canvas.getContext('2d');
+
+// --- HELPER: GENERATE PROFESSIONAL TIMESTAMP ---
+function getTimestampFilename(extension) {
+    const now = new Date();
+    
+    // Format Date: 23-Dec-2025
+    const datePart = now.toLocaleDateString('en-GB', { 
+        day: '2-digit', 
+        month: 'short', 
+        year: 'numeric' 
+    }).replace(/ /g, '-'); // Replace spaces with dashes
+
+    // Format Time: 12-14-55 (Safe for Windows filenames)
+    const timePart = now.toLocaleTimeString('en-GB', { 
+        hour12: false 
+    }).replace(/:/g, '-'); 
+
+    return `Symphony_Sequence_${datePart}_${timePart}.${extension}`;
+}
+
+// --- SETUP CANVAS FOR 9:16 HIGH RES ---
+function resizeCanvas() {
+    canvas.width = 720;  // High Quality Width
+    canvas.height = 1280; // High Quality Height (9:16)
+}
+resizeCanvas();
+
+async function playMusic() {
+    const code = document.getElementById('codeInput').value;
+    const status = document.getElementById('statusText');
+    const dlAudio = document.getElementById('downloadAudioBtn');
+    const dlVideo = document.getElementById('downloadVideoBtn');
+    const saveSource = document.getElementById('saveSourceBtn');
+
+    // Reset UI
+    dlAudio.classList.add('hidden');
+    dlVideo.classList.add('hidden');
+    saveSource.classList.add('hidden');
+    
+    if (!code) {
+        status.innerText = "Error: Input empty.";
+        return;
+    }
+
+    if (isPlaying) stopMusic();
+
+    if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    }
+    
+    if (audioCtx.state === 'suspended') {
+        await audioCtx.resume();
+    }
+
+    // --- SETUP RECORDING ---
+    dest = audioCtx.createMediaStreamDestination();
+    audioChunks = [];
+    videoChunks = [];
+
+    // 1. Audio Recorder
+    const audioOptions = { mimeType: 'audio/webm;codecs=opus', audioBitsPerSecond: 128000 };
+    mediaRecorder = new MediaRecorder(dest.stream, audioOptions);
+    
+    mediaRecorder.ondataavailable = (e) => { if(e.data.size > 0) audioChunks.push(e.data); };
+    mediaRecorder.onstop = () => {
+        const blob = new Blob(audioChunks, { type: 'audio/wav' });
+        const url = URL.createObjectURL(blob);
+        dlAudio.href = url;
+        
+        // SETTING DYNAMIC NAME (AUDIO)
+        dlAudio.download = getTimestampFilename("wav");
+        
+        dlAudio.classList.remove('hidden');
+        saveSource.classList.remove('hidden');
+    };
+
+    // 2. Video Recorder
+    canvasStream = canvas.captureStream(30); 
+    const combinedStream = new MediaStream([
+        ...canvasStream.getVideoTracks(),
+        ...dest.stream.getAudioTracks()
+    ]);
+
+    let videoMime = 'video/webm;codecs=vp9';
+    if (!MediaRecorder.isTypeSupported(videoMime)) videoMime = 'video/webm';
+
+    videoRecorder = new MediaRecorder(combinedStream, {
+        mimeType: videoMime,
+        videoBitsPerSecond: 2500000 
+    });
+
+    videoRecorder.ondataavailable = (e) => { if(e.data.size > 0) videoChunks.push(e.data); };
+    videoRecorder.onstop = () => {
+        const blob = new Blob(videoChunks, { type: 'video/mp4' });
+        const url = URL.createObjectURL(blob);
+        dlVideo.href = url;
+        
+        // SETTING DYNAMIC NAME (VIDEO)
+        dlVideo.download = getTimestampFilename("mp4");
+        
+        dlVideo.classList.remove('hidden');
+        status.innerText = "Processing Complete. Ready to Export.";
+        status.style.color = "#bd00ff";
+    };
+
+    mediaRecorder.start();
+    videoRecorder.start();
+
+    isPlaying = true;
+    status.innerText = "Synthesizing Rhythm Sequence...";
+    status.style.color = "#00ff41";
+
+    const analyser = audioCtx.createAnalyser();
+    analyser.fftSize = 128; 
+    const bufferLength = analyser.frequencyBinCount;
+    const dataArray = new Uint8Array(bufferLength);
+    
+    drawVisualizer(analyser, dataArray);
+
+    let timeOffset = 0;
+    const baseBeat = 0.18; 
+
+    for (let i = 0; i < code.length; i++) {
+        if (!isPlaying) break;
+
+        const char = code[i];
+        const charCode = code.charCodeAt(i);
+
+        if (charCode < 33) {
+            timeOffset += baseBeat / 1.5;
+            continue;
+        }
+
+        let type = 'duff'; 
+        if (char.match(/[!@#$%^&*(),.?":{}|<>]/)) {
+            type = 'snap';
+        }
+
+        scheduleSound(type, timeOffset, analyser);
+
+        if (char === ';' || char === '}') {
+            timeOffset += baseBeat * 2.5;
+        } else {
+            timeOffset += baseBeat;
+        }
+    }
+
+    const endTimer = setTimeout(() => {
+        if(isPlaying) {
+            stopMusic(true);
+        }
+    }, timeOffset * 1000 + 1000);
+    timeoutIds.push(endTimer);
+}
+
+function scheduleSound(type, time, analyser) {
+    const t = setTimeout(() => {
+        if (!isPlaying) return;
+        
+        const osc = audioCtx.createOscillator();
+        const gainNode = audioCtx.createGain();
+
+        osc.connect(gainNode);
+        gainNode.connect(analyser);
+        gainNode.connect(audioCtx.destination);
+        gainNode.connect(dest);
+
+        const now = audioCtx.currentTime;
+
+        if (type === 'duff') {
+            osc.type = 'sine'; 
+            osc.frequency.setValueAtTime(100, now);
+            osc.frequency.exponentialRampToValueAtTime(0.01, now + 0.4);
+            
+            gainNode.gain.setValueAtTime(0, now);
+            gainNode.gain.linearRampToValueAtTime(1.0, now + 0.02); 
+            gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.4);
+
+            osc.start(now);
+            osc.stop(now + 0.4);
+        } else {
+            osc.type = 'triangle';
+            osc.frequency.setValueAtTime(600, now);
+            
+            gainNode.gain.setValueAtTime(0, now);
+            gainNode.gain.linearRampToValueAtTime(0.6, now + 0.01);
+            gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.1);
+
+            osc.start(now);
+            osc.stop(now + 0.1);
+        }
+    }, time * 1000);
+
+    timeoutIds.push(t);
+}
+
+function stopMusic(finishedNaturally = false) {
+    isPlaying = false;
+    timeoutIds.forEach(id => clearTimeout(id));
+    timeoutIds = [];
+    
+    if (mediaRecorder && mediaRecorder.state !== 'inactive') mediaRecorder.stop();
+    if (videoRecorder && videoRecorder.state !== 'inactive') videoRecorder.stop();
+
+    if (!finishedNaturally) {
+        document.getElementById('statusText').innerText = "Sequence Aborted.";
+        document.getElementById('statusText').style.color = "#bd00ff";
+    }
+}
+
+function drawVisualizer(analyser, dataArray) {
+    if (!isPlaying) return;
+    requestAnimationFrame(() => drawVisualizer(analyser, dataArray));
+    try { analyser.getByteFrequencyData(dataArray); } catch(e) { return; }
+
+    canvasCtx.fillStyle = '#050505';
+    canvasCtx.fillRect(0, 0, canvas.width, canvas.height);
+
+    const centerY = canvas.height / 2;
+    const barWidth = (canvas.width / dataArray.length) * 2;
+    let barHeight;
+    let x = 0;
+
+    for (let i = 0; i < dataArray.length; i++) {
+        barHeight = dataArray[i] * 2.5; 
+        const r = 0;
+        const g = barHeight > 200 ? 255 : barHeight + 50;
+        const b = barHeight > 100 ? 255 : 65;
+        canvasCtx.fillStyle = `rgb(${r}, ${g}, ${b})`;
+        canvasCtx.fillRect(x, centerY - (barHeight/2), barWidth, barHeight);
+        x += barWidth + 4; 
+    }
+    
+    canvasCtx.fillStyle = '#222';
+    canvasCtx.font = 'bold 30px "Fira Code"';
+    canvasCtx.textAlign = 'center';
+    canvasCtx.fillText("SYMPHONY OF SYNTAX", canvas.width / 2, canvas.height - 100);
+}
+
+// --- FILE HANDLING ---
+function downloadSource() {
+    const code = document.getElementById('codeInput').value;
+    if(!code) return;
+    const blob = new Blob([code], { type: "text/plain" });
+    const anchor = document.createElement("a");
+    anchor.href = URL.createObjectURL(blob);
+    
+    // SETTING DYNAMIC NAME (SOURCE FILE)
+    anchor.download = getTimestampFilename("txt");
+    
+    anchor.click();
+}
+
+function handleFileUpload(input) {
+    const file = input.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        document.getElementById('codeInput').value = e.target.result;
+        document.getElementById('statusText').innerText = "Source Key Loaded.";
+        document.getElementById('statusText').style.color = "#fff";
+    };
+    reader.readAsText(file);
+}
+
+
+================================================================================
+FILE PATH: symphony-of-syntax\style.css
+================================================================================
+
+:root {
+    --bg: #050505;
+    --panel: #0a0a0a;
+    --text: #c0c0c0;
+    --accent: #00ff41; /* Hacker Green */
+    --soz: #bd00ff;    /* Neon Purple */
+    --border: #333;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Fira Code', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    /* Clean scrollbar for body too */
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) var(--bg);
+}
+
+.container {
+    width: 90%;
+    max-width: 500px; /* Compact width */
+    text-align: center;
+    background: #020202;
+    padding: 25px;
+    border: 1px solid #111;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+/* --- LOGO --- */
+.brand {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+.bracket { color: var(--text); font-size: 2rem; font-weight: 300; }
+.soz { color: var(--soz); font-family: 'Cinzel', serif; }
+.heartbeat {
+    width: 30px; height: 2px; background: var(--accent);
+    box-shadow: 0 0 10px var(--accent); animation: pulse 2s infinite;
+}
+@keyframes pulse {
+    0% { width: 30px; opacity: 0.5; }
+    50% { width: 40px; opacity: 1; box-shadow: 0 0 20px var(--accent); }
+    100% { width: 30px; opacity: 0.5; }
+}
+
+/* --- VISUALIZER (Screen Layout) --- */
+.canvas-wrapper {
+    /* This makes it look like a phone screen but fits on desktop */
+    width: 200px; 
+    height: 355px; /* 9:16 Ratio equivalent */
+    margin: 0 auto 20px auto;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* --- THEMED SCROLLBAR & INPUT --- */
+textarea {
+    width: 100%;
+    height: 120px; /* Default size */
+    background: #080808;
+    border: 1px solid var(--border);
+    color: var(--accent);
+    padding: 15px;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.8rem;
+    resize: vertical; /* User can make it bigger */
+    border-radius: 4px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+textarea:focus { border-color: var(--soz); }
+
+/* Custom Scrollbar Styling (WebKit) */
+textarea::-webkit-scrollbar {
+    width: 10px;
+}
+textarea::-webkit-scrollbar-track {
+    background: #0a0a0a; 
+    border-left: 1px solid #222;
+}
+textarea::-webkit-scrollbar-thumb {
+    background: #222; 
+    border: 1px solid var(--accent);
+    border-radius: 4px;
+}
+textarea::-webkit-scrollbar-thumb:hover {
+    background: var(--accent);
+}
+
+/* --- CONTROLS --- */
+.controls { 
+    margin-top: 15px; 
+    display: flex; gap: 10px; justify-content: center; 
+}
+
+button {
+    background: rgba(0, 255, 65, 0.05);
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    padding: 10px 25px;
+    font-family: 'Fira Code', monospace;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 0.8rem;
+    transition: 0.3s;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+button:hover { background: var(--accent); color: black; box-shadow: 0 0 15px var(--accent); }
+
+#stopBtn { border-color: var(--soz); color: var(--soz); background: rgba(189, 0, 255, 0.05); }
+#stopBtn:hover { background: var(--soz); color: white; box-shadow: 0 0 15px var(--soz); }
+
+/* --- DOWNLOAD & UPLOAD --- */
+.actions-area {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+}
+
+.download-link {
+    display: block;
+    width: 90%;
+    padding: 10px 0;
+    background: var(--soz);
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    transition: 0.3s;
+}
+.download-link:hover { background: white; color: var(--soz); }
+
+.secondary-btn {
+    background: transparent;
+    border: 1px solid #444;
+    color: #666;
+    width: 90%;
+    padding: 8px 0;
+    margin-top: 5px;
+}
+.secondary-btn:hover { border-color: #fff; color: #fff; background: transparent; box-shadow: none; }
+
+.hidden { display: none; }
+.status { margin-top: 15px; font-size: 0.7rem; color: #444; }
+
+
+================================================================================
+FILE PATH: te.py
+================================================================================
+
+import os
+from pathlib import Path
+
+def dump_site_to_txt(output_filename="site_dump.txt"):
+    root_dir = Path(".")
+    
+    # Ignore folders jo system ya dependencies ke hain aur jinhe analyze karne ki zaroorat nahi
+    ignored_dirs = {'.git', 'node_modules', '.next', '__pycache__', 'dist', 'build', '.vscode'}
+    
+    # Code aur data files ki valid extensions
+    valid_extensions = {'.ts', '.tsx', '.js', '.jsx', '.json', '.md', '.css', '.html', '.py', '.txt'}
+
+    print("🔄 Generating comprehensive site dump for AI processing...")
+
+    file_count = 0
+    with open(output_filename, "w", encoding="utf-8") as out_file:
+        for p in sorted(root_dir.rglob("*")):
+            # Skip ignored directories
+            if any(part in ignored_dirs for part in p.parts):
+                continue
+            
+            if p.is_file() and p.suffix.lower() in valid_extensions:
+                # Output file ko khud ignore karein agar pehle se bani ho
+                if p.name == output_filename:
+                    continue
+                
+                file_count += 1
+                out_file.write(f"\n{'='*80}\n")
+                out_file.write(f"FILE PATH: {p}\n")
+                out_file.write(f"{'='*80}\n\n")
+                
+                try:
+                    with open(p, "r", encoding="utf-8", errors="ignore") as f:
+                        out_file.write(f.read())
+                    out_file.write("\n\n")
+                except Exception as e:
+                    out_file.write(f"[Error reading file: {e}]\n\n")
+
+    print(f"✅ Success! Processed {file_count} files. Entire site dump saved to '{output_filename}'.")
+
+if __name__ == "__main__":
+    dump_site_to_txt()
+

@@ -1,0 +1,168 @@
+:root {
+    --bg: #050505;
+    --panel: #0a0a0a;
+    --text: #c0c0c0;
+    --accent: #00ff41; /* Hacker Green */
+    --soz: #bd00ff;    /* Neon Purple */
+    --border: #333;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Fira Code', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    /* Clean scrollbar for body too */
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) var(--bg);
+}
+
+.container {
+    width: 90%;
+    max-width: 500px; /* Compact width */
+    text-align: center;
+    background: #020202;
+    padding: 25px;
+    border: 1px solid #111;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+/* --- LOGO --- */
+.brand {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+.bracket { color: var(--text); font-size: 2rem; font-weight: 300; }
+.soz { color: var(--soz); font-family: 'Cinzel', serif; }
+.heartbeat {
+    width: 30px; height: 2px; background: var(--accent);
+    box-shadow: 0 0 10px var(--accent); animation: pulse 2s infinite;
+}
+@keyframes pulse {
+    0% { width: 30px; opacity: 0.5; }
+    50% { width: 40px; opacity: 1; box-shadow: 0 0 20px var(--accent); }
+    100% { width: 30px; opacity: 0.5; }
+}
+
+/* --- VISUALIZER (Screen Layout) --- */
+.canvas-wrapper {
+    /* This makes it look like a phone screen but fits on desktop */
+    width: 200px; 
+    height: 355px; /* 9:16 Ratio equivalent */
+    margin: 0 auto 20px auto;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* --- THEMED SCROLLBAR & INPUT --- */
+textarea {
+    width: 100%;
+    height: 120px; /* Default size */
+    background: #080808;
+    border: 1px solid var(--border);
+    color: var(--accent);
+    padding: 15px;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.8rem;
+    resize: vertical; /* User can make it bigger */
+    border-radius: 4px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+textarea:focus { border-color: var(--soz); }
+
+/* Custom Scrollbar Styling (WebKit) */
+textarea::-webkit-scrollbar {
+    width: 10px;
+}
+textarea::-webkit-scrollbar-track {
+    background: #0a0a0a; 
+    border-left: 1px solid #222;
+}
+textarea::-webkit-scrollbar-thumb {
+    background: #222; 
+    border: 1px solid var(--accent);
+    border-radius: 4px;
+}
+textarea::-webkit-scrollbar-thumb:hover {
+    background: var(--accent);
+}
+
+/* --- CONTROLS --- */
+.controls { 
+    margin-top: 15px; 
+    display: flex; gap: 10px; justify-content: center; 
+}
+
+button {
+    background: rgba(0, 255, 65, 0.05);
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    padding: 10px 25px;
+    font-family: 'Fira Code', monospace;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 0.8rem;
+    transition: 0.3s;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+button:hover { background: var(--accent); color: black; box-shadow: 0 0 15px var(--accent); }
+
+#stopBtn { border-color: var(--soz); color: var(--soz); background: rgba(189, 0, 255, 0.05); }
+#stopBtn:hover { background: var(--soz); color: white; box-shadow: 0 0 15px var(--soz); }
+
+/* --- DOWNLOAD & UPLOAD --- */
+.actions-area {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+}
+
+.download-link {
+    display: block;
+    width: 90%;
+    padding: 10px 0;
+    background: var(--soz);
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    transition: 0.3s;
+}
+.download-link:hover { background: white; color: var(--soz); }
+
+.secondary-btn {
+    background: transparent;
+    border: 1px solid #444;
+    color: #666;
+    width: 90%;
+    padding: 8px 0;
+    margin-top: 5px;
+}
+.secondary-btn:hover { border-color: #fff; color: #fff; background: transparent; box-shadow: none; }
+
+.hidden { display: none; }
+.status { margin-top: 15px; font-size: 0.7rem; color: #444; }

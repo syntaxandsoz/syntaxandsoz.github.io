@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZE6DZNTL3Y"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZE6DZNTL3Y');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost-Pixel | Anti-AI Image Cloak</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&family=Share+Tech+Mono&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <div class="overlay-noise"></div>
+
+    <div class="container">
+        <header>
+            <nav class="top-nav">
+                <a href="../" class="back-link"><i class="fas fa-chevron-left"></i> RETURN_TO_SYSTEM</a>
+            </nav>
+
+            <div class="logo">
+                <i class="fas fa-ghost"></i> GHOST-PIXEL
+            </div>
+            <p class="tagline">
+                Utilizes adversarial perturbation algorithms to inject imperceptible pixel-noise,
+                rendering facial features unrecognizable to neural networks.
+            </p>
+        </header>
+
+        <div class="upload-zone" id="dropZone">
+            <input type="file" id="fileInput" accept="image/png, image/jpeg">
+            <div class="upload-content">
+                <i class="fas fa-cloud-upload-alt fa-3x"></i>
+                <h3>Drag & Drop or Click to Upload Image</h3>
+                <p>Supports PNG, JPG (Processing done locally)</p>
+            </div>
+        </div>
+
+        <div class="editor-interface hidden" id="editorInterface">
+
+            <div class="comparison-view">
+                <div class="img-container">
+                    <h4>// HUMAN_VIEW (Original)</h4>
+                    <img id="originalImage" src="" alt="Original">
+                </div>
+
+                <div class="processing-overlay hidden" id="processingOverlay">
+                    <div class="scanner-bar"></div>
+                    <span>INJECTING ADVERSARIAL NOISE...</span>
+                </div>
+
+                <div class="img-container">
+                    <h4>// MACHINE_VIEW (Cloaked)</h4>
+                    <canvas id="cloakedCanvas"></canvas>
+                </div>
+            </div>
+
+            <div class="controls panel">
+                <h3>### CLOAKING PROTOCOLS</h3>
+
+                <div class="control-group">
+                    <label for="noiseLevel">Noise Intensity (Invisibility Level):</label>
+                    <input type="range" id="noiseLevel" min="1" max="50" value="15" class="slider">
+                    <span id="noiseValue">15%</span>
+                </div>
+
+                <div class="toggles">
+                    <label class="checkbox-container">Scrub EXIF Metadata
+                        <input type="checkbox" id="wipeMetadata" checked>
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="checkbox-container">Apply Subtle Glitch
+                        <input type="checkbox" id="applyGlitch">
+                        <span class="checkmark"></span>
+                    </label>
+                </div>
+
+                <div class="actions">
+                    <button id="resetBtn" class="btn-danger"><i class="fas fa-trash-alt"></i> REMOVE</button>
+
+                    <button id="processBtn" class="btn-main"><i class="fas fa-microchip"></i> EXECUTE CLOAK</button>
+
+                    <button id="downloadBtn" class="btn-secondary hidden"><i class="fas fa-download"></i>
+                        DOWNLOAD</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

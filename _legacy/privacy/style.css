@@ -1,0 +1,110 @@
+/* General Reset */
+body {
+    background-color: #050505; color: #e0e0e0;
+    font-family: 'Inter', sans-serif; margin: 0;
+    display: flex; justify-content: center;
+}
+.container { width: 100%; max-width: 950px; padding: 20px; }
+
+/* Header & Nav */
+nav { display: flex; justify-content: space-between; margin-bottom: 30px; }
+.brand { color: #58a6ff; text-decoration: none; font-family: 'Fira Code'; }
+.nav-links a { margin-left: 20px; color: #888; text-decoration: none; font-size: 0.9rem; }
+.btn-nav { border: 1px solid #333; padding: 5px 10px; border-radius: 4px; transition: 0.3s; }
+.btn-nav:hover { background: #238636; color: white; border-color: #238636; }
+
+header { text-align: center; margin-bottom: 30px; }
+h1 { font-size: 2rem; margin: 10px 0; }
+.green { color: #00ff41; }
+.badge { background: #238636; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.7rem; font-family: 'Fira Code'; }
+
+/* === DEMO BOX LAYOUT === */
+.demo-box {
+    display: flex; gap: 20px;
+    background: #0d1117; border: 1px solid #30363d;
+    border-radius: 12px; padding: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    min-height: 400px;
+}
+
+/* 1. CONTROLS (Left) */
+.demo-controls {
+    flex: 1; min-width: 220px;
+    border-right: 1px solid #30363d; padding-right: 20px;
+}
+.demo-controls h3 { color: #58a6ff; font-family: 'Fira Code'; font-size: 1rem; margin-bottom: 20px; border-bottom: 1px solid #333; padding-bottom: 10px; }
+.label-head { font-size: 0.65rem; color: #666; font-weight: bold; display: block; margin-bottom: 8px; margin-top: 15px; }
+
+/* Switches */
+.switch-container { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; cursor: pointer; }
+.switch-container span { font-size: 0.85rem; color: #c9d1d9; }
+input[type="checkbox"] { display: none; }
+.slider { width: 34px; height: 18px; background: #333; border-radius: 20px; position: relative; transition: 0.3s; }
+.slider::before { content: ""; position: absolute; width: 14px; height: 14px; background: #fff; border-radius: 50%; top: 2px; left: 2px; transition: 0.3s; }
+input:checked + .slider { background: #238636; }
+input:checked + .slider::before { transform: translateX(16px); }
+
+
+/* 2. MOCK APP (Right) */
+.mock-app {
+    flex: 2.5; display: flex;
+    background: #111b21; border-radius: 8px; overflow: hidden;
+    border: 1px solid #333;
+}
+
+/* Sidebar */
+.mock-sidebar { width: 35%; background: #111b21; border-right: 1px solid #202c33; display: flex; flex-direction: column; }
+.sidebar-header { height: 50px; background: #202c33; display: flex; align-items: center; padding: 0 15px; justify-content: space-between; }
+.my-dp { width: 30px; height: 30px; background: #667781; border-radius: 50%; }
+
+.chat-list { overflow-y: auto; }
+.chat-item { display: flex; padding: 10px 15px; cursor: pointer; border-bottom: 1px solid #202c33; }
+.chat-item:hover { background: #202c33; }
+.chat-item.active { background: #2a3942; }
+
+.dp { width: 40px; height: 40px; background: #667781; border-radius: 50%; margin-right: 12px; flex-shrink: 0; }
+.group-dp { background: #58a6ff; display: flex; align-items: center; justify-content: center; }
+
+.info { overflow: hidden; justify-content: center; display: flex; flex-direction: column; }
+.info .name { color: #e9edef; font-size: 0.9rem; margin-bottom: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.info .preview { color: #8696a0; font-size: 0.75rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+
+/* Chat Window */
+.mock-chat-window { flex: 1; display: flex; flex-direction: column; background: #0b141a; position: relative; }
+.mock-chat-window::before { content: ""; position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.06; background-image: url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png'); z-index: 0; }
+
+.chat-header { height: 50px; background: #202c33; display: flex; align-items: center; padding: 0 15px; z-index: 1; }
+.header-info { margin-left: 10px; display: flex; flex-direction: column; }
+.header-info .name { color: #e9edef; font-size: 0.9rem; }
+.header-info .status { color: #8696a0; font-size: 0.7rem; }
+
+.chat-body { padding: 20px; flex: 1; display: flex; flex-direction: column; gap: 10px; z-index: 1; }
+
+.msg { max-width: 70%; padding: 6px 10px; border-radius: 8px; font-size: 0.9rem; color: #e9edef; position: relative; font-size: 0.85rem; }
+.received { background: #202c33; align-self: flex-start; border-top-left-radius: 0; }
+.sent { background: #005c4b; align-self: flex-end; border-top-right-radius: 0; }
+.img-msg { padding: 4px; }
+.img-msg img { width: 100%; border-radius: 6px; display: block; }
+.time { font-size: 0.6rem; color: #8696a0; display: block; text-align: right; margin-top: 2px; }
+
+/* === EFFECTS (Applied via JS) === */
+
+/* 1. Blur Content */
+.blur-content .msg p, 
+.blur-content .info .preview { filter: blur(5px); }
+
+/* 2. Blur Groups Only */
+.blur-groups .group-item { filter: blur(4px); opacity: 0.6; }
+
+/* 3. Blur Contacts Only */
+.blur-contacts .contact-item { filter: blur(4px); opacity: 0.6; }
+
+/* 4. Blur Names */
+.hide-names .name { 
+    color: transparent !important; 
+    text-shadow: 0 0 5px rgba(255,255,255,0.7); 
+}
+
+/* 5. Hide Photos */
+.hide-photos img { filter: blur(10px); opacity: 0.5; }

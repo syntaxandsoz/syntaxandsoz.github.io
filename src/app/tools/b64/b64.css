@@ -1,0 +1,135 @@
+.b64-wrapper {
+    background-color: #050505;
+    color: #e0e0e0;
+    font-family: 'Fira Code', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* === FIX 1: Wider & Better Scrollbars === */
+.b64-wrapper ::-webkit-scrollbar { width: 14px; height: 14px; } /* Thora chora kiya */
+.b64-wrapper ::-webkit-scrollbar-track { background: #0f0f0f; border-left: 1px solid #333; }
+.b64-wrapper ::-webkit-scrollbar-thumb { 
+    background: #333; 
+    border: 2px solid #0f0f0f; /* Padding effect */
+    border-radius: 2px;
+}
+.b64-wrapper ::-webkit-scrollbar-thumb:hover { background: #58a6ff; }
+
+/* === FIX 2: Remove White Outline on Click === */
+.b64-wrapper *:focus { outline: none !important; }
+.b64-wrapper button:focus { border-color: #58a6ff; }
+
+.b64-wrapper .container {
+    width: 90%;
+    max-width: 600px;
+    background: #0f0f0f;
+    padding: 30px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(88, 166, 255, 0.1);
+}
+
+.b64-wrapper h1 { color: #58a6ff; text-align: center; margin-bottom: 5px; }
+.b64-wrapper p { text-align: center; color: #888; font-size: 0.9rem; margin-bottom: 25px; }
+.b64-wrapper .green { color: #00ff41; }
+
+.b64-wrapper .tabs { display: flex; margin-bottom: 20px; border-bottom: 1px solid #333; }
+.b64-wrapper .tab-btn {
+    flex: 1;
+    background: none;
+    border: none;
+    color: #666;
+    padding: 15px;
+    cursor: pointer;
+    font-family: 'Fira Code';
+    font-weight: bold;
+    transition: 0.2s;
+}
+.b64-wrapper .tab-btn.active { color: #58a6ff; border-bottom: 2px solid #58a6ff; background: rgba(88,166,255,0.05); }
+
+/* === FIX 3: Removed Animation for Instant Switching === */
+.b64-wrapper .panel { display: none; }
+.b64-wrapper .panel.active { display: block; } 
+
+.b64-wrapper .upload-box {
+    border: 2px dashed #333;
+    padding: 40px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    position: relative;
+    transition: 0.3s;
+}
+.b64-wrapper .upload-box:hover { border-color: #58a6ff; }
+.b64-wrapper input[type="file"] {
+    position: absolute; width: 100%; height: 100%; top: 0; left: 0; opacity: 0; cursor: pointer;
+}
+
+.b64-wrapper textarea {
+    width: 100%;
+    height: 150px;
+    background: #000;
+    border: 1px solid #333;
+    color: #00ff41;
+    padding: 10px;
+    font-family: 'Fira Code';
+    resize: vertical;
+    margin-bottom: 15px;
+}
+
+.b64-wrapper input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    background: #000;
+    border: 1px solid #333;
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: 'Fira Code';
+}
+
+.b64-wrapper .action-btn {
+    width: 100%;
+    padding: 15px;
+    background: #58a6ff;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-family: 'Fira Code';
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+.b64-wrapper .action-btn:hover { background: #79b8ff; }
+
+/* Progress Bar Styling */
+.b64-wrapper #progress-container { margin-bottom: 20px; }
+.b64-wrapper .progress-bar-track {
+    width: 100%; height: 15px; background: #111;
+    border: 1px solid #333; border-radius: 2px; overflow: hidden;
+    margin-bottom: 5px;
+}
+.b64-wrapper .progress-bar-fill {
+    height: 100%; width: 0%; background: #58a6ff;
+    transition: width 0.2s linear; /* Smooth movement */
+    box-shadow: 0 0 10px #58a6ff;
+}
+.b64-wrapper #progress-text { color: #58a6ff; font-size: 0.8rem; margin-bottom: 0; }
+
+/* Themed Copy Button */
+.b64-wrapper .controls { display: flex; gap: 15px; align-items: center; }
+.b64-wrapper .btn-copy-themed {
+    background: #238636; color: white; border: 1px solid #2ea043;
+    padding: 10px 20px; font-family: 'Fira Code'; font-weight: bold;
+    cursor: pointer; transition: 0.3s; flex-grow: 1;
+}
+.b64-wrapper .btn-copy-themed:hover { background: #2ea043; box-shadow: 0 0 10px #2ea043; }
+.b64-wrapper #statusMsg { color: #888; font-size: 0.8rem; white-space: nowrap; }
+
+.b64-wrapper footer { text-align: center; margin-top: 20px; font-size: 0.8rem; }
+.b64-wrapper a { color: #666; text-decoration: none; }
+.b64-wrapper a:hover { color: #58a6ff; }
